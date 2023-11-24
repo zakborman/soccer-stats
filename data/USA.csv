@@ -1,0 +1,59 @@
+,Player,Team,Age,Position,Apps,Mins,Rating,Competition
+0,Antonee Robinson,Fulham,25,"D(L),M(L)",24,2099,6.76,ENG Premier League
+1,Tim Ream,Fulham,35,"D(CL),DMC",27,2428,6.75,ENG Premier League
+2,Tyler Adams,Leeds,24,"D(R),M(CR)",24,2157,6.73,ENG Premier League
+3,Weston McKennie,Leeds,24,"D(C),M(CLR)",8,581,6.50,ENG Premier League
+4,Brenden Aaronson,Leeds,22,AM(CLR),26,1960,6.46,ENG Premier League
+5,Chris Richards,Crystal Palace,22,D(C),8,354,6.41,ENG Premier League
+6,Christian Pulisic,Chelsea,24,"M(CLR),FW",18,686,6.32,ENG Premier League
+0,Yunus Musah,Valencia,20,AM(CR),23,1701,6.47,ESP La Liga
+1,Luca de la Torre,Celta Vigo,24,M(CL),17,772,6.41,ESP La Liga
+2,Luka Koleosho,Espanyol,18,M(CLR),2,22,6.05,ESP La Liga
+0,Jordan Siebatcheu,Union Berlin,26,FW,22,1166,6.68,GER Bundesliga
+1,Gio Reyna,Borussia Dortmund,20,AM(CLR),16,524,6.57,GER Bundesliga
+2,Joe Scally,Borussia M.Gladbach,20,"D(R),M(R)",23,1889,6.49,GER Bundesliga
+3,John Brooks,Hoffenheim,30,D(C),6,540,6.39,GER Bundesliga
+4,Kevin Paredes,Wolfsburg,19,M(L),16,350,6.39,GER Bundesliga
+5,Ricardo Pepi,Augsburg,20,FW,4,95,6.09,GER Bundesliga
+6,Timothy Chandler,Eintracht Frankfurt,32,"D(R),M(LR)",4,78,6.03,GER Bundesliga
+7,Paxten Aaronson,Eintracht Frankfurt,19,AM(C),1,8,5.99,GER Bundesliga
+0,Weston McKennie,Juventus,24,"D(C),M(CLR)",15,1060,6.59,ITA Serie A
+1,Sergiño Dest,AC Milan,22,"D(LR),M(R)",8,328,6.41,ITA Serie A
+0,Timothy Weah,Lille,23,"D(L),M(LR),FW",19,1181,6.59,FRA Ligue 1
+1,Erik Palmer-Brown,Troyes,25,D(C),28,2294,6.37,FRA Ligue 1
+0,Ricardo Pepi,FC Groningen,20,FW,21,1803,6.99,NED Eredivisie
+1,Taylor Booth,FC Utrecht,21,AM(CR),19,1286,6.78,NED Eredivisie
+2,Djordje Mihailovic,AZ Alkmaar,24,M(CL),8,369,6.76,NED Eredivisie
+3,Richard Ledezma,PSV Eindhoven,22,M(CLR),8,131,6.22,NED Eredivisie
+4,Cole Bassett,Fortuna Sittard,21,M(CR),10,194,6.05,NED Eredivisie
+5,Cole Bassett,Feyenoord,21,M(CR),1,6,6.02,NED Eredivisie
+0,Haji Wright,Antalyaspor,24,"AM(LR),FW",19,1580,6.98,TUR Süper Lig
+1,Gboly Ariyibi,Ankaragucu,28,FW,10,278,6.18,TUR Süper Lig
+2,Tyler Boyd,Besiktas,28,AM(CLR),1,45,5.76,TUR Süper Lig
+0,Alex Méndez,Vizela,22,AM(C),23,1123,6.53,POR Primeira Liga
+1,Reggie Cannon,Boavista,24,"D(CR),M(R)",21,1523,6.38,POR Primeira Liga
+2,Joel Soñora,Maritimo,26,AM(C),4,177,6.17,POR Primeira Liga
+3,Alejandro Alvarado,Vizela,19,M(CLR),5,65,6.08,POR Primeira Liga
+4,John Brooks,Benfica,30,D(C),2,3,6.06,POR Primeira Liga
+0,Malik Tillman,Rangers,20,AM(CR),24,1622,7.26,SCO Premiership
+1,Cameron Carter-Vickers,Celtic,25,D(C),26,2340,7.11,SCO Premiership
+2,Joseph Efford,Motherwell,26,"AM(LR),FW",9,427,6.55,SCO Premiership
+3,James Sands,Rangers,22,"D(C),DMC",17,921,6.48,SCO Premiership
+4,Matthew Hoppe,Hibernian,22,FW,5,274,6.45,SCO Premiership
+5,Dante Polvara,Aberdeen,22,M(CLR),3,137,6.43,SCO Premiership
+6,Ian Harkes,Dundee United,27,M(C),22,1508,6.37,SCO Premiership
+7,Christian Ramírez,Aberdeen,31,FW,9,181,6.12,SCO Premiership
+0,Owen Otasowie,Club Bruges,22,M(CLR),1,68,7.10,BEL Pro League
+1,Mark McKenzie,Genk,24,D(C),26,2337,6.97,BEL Pro League
+2,Bryan Reynolds,Westerlo,21,D(R),24,1899,6.75,BEL Pro League
+3,Marlon Fossey,Standard Liege,24,"D(R),M(R)",17,1262,6.68,BEL Pro League
+4,Sam Vines,Royal Antwerp,23,"D(L),M(L)",15,1263,6.60,BEL Pro League
+0,Josh Sargent,Norwich,23,"AM(CLR),FW",33,2546,7.00,ENG Championship
+1,Auston Trusty,Birmingham,24,D(CL),37,3330,6.93,ENG Championship
+2,Daryl Dike,West Bromwich,22,FW,19,1027,6.76,ENG Championship
+3,Zack Steffen,Middlesbrough,27,GK,34,3060,6.73,ENG Championship
+4,Lynden Gooch,Sunderland,27,"D(R),M(CLR)",22,1699,6.61,ENG Championship
+5,Duane Holmes,Huddersfield,28,"M(CLR),FW",26,1615,6.54,ENG Championship
+6,Ethan Horvath,Luton,27,GK,37,3330,6.49,ENG Championship
+7,Jonathan Tomkinson,Norwich,20,D(C),1,90,6.37,ENG Championship
+8,Matthew Hoppe,Middlesbrough,22,FW,6,65,6.13,ENG Championship

@@ -1,0 +1,987 @@
+,Player,Season,Age,Position,Team,Apps,Starts,Mins,Goals,Assists,MotM,Rating,Competition
+0,Edmore Sibanda,2018-19,32,GK,Zimbabwe,1,1,80,0,0,0,8.00,AF Cup of Nations
+1,Adam Ounas,2018-19,23,"AM(CLR),FW",Algeria,3,1,121,3,1,1,7.83,AF Cup of Nations
+2,Youcef Atal,2018-19,23,"D(R),M(R)",Algeria,4,4,300,0,1,1,7.66,AF Cup of Nations
+3,Diadié Samassékou,2018-19,24,DMC,Mali,3,3,270,1,1,1,7.62,AF Cup of Nations
+4,Romain Saïss,2018-19,29,"D(C),DMC",Morocco,4,4,390,0,0,1,7.62,AF Cup of Nations
+5,Trézéguet,2018-19,25,AM(LR),Egypt,4,4,345,1,1,1,7.56,AF Cup of Nations
+6,Chancel Mbemba,2018-19,25,"D(CLR),DMC",DR Congo,3,3,270,1,0,0,7.56,AF Cup of Nations
+7,Arthur Masuaku,2018-19,26,"D(L),M(L)",DR Congo,1,1,90,0,0,0,7.55,AF Cup of Nations
+8,Jordan Ayew,2018-19,28,"AM(CLR),FW",Ghana,4,4,390,2,0,0,7.49,AF Cup of Nations
+9,Chadrac Akolo,2018-19,24,AM(CR),DR Congo,2,2,153,0,0,0,7.42,AF Cup of Nations
+0,Mohamed El Shenawy,2018-19,31,GK,Egypt,4,4,360,0,0,1,7.41,AF Cup of Nations
+1,Kenneth Omeruo,2018-19,26,D(C),Nigeria,6,6,540,1,1,2,7.40,AF Cup of Nations
+2,Pascal Razakanantenaina,2018-19,32,D(C),Madagascar,5,5,439,0,1,0,7.39,AF Cup of Nations
+3,Ismaïla Sarr,2018-19,21,"AM(CLR),FW",Senegal,5,4,403,1,0,1,7.38,AF Cup of Nations
+4,Saliou Ciss,2018-19,30,D(CL),Senegal,1,1,90,0,0,0,7.38,AF Cup of Nations
+5,Youcef Belaïli,2018-19,27,AM(L),Algeria,6,6,531,2,0,1,7.37,AF Cup of Nations
+6,Medhi Benatia,2018-19,32,D(C),Morocco,2,2,180,0,0,0,7.37,AF Cup of Nations
+7,Moubarak Boussoufa,2018-19,35,M(C),Morocco,4,4,390,1,1,2,7.36,AF Cup of Nations
+8,Adama Traoré,2018-19,24,M(CR),Mali,4,2,182,1,1,1,7.35,AF Cup of Nations
+9,Aishi Manula,2018-19,24,GK,Tanzania,2,2,180,0,0,0,7.33,AF Cup of Nations
+0,Abdul Rahman Baba,2018-19,25,"D(L),M(L)",Ghana,3,3,296,0,2,0,7.32,AF Cup of Nations
+1,Sadio Mané,2018-19,27,"AM(CLR),FW",Senegal,6,6,570,3,1,2,7.32,AF Cup of Nations
+2,Thomas Partey,2018-19,26,"D(R),M(CR)",Ghana,4,4,383,1,0,1,7.27,AF Cup of Nations
+3,Riyad Mahrez,2018-19,28,"AM(CLR),FW",Algeria,7,6,552,3,0,2,7.26,AF Cup of Nations
+4,Farouk Miya,2018-19,22,"AM(CL),FW",Uganda,4,4,357,0,2,1,7.25,AF Cup of Nations
+5,André Ayew,2018-19,30,"M(CLR),FW",Ghana,4,4,351,1,0,0,7.25,AF Cup of Nations
+6,Ayman Ashraf,2018-19,28,D(L),Egypt,4,4,360,0,2,0,7.24,AF Cup of Nations
+7,Mubarak Wakaso,2018-19,29,M(CLR),Ghana,4,4,390,0,0,0,7.23,AF Cup of Nations
+8,Ahmed El Mohamady,2018-19,32,"D(R),M(R)",Egypt,4,4,360,2,0,1,7.22,AF Cup of Nations
+9,Jonathan Bolingi,2018-19,25,FW,DR Congo,3,2,175,1,0,0,7.22,AF Cup of Nations
+0,Ismaël Bennacer,2018-19,22,DMC,Algeria,7,7,627,0,3,0,7.21,AF Cup of Nations
+1,Michael Olunga,2018-19,25,FW,Kenya,3,3,270,2,0,1,7.20,AF Cup of Nations
+2,Sory Kaba,2018-19,24,FW,Guinea,3,3,261,1,0,1,7.20,AF Cup of Nations
+3,Moussa Djenepo,2018-19,21,M(LR),Mali,3,3,226,0,0,0,7.20,AF Cup of Nations
+4,Nordin Amrabat,2018-19,32,"M(CLR),FW",Morocco,4,4,350,0,1,0,7.20,AF Cup of Nations
+5,Achraf Hakimi,2018-19,21,"D(LR),M(R)",Morocco,4,4,390,0,0,0,7.20,AF Cup of Nations
+6,Wahbi Khazri,2018-19,28,"M(CLR),FW",Tunisia,7,6,622,1,1,1,7.19,AF Cup of Nations
+7,Mohamed Salah,2018-19,27,"AM(CLR),FW",Egypt,4,4,360,2,0,0,7.19,AF Cup of Nations
+8,Cédric Bakambu,2018-19,28,"AM(LR),FW",DR Congo,4,4,390,3,0,1,7.19,AF Cup of Nations
+9,Ola Aina,2018-19,23,"D(CLR),M(LR)",Nigeria,5,5,450,0,1,1,7.16,AF Cup of Nations
+0,Bongani Zungu,2018-19,27,DMC,South Africa,4,4,345,2,0,0,7.15,AF Cup of Nations
+1,Alfred Gomis,2018-19,26,GK,Senegal,5,5,480,0,0,1,7.15,AF Cup of Nations
+2,Wilfried Zaha,2018-19,27,"AM(LR),FW",Ivory Coast,4,3,295,2,1,0,7.14,AF Cup of Nations
+3,Joslin Kamatuka,2018-19,28,Substitute,Namibia,2,1,87,1,0,0,7.14,AF Cup of Nations
+4,Kalidou Koulibaly,2018-19,28,D(C),Senegal,6,6,570,0,0,0,7.13,AF Cup of Nations
+5,Sofiane Boufal,2018-19,26,"AM(CLR),FW",Morocco,3,0,109,0,0,0,7.13,AF Cup of Nations
+6,Rafik Halliche,2018-19,33,D(C),Algeria,1,1,90,0,0,0,7.12,AF Cup of Nations
+7,Djamel Benlamri,2018-19,30,D(C),Algeria,6,6,570,0,0,0,7.11,AF Cup of Nations
+8,Islam Slimani,2018-19,31,FW,Algeria,3,1,133,1,2,0,7.11,AF Cup of Nations
+9,Youssef En-Nesyri,2018-19,22,FW,Morocco,4,4,378,2,0,1,7.10,AF Cup of Nations
+0,Sori Mané,2018-19,23,DMC,Guinea-Bissau,3,3,270,0,0,1,7.09,AF Cup of Nations
+1,Franck Kessie,2018-19,23,M(C),Ivory Coast,5,5,480,0,3,0,7.09,AF Cup of Nations
+2,Kasim Adams,2018-19,24,D(C),Ghana,3,3,300,0,1,0,7.08,AF Cup of Nations
+3,Mohamed Fares,2018-19,23,"D(L),M(L)",Algeria,2,1,100,0,0,0,7.07,AF Cup of Nations
+4,Michael Ngadeu,2018-19,29,D(C),Cameroon,4,4,360,0,0,0,7.07,AF Cup of Nations
+5,Anicet Andrianantenaina,2018-19,29,DMC,Madagascar,5,5,480,1,0,0,7.07,AF Cup of Nations
+6,Serey Dié,2018-19,35,DMC,Ivory Coast,5,5,480,1,0,1,7.07,AF Cup of Nations
+7,Britt Assombalonga,2018-19,27,"AM(L),FW",DR Congo,3,1,156,1,0,0,7.06,AF Cup of Nations
+8,Serge Aurier,2018-19,27,"D(CLR),M(R)",Ivory Coast,2,2,159,0,0,1,7.06,AF Cup of Nations
+9,Youssef Msakni,2018-19,29,AM(L),Tunisia,6,5,402,2,1,0,7.05,AF Cup of Nations
+0,Emmanuel Okwi,2018-19,27,FW,Uganda,4,4,343,2,0,0,7.05,AF Cup of Nations
+1,Adlène Guédioura,2018-19,34,M(C),Algeria,7,6,576,0,0,0,7.05,AF Cup of Nations
+2,Coulibaly Wonlo,2018-19,28,D(L),Ivory Coast,5,5,477,0,0,0,7.05,AF Cup of Nations
+3,Hussein Shabani,2018-19,29,Substitute,Burundi,1,1,90,0,0,0,7.04,AF Cup of Nations
+4,Wilfred Ndidi,2018-19,23,"D(C),DMC",Nigeria,7,6,585,0,0,0,7.04,AF Cup of Nations
+5,Falaye Sacko,2018-19,24,"D(CR),M(R)",Mali,1,1,90,0,0,0,7.03,AF Cup of Nations
+6,Mohamed Yattara,2018-19,26,FW,Guinea,3,2,162,2,0,1,7.02,AF Cup of Nations
+7,Lassana Coulibaly,2018-19,23,M(CL),Mali,4,4,350,0,0,0,7.01,AF Cup of Nations
+8,Joyskim Dawa Tchakonte,2018-19,23,D(CLR),Cameroon,1,1,90,0,0,0,7.01,AF Cup of Nations
+9,Andria,2018-19,30,AM(L),Madagascar,5,5,410,2,1,0,7.00,AF Cup of Nations
+0,Idrissa Gueye,2018-19,30,M(C),Senegal,6,6,559,1,1,0,7.00,AF Cup of Nations
+1,Lamine Gassama,2018-19,30,D(R),Senegal,5,5,470,0,2,0,7.00,AF Cup of Nations
+2,André-Frank Zambo Anguissa,2018-19,24,M(C),Cameroon,4,3,290,0,0,0,7.00,AF Cup of Nations
+3,Bevis Mugabi,2018-19,24,D(CR),Uganda,3,3,270,0,0,0,6.99,AF Cup of Nations
+4,Tarek Hamed,2018-19,31,DMC,Egypt,4,3,298,0,0,0,6.98,AF Cup of Nations
+5,Ngonda Muzinga,2018-19,25,D(L),DR Congo,3,3,300,0,1,0,6.98,AF Cup of Nations
+6,Lalaïna Nomenjanahary,2018-19,33,AM(CR),Madagascar,5,5,409,1,1,1,6.98,AF Cup of Nations
+7,Youssouf Sabaly,2018-19,26,"D(LR),M(R)",Senegal,6,6,570,0,0,0,6.98,AF Cup of Nations
+8,Peter Etebo,2018-19,24,"M(CL),FW",Nigeria,7,7,630,0,0,0,6.97,AF Cup of Nations
+9,Max-Alain Gradel,2018-19,32,"M(CLR),FW",Ivory Coast,4,4,330,1,1,1,6.97,AF Cup of Nations
+0,Boubakar Kouyaté,2018-19,22,D(C),Mali,1,1,90,0,0,0,6.97,AF Cup of Nations
+1,Sfiso Hlanti,2018-19,30,D(L),South Africa,5,5,450,0,0,0,6.96,AF Cup of Nations
+2,Ambroise Oyongo,2018-19,28,"D(LR),M(L)",Cameroon,4,4,360,0,0,1,6.96,AF Cup of Nations
+3,Mahmoud Alaa,2018-19,29,D(CLR),Egypt,3,3,270,0,0,0,6.95,AF Cup of Nations
+4,Mehdi Bourabia,2018-19,28,M(C),Morocco,1,1,58,0,0,0,6.95,AF Cup of Nations
+5,Mickaël Poté,2018-19,35,FW,Benin,5,4,379,2,0,1,6.94,AF Cup of Nations
+6,Andy Yiadom,2018-19,28,"D(CLR),M(R)",Ghana,4,4,390,0,0,0,6.94,AF Cup of Nations
+7,Darren Keet,2018-19,30,GK,South Africa,1,1,90,0,0,0,6.94,AF Cup of Nations
+8,Ibrahima Traoré,2018-19,31,AM(LR),Guinea,4,4,360,0,1,0,6.94,AF Cup of Nations
+9,Meschak Elia,2018-19,22,FW,DR Congo,4,1,224,0,1,1,6.94,AF Cup of Nations
+0,Steve Mounié,2018-19,25,FW,Benin,4,4,360,0,0,0,6.93,AF Cup of Nations
+1,Percy Tau,2018-19,25,"AM(CR),FW",South Africa,5,5,450,0,1,1,6.92,AF Cup of Nations
+2,Samuel Chukwueze,2018-19,20,AM(CR),Nigeria,6,4,391,1,0,1,6.91,AF Cup of Nations
+3,Henri Saivet,2018-19,29,"M(CLR),FW",Senegal,6,5,448,0,0,0,6.91,AF Cup of Nations
+4,Ahmed Hegazy,2018-19,28,D(C),Egypt,4,4,360,0,0,0,6.91,AF Cup of Nations
+5,Issama Mpeko,2018-19,30,D(R),DR Congo,4,4,390,0,1,0,6.91,AF Cup of Nations
+6,Adama Traoré,2018-19,24,AM(R),Mali,4,1,157,1,0,0,6.90,AF Cup of Nations
+7,Salif Sané,2018-19,29,"D(C),DMC",Senegal,4,2,153,0,0,0,6.90,AF Cup of Nations
+8,Marcel Tisserand,2018-19,27,"D(CLR),M(R)",DR Congo,4,4,390,0,0,0,6.90,AF Cup of Nations
+9,Thembinkosi Lorch,2018-19,26,Substitute,South Africa,2,2,148,1,0,1,6.90,AF Cup of Nations
+0,Massadio Haïdara,2018-19,27,"D(CL),M(L)",Mali,1,1,90,0,0,0,6.89,AF Cup of Nations
+1,Aly Abeid,2018-19,22,D(CLR),Mauritania,3,3,270,0,0,0,6.89,AF Cup of Nations
+2,Ismaël Traoré,2018-19,33,D(CR),Ivory Coast,5,5,480,0,0,1,6.88,AF Cup of Nations
+3,Badou Ndiaye,2018-19,29,M(C),Senegal,7,7,590,0,0,0,6.88,AF Cup of Nations
+4,Mehdi Zeffane,2018-19,27,"D(LR),M(R)",Algeria,4,3,361,0,0,0,6.87,AF Cup of Nations
+5,Moustapha Diaw,2018-19,23,defender,Mauritania,3,2,217,0,0,0,6.87,AF Cup of Nations
+6,Baghdad Bounedjah,2018-19,28,FW,Algeria,7,6,522,2,1,1,6.87,AF Cup of Nations
+7,Adrien Melvin,2018-19,26,GK,Madagascar,4,4,390,0,0,0,6.87,AF Cup of Nations
+8,Karim Nizigiyimana,2018-19,30,Substitute,Burundi,2,2,180,0,0,0,6.87,AF Cup of Nations
+9,Mouez Hassen,2018-19,24,GK,Tunisia,5,5,510,0,0,1,6.86,AF Cup of Nations
+0,Raïs M'Bolhi,2018-19,33,GK,Algeria,7,7,660,0,0,0,6.86,AF Cup of Nations
+1,Ibrahim Amada,2018-19,29,M(C),Madagascar,5,5,420,1,0,0,6.85,AF Cup of Nations
+2,Jonathan Mensah,2018-19,29,D(CR),Ghana,2,1,121,0,0,1,6.84,AF Cup of Nations
+3,Karim El Ahmadi,2018-19,34,DMC,Morocco,4,3,271,0,0,0,6.84,AF Cup of Nations
+4,Marco Ilaimaharitra,2018-19,24,DMC,Madagascar,4,4,347,1,0,1,6.84,AF Cup of Nations
+5,Ima Andriatsima,2018-19,35,FW,Madagascar,5,5,444,1,0,0,6.83,AF Cup of Nations
+6,Zézinho,2018-19,27,M(CLR),Guinea-Bissau,1,1,90,0,0,0,6.82,AF Cup of Nations
+7,Ronald Ketjijere,2018-19,32,M(CLR),Namibia,3,3,270,0,0,0,6.82,AF Cup of Nations
+8,Gaël Bigirimana,2018-19,26,DMC,Burundi,3,3,270,0,0,0,6.82,AF Cup of Nations
+9,Khassa Camara,2018-19,27,M(CLR),Mauritania,2,2,152,0,0,0,6.81,AF Cup of Nations
+0,Bastos,2018-19,28,D(C),Angola,3,3,270,0,0,0,6.81,AF Cup of Nations
+1,David Kiki,2018-19,26,D(CLR),Benin,1,1,90,0,0,0,6.81,AF Cup of Nations
+2,Taha Yassine Khenissi,2018-19,28,FW,Tunisia,6,5,456,1,0,1,6.81,AF Cup of Nations
+3,Cèbio Soukou,2018-19,27,"AM(LR),FW",Benin,5,4,319,0,2,0,6.81,AF Cup of Nations
+4,Amadou Haidara,2018-19,21,M(CLR),Mali,4,3,225,1,0,1,6.81,AF Cup of Nations
+5,Nanú,2018-19,25,"D(R),M(LR)",Guinea-Bissau,2,2,180,0,0,0,6.81,AF Cup of Nations
+6,Youssouf Mulumbu,2018-19,32,M(C),DR Congo,2,2,143,0,0,0,6.80,AF Cup of Nations
+7,Ferjani Sassi,2018-19,27,DMC,Tunisia,5,4,420,1,0,0,6.80,AF Cup of Nations
+8,Ovidy Karuru,2018-19,30,DMC,Zimbabwe,3,3,270,0,1,1,6.80,AF Cup of Nations
+9,Ramy Bensebaïni,2018-19,24,"D(CL),DMC,M(L)",Algeria,6,6,560,0,1,0,6.80,AF Cup of Nations
+0,Yaya Banana,2018-19,28,"D(L),M(C)",Cameroon,3,3,270,1,0,1,6.80,AF Cup of Nations
+1,Sofiane Feghouli,2018-19,30,M(CR),Algeria,6,6,565,1,1,0,6.80,AF Cup of Nations
+2,Younès Belhanda,2018-19,29,"M(CL),FW",Morocco,3,3,239,0,0,0,6.79,AF Cup of Nations
+3,Odion Ighalo,2018-19,30,"AM(C),FW",Nigeria,7,6,506,5,1,1,6.79,AF Cup of Nations
+4,Jonathan Kodjia,2018-19,30,"AM(LR),FW",Ivory Coast,5,4,366,2,1,0,6.79,AF Cup of Nations
+5,Ellyes Skhiri,2018-19,24,DMC,Tunisia,7,7,690,0,0,0,6.79,AF Cup of Nations
+6,Marwan Mohsen,2018-19,30,FW,Egypt,4,3,230,0,0,0,6.78,AF Cup of Nations
+7,Noussair Mazraoui,2018-19,22,D(LR),Morocco,3,1,129,0,0,0,6.78,AF Cup of Nations
+8,Abdoulay Diaby,2018-19,28,"AM(CLR),FW",Mali,3,3,220,1,0,0,6.78,AF Cup of Nations
+9,Buhle Mkhwanazi,2018-19,29,D(C),South Africa,5,5,450,0,0,0,6.78,AF Cup of Nations
+0,Yassine Meriah,2018-19,26,D(C),Tunisia,7,7,690,0,0,0,6.78,AF Cup of Nations
+1,Saturnin Allagbé,2018-19,26,GK,Benin,3,3,300,0,0,0,6.77,AF Cup of Nations
+2,Clinton N'Jie,2018-19,26,"AM(LR),FW",Cameroon,4,2,228,1,0,0,6.77,AF Cup of Nations
+3,Hakim Ziyech,2018-19,26,M(CLR),Morocco,4,4,374,0,0,0,6.77,AF Cup of Nations
+4,Dani Massunguna,2018-19,33,D(CLR),Angola,3,3,270,0,0,1,6.77,AF Cup of Nations
+5,Frédéric Nsabiyumva,2018-19,24,D(CLR),Burundi,3,3,270,0,0,0,6.76,AF Cup of Nations
+6,Mbwana Samatta,2018-19,27,FW,Tanzania,3,3,270,1,0,0,6.76,AF Cup of Nations
+7,Baher El Mohamady,2018-19,23,Substitute,Egypt,1,1,90,0,0,0,6.76,AF Cup of Nations
+8,Youssouf Koné,2018-19,24,"D(CL),M(L)",Mali,3,3,270,0,0,0,6.75,AF Cup of Nations
+9,Jacques Maghoma,2018-19,32,AM(LR),DR Congo,4,3,331,0,0,0,6.75,AF Cup of Nations
+0,Thulani Hlatshwayo,2018-19,30,D(C),South Africa,5,5,450,0,0,0,6.74,AF Cup of Nations
+1,Romain Métanire,2018-19,29,D(R),Madagascar,5,5,480,0,1,0,6.74,AF Cup of Nations
+2,Wilfried Kanon,2018-19,26,D(CL),Ivory Coast,5,5,413,0,0,0,6.74,AF Cup of Nations
+3,Moses Simon,2018-19,24,"M(CLR),FW",Nigeria,5,2,192,0,2,0,6.74,AF Cup of Nations
+4,Omar Ngandu,2018-19,23,D(CLR),Burundi,2,2,180,0,0,0,6.74,AF Cup of Nations
+5,Hamari Traoré,2018-19,27,"D(R),M(R)",Mali,3,3,270,0,0,0,6.73,AF Cup of Nations
+6,Murushid Juuko,2018-19,25,midfielder,Uganda,2,2,180,0,0,0,6.73,AF Cup of Nations
+7,Emmanuel Imorou,2018-19,31,D(L),Benin,4,4,390,0,0,0,6.73,AF Cup of Nations
+8,Cheikhou Kouyaté,2018-19,30,"D(CR),DMC",Senegal,7,6,637,0,0,0,6.73,AF Cup of Nations
+9,Thamsanqa Mkhize,2018-19,31,D(R),South Africa,5,5,427,0,0,0,6.72,AF Cup of Nations
+0,Seidou Barazé,2018-19,29,D(CLR),Benin,4,4,360,0,0,0,6.72,AF Cup of Nations
+1,Piqueti,2018-19,26,AM(L),Guinea-Bissau,3,3,233,0,0,0,6.71,AF Cup of Nations
+2,Abdullahi Shehu,2018-19,26,"D(R),M(C)",Nigeria,1,1,42,0,0,0,6.71,AF Cup of Nations
+3,Enock Sabumukama,2018-19,24,Substitute,Burundi,1,0,45,0,0,0,6.71,AF Cup of Nations
+4,Mamadou Bagayoko,2018-19,30,D(R),Ivory Coast,4,3,321,0,0,0,6.71,AF Cup of Nations
+5,Ibrahima Cissé,2018-19,25,DMC,Guinea,4,4,338,0,0,0,6.70,AF Cup of Nations
+6,Manuel da Costa,2018-19,33,D(C),Morocco,3,2,211,0,0,0,6.70,AF Cup of Nations
+7,Eric Choupo-Moting,2018-19,30,"M(CLR),FW",Cameroon,4,3,275,0,0,0,6.70,AF Cup of Nations
+8,Arnaud Djoum,2018-19,30,DMC,Cameroon,2,2,133,0,0,0,6.70,AF Cup of Nations
+9,Djalma,2018-19,32,AM(CLR),Angola,3,3,258,1,0,1,6.69,AF Cup of Nations
+0,Jean-Philippe Gbamin,2018-19,24,"D(CR),DMC",Ivory Coast,3,2,212,0,1,0,6.69,AF Cup of Nations
+1,Amadou Diawara,2018-19,22,DMC,Guinea,4,4,360,0,1,0,6.69,AF Cup of Nations
+2,Mamadou Fofana I,2018-19,21,"D(C),DMC",Mali,3,3,270,0,0,0,6.69,AF Cup of Nations
+3,Patrick Matasi,2018-19,32,GK,Kenya,3,3,270,0,0,0,6.69,AF Cup of Nations
+4,André Onana,2018-19,23,GK,Cameroon,4,4,360,0,0,0,6.69,AF Cup of Nations
+5,Hicham Boudaoui,2018-19,20,M(CR),Algeria,2,1,98,0,0,0,6.69,AF Cup of Nations
+6,Show,2018-19,20,DMC,Angola,2,1,128,0,0,0,6.68,AF Cup of Nations
+7,Mohamed Elneny,2018-19,27,DMC,Egypt,4,4,325,0,0,0,6.67,AF Cup of Nations
+8,Francis Uzoho,2018-19,21,GK,Nigeria,1,1,90,0,0,0,6.67,AF Cup of Nations
+9,Issiaga Sylla,2018-19,26,"D(LR),M(L)",Guinea,4,4,360,0,0,0,6.67,AF Cup of Nations
+0,Herenilson,2018-19,23,M(CLR),Angola,3,3,270,0,0,0,6.66,AF Cup of Nations
+1,Aïssa Mandi,2018-19,28,D(CLR),Algeria,6,6,570,0,0,0,6.66,AF Cup of Nations
+2,Kalifa Coulibaly,2018-19,28,FW,Mali,2,1,100,0,0,0,6.66,AF Cup of Nations
+3,Paízo,2018-19,27,M(CLR),Angola,3,3,270,0,0,0,6.66,AF Cup of Nations
+4,Ghaylen Chaalali,2018-19,25,DMC,Tunisia,6,5,482,0,0,0,6.66,AF Cup of Nations
+5,Chidozie Awaziem,2018-19,23,D(CR),Nigeria,6,5,498,0,0,0,6.65,AF Cup of Nations
+6,Moez Ben Cherifia,2018-19,28,GK,Tunisia,1,1,90,0,0,0,6.65,AF Cup of Nations
+7,Mikael Dyrestam,2018-19,28,D(CR),Guinea,4,4,343,0,0,0,6.64,AF Cup of Nations
+8,Abdalla El Said,2018-19,34,AM(C),Egypt,4,4,293,0,0,0,6.64,AF Cup of Nations
+9,Joseph Mendes,2018-19,28,FW,Guinea-Bissau,2,1,88,0,0,0,6.64,AF Cup of Nations
+0,Moise Adiléhou,2018-19,24,D(CLR),Benin,3,3,272,1,0,0,6.63,AF Cup of Nations
+1,Lumala Abdu,2018-19,22,FW,Uganda,4,4,351,0,0,0,6.63,AF Cup of Nations
+2,Jerome Mombris,2018-19,32,D(L),Madagascar,5,5,480,0,0,0,6.63,AF Cup of Nations
+3,M'Baye Niang,2018-19,25,"AM(LR),FW",Senegal,7,7,546,0,1,0,6.63,AF Cup of Nations
+4,Wajdi Kechrida,2018-19,24,"D(R),M(R)",Tunisia,5,5,480,0,1,0,6.63,AF Cup of Nations
+5,Themba Zwane,2018-19,30,M(CLR),South Africa,4,3,287,0,0,0,6.62,AF Cup of Nations
+6,Moctar Sidi El Hacen,2018-19,22,M(CLR),Mauritania,3,3,270,1,0,0,6.62,AF Cup of Nations
+7,Bakary N'Diaye,2018-19,21,D(CLR),Mauritania,3,3,270,0,0,0,6.61,AF Cup of Nations
+8,Richard Ofori,2018-19,26,GK,Ghana,4,4,390,0,0,0,6.61,AF Cup of Nations
+9,Stéphane Bahoken,2018-19,27,FW,Cameroon,4,2,219,2,1,0,6.60,AF Cup of Nations
+0,Ernest Seka,2018-19,32,D(CLR),Guinea,3,3,270,0,0,0,6.59,AF Cup of Nations
+1,Simon Falette,2018-19,27,D(C),Guinea,4,4,360,0,0,0,6.59,AF Cup of Nations
+2,Kamohelo Mokotjo,2018-19,28,DMC,South Africa,5,4,366,0,0,0,6.59,AF Cup of Nations
+3,Stéphane Sessegnon,2018-19,35,M(CLR),Benin,4,4,390,0,0,0,6.59,AF Cup of Nations
+4,Samuel Owusu,2018-19,23,FW,Ghana,4,2,293,0,0,0,6.59,AF Cup of Nations
+5,Dean Furman,2018-19,31,DMC,South Africa,3,3,270,0,0,0,6.58,AF Cup of Nations
+6,Ley Matampi,2018-19,30,GK,DR Congo,4,4,390,0,0,0,6.57,AF Cup of Nations
+7,Denis Onyango,2018-19,34,GK,Uganda,4,4,342,0,0,0,6.57,AF Cup of Nations
+8,Ahmed Musa,2018-19,27,"M(CLR),FW",Nigeria,7,6,548,0,1,0,6.57,AF Cup of Nations
+9,Molla Wagué,2018-19,28,D(C),Mali,4,4,360,0,0,0,6.57,AF Cup of Nations
+0,Keita Baldé,2018-19,24,"AM(LR),FW",Senegal,5,3,215,1,0,0,6.57,AF Cup of Nations
+1,Burá,2018-19,24,"D(C),DMC",Guinea-Bissau,2,2,154,0,0,0,6.57,AF Cup of Nations
+2,Karim Aouadhi,2018-19,33,Substitute,Tunisia,2,1,97,0,0,0,6.57,AF Cup of Nations
+3,Mehdi Tahrat,2018-19,29,DMC,Algeria,2,1,95,0,0,0,6.57,AF Cup of Nations
+4,Jonas Mendes,2018-19,30,GK,Guinea-Bissau,3,3,270,0,0,0,6.56,AF Cup of Nations
+5,Merveille Bokadi,2018-19,23,"D(C),DMC",DR Congo,3,2,207,0,0,0,6.56,AF Cup of Nations
+6,Christian Bassogog,2018-19,24,"AM(R),FW",Cameroon,4,3,277,0,1,0,6.56,AF Cup of Nations
+7,Shassiri Nahimana,2018-19,26,M(CLR),Burundi,2,2,122,0,0,0,6.56,AF Cup of Nations
+8,Pierre Kunde,2018-19,24,DMC,Cameroon,3,2,185,0,0,0,6.56,AF Cup of Nations
+9,Jamilu Collins,2018-19,25,D(L),Nigeria,3,3,270,0,0,0,6.56,AF Cup of Nations
+0,Divine Lunga,2018-19,24,D(CLR),Zimbabwe,2,2,180,0,0,0,6.55,AF Cup of Nations
+1,Édouard Mendy,2018-19,27,GK,Senegal,2,2,180,0,0,0,6.55,AF Cup of Nations
+2,Lebo Mothiba,2018-19,23,FW,South Africa,5,5,421,0,1,0,6.55,AF Cup of Nations
+3,Gelson Dala,2018-19,23,"AM(CL),FW",Angola,3,2,225,0,0,0,6.55,AF Cup of Nations
+4,Khama Billiat,2018-19,29,M(CLR),Zimbabwe,3,3,270,1,0,0,6.55,AF Cup of Nations
+5,Mohamed Dellahi,2018-19,22,M(CLR),Mauritania,3,3,270,0,0,0,6.54,AF Cup of Nations
+6,Johanna Omolo,2018-19,30,DMC,Kenya,3,2,198,1,0,0,6.54,AF Cup of Nations
+7,Joseph Aidoo,2018-19,24,D(C),Ghana,1,1,90,0,0,0,6.54,AF Cup of Nations
+8,William Troost-Ekong,2018-19,26,D(C),Nigeria,6,6,540,1,0,0,6.54,AF Cup of Nations
+9,Moussa Marega,2018-19,28,"AM(LR),FW",Mali,4,3,279,1,0,0,6.53,AF Cup of Nations
+0,Bessam,2018-19,32,FW,Mauritania,3,2,222,0,0,0,6.53,AF Cup of Nations
+1,Sylvain Gbohouo,2018-19,31,GK,Ivory Coast,5,5,480,0,0,0,6.53,AF Cup of Nations
+2,Thomas Fontaine,2018-19,28,D(C),Madagascar,5,5,480,0,0,0,6.53,AF Cup of Nations
+3,Cheick Comara,2018-19,26,D(CLR),Ivory Coast,1,0,67,0,0,0,6.53,AF Cup of Nations
+4,Danny Phiri,2018-19,30,M(CLR),Zimbabwe,2,2,180,0,0,0,6.53,AF Cup of Nations
+5,David Nshimirimana,2018-19,27,Substitute,Burundi,1,1,90,0,0,0,6.53,AF Cup of Nations
+6,Gaël Duhayindavyi,2018-19,29,M(CLR),Burundi,3,2,254,0,0,0,6.53,AF Cup of Nations
+7,Gaëtan Bong,2018-19,31,D(L),Cameroon,1,1,74,0,0,0,6.53,AF Cup of Nations
+8,Owusu Kwabena,2018-19,22,FW,Ghana,3,1,82,0,0,0,6.53,AF Cup of Nations
+9,Maxwel Cornet,2018-19,23,"D(L),M(LR),FW",Ivory Coast,5,0,108,1,0,0,6.53,AF Cup of Nations
+0,Nabil Dirar,2018-19,33,"D(LR),M(CR)",Morocco,4,3,270,0,0,0,6.53,AF Cup of Nations
+1,Ibrahim Koné,2018-19,30,GK,Guinea,3,3,270,0,0,0,6.53,AF Cup of Nations
+2,Moussa Wagué,2018-19,21,D(R),Senegal,3,2,190,0,0,0,6.53,AF Cup of Nations
+3,Krépin Diatta,2018-19,20,"M(LR),FW",Senegal,7,3,318,1,0,1,6.53,AF Cup of Nations
+4,Moussa Doumbia,2018-19,25,"AM(CL),FW",Mali,3,1,103,0,2,0,6.52,AF Cup of Nations
+5,John Ogu,2018-19,31,M(C),Nigeria,1,1,46,0,0,0,6.52,AF Cup of Nations
+6,Marvelous Nakamba,2018-19,25,DMC,Zimbabwe,1,1,90,0,0,0,6.52,AF Cup of Nations
+7,Collins Fai,2018-19,27,"D(R),M(R)",Cameroon,3,3,226,0,0,0,6.52,AF Cup of Nations
+8,Naïm Sliti,2018-19,27,AM(CL),Tunisia,7,3,411,1,0,0,6.52,AF Cup of Nations
+9,Alex Iwobi,2018-19,23,M(CLR),Nigeria,7,6,559,1,0,0,6.51,AF Cup of Nations
+0,Khalid Aucho,2018-19,26,M(CLR),Uganda,4,4,328,0,0,0,6.51,AF Cup of Nations
+1,Erick Otieno,2018-19,23,Substitute,Kenya,3,2,225,0,0,0,6.51,AF Cup of Nations
+2,Ally Mtoni,2018-19,26,Substitute,Tanzania,1,1,90,0,0,0,6.51,AF Cup of Nations
+3,Ayman Ben Mohamed,2018-19,25,D(CLR),Tunisia,2,1,88,0,0,0,6.51,AF Cup of Nations
+4,Rudinilson Silva,2018-19,25,D(CLR),Guinea-Bissau,1,1,90,0,0,0,6.51,AF Cup of Nations
+5,Youssef Aït Bennasser,2018-19,23,DMC,Morocco,2,1,106,0,0,0,6.51,AF Cup of Nations
+6,Oussama Haddadi,2018-19,27,"D(CL),M(L)",Tunisia,7,7,690,0,0,0,6.51,AF Cup of Nations
+7,Riaan Hanamub,2018-19,24,D(CLR),Namibia,3,3,270,0,0,0,6.51,AF Cup of Nations
+8,Tidjani Anaane,2018-19,22,Substitute,Benin,1,0,33,0,0,0,6.50,AF Cup of Nations
+9,Djigui Diarra,2018-19,24,keeper,Mali,4,4,360,0,0,0,6.50,AF Cup of Nations
+0,Ayub Timbe Masika,2018-19,27,AM(LR),Kenya,3,3,261,0,1,0,6.49,AF Cup of Nations
+1,Alec Mudimu,2018-19,24,D(CLR),Zimbabwe,2,2,180,0,0,0,6.49,AF Cup of Nations
+2,George Chigova,2018-19,28,GK,Zimbabwe,1,1,90,0,0,0,6.48,AF Cup of Nations
+3,Georges Mandjeck,2018-19,31,M(C),Cameroon,3,3,242,0,0,0,6.48,AF Cup of Nations
+4,Marcelo Djaló,2018-19,26,D(CLR),Guinea-Bissau,2,2,180,0,0,0,6.47,AF Cup of Nations
+5,Munir Mohamedi,2018-19,30,GK,Morocco,1,1,90,0,0,0,6.47,AF Cup of Nations
+6,Nicolas Pépé,2018-19,24,"AM(LR),FW",Ivory Coast,3,3,248,0,0,0,6.47,AF Cup of Nations
+7,Godfrey Walusimbi,2018-19,30,defender,Uganda,4,4,360,0,0,0,6.47,AF Cup of Nations
+8,Adama Ba,2018-19,26,FW,Mauritania,3,3,270,0,0,0,6.47,AF Cup of Nations
+9,Mohamed Dräger,2018-19,23,D(R),Tunisia,4,2,237,0,0,0,6.47,AF Cup of Nations
+0,Karl Toko Ekambi,2018-19,27,"AM(LR),FW",Cameroon,4,3,245,0,1,0,6.46,AF Cup of Nations
+1,Teenage Hadebe,2018-19,24,D(CL),Zimbabwe,3,3,270,0,0,0,6.46,AF Cup of Nations
+2,Ibrahim Sangaré,2018-19,22,DMC,Ivory Coast,2,1,88,0,0,0,6.46,AF Cup of Nations
+3,Timothy Awany,2018-19,23,M(CLR),Uganda,4,1,165,0,0,0,6.46,AF Cup of Nations
+4,Micheal Azira,2018-19,32,DMC,Uganda,4,4,331,0,0,0,6.46,AF Cup of Nations
+5,Jordan Adéoti,2018-19,30,"D(C),DMC",Benin,5,5,480,0,0,0,6.46,AF Cup of Nations
+6,Daniel Akpeyi,2018-19,33,GK,Nigeria,5,5,450,0,0,0,6.45,AF Cup of Nations
+7,Khaled Adénon,2018-19,34,D(C),Benin,4,4,367,0,0,0,6.45,AF Cup of Nations
+8,Paul Onuachu,2018-19,25,FW,Nigeria,3,1,80,0,0,0,6.44,AF Cup of Nations
+9,Wilfried Bony,2018-19,31,FW,Ivory Coast,4,1,141,0,0,0,6.44,AF Cup of Nations
+0,Joseph Okumu,2018-19,22,D(C),Kenya,3,3,270,0,0,0,6.43,AF Cup of Nations
+1,Dimitri Caloin,2018-19,29,M(CLR),Madagascar,1,0,31,0,0,0,6.43,AF Cup of Nations
+2,Paul-José M'Poku,2018-19,27,"M(CLR),FW",DR Congo,2,1,81,0,0,0,6.43,AF Cup of Nations
+3,Pelé,2018-19,28,M(C),Guinea-Bissau,3,3,250,0,0,0,6.42,AF Cup of Nations
+4,Petrus Shitembi,2018-19,27,M(CLR),Namibia,3,3,270,0,0,0,6.42,AF Cup of Nations
+5,Victor Wanyama,2018-19,28,DMC,Kenya,3,3,270,0,0,0,6.42,AF Cup of Nations
+6,Deon Hotto,2018-19,29,M(CLR),Namibia,3,3,267,0,0,0,6.41,AF Cup of Nations
+7,Naby Keïta,2018-19,24,M(C),Guinea,2,1,99,0,0,0,6.41,AF Cup of Nations
+8,Olivier Verdon,2018-19,24,D(C),Benin,5,5,472,0,0,0,6.41,AF Cup of Nations
+9,Wilfred Moke,2018-19,31,"D(C),DMC",DR Congo,3,3,226,0,0,0,6.40,AF Cup of Nations
+0,Knowledge Musona,2018-19,29,AM(CR),Zimbabwe,3,3,255,0,0,0,6.40,AF Cup of Nations
+1,Alfred N'Diaye,2018-19,29,"D(C),M(C)",Senegal,1,1,86,0,0,0,6.40,AF Cup of Nations
+2,Harouna Abou Demba,2018-19,28,D(CLR),Mauritania,1,1,53,0,0,0,6.40,AF Cup of Nations
+3,Nabil Emad,2018-19,23,Substitute,Egypt,2,1,99,0,0,0,6.40,AF Cup of Nations
+4,Ismael Diakite,2018-19,28,FW,Mauritania,3,3,270,0,0,0,6.40,AF Cup of Nations
+5,Hassan Wasswa,2018-19,31,M(CLR),Uganda,4,4,288,0,0,0,6.40,AF Cup of Nations
+6,Hassan Khamis Ramadhani,2018-19,25,D(CLR),Tanzania,3,3,270,0,0,0,6.40,AF Cup of Nations
+7,Fredy Ribeiro,2018-19,29,"M(CLR),FW",Angola,3,3,198,0,0,0,6.39,AF Cup of Nations
+8,Yassine Bounou,2018-19,28,GK,Morocco,3,3,300,0,0,0,6.39,AF Cup of Nations
+9,Koka,2018-19,26,FW,Egypt,2,1,56,0,0,0,6.38,AF Cup of Nations
+0,Eric Johana Omondi,2018-19,25,M(CLR),Kenya,2,1,94,0,1,0,6.38,AF Cup of Nations
+1,Patrick Kaddu,2018-19,24,Striker,Uganda,3,3,222,1,0,0,6.37,AF Cup of Nations
+2,Diadié Diarra,2018-19,26,D(CLR),Mauritania,2,0,72,0,0,0,6.37,AF Cup of Nations
+3,Talent Chawapiwa,2018-19,27,Substitute,Zimbabwe,3,2,121,0,0,0,6.37,AF Cup of Nations
+4,Tinotenda Kadewere,2018-19,24,"AM(R),FW",Zimbabwe,1,0,20,0,0,0,6.37,AF Cup of Nations
+5,Asamoah Gyan,2018-19,34,FW,Ghana,2,0,48,0,0,0,6.37,AF Cup of Nations
+6,Christian Luyindama,2018-19,26,D(C),DR Congo,3,2,187,0,0,0,6.36,AF Cup of Nations
+7,Jonathan Nahimana,2018-19,20,GK,Burundi,3,3,270,0,0,0,6.36,AF Cup of Nations
+8,Sibusiso Vilakazi,2018-19,30,M(CLR),South Africa,3,1,118,0,0,0,6.36,AF Cup of Nations
+9,Mamy Randrianarisoa,2018-19,35,D(CLR),Madagascar,1,0,17,0,0,0,6.36,AF Cup of Nations
+0,Afriyie Acquah,2018-19,28,M(C),Ghana,3,1,100,0,0,0,6.36,AF Cup of Nations
+1,Geraldo,2018-19,28,AM(CR),Angola,3,1,160,0,0,0,6.36,AF Cup of Nations
+2,Mateus,2018-19,35,AM(LR),Angola,3,3,195,0,0,0,6.36,AF Cup of Nations
+3,Lumor Agbenyenu,2018-19,23,"D(L),M(L)",Ghana,2,1,94,0,0,0,6.36,AF Cup of Nations
+4,Manfred Starke,2018-19,28,M(CLR),Namibia,2,2,140,0,0,0,6.36,AF Cup of Nations
+5,Himid Mao,2018-19,27,M(CLR),Tanzania,3,1,166,0,0,0,6.35,AF Cup of Nations
+6,Kudakwashe Mahachi,2018-19,26,M(CLR),Zimbabwe,1,0,10,0,0,0,6.35,AF Cup of Nations
+7,Mamadu Cande,2018-19,29,D(L),Guinea-Bissau,3,3,270,0,0,0,6.35,AF Cup of Nations
+8,Lloyd Junior Kazapua,2018-19,30,GK,Namibia,3,3,270,0,0,0,6.34,AF Cup of Nations
+9,François Kamano,2018-19,23,"M(CLR),FW",Guinea,4,3,234,1,0,0,6.33,AF Cup of Nations
+0,Mama Seibou,2018-19,24,Substitute,Benin,5,2,284,0,0,0,6.32,AF Cup of Nations
+1,Mohamed Hussein,2018-19,23,Substitute,Tanzania,1,1,90,0,0,0,6.32,AF Cup of Nations
+2,Bruno Gaspar,2018-19,26,"D(R),M(R)",Angola,3,3,270,0,0,0,6.31,AF Cup of Nations
+3,Saido Berahino,2018-19,26,"AM(CLR),FW",Burundi,3,2,173,0,0,0,6.31,AF Cup of Nations
+4,Diallo Guidileye,2018-19,30,DMC,Mauritania,1,0,30,0,0,0,6.30,AF Cup of Nations
+5,Thabani Kamusoko,2018-19,31,Substitute,Zimbabwe,1,1,65,0,0,0,6.30,AF Cup of Nations
+6,Jean Michaël Seri,2018-19,28,M(C),Ivory Coast,2,2,132,0,0,0,6.30,AF Cup of Nations
+7,Taddeo Lwanga,2018-19,25,Substitute,Uganda,2,0,48,0,0,0,6.30,AF Cup of Nations
+8,Cheick Oumar Doucouré,2018-19,20,DMC,Mali,1,0,17,0,0,0,6.29,AF Cup of Nations
+9,Dylan Bronn,2018-19,24,D(C),Tunisia,6,6,600,0,0,0,6.29,AF Cup of Nations
+0,Nadjack,2018-19,25,D(R),Guinea-Bissau,1,1,90,0,0,0,6.29,AF Cup of Nations
+1,Pierre Kwizera,2018-19,28,Substitute,Burundi,1,1,90,0,0,0,6.29,AF Cup of Nations
+2,Mehdi Abeid,2018-19,27,DMC,Algeria,3,1,99,0,0,0,6.29,AF Cup of Nations
+3,José Kanté,2018-19,29,FW,Guinea,2,1,67,0,0,0,6.29,AF Cup of Nations
+4,Andy Delort,2018-19,28,"AM(R),FW",Algeria,5,1,111,0,0,0,6.27,AF Cup of Nations
+5,Dax,2018-19,28,Substitute,Madagascar,1,0,62,0,0,0,6.27,AF Cup of Nations
+6,Abdoul Bâ,2018-19,25,D(C),Mauritania,3,3,169,0,0,0,6.27,AF Cup of Nations
+7,Ronwen Williams,2018-19,27,GK,South Africa,4,4,360,0,0,0,6.27,AF Cup of Nations
+8,Rayan Raveloson,2018-19,22,DMC,Madagascar,4,1,104,0,0,0,6.26,AF Cup of Nations
+9,Bernard Ochieng Oginga,2018-19,23,Substitute,Kenya,2,0,54,0,0,0,6.25,AF Cup of Nations
+0,Ronald Mukiibi,2018-19,28,D(CR),Uganda,1,1,90,0,0,0,6.25,AF Cup of Nations
+1,Frédéric Mendy,2018-19,31,"AM(L),FW",Guinea-Bissau,3,2,182,0,0,0,6.25,AF Cup of Nations
+2,David Djigla,2018-19,24,FW,Benin,5,1,144,0,0,0,6.25,AF Cup of Nations
+3,Fayçal Fajr,2018-19,31,M(CLR),Morocco,2,0,14,0,0,0,6.25,AF Cup of Nations
+4,Simon Msuva,2018-19,26,M(CLR),Tanzania,3,3,246,1,0,0,6.24,AF Cup of Nations
+5,Ronald Pfumbidzai,2018-19,25,Substitute,Zimbabwe,1,1,90,0,0,0,6.24,AF Cup of Nations
+6,Tony Cabaça,2018-19,33,GK,Angola,3,3,270,0,0,0,6.24,AF Cup of Nations
+7,Fabien Farnolle,2018-19,34,GK,Benin,2,2,180,0,0,0,6.24,AF Cup of Nations
+8,Nassim Hnid,2018-19,22,D(CLR),Tunisia,1,1,67,0,0,0,6.23,AF Cup of Nations
+9,Mady Camara,2018-19,22,M(C),Guinea,3,2,157,0,0,0,6.23,AF Cup of Nations
+0,Denzil Haoseb,2018-19,28,D(CLR),Namibia,3,3,270,0,0,0,6.22,AF Cup of Nations
+1,Jacques Zoua,2018-19,28,"AM(LR),FW",Cameroon,1,0,3,0,0,0,6.22,AF Cup of Nations
+2,John Boye,2018-19,32,D(C),Ghana,3,3,264,0,0,0,6.22,AF Cup of Nations
+3,Stélvio,2018-19,30,M(C),Angola,1,1,46,0,0,0,6.22,AF Cup of Nations
+4,Anice Badri,2018-19,29,forward,Tunisia,5,3,214,0,0,0,6.22,AF Cup of Nations
+5,Allan Kyambadde,2018-19,24,Substitute,Uganda,4,1,145,0,0,0,6.22,AF Cup of Nations
+6,Caleb Ekuban,2018-19,25,"AM(CLR),FW",Ghana,2,0,53,0,0,0,6.22,AF Cup of Nations
+7,Moussa Konaté,2018-19,26,"AM(R),FW",Senegal,2,0,23,0,0,0,6.22,AF Cup of Nations
+8,Marshall Munetsi,2018-19,23,"D(C),DMC",Zimbabwe,3,2,185,0,0,0,6.21,AF Cup of Nations
+9,John Bocco,2018-19,30,M(CLR),Tanzania,3,1,115,0,0,0,6.21,AF Cup of Nations
+0,Kelvin Yondani,2018-19,35,D(CLR),Tanzania,2,2,180,0,0,0,6.21,AF Cup of Nations
+1,Mbaye Diagne,2018-19,28,FW,Senegal,5,0,120,0,0,0,6.21,AF Cup of Nations
+2,Ramahlwe Mphahlele,2018-19,29,D(CLR),South Africa,1,0,23,0,0,0,6.21,AF Cup of Nations
+3,Wilson Eduardo,2018-19,29,"AM(LR),FW",Angola,3,1,118,0,0,0,6.20,AF Cup of Nations
+4,Jean-Armel Kana-Biyik,2018-19,30,D(C),Cameroon,1,1,90,0,0,0,6.20,AF Cup of Nations
+5,Cédric Amissi,2018-19,29,M(CLR),Burundi,3,2,205,0,0,0,6.19,AF Cup of Nations
+6,Farid Mussa,2018-19,23,Substitute,Tanzania,3,2,182,0,0,0,6.19,AF Cup of Nations
+7,Trésor Mputu,2018-19,34,M(CLR),DR Congo,1,1,46,0,0,0,6.19,AF Cup of Nations
+8,Jodel Dossou,2018-19,27,AM(R),Benin,5,2,222,0,1,0,6.19,AF Cup of Nations
+9,John Avire,2018-19,22,Substitute,Kenya,2,0,73,0,0,0,6.19,AF Cup of Nations
+0,Peter Shalulile,2018-19,26,Striker,Namibia,3,3,263,0,0,0,6.19,AF Cup of Nations
+1,Amr Warda,2018-19,26,M(CLR),Egypt,2,0,45,0,0,0,6.18,AF Cup of Nations
+2,Bassem Srarfi,2018-19,22,"D(L),M(LR)",Tunisia,1,1,46,0,0,0,6.18,AF Cup of Nations
+3,Omar Moussa,2018-19,22,D(CLR),Burundi,1,1,90,0,0,0,6.18,AF Cup of Nations
+4,Njiva Rakotoharimalala,2018-19,27,Substitute,Madagascar,3,0,52,0,0,0,6.18,AF Cup of Nations
+5,Kwadwo Asamoah,2018-19,31,"D(L),M(CL)",Ghana,2,1,82,0,0,0,6.18,AF Cup of Nations
+6,Walid Soliman,2018-19,35,M(CLR),Egypt,3,0,60,0,0,0,6.17,AF Cup of Nations
+7,Sessi D'Almeida,2018-19,24,M(C),Benin,4,3,208,0,0,0,6.17,AF Cup of Nations
+8,Tendayi Darikwa,2018-19,28,"D(LR),M(R)",Zimbabwe,3,3,270,0,0,0,6.16,AF Cup of Nations
+9,Rami Bedoui,2018-19,29,Substitute,Tunisia,3,1,144,0,0,0,6.16,AF Cup of Nations
+0,Lebohang Maboe,2018-19,25,M(CLR),South Africa,1,1,75,0,0,0,6.16,AF Cup of Nations
+1,Mohamed Amissi,2018-19,19,FW,Burundi,3,1,87,0,0,0,6.16,AF Cup of Nations
+2,Thomas Agyepong,2018-19,23,AM(R),Ghana,1,1,35,0,0,0,6.16,AF Cup of Nations
+3,Victor Osimhen,2018-19,21,FW,Nigeria,1,0,45,0,0,0,6.16,AF Cup of Nations
+4,Hlompho Alpheus Kekana,2018-19,34,M(CLR),South Africa,3,1,100,0,0,0,6.16,AF Cup of Nations
+5,Mama Baldé,2018-19,24,"D(R),M(CLR),FW",Guinea-Bissau,3,2,195,0,0,0,6.16,AF Cup of Nations
+6,Brahim Souleymane,2018-19,33,GK,Mauritania,3,3,270,0,0,0,6.14,AF Cup of Nations
+7,Marcel Papama,2018-19,23,Substitute,Namibia,2,1,87,0,0,0,6.14,AF Cup of Nations
+8,Samuel Kalu,2018-19,22,M(CLR),Nigeria,3,1,75,0,0,0,6.14,AF Cup of Nations
+9,Thulani Serero,2018-19,29,DMC,South Africa,1,1,90,0,0,0,6.14,AF Cup of Nations
+0,Christian Atsu,2018-19,28,AM(CLR),Ghana,2,2,105,0,0,0,6.14,AF Cup of Nations
+1,Larry Horaeb,2018-19,28,D(CLR),Namibia,3,3,270,0,0,0,6.13,AF Cup of Nations
+2,Khalid Boutaïb,2018-19,32,FW,Morocco,1,0,12,0,0,0,6.13,AF Cup of Nations
+3,Fiston Abdul Razak,2018-19,26,Striker,Burundi,3,3,248,0,0,0,6.12,AF Cup of Nations
+4,Ryan Nyambe,2018-19,22,"D(CR),M(R)",Namibia,3,3,270,0,0,0,6.12,AF Cup of Nations
+5,Mabululu,2018-19,27,Substitute,Angola,2,0,21,0,0,0,6.12,AF Cup of Nations
+6,Abdoulaye Gaye,2018-19,28,M(CLR),Mauritania,2,0,28,0,0,0,6.11,AF Cup of Nations
+7,Julian Jeanvier,2018-19,27,D(C),Guinea,1,1,90,0,0,0,6.11,AF Cup of Nations
+8,John Obi Mikel,2018-19,32,M(C),Nigeria,2,2,117,0,0,0,6.11,AF Cup of Nations
+9,Ahmed Ali,2018-19,33,Substitute,Egypt,1,0,45,0,0,0,6.10,AF Cup of Nations
+0,Absalom Limbondi,2018-19,28,Striker,Namibia,1,1,80,0,0,0,6.09,AF Cup of Nations
+1,Feisal Salum,2018-19,22,M(CLR),Tanzania,2,2,129,0,0,0,6.09,AF Cup of Nations
+2,Jorginho,2018-19,24,AM(R),Guinea-Bissau,2,0,20,0,0,0,6.09,AF Cup of Nations
+3,Lass Bangoura,2018-19,27,M(LR),Guinea,3,0,68,0,0,0,6.09,AF Cup of Nations
+4,Mudathir Yahya,2018-19,23,M(CLR),Tanzania,3,3,226,0,0,0,6.08,AF Cup of Nations
+5,Ibréhima Coulibaly,2018-19,30,M(CLR),Mauritania,2,2,136,0,0,0,6.08,AF Cup of Nations
+6,Thomas Ulimwengu,2018-19,26,FW,Tanzania,2,1,94,0,0,0,6.08,AF Cup of Nations
+7,Aboud Omar,2018-19,27,D(CLR),Kenya,3,3,248,0,0,0,6.07,AF Cup of Nations
+8,Erasto Nyoni,2018-19,31,M(CLR),Tanzania,2,2,170,0,0,0,6.07,AF Cup of Nations
+9,Sada Thioub,2018-19,24,M(LR),Senegal,2,0,44,0,0,0,6.07,AF Cup of Nations
+0,Evans Rusike,2018-19,28,FW,Zimbabwe,2,0,35,0,0,0,6.06,AF Cup of Nations
+1,Olivier Boumal,2018-19,30,AM(L),Cameroon,2,0,35,0,0,0,6.06,AF Cup of Nations
+2,William Gros,2018-19,27,Substitute,Madagascar,1,0,28,0,0,0,6.06,AF Cup of Nations
+3,Allan Kateregga,2018-19,25,Substitute,Uganda,1,0,13,0,0,0,6.05,AF Cup of Nations
+4,Fodé Koita,2018-19,29,"AM(LR),FW",Guinea,3,0,54,0,0,0,6.05,AF Cup of Nations
+5,Gadiel Michael,2018-19,23,D(CLR),Tanzania,2,2,180,0,0,0,6.05,AF Cup of Nations
+6,Lawrence Mhlanga,2018-19,26,D(CLR),Zimbabwe,1,1,90,0,0,0,6.05,AF Cup of Nations
+7,Souleyman Doumbia,2018-19,23,"D(L),M(L)",Ivory Coast,1,0,3,0,0,0,6.04,AF Cup of Nations
+8,Lars Veldwijk,2018-19,28,FW,South Africa,5,0,34,0,0,0,6.03,AF Cup of Nations
+9,Ali Ghazal,2018-19,27,"D(C),DMC",Egypt,1,0,6,0,0,0,6.03,AF Cup of Nations
+0,Francis Moustapha,2018-19,23,M(CLR),Burundi,2,2,75,0,0,0,6.03,AF Cup of Nations
+1,Yacine Brahimi,2018-19,29,M(CLR),Algeria,2,0,22,0,0,0,6.03,AF Cup of Nations
+2,Paulin Voavy,2018-19,32,Substitute,Madagascar,3,0,80,0,0,0,6.02,AF Cup of Nations
+3,Frank Domayo,2018-19,26,Substitute,Tanzania,2,0,16,0,0,0,6.02,AF Cup of Nations
+4,Souleymane Anne,2018-19,22,FW,Mauritania,1,0,3,0,0,0,6.02,AF Cup of Nations
+5,Moreto Cassamá,2018-19,21,DMC,Guinea-Bissau,1,0,26,0,0,0,6.01,AF Cup of Nations
+6,Leon Balogun,2018-19,31,D(CR),Nigeria,4,2,182,0,0,0,6.01,AF Cup of Nations
+7,Ismael Athuman,2018-19,24,D(CLR),Kenya,1,0,1,0,0,0,6.00,AF Cup of Nations
+8,Omar Gaber,2018-19,27,D(CLR),Egypt,1,0,1,0,0,0,6.00,AF Cup of Nations
+9,Romário Baldé,2018-19,23,FW,Guinea-Bissau,1,0,1,0,0,0,6.00,AF Cup of Nations
+0,Firas Chaouat,2018-19,23,Substitute,Tunisia,3,0,69,0,0,0,6.00,AF Cup of Nations
+1,José Macaia,2018-19,25,Substitute,Angola,1,0,3,0,0,0,5.99,AF Cup of Nations
+2,Luwagga Kizito,2018-19,26,FW,Uganda,1,0,11,0,0,0,5.99,AF Cup of Nations
+3,Nyasha Mushekwi,2018-19,32,FW,Zimbabwe,2,1,119,0,0,0,5.99,AF Cup of Nations
+4,Toni Silva,2018-19,26,M(CLR),Guinea-Bissau,2,1,93,0,0,0,5.99,AF Cup of Nations
+5,Christophe Nduwarugira,2018-19,25,Substitute,Burundi,3,2,116,0,0,0,5.97,AF Cup of Nations
+6,Isaac Muleme,2018-19,27,Substitute,Uganda,1,0,9,0,0,0,5.97,AF Cup of Nations
+7,Ousmane Sidibé,2018-19,34,Substitute,Guinea,1,0,17,0,0,0,5.97,AF Cup of Nations
+8,Robert Odongkara,2018-19,30,GK,Uganda,1,0,18,0,0,0,5.97,AF Cup of Nations
+9,Juary Soares,2018-19,27,D(CLR),Guinea-Bissau,3,3,270,0,0,0,5.96,AF Cup of Nations
+0,João Jaquité,2018-19,23,DMC,Guinea-Bissau,1,0,20,0,0,0,5.94,AF Cup of Nations
+1,Laudit Mavugo,2018-19,26,Substitute,Burundi,1,0,8,0,0,0,5.94,AF Cup of Nations
+2,Sékou Koïta,2018-19,20,FW,Mali,1,0,32,0,0,0,5.94,AF Cup of Nations
+3,Francis Kahata,2018-19,27,M(CLR),Kenya,2,2,79,0,0,0,5.94,AF Cup of Nations
+4,Elvis Kamsoba,2018-19,23,Substitute,Burundi,1,0,31,0,0,0,5.92,AF Cup of Nations
+5,Willy Stephanus,2018-19,28,Substitute,Namibia,2,0,32,0,0,0,5.92,AF Cup of Nations
+6,David Mwantika,2018-19,28,D(CLR),Tanzania,3,3,232,0,0,0,5.91,AF Cup of Nations
+7,Nicholas Wadada,2018-19,25,D(CLR),Uganda,1,1,90,0,0,0,5.90,AF Cup of Nations
+8,Isaskar Gurirab,2018-19,22,Substitute,Namibia,2,0,62,0,0,0,5.89,AF Cup of Nations
+9,Jérémy Morel,2018-19,35,D(CL),Madagascar,2,0,39,0,0,0,5.88,AF Cup of Nations
+0,Henry Onyekuru,2018-19,22,"AM(LR),FW",Nigeria,1,0,12,0,0,0,5.86,AF Cup of Nations
+1,Yannick Bolasie,2018-19,30,"AM(LR),FW",DR Congo,3,1,146,0,0,0,5.83,AF Cup of Nations
+2,Benson Shilongo,2018-19,27,Substitute,Namibia,2,1,53,0,0,0,5.83,AF Cup of Nations
+3,Aly Keita,2018-19,33,GK,Guinea,1,1,90,0,0,0,5.80,AF Cup of Nations
+4,Metacha Mnata,2018-19,21,Substitute,Tanzania,1,1,90,0,0,0,5.76,AF Cup of Nations
+5,Farouk Ben Mustapha,2018-19,30,GK,Tunisia,2,1,91,0,0,0,5.75,AF Cup of Nations
+6,Oussama Idrissi,2018-19,23,AM(LR),Morocco,1,0,32,0,0,0,5.75,AF Cup of Nations
+7,David Odhiambo,2018-19,31,D(CLR),Kenya,1,1,46,0,0,0,5.73,AF Cup of Nations
+8,Dennis Odhiambo,2018-19,34,M(CLR),Kenya,2,2,164,0,0,0,5.73,AF Cup of Nations
+9,Adi Yussuf,2018-19,27,FW,Tanzania,1,0,45,0,0,0,5.69,AF Cup of Nations
+0,Ikechukwu Ezenwa,2018-19,31,keeper,Nigeria,1,1,90,0,0,0,5.61,AF Cup of Nations
+1,Musa Mohammed,2018-19,28,D(CLR),Kenya,3,3,270,0,0,0,5.51,AF Cup of Nations
+2,Itamunua Keimuine,2018-19,26,Substitute,Namibia,1,0,10,0,0,0,5.38,AF Cup of Nations
+3,Elvis Chipezeze,2018-19,29,Substitute,Zimbabwe,2,1,100,0,0,0,5.21,AF Cup of Nations
+4,Philemon Otieno,2018-19,27,D(CLR),Kenya,2,2,166,0,0,0,5.21,AF Cup of Nations
+0,Ghaylen Chaalali,2021-22,27,DMC,Tunisia,1,1,90,0,1,0,8.30,AF Cup of Nations
+1,Nicolas Pépé,2021-22,26,"AM(LR),FW",Ivory Coast,4,3,315,2,1,2,7.97,AF Cup of Nations
+2,Vincent Aboubakar,2021-22,29,"AM(R),FW",Cameroon,7,6,621,8,1,2,7.94,AF Cup of Nations
+3,Salim Ben Boina,2021-22,30,Substitute,Comoros,2,2,116,0,0,0,7.68,AF Cup of Nations
+4,Mohamed Kamara,2021-22,22,GK,Sierra Leone,3,3,270,0,0,1,7.67,AF Cup of Nations
+5,Ibrahim Sangaré,2021-22,24,DMC,Ivory Coast,4,4,353,1,1,0,7.64,AF Cup of Nations
+6,Mohamed Abou Gabal,2021-22,32,Substitute,Egypt,4,3,371,0,0,2,7.63,AF Cup of Nations
+7,Achraf Hakimi,2021-22,23,"D(LR),M(R)",Morocco,5,5,480,2,0,2,7.63,AF Cup of Nations
+8,Moses Simon,2021-22,26,"M(CLR),FW",Nigeria,4,3,303,1,1,2,7.60,AF Cup of Nations
+9,Sadio Mané,2021-22,29,"AM(CLR),FW",Senegal,7,7,641,3,2,4,7.54,AF Cup of Nations
+0,Sofiane Boufal,2021-22,28,"AM(CLR),FW",Morocco,5,4,346,3,0,1,7.51,AF Cup of Nations
+1,Jamilu Collins,2021-22,27,D(L),Nigeria,1,1,90,0,0,0,7.47,AF Cup of Nations
+2,Moumi Ngamaleu,2021-22,27,AM(LR),Cameroon,7,6,533,0,2,0,7.42,AF Cup of Nations
+3,Karl Toko Ekambi,2021-22,29,"AM(LR),FW",Cameroon,7,6,532,5,0,2,7.39,AF Cup of Nations
+4,Serge Aurier,2021-22,29,"D(CLR),M(R)",Ivory Coast,3,3,280,0,1,1,7.31,AF Cup of Nations
+5,Max-Alain Gradel,2021-22,34,"M(CLR),FW",Ivory Coast,3,3,232,1,0,0,7.30,AF Cup of Nations
+6,Joe Aribo,2021-22,25,"M(CLR),FW",Nigeria,3,3,243,0,1,0,7.29,AF Cup of Nations
+7,Collins Fai,2021-22,29,"D(R),M(R)",Cameroon,6,6,562,0,3,0,7.29,AF Cup of Nations
+8,Saliou Ciss,2021-22,32,D(CL),Senegal,6,6,558,0,1,0,7.27,AF Cup of Nations
+9,Selim Amallah,2021-22,25,"AM(CL),FW",Morocco,5,4,415,1,2,1,7.26,AF Cup of Nations
+0,Baboucarr Gayé,2021-22,23,GK,Gambia,3,3,270,0,0,1,7.26,AF Cup of Nations
+1,Ola Aina,2021-22,25,"D(CLR),M(LR)",Nigeria,3,3,270,0,0,1,7.26,AF Cup of Nations
+2,Charles Thomu,2021-22,22,Substitute,Malawi,2,2,180,0,0,0,7.23,AF Cup of Nations
+3,Wilfred Ndidi,2021-22,25,"D(C),DMC",Nigeria,4,4,360,0,0,0,7.23,AF Cup of Nations
+4,Abdalla El Said,2021-22,36,AM(C),Egypt,2,2,115,0,1,1,7.22,AF Cup of Nations
+5,Amadou Haidara,2021-22,23,M(CLR),Mali,4,3,316,0,0,0,7.20,AF Cup of Nations
+6,Mohamed El Shenawy,2021-22,33,GK,Egypt,4,4,358,0,0,0,7.19,AF Cup of Nations
+7,Mustafa Karshoum,2021-22,29,D(CLR),Sudan,3,3,270,0,0,1,7.19,AF Cup of Nations
+8,Martin Hongla,2021-22,23,"D(C),DMC",Cameroon,4,4,369,0,3,0,7.17,AF Cup of Nations
+9,Issa Kaboré,2021-22,20,"D(R),M(R)",Burkina Faso,7,7,692,0,3,2,7.16,AF Cup of Nations
+0,Kalidou Koulibaly,2021-22,30,D(C),Senegal,5,5,481,0,1,0,7.16,AF Cup of Nations
+1,Abdou Diallo,2021-22,25,D(CL),Senegal,7,7,661,1,0,0,7.15,AF Cup of Nations
+2,Saúl Coco,2021-22,22,D(C),Equatorial Guinea,5,5,481,0,0,1,7.15,AF Cup of Nations
+3,Sébastien Haller,2021-22,27,FW,Ivory Coast,4,4,349,1,1,0,7.12,AF Cup of Nations
+4,Ghislain Konan,2021-22,26,"D(L),M(L)",Ivory Coast,4,4,391,0,0,1,7.11,AF Cup of Nations
+5,Youcef Belaïli,2021-22,29,AM(L),Algeria,3,3,260,0,0,0,7.11,AF Cup of Nations
+6,Omar Kamal,2021-22,28,D(R),Egypt,5,5,506,0,0,0,7.10,AF Cup of Nations
+7,Boubakar Kouyaté,2021-22,24,D(C),Mali,4,4,391,0,0,0,7.09,AF Cup of Nations
+8,Wahbi Khazri,2021-22,30,"M(CLR),FW",Tunisia,4,3,264,2,1,1,7.09,AF Cup of Nations
+9,Samy Mmaee,2021-22,25,D(C),Morocco,1,1,90,0,0,0,7.08,AF Cup of Nations
+0,Nouhou Tolo,2021-22,24,D(CL),Cameroon,6,6,560,0,0,1,7.07,AF Cup of Nations
+1,Simon Deli,2021-22,30,D(C),Ivory Coast,4,4,369,0,0,0,7.07,AF Cup of Nations
+2,Eric Bailly,2021-22,27,D(CR),Ivory Coast,3,3,301,0,0,0,7.07,AF Cup of Nations
+3,Hellings Mhango,2021-22,29,Striker,Malawi,3,3,270,3,0,1,7.07,AF Cup of Nations
+4,Samuel Chukwueze,2021-22,22,AM(CR),Nigeria,3,3,192,1,0,0,7.07,AF Cup of Nations
+5,Issiaga Sylla,2021-22,28,"D(LR),M(L)",Guinea,3,3,268,1,0,1,7.05,AF Cup of Nations
+6,Pablo Ganet,2021-22,27,M(C),Equatorial Guinea,5,5,463,1,1,0,7.04,AF Cup of Nations
+7,Massadio Haïdara,2021-22,29,"D(CL),M(L)",Mali,4,4,391,1,0,0,7.00,AF Cup of Nations
+8,Jesús Owono,2021-22,20,GK,Equatorial Guinea,4,4,391,0,0,1,6.99,AF Cup of Nations
+9,Moussa Doumbia,2021-22,27,"AM(CL),FW",Mali,4,2,249,0,1,1,6.98,AF Cup of Nations
+0,Oumar Camara,2021-22,29,M(CLR),Mauritania,3,2,145,0,0,0,6.98,AF Cup of Nations
+1,Knowledge Musona,2021-22,31,AM(CR),Zimbabwe,3,3,212,1,0,0,6.97,AF Cup of Nations
+2,Bruno Ecuele Manga,2021-22,33,D(CR),Gabon,4,4,391,0,0,1,6.97,AF Cup of Nations
+3,Jim Allevinah,2021-22,26,AM(LR),Gabon,4,3,241,2,0,0,6.97,AF Cup of Nations
+4,Modou Jobe,2021-22,33,GK,Gambia,2,2,180,0,0,0,6.97,AF Cup of Nations
+5,Hamari Traoré,2021-22,29,"D(R),M(R)",Mali,4,4,365,0,0,0,6.97,AF Cup of Nations
+6,Ahmed Hegazy,2021-22,30,D(C),Egypt,5,5,437,0,0,0,6.96,AF Cup of Nations
+7,Bertrand Traoré,2021-22,26,"AM(R),FW",Burkina Faso,5,5,434,1,2,0,6.96,AF Cup of Nations
+8,Steeve Yago,2021-22,29,D(CLR),Burkina Faso,7,7,692,1,0,1,6.96,AF Cup of Nations
+9,Francis Uzoho,2021-22,23,GK,Nigeria,1,1,90,0,0,0,6.96,AF Cup of Nations
+0,Kei Kamara,2021-22,37,"AM(LR),FW",Sierra Leone,3,3,263,0,0,0,6.96,AF Cup of Nations
+1,Gustavo Sangaré,2021-22,25,AM(C),Burkina Faso,7,7,605,1,0,1,6.95,AF Cup of Nations
+2,Ablie Jallow,2021-22,23,AM(R),Gambia,4,3,255,2,0,1,6.95,AF Cup of Nations
+3,Bouna Sarr,2021-22,29,"D(R),M(CLR)",Senegal,7,7,661,0,0,1,6.95,AF Cup of Nations
+4,Kelechi Iheanacho,2021-22,25,"AM(C),FW",Nigeria,4,4,289,1,1,0,6.95,AF Cup of Nations
+5,Pape Abou Cissé,2021-22,26,D(C),Senegal,3,2,181,0,0,0,6.94,AF Cup of Nations
+6,Dénis Bouanga,2021-22,27,"M(CLR),FW",Gabon,3,2,214,0,0,0,6.94,AF Cup of Nations
+7,Patrick Malo,2021-22,29,D(CLR),Burkina Faso,1,1,90,0,0,0,6.94,AF Cup of Nations
+8,Ahmed Abou El Fotouh,2021-22,23,D(L),Egypt,5,5,529,0,0,0,6.93,AF Cup of Nations
+9,Emam Ashour,2021-22,23,midfielder,Egypt,2,1,157,0,0,0,6.92,AF Cup of Nations
+0,Guélor Kanga,2021-22,31,M(C),Gabon,4,4,391,0,1,0,6.91,AF Cup of Nations
+1,Mamadou Kané,2021-22,24,M(CLR),Guinea,2,2,180,0,1,0,6.91,AF Cup of Nations
+2,Idrissa Gueye,2021-22,32,M(C),Senegal,6,6,571,0,0,0,6.91,AF Cup of Nations
+3,Zaidu Sanusi,2021-22,24,"D(L),M(L)",Nigeria,3,3,270,0,0,0,6.91,AF Cup of Nations
+4,Mahmoud Hamdi El Wensh,2021-22,26,defender,Egypt,4,4,378,0,0,0,6.90,AF Cup of Nations
+5,Steven Caulker,2021-22,30,D(C),Sierra Leone,3,3,270,0,1,0,6.90,AF Cup of Nations
+6,Hamza Mathlouthi,2021-22,29,D(CLR),Tunisia,3,3,237,1,0,0,6.89,AF Cup of Nations
+7,Dawda Ngum,2021-22,31,Substitute,Gambia,1,1,90,0,0,0,6.89,AF Cup of Nations
+8,Mohamed Salah,2021-22,29,"AM(CLR),FW",Egypt,7,7,753,2,1,2,6.88,AF Cup of Nations
+9,Djibril Ouattara,2021-22,22,forward,Burkina Faso,3,2,175,1,0,0,6.88,AF Cup of Nations
+0,Mohamed Abdelmonem,2021-22,22,D(C),Egypt,7,5,697,1,0,0,6.87,AF Cup of Nations
+1,Jean Michaël Seri,2021-22,30,M(C),Ivory Coast,4,4,342,0,0,0,6.87,AF Cup of Nations
+2,Pico,2021-22,29,D(CLR),Cape Verde,4,4,316,0,0,0,6.87,AF Cup of Nations
+3,Édouard Mendy,2021-22,29,GK,Senegal,5,5,481,0,0,0,6.86,AF Cup of Nations
+4,Wilfried Zaha,2021-22,29,"AM(LR),FW",Ivory Coast,4,1,156,0,1,0,6.85,AF Cup of Nations
+5,Gerald Takwara,2021-22,27,D(CLR),Zimbabwe,3,3,270,0,0,0,6.85,AF Cup of Nations
+6,Moreto Cassamá,2021-22,23,DMC,Guinea-Bissau,3,3,257,0,0,0,6.84,AF Cup of Nations
+7,Adama Traoré,2021-22,26,M(CR),Mali,4,2,245,0,0,0,6.83,AF Cup of Nations
+8,Seny Dieng,2021-22,27,GK,Senegal,2,2,180,0,0,0,6.83,AF Cup of Nations
+9,Ali Abdi,2021-22,28,D(CLR),Tunisia,1,1,90,0,0,0,6.82,AF Cup of Nations
+0,Carlos Akapo,2021-22,28,D(LR),Equatorial Guinea,5,5,480,0,0,0,6.82,AF Cup of Nations
+1,Iban Salvador,2021-22,26,M(R),Equatorial Guinea,5,5,463,0,1,0,6.81,AF Cup of Nations
+2,Montassar Talbi,2021-22,23,D(C),Tunisia,4,4,360,0,0,0,6.81,AF Cup of Nations
+3,Harold-Desty Moukoudi,2021-22,24,D(C),Cameroon,3,2,233,0,1,1,6.81,AF Cup of Nations
+4,Alexander Djiku,2021-22,27,"D(CR),DMC",Ghana,3,3,270,1,0,0,6.80,AF Cup of Nations
+5,Ismaïla Sarr,2021-22,23,"AM(CLR),FW",Senegal,3,1,134,1,1,0,6.80,AF Cup of Nations
+6,Imrân Louza,2021-22,22,M(CLR),Morocco,4,3,257,0,0,0,6.80,AF Cup of Nations
+7,Cheikhou Kouyaté,2021-22,32,"D(CR),DMC",Senegal,6,5,426,1,0,0,6.80,AF Cup of Nations
+8,Dango Ouattara,2021-22,19,AM(LR),Burkina Faso,3,2,198,1,1,0,6.80,AF Cup of Nations
+9,Azzedine Ounahi,2021-22,21,AM(CR),Morocco,3,2,180,0,0,0,6.79,AF Cup of Nations
+0,Adam Masina,2021-22,28,"D(L),M(L)",Morocco,5,5,480,0,0,0,6.79,AF Cup of Nations
+1,William Troost-Ekong,2021-22,28,D(C),Nigeria,4,4,360,1,0,0,6.79,AF Cup of Nations
+2,Basilio Ndong,2021-22,22,D(L),Equatorial Guinea,5,5,481,0,0,0,6.78,AF Cup of Nations
+3,Musa Barrow,2021-22,23,"AM(CL),FW",Gambia,5,5,450,2,2,1,6.78,AF Cup of Nations
+4,Salaheldin Nemer,2021-22,29,D(CLR),Sudan,2,2,178,0,0,0,6.77,AF Cup of Nations
+5,Ramy Bensebaïni,2021-22,26,"D(CL),DMC,M(L)",Algeria,3,3,270,0,0,0,6.77,AF Cup of Nations
+6,Youssouf M'Changama,2021-22,31,M(C),Comoros,4,4,360,1,0,0,6.76,AF Cup of Nations
+7,André-Frank Zambo Anguissa,2021-22,26,M(C),Cameroon,6,6,562,0,0,0,6.76,AF Cup of Nations
+8,Thomas Partey,2021-22,28,"D(R),M(CR)",Ghana,3,3,270,0,2,0,6.75,AF Cup of Nations
+9,John Banda,2021-22,28,M(CLR),Malawi,4,4,360,0,1,0,6.75,AF Cup of Nations
+0,Franck Kessie,2021-22,25,M(C),Ivory Coast,4,4,273,1,0,0,6.75,AF Cup of Nations
+1,Jean-Charles Castelletto,2021-22,26,D(C),Cameroon,4,4,369,0,0,0,6.75,AF Cup of Nations
+2,Cyrille Bayala,2021-22,25,AM(R),Burkina Faso,5,5,362,1,0,0,6.74,AF Cup of Nations
+3,Amr El Soleya,2021-22,31,M(C),Egypt,6,6,519,0,1,0,6.74,AF Cup of Nations
+4,André Biyogo Poko,2021-22,29,"D(R),M(CR)",Gabon,4,4,391,0,0,0,6.74,AF Cup of Nations
+5,Youcef Atal,2021-22,25,"D(R),M(R)",Algeria,3,3,260,0,0,0,6.74,AF Cup of Nations
+6,Aaron Salem Boupendza,2021-22,25,"AM(L),FW",Gabon,4,4,379,1,0,0,6.74,AF Cup of Nations
+7,Ibrahim Mounkoro,2021-22,31,Substitute,Mali,4,4,391,0,0,1,6.74,AF Cup of Nations
+8,Omar Colley,2021-22,29,D(C),Gambia,5,5,450,0,0,0,6.73,AF Cup of Nations
+9,Asrat Tonjo,2021-22,25,Substitute,Ethiopia,1,1,90,0,0,0,6.73,AF Cup of Nations
+0,Jonas Mendes,2021-22,32,GK,Guinea-Bissau,1,1,90,0,0,0,6.73,AF Cup of Nations
+1,Bamba Dieng,2021-22,21,"AM(L),FW",Senegal,5,1,197,2,0,0,6.73,AF Cup of Nations
+2,Nayef Aguerd,2021-22,25,D(C),Morocco,5,5,480,0,0,0,6.72,AF Cup of Nations
+3,Ilaix Moriba,2021-22,18,M(C),Guinea,3,3,219,0,0,0,6.72,AF Cup of Nations
+4,Soumaila Ouattara,2021-22,26,Substitute,Burkina Faso,3,3,332,0,0,0,6.72,AF Cup of Nations
+5,Mostafa Mohamed,2021-22,24,FW,Egypt,7,7,568,0,0,0,6.72,AF Cup of Nations
+6,Esteban Obiang,2021-22,23,D(C),Equatorial Guinea,5,5,481,1,0,1,6.72,AF Cup of Nations
+7,Sori Mané,2021-22,25,DMC,Guinea-Bissau,3,3,270,0,0,0,6.72,AF Cup of Nations
+8,Yusupha Bobb,2021-22,25,M(CLR),Gambia,4,4,360,0,1,1,6.72,AF Cup of Nations
+9,Kenny Rocha Santos,2021-22,22,AM(C),Cape Verde,4,4,333,0,1,0,6.72,AF Cup of Nations
+0,James Gomez,2021-22,20,D(C),Gambia,5,5,450,0,0,0,6.72,AF Cup of Nations
+1,Jefferson Encada,2021-22,23,FW,Guinea-Bissau,3,3,257,0,0,0,6.71,AF Cup of Nations
+2,Never Tigere,2021-22,31,Substitute,Zimbabwe,2,1,92,0,1,1,6.71,AF Cup of Nations
+3,Taiwo Awoniyi,2021-22,24,FW,Nigeria,3,3,214,1,0,0,6.71,AF Cup of Nations
+4,Adama Guira,2021-22,33,DMC,Burkina Faso,6,6,562,0,1,0,6.71,AF Cup of Nations
+5,Maurice Gomis,2021-22,24,GK,Guinea-Bissau,2,2,180,0,0,0,6.71,AF Cup of Nations
+6,Saïdou Sow,2021-22,19,D(C),Guinea,3,3,251,0,0,0,6.70,AF Cup of Nations
+7,Sulayman Marreh,2021-22,26,DMC,Gambia,4,4,352,0,0,0,6.70,AF Cup of Nations
+8,Famara Diédhiou,2021-22,29,FW,Senegal,5,4,315,1,1,0,6.70,AF Cup of Nations
+9,Talbert Shumba,2021-22,31,Substitute,Zimbabwe,1,1,90,0,0,0,6.70,AF Cup of Nations
+0,Walieldin Khedr,2021-22,26,Striker,Sudan,3,3,270,1,0,0,6.70,AF Cup of Nations
+1,Michael Ngadeu,2021-22,31,D(C),Cameroon,6,6,571,0,0,0,6.70,AF Cup of Nations
+2,Romain Saïss,2021-22,31,"D(C),DMC",Morocco,5,4,391,0,0,0,6.70,AF Cup of Nations
+3,Chidera Ejuke,2021-22,24,"AM(CLR),FW",Nigeria,2,1,75,0,0,0,6.70,AF Cup of Nations
+4,Ernest Kakhobwe,2021-22,28,GK,Malawi,2,2,180,0,0,0,6.70,AF Cup of Nations
+5,Ibrahima Koné,2021-22,22,FW,Mali,4,4,322,3,0,0,6.70,AF Cup of Nations
+6,Naby Keïta,2021-22,26,M(C),Guinea,3,3,270,1,0,0,6.69,AF Cup of Nations
+7,Abdul Rahman Baba,2021-22,27,"D(L),M(L)",Ghana,3,3,226,0,0,0,6.69,AF Cup of Nations
+8,Mohamed Mustafa,2021-22,25,Substitute,Sudan,1,1,46,0,0,0,6.69,AF Cup of Nations
+9,Stopira,2021-22,33,D(L),Cape Verde,4,4,360,0,0,0,6.69,AF Cup of Nations
+0,Louis Ameka,2021-22,25,M(CLR),Gabon,4,2,236,0,1,0,6.69,AF Cup of Nations
+1,Youssef En-Nesyri,2021-22,24,FW,Morocco,4,3,289,1,0,0,6.68,AF Cup of Nations
+2,Mamadou Loum,2021-22,25,DMC,Senegal,1,1,90,0,0,0,6.68,AF Cup of Nations
+3,Aïssa Laïdouni,2021-22,25,DMC,Tunisia,5,4,356,0,0,0,6.68,AF Cup of Nations
+4,Diney,2021-22,26,D(C),Cape Verde,2,1,127,0,0,0,6.67,AF Cup of Nations
+5,Edmond Tapsoba,2021-22,22,D(C),Burkina Faso,6,6,602,0,0,0,6.66,AF Cup of Nations
+6,Diadié Samassékou,2021-22,26,DMC,Mali,2,2,136,0,0,0,6.66,AF Cup of Nations
+7,Lloyd Palun,2021-22,33,D(R),Gabon,3,3,301,0,0,0,6.66,AF Cup of Nations
+8,Tyronne Ebuehi,2021-22,26,D(LR),Nigeria,1,1,76,0,0,0,6.66,AF Cup of Nations
+9,Bilel Ifa,2021-22,31,D(C),Tunisia,5,5,432,0,0,0,6.66,AF Cup of Nations
+0,Yves Bissouma,2021-22,25,M(C),Mali,4,3,254,0,0,0,6.66,AF Cup of Nations
+1,Daniel-Kofi Kyereh,2021-22,25,"AM(CLR),FW",Ghana,3,2,184,0,0,0,6.66,AF Cup of Nations
+2,Zakaria Aboukhlal,2021-22,21,AM(LR),Morocco,4,1,133,1,0,0,6.66,AF Cup of Nations
+3,Ellyes Skhiri,2021-22,26,DMC,Tunisia,5,5,444,0,0,0,6.65,AF Cup of Nations
+4,Blati Touré,2021-22,27,DMC,Burkina Faso,7,7,685,1,1,0,6.65,AF Cup of Nations
+5,Francisco Madinga,2021-22,21,M(CLR),Malawi,4,4,332,0,1,0,6.65,AF Cup of Nations
+6,Ali Maâloul,2021-22,32,D(L),Tunisia,3,2,225,0,0,0,6.65,AF Cup of Nations
+7,Mohamed Ali Camara,2021-22,24,D(C),Guinea,4,4,360,0,0,1,6.65,AF Cup of Nations
+8,Younn Zahary,2021-22,23,D(C),Comoros,4,3,295,0,0,0,6.65,AF Cup of Nations
+9,Saïd Bakari,2021-22,27,"D(LR),M(CLR)",Comoros,4,4,357,0,0,0,6.64,AF Cup of Nations
+0,Peter Banda,2021-22,21,Striker,Malawi,2,1,104,0,0,0,6.64,AF Cup of Nations
+1,Pa Modou Jagne,2021-22,32,D(L),Gambia,4,4,326,0,0,0,6.63,AF Cup of Nations
+2,José Kanté,2021-22,31,FW,Guinea,3,3,207,0,1,0,6.63,AF Cup of Nations
+3,Opa Sanganté,2021-22,30,M(CLR),Guinea-Bissau,3,3,270,0,0,0,6.63,AF Cup of Nations
+4,Sofyan Amrabat,2021-22,25,DMC,Morocco,5,4,391,0,0,0,6.63,AF Cup of Nations
+5,Ishmael Wadi,2021-22,29,M(CLR),Zimbabwe,2,2,174,1,0,0,6.63,AF Cup of Nations
+6,Hervé Koffi,2021-22,25,GK,Burkina Faso,5,5,427,0,0,0,6.62,AF Cup of Nations
+7,Ahmed Mogni,2021-22,30,FW,Comoros,4,2,156,2,0,1,6.62,AF Cup of Nations
+8,Morlaye Sylla,2021-22,23,M(CLR),Guinea,3,0,43,0,0,0,6.62,AF Cup of Nations
+9,Kenneth Omeruo,2021-22,28,D(C),Nigeria,3,3,259,0,0,0,6.62,AF Cup of Nations
+0,Musa Kamara,2021-22,21,Substitute,Sierra Leone,2,2,180,1,0,0,6.62,AF Cup of Nations
+1,Aly Keita,2021-22,35,GK,Guinea,4,4,360,0,0,0,6.61,AF Cup of Nations
+2,Nampalys Mendy,2021-22,29,M(C),Senegal,5,5,463,0,0,0,6.61,AF Cup of Nations
+3,Jeffry Fortes,2021-22,32,"D(R),DMC,M(R)",Cape Verde,4,4,352,0,0,1,6.61,AF Cup of Nations
+4,Riyad Mahrez,2021-22,30,"AM(CLR),FW",Algeria,3,3,270,0,0,0,6.61,AF Cup of Nations
+5,Kelechi Nwakali,2021-22,23,M(C),Nigeria,3,1,111,0,0,0,6.61,AF Cup of Nations
+6,El Fardou Ben Nabouhane,2021-22,32,"AM(R),FW",Comoros,4,4,360,1,1,0,6.61,AF Cup of Nations
+7,Jordan Ayew,2021-22,30,"AM(CLR),FW",Ghana,3,3,266,0,0,0,6.60,AF Cup of Nations
+8,Johann Obiang,2021-22,28,D(L),Gabon,4,4,354,0,0,0,6.60,AF Cup of Nations
+9,Mohamed Ali Ben Romdhane,2021-22,22,Substitute,Tunisia,1,0,31,0,0,0,6.60,AF Cup of Nations
+0,Hassane Bandé,2021-22,23,FW,Burkina Faso,7,5,359,1,0,0,6.59,AF Cup of Nations
+1,Seifeddine Jaziri,2021-22,28,Substitute,Tunisia,5,4,331,1,0,0,6.59,AF Cup of Nations
+2,Mohamed Abdelrahman,2021-22,28,M(CLR),Sudan,2,2,180,0,0,0,6.59,AF Cup of Nations
+3,Semi Ajayi,2021-22,28,"D(C),DMC",Nigeria,2,1,101,0,0,0,6.59,AF Cup of Nations
+4,Mama Baldé,2021-22,26,"D(R),M(CLR),FW",Guinea-Bissau,3,3,251,0,0,0,6.58,AF Cup of Nations
+5,Mazin Mohamedein,2021-22,21,D(CLR),Sudan,3,3,270,0,0,0,6.58,AF Cup of Nations
+6,Youssef Msakni,2021-22,31,AM(L),Tunisia,4,2,219,1,0,1,6.58,AF Cup of Nations
+7,Badra Sangaré,2021-22,35,GK,Ivory Coast,4,4,391,0,0,0,6.58,AF Cup of Nations
+8,Habib Maïga,2021-22,26,"DMC,M(R)",Ivory Coast,2,1,111,0,0,0,6.58,AF Cup of Nations
+9,Mohamed Elneny,2021-22,29,DMC,Egypt,7,7,706,0,0,0,6.58,AF Cup of Nations
+0,Chaker Alhadhur,2021-22,30,D(LR),Comoros,1,1,90,0,0,0,6.57,AF Cup of Nations
+1,Kudakwashe Mahachi,2021-22,28,M(CLR),Zimbabwe,2,1,94,1,0,0,6.57,AF Cup of Nations
+2,Mame Thiam,2021-22,29,"AM(LR),FW",Senegal,1,1,74,0,0,0,6.56,AF Cup of Nations
+3,Jannick Buyla,2021-22,23,M(CLR),Equatorial Guinea,5,3,330,1,0,0,6.56,AF Cup of Nations
+4,Fodé Ballo-Touré,2021-22,25,"D(L),M(L)",Senegal,3,1,103,0,0,0,6.55,AF Cup of Nations
+5,Jamiro Monteiro,2021-22,28,M(CL),Cape Verde,4,4,334,0,0,0,6.55,AF Cup of Nations
+6,Ali Abu Eshrein,2021-22,32,GK,Sudan,3,2,225,0,0,0,6.55,AF Cup of Nations
+7,Teklemariam Shanko,2021-22,24,keeper,Ethiopia,3,3,270,0,0,0,6.55,AF Cup of Nations
+8,Hamdi Fathi,2021-22,27,D(CLR),Egypt,6,4,412,0,0,0,6.55,AF Cup of Nations
+9,Hamza Rafia,2021-22,22,M(CLR),Tunisia,4,2,162,0,0,0,6.54,AF Cup of Nations
+0,Raïs M'Bolhi,2021-22,35,GK,Algeria,3,3,270,0,0,0,6.54,AF Cup of Nations
+1,Adama Traoré,2021-22,26,AM(R),Mali,4,4,307,0,0,0,6.54,AF Cup of Nations
+2,Dawa Hotessa,2021-22,25,Striker,Ethiopia,2,2,134,1,0,0,6.54,AF Cup of Nations
+3,Mohanad Lasheen,2021-22,25,Substitute,Egypt,2,0,57,0,0,0,6.54,AF Cup of Nations
+4,Bruce Kangwa,2021-22,33,D(CLR),Zimbabwe,3,3,247,0,0,0,6.53,AF Cup of Nations
+5,Gomezgani Chirwa,2021-22,25,D(CLR),Malawi,4,4,360,0,0,0,6.53,AF Cup of Nations
+6,Yihun Endashaw,2021-22,29,Substitute,Ethiopia,1,1,60,0,0,0,6.53,AF Cup of Nations
+7,Iddrisu Baba,2021-22,25,DMC,Ghana,2,2,155,0,0,0,6.53,AF Cup of Nations
+8,Richmond Boakye,2021-22,28,FW,Ghana,2,0,32,1,0,0,6.53,AF Cup of Nations
+9,Luís Nlavo,2021-22,20,Substitute,Equatorial Guinea,3,0,97,0,0,0,6.52,AF Cup of Nations
+0,Anis Ben Slimane,2021-22,20,M(C),Tunisia,5,4,320,0,1,0,6.52,AF Cup of Nations
+1,Ibou Touray,2021-22,27,"D(L),M(L)",Gambia,4,3,291,0,0,0,6.51,AF Cup of Nations
+2,Samuel Oum Gouet,2021-22,24,DMC,Cameroon,5,5,393,0,0,0,6.51,AF Cup of Nations
+3,Admiral Muskwe,2021-22,23,"AM(CR),FW",Zimbabwe,2,1,87,0,1,0,6.51,AF Cup of Nations
+4,Abdel Raouf,2021-22,28,M(CLR),Sudan,3,3,248,0,0,0,6.51,AF Cup of Nations
+5,Alhaji Kamara,2021-22,27,FW,Sierra Leone,3,1,129,1,0,0,6.50,AF Cup of Nations
+6,Djamel Benlamri,2021-22,32,D(C),Algeria,2,1,99,0,0,0,6.50,AF Cup of Nations
+7,Omar Marmoush,2021-22,22,"AM(L),FW",Egypt,7,7,507,0,0,0,6.50,AF Cup of Nations
+8,Kassim M'Dahoma,2021-22,24,D(CLR),Comoros,3,3,256,0,0,0,6.50,AF Cup of Nations
+9,Josete Miranda,2021-22,23,FW,Equatorial Guinea,4,3,255,0,1,0,6.49,AF Cup of Nations
+0,Zizo,2021-22,26,AM(LR),Egypt,7,0,239,0,0,0,6.49,AF Cup of Nations
+1,Mohamed Camara,2021-22,22,DMC,Mali,2,1,148,0,0,0,6.49,AF Cup of Nations
+2,Rafidine Abdullah,2021-22,28,DMC,Comoros,4,3,227,0,0,0,6.49,AF Cup of Nations
+3,Mamadou Lamarana Diallo,2021-22,27,FW,Guinea,2,0,64,0,0,0,6.49,AF Cup of Nations
+4,Pierre Kunde,2021-22,26,DMC,Cameroon,4,3,261,0,0,0,6.48,AF Cup of Nations
+5,Amadou Diawara,2021-22,24,DMC,Guinea,3,3,258,0,0,0,6.47,AF Cup of Nations
+6,Ebou Adams,2021-22,26,M(C),Gambia,3,2,218,0,0,0,6.47,AF Cup of Nations
+7,Moussa Djenepo,2021-22,23,M(LR),Mali,3,2,201,0,0,0,6.47,AF Cup of Nations
+8,Steven Fortès,2021-22,29,D(C),Cape Verde,4,3,278,0,0,0,6.47,AF Cup of Nations
+9,Bodda Mouhsine,2021-22,24,Substitute,Mauritania,1,1,90,0,0,0,6.47,AF Cup of Nations
+0,Elsadig Hassan,2021-22,25,Substitute,Sudan,1,1,90,0,0,0,6.47,AF Cup of Nations
+1,Mohamed Dräger,2021-22,25,D(R),Tunisia,3,2,213,0,1,0,6.47,AF Cup of Nations
+2,Ayman Ashraf,2021-22,30,D(L),Egypt,4,3,316,0,0,0,6.47,AF Cup of Nations
+3,Márcio Rosa,2021-22,24,GK,Cape Verde,2,1,121,0,0,0,6.47,AF Cup of Nations
+4,Júlio Tavares,2021-22,33,"AM(LR),FW",Cape Verde,3,2,192,1,0,0,6.46,AF Cup of Nations
+5,Mohamed Al Rashed,2021-22,28,M(CLR),Sudan,3,3,226,0,0,0,6.46,AF Cup of Nations
+6,Aguibou Camara,2021-22,20,AM(C),Guinea,2,2,122,0,0,0,6.46,AF Cup of Nations
+7,Akram Tawfik,2021-22,24,M(CLR),Egypt,1,1,11,0,0,0,6.46,AF Cup of Nations
+8,Godknows Murwira,2021-22,28,Substitute,Zimbabwe,1,1,90,0,0,0,6.46,AF Cup of Nations
+9,Yamikani Chester,2021-22,27,midfielder,Malawi,3,1,112,0,0,0,6.45,AF Cup of Nations
+0,Anthony Oyono,2021-22,20,D(CLR),Gabon,3,3,230,0,0,0,6.45,AF Cup of Nations
+1,Munir El Haddadi,2021-22,26,"AM(LR),FW",Morocco,3,1,133,0,0,0,6.45,AF Cup of Nations
+2,Burá,2021-22,26,"D(C),DMC",Guinea-Bissau,3,3,270,0,0,0,6.45,AF Cup of Nations
+3,Aïssa Mandi,2021-22,30,D(CLR),Algeria,3,3,270,0,1,0,6.45,AF Cup of Nations
+4,Sofiane Bendebka,2021-22,29,Substitute,Algeria,3,1,127,1,0,0,6.44,AF Cup of Nations
+5,Aschalew Tamene,2021-22,23,D(CLR),Ethiopia,3,3,270,0,0,0,6.44,AF Cup of Nations
+6,Stanley Sanudi,2021-22,26,defender,Malawi,3,3,259,0,0,0,6.44,AF Cup of Nations
+7,Trézéguet,2021-22,27,AM(LR),Egypt,7,1,378,1,0,0,6.44,AF Cup of Nations
+8,Moussa Sissako,2021-22,21,D(C),Mali,1,0,26,0,0,0,6.44,AF Cup of Nations
+9,Aboubakar Kamara,2021-22,26,"AM(R),FW",Mauritania,2,2,136,0,0,0,6.44,AF Cup of Nations
+0,Axel Méyé,2021-22,26,FW,Gabon,2,0,72,0,0,0,6.44,AF Cup of Nations
+1,Ambroise Oyongo,2021-22,30,"D(LR),M(L)",Cameroon,2,1,132,0,0,0,6.44,AF Cup of Nations
+2,Falaye Sacko,2021-22,26,"D(CR),M(R)",Mali,4,4,391,0,0,0,6.44,AF Cup of Nations
+3,Piqueti,2021-22,28,AM(L),Guinea-Bissau,3,3,237,0,0,0,6.43,AF Cup of Nations
+4,Yassine Bounou,2021-22,30,GK,Morocco,4,4,390,0,0,0,6.43,AF Cup of Nations
+5,Bechir Ben Saïd,2021-22,29,GK,Tunisia,5,5,450,0,0,0,6.43,AF Cup of Nations
+6,Getaneh Kebede,2021-22,29,Striker,Ethiopia,3,2,158,1,0,0,6.43,AF Cup of Nations
+7,Odilon Kossounou,2021-22,21,D(CR),Ivory Coast,2,1,91,0,0,0,6.43,AF Cup of Nations
+8,Mustapha Bundu,2021-22,24,AM(R),Sierra Leone,3,3,218,0,0,0,6.43,AF Cup of Nations
+9,José Machín,2021-22,25,M(C),Equatorial Guinea,5,5,411,0,0,0,6.43,AF Cup of Nations
+0,Garry Rodrigues,2021-22,31,AM(LR),Cape Verde,4,3,262,1,1,0,6.43,AF Cup of Nations
+1,Suleman Hamid,2021-22,24,D(CLR),Ethiopia,2,2,180,0,0,0,6.42,AF Cup of Nations
+2,Yacine Brahimi,2021-22,31,M(CLR),Algeria,3,1,109,0,0,0,6.42,AF Cup of Nations
+3,Ibrahima Conté,2021-22,25,D(CLR),Guinea,4,4,360,0,0,0,6.42,AF Cup of Nations
+4,Eric Choupo-Moting,2021-22,32,"M(CLR),FW",Cameroon,4,2,160,0,0,0,6.41,AF Cup of Nations
+5,Abdallah Ali Mohamed,2021-22,22,D(CLR),Comoros,1,0,38,0,0,0,6.41,AF Cup of Nations
+6,Kwame Quee,2021-22,25,M(CLR),Sierra Leone,3,3,270,0,0,0,6.41,AF Cup of Nations
+7,Steve Ambri,2021-22,24,FW,Guinea-Bissau,3,1,97,0,0,0,6.41,AF Cup of Nations
+8,Farid Ouédraogo,2021-22,25,Substitute,Burkina Faso,3,2,238,0,0,0,6.41,AF Cup of Nations
+9,Faïz Selemani,2021-22,28,"M(CLR),FW",Comoros,2,2,180,0,0,0,6.41,AF Cup of Nations
+0,Dylan Bronn,2021-22,26,D(C),Tunisia,2,2,180,0,0,0,6.40,AF Cup of Nations
+1,Haris Belkebla,2021-22,27,DMC,Algeria,1,1,83,0,0,0,6.40,AF Cup of Nations
+2,Souleymane Doukara,2021-22,30,"AM(L),FW",Mauritania,1,0,31,0,0,0,6.40,AF Cup of Nations
+3,Ibrahima Mbaye,2021-22,27,"D(LR),M(LR)",Senegal,3,2,181,0,0,0,6.40,AF Cup of Nations
+4,Mohamed Turay,2021-22,27,"AM(L),FW",Sierra Leone,3,2,202,0,1,0,6.40,AF Cup of Nations
+5,Babacar Diop,2021-22,26,Substitute,Mauritania,3,3,261,0,0,0,6.39,AF Cup of Nations
+6,Osman Kakay,2021-22,24,"D(CR),M(R)",Sierra Leone,3,3,270,0,0,0,6.39,AF Cup of Nations
+7,Maxwel Cornet,2021-22,25,"D(L),M(LR),FW",Ivory Coast,3,2,88,0,0,0,6.39,AF Cup of Nations
+8,Mohamed Bayo,2021-22,23,FW,Guinea,4,3,288,0,0,0,6.38,AF Cup of Nations
+9,Dylan Tavares,2021-22,25,D(CLR),Cape Verde,4,4,318,0,0,0,6.38,AF Cup of Nations
+0,Patrick Andrade,2021-22,28,M(CLR),Cape Verde,4,3,198,0,0,0,6.38,AF Cup of Nations
+1,Noah Sonko-Sundberg,2021-22,25,D(C),Gambia,3,3,219,0,0,0,6.38,AF Cup of Nations
+2,Guessouma Fofana,2021-22,29,DMC,Mauritania,3,3,270,0,0,0,6.37,AF Cup of Nations
+3,Issahaku Fatawu,2021-22,17,M(CLR),Ghana,3,1,65,0,0,0,6.37,AF Cup of Nations
+4,Thabani Kamusoko,2021-22,33,Substitute,Zimbabwe,2,1,109,0,0,0,6.37,AF Cup of Nations
+5,Lawrence Chaziya,2021-22,23,Substitute,Malawi,3,2,243,0,0,0,6.37,AF Cup of Nations
+6,André Onana,2021-22,25,GK,Cameroon,7,7,692,0,0,0,6.36,AF Cup of Nations
+7,Ali Ahamada,2021-22,30,GK,Comoros,2,1,154,0,0,0,6.36,AF Cup of Nations
+8,Umar Sadiq,2021-22,24,FW,Nigeria,4,1,99,1,0,0,6.36,AF Cup of Nations
+9,Tinotenda Kadewere,2021-22,26,"AM(R),FW",Zimbabwe,3,1,151,0,0,0,6.36,AF Cup of Nations
+0,Rubén Belima,2021-22,29,M(CLR),Equatorial Guinea,3,0,51,0,0,0,6.35,AF Cup of Nations
+1,Saîf-Eddine Khaoui,2021-22,26,AM(CR),Tunisia,3,2,162,0,0,0,6.35,AF Cup of Nations
+2,Frank Onyeka,2021-22,24,DMC,Nigeria,1,0,14,0,0,0,6.35,AF Cup of Nations
+3,Ibrahima Cissé,2021-22,27,DMC,Guinea,4,3,315,0,0,0,6.35,AF Cup of Nations
+4,Ramiz Zerrouki,2021-22,23,DMC,Algeria,1,1,90,0,0,0,6.35,AF Cup of Nations
+5,Bendjaloud Youssouf,2021-22,27,D(CLR),Comoros,4,4,320,0,1,0,6.34,AF Cup of Nations
+6,Dennis Chembezi,2021-22,25,D(CLR),Malawi,4,4,360,0,0,0,6.34,AF Cup of Nations
+7,André Ayew,2021-22,32,"M(CLR),FW",Ghana,3,3,205,1,0,1,6.34,AF Cup of Nations
+8,Oussama Haddadi,2021-22,29,"D(CL),M(L)",Tunisia,2,2,136,0,0,0,6.34,AF Cup of Nations
+9,Micium Mhone,2021-22,26,M(CLR),Malawi,3,3,206,0,0,0,6.33,AF Cup of Nations
+0,Limbikani Mzava,2021-22,28,D(CLR),Malawi,2,2,117,0,0,0,6.33,AF Cup of Nations
+1,Serge-Junior Martinsson Ngouali,2021-22,29,DMC,Gabon,2,1,99,0,0,0,6.33,AF Cup of Nations
+2,Stéphane Bahoken,2021-22,29,FW,Cameroon,3,1,145,1,0,0,6.33,AF Cup of Nations
+3,Marwan Hamdy,2021-22,25,Substitute,Egypt,3,0,68,0,0,0,6.32,AF Cup of Nations
+4,Amanuel Gebremichael,2021-22,22,forward,Ethiopia,3,2,162,0,1,0,6.32,AF Cup of Nations
+5,Edmund Addo,2021-22,21,DMC,Ghana,2,0,74,0,0,0,6.32,AF Cup of Nations
+6,Lassine Sinayoko,2021-22,22,AM(R),Mali,1,0,16,0,0,0,6.32,AF Cup of Nations
+7,Nuno Borges,2021-22,33,DMC,Cape Verde,2,1,111,0,0,0,6.32,AF Cup of Nations
+8,Assan Ceesay,2021-22,27,FW,Gambia,4,2,160,0,0,0,6.32,AF Cup of Nations
+9,Federico Bikoro,2021-22,25,M(CLR),Equatorial Guinea,4,3,230,0,0,0,6.31,AF Cup of Nations
+0,Tarik Tissoudali,2021-22,28,"AM(CL),FW",Morocco,4,1,88,0,0,0,6.31,AF Cup of Nations
+1,Kevin Wright,2021-22,26,D(CLR),Sierra Leone,3,3,255,0,0,0,6.31,AF Cup of Nations
+2,Pape Gueye,2021-22,22,DMC,Senegal,6,2,258,0,0,0,6.31,AF Cup of Nations
+3,Teenage Hadebe,2021-22,26,D(CL),Zimbabwe,2,2,180,0,0,0,6.31,AF Cup of Nations
+4,Panutche Camará,2021-22,24,M(CR),Guinea-Bissau,3,2,162,0,0,0,6.30,AF Cup of Nations
+5,Baghdad Bounedjah,2021-22,30,FW,Algeria,3,2,152,0,0,0,6.30,AF Cup of Nations
+6,Boulaye Dia,2021-22,25,"AM(R),FW",Senegal,6,5,422,0,0,0,6.30,AF Cup of Nations
+7,Adama Ba,2021-22,28,FW,Mauritania,2,0,39,0,0,0,6.29,AF Cup of Nations
+8,Mesfin Tafesse,2021-22,20,Substitute,Ethiopia,1,0,31,0,0,0,6.29,AF Cup of Nations
+9,Onismor Bhasera,2021-22,36,D(CLR),Zimbabwe,3,2,225,0,1,0,6.29,AF Cup of Nations
+0,John Kamara,2021-22,33,M(CLR),Sierra Leone,3,3,270,0,0,0,6.29,AF Cup of Nations
+1,Kundai Benyu,2021-22,24,M(CLR),Zimbabwe,2,2,161,0,0,0,6.29,AF Cup of Nations
+2,Ousmane Kanté,2021-22,32,D(CLR),Guinea,2,1,109,0,0,0,6.29,AF Cup of Nations
+3,Sidi Yacoub,2021-22,26,Substitute,Mauritania,2,0,40,0,0,0,6.29,AF Cup of Nations
+4,Ismahila Ouédraogo,2021-22,22,Substitute,Burkina Faso,4,1,176,0,0,0,6.28,AF Cup of Nations
+5,Ahmed Reshid,2021-22,23,defender,Ethiopia,1,0,18,0,0,0,6.28,AF Cup of Nations
+6,Olisa Ndah,2021-22,23,Substitute,Nigeria,1,0,14,0,0,0,6.28,AF Cup of Nations
+7,Ebrima Darboe,2021-22,20,DMC,Gambia,3,1,132,0,0,0,6.28,AF Cup of Nations
+8,Ayoub El Kaabi,2021-22,28,"AM(LR),FW",Morocco,3,3,175,0,0,0,6.27,AF Cup of Nations
+9,Santiago Eneme,2021-22,21,Substitute,Equatorial Guinea,3,0,50,0,0,0,6.27,AF Cup of Nations
+0,Fayçal Fajr,2021-22,33,M(CLR),Morocco,2,1,82,0,0,0,6.27,AF Cup of Nations
+1,Ebrima Colley,2021-22,21,AM(R),Gambia,4,1,152,0,0,0,6.27,AF Cup of Nations
+2,Peter Olayinka,2021-22,26,"AM(L),FW",Nigeria,2,0,64,0,0,0,6.27,AF Cup of Nations
+3,Sory Kaba,2021-22,26,FW,Guinea,3,1,72,0,0,0,6.26,AF Cup of Nations
+4,Aliou Dieng,2021-22,24,Substitute,Mali,2,0,21,0,0,0,6.26,AF Cup of Nations
+5,Abubeker Nasir,2021-22,21,Striker,Ethiopia,3,3,262,0,0,0,6.25,AF Cup of Nations
+6,Daniel Amartey,2021-22,27,"D(CR),DMC",Ghana,3,3,270,0,0,0,6.25,AF Cup of Nations
+7,Kelvin Madzongwe,2021-22,32,M(CLR),Zimbabwe,2,2,180,0,0,0,6.25,AF Cup of Nations
+8,Mehdi Tahrat,2021-22,31,DMC,Algeria,1,0,36,0,0,0,6.25,AF Cup of Nations
+9,Wilfried Kanon,2021-22,28,D(CL),Ivory Coast,1,0,22,0,0,0,6.25,AF Cup of Nations
+0,Zakaria Sanogo,2021-22,25,FW,Burkina Faso,5,0,133,0,0,0,6.25,AF Cup of Nations
+1,Andy Yiadom,2021-22,30,"D(CLR),M(R)",Ghana,3,3,261,0,0,0,6.25,AF Cup of Nations
+2,Kamaldeen Sulemana,2021-22,19,AM(L),Ghana,3,3,207,0,0,0,6.25,AF Cup of Nations
+3,Jérôme Onguéné,2021-22,24,D(C),Cameroon,2,2,211,0,0,0,6.25,AF Cup of Nations
+4,Christian Kouamé,2021-22,24,"AM(LR),FW",Ivory Coast,2,0,26,0,0,0,6.24,AF Cup of Nations
+5,Umaru Bangura,2021-22,34,D(C),Sierra Leone,3,3,270,0,0,0,6.24,AF Cup of Nations
+6,Nenass,2021-22,26,M(CLR),Cape Verde,1,0,12,0,0,0,6.24,AF Cup of Nations
+7,Lassana Coulibaly,2021-22,25,M(CL),Mali,2,1,55,0,0,0,6.24,AF Cup of Nations
+8,Richard Mbulu,2021-22,27,Substitute,Malawi,4,1,159,0,0,0,6.24,AF Cup of Nations
+9,Naïm Sliti,2021-22,29,AM(CL),Tunisia,3,1,145,0,0,0,6.23,AF Cup of Nations
+0,Chimwemwe Idana,2021-22,23,M(CLR),Malawi,4,4,334,0,0,0,6.23,AF Cup of Nations
+1,Farid Boulaya,2021-22,28,"AM(CLR),FW",Algeria,3,0,62,0,0,0,6.23,AF Cup of Nations
+2,Jean Onana,2021-22,22,DMC,Cameroon,4,1,143,0,0,0,6.23,AF Cup of Nations
+3,Serey Dié,2021-22,37,DMC,Ivory Coast,4,0,140,0,0,0,6.23,AF Cup of Nations
+4,Hannibal Mejbri,2021-22,18,AM(C),Tunisia,2,1,68,0,0,0,6.23,AF Cup of Nations
+5,Sullay Kaikai,2021-22,26,"M(CLR),FW",Sierra Leone,2,0,13,0,0,0,6.23,AF Cup of Nations
+6,Fouad Bachirou,2021-22,31,DMC,Comoros,4,3,312,0,0,0,6.22,AF Cup of Nations
+7,Jean-Noël Amonome,2021-22,24,GK,Gabon,4,4,391,0,1,0,6.22,AF Cup of Nations
+8,Almike N'Diaye,2021-22,25,FW,Mauritania,2,2,125,0,0,0,6.22,AF Cup of Nations
+9,Issa Kallon,2021-22,26,AM(L),Sierra Leone,2,0,33,0,0,0,6.22,AF Cup of Nations
+0,Muhammed Badamosi,2021-22,23,FW,Gambia,3,1,91,0,0,0,6.22,AF Cup of Nations
+1,Pape Sarr,2021-22,19,AM(C),Senegal,1,0,13,0,0,0,6.22,AF Cup of Nations
+2,Pedro Oba,2021-22,25,Substitute,Equatorial Guinea,1,0,9,0,0,0,6.22,AF Cup of Nations
+3,Ibroihim Youssouf,2021-22,27,Substitute,Comoros,3,1,62,0,1,0,6.22,AF Cup of Nations
+4,Algozoli Hussien,2021-22,19,Substitute,Sudan,2,0,69,0,0,0,6.22,AF Cup of Nations
+5,Sofiane Feghouli,2021-22,32,M(CR),Algeria,2,2,128,0,0,0,6.22,AF Cup of Nations
+6,Lisandro Semedo,2021-22,25,"AM(R),FW",Cape Verde,3,1,70,0,0,0,6.21,AF Cup of Nations
+7,Joseph Mendes,2021-22,30,FW,Guinea-Bissau,1,1,73,0,0,0,6.21,AF Cup of Nations
+8,Mohamed Sobhi,2021-22,22,Substitute,Egypt,1,0,24,0,0,0,6.21,AF Cup of Nations
+9,Soufiane Rahimi,2021-22,25,forward,Morocco,2,0,55,0,0,0,6.21,AF Cup of Nations
+0,Khuda Muyaba,2021-22,28,Striker,Malawi,4,4,269,0,0,0,6.21,AF Cup of Nations
+1,Mohamed Youssouf,2021-22,33,D(R),Comoros,4,3,246,0,0,0,6.20,AF Cup of Nations
+2,Fali Candé,2021-22,23,"D(L),M(L)",Guinea-Bissau,3,3,270,0,0,0,6.20,AF Cup of Nations
+3,Ebrima Sohna,2021-22,33,Substitute,Gambia,1,1,46,0,0,0,6.19,AF Cup of Nations
+4,Ismaël Bennacer,2021-22,24,DMC,Algeria,2,2,152,0,0,0,6.19,AF Cup of Nations
+5,Gerald Phiri,2021-22,28,Substitute,Malawi,3,0,59,0,0,0,6.19,AF Cup of Nations
+6,Willy Semedo,2021-22,27,FW,Cape Verde,3,1,110,0,0,0,6.19,AF Cup of Nations
+7,Morgan Guilavogui,2021-22,23,FW,Guinea,2,1,97,0,0,0,6.19,AF Cup of Nations
+8,Ryan Mmaee,2021-22,24,FW,Morocco,2,0,71,0,0,0,6.19,AF Cup of Nations
+9,Mohamed Konaté,2021-22,24,FW,Burkina Faso,5,0,117,0,0,0,6.18,AF Cup of Nations
+0,Gumaa Abas,2021-22,27,M(CLR),Sudan,3,2,181,0,0,0,6.18,AF Cup of Nations
+1,Ramadan Sobhi,2021-22,24,AM(CL),Egypt,3,0,99,0,0,0,6.18,AF Cup of Nations
+2,Leonel Alves,2021-22,33,Substitute,Guinea-Bissau,2,0,26,0,0,0,6.18,AF Cup of Nations
+3,Harouna Abou Demba,2021-22,30,D(CLR),Mauritania,3,2,174,0,0,0,6.17,AF Cup of Nations
+4,Saidy Janko,2021-22,26,"D(R),M(R)",Gambia,3,2,135,0,0,0,6.17,AF Cup of Nations
+5,Junior Assoumou,2021-22,26,M(CLR),Gabon,2,2,180,0,0,0,6.16,AF Cup of Nations
+6,Dorian Hanza,2021-22,20,Striker,Equatorial Guinea,4,3,226,0,0,0,6.16,AF Cup of Nations
+7,Joseph Lopy,2021-22,29,DMC,Senegal,2,0,17,0,0,0,6.16,AF Cup of Nations
+8,Peter Muduhwa,2021-22,28,Substitute,Zimbabwe,1,1,90,0,0,0,6.15,AF Cup of Nations
+9,Joseph Paintsil,2021-22,23,"AM(LR),FW",Ghana,3,1,142,0,0,0,6.14,AF Cup of Nations
+0,Bezabih Melayu,2021-22,26,Substitute,Ethiopia,3,0,55,0,0,0,6.14,AF Cup of Nations
+1,Vózinha,2021-22,35,GK,Cape Verde,3,3,237,0,0,0,6.14,AF Cup of Nations
+2,Olivier Mbaizo,2021-22,24,D(R),Cameroon,3,1,130,0,0,0,6.14,AF Cup of Nations
+3,Modou Barrow,2021-22,29,"AM(LR),FW",Gambia,4,2,198,0,0,0,6.14,AF Cup of Nations
+4,Aly Abeid,2021-22,24,D(CLR),Mauritania,3,3,194,0,0,0,6.13,AF Cup of Nations
+5,Alex Moucketou-Moussounda,2021-22,21,Substitute,Gabon,3,2,124,0,0,0,6.13,AF Cup of Nations
+6,Dhiya Mahjoub,2021-22,26,Substitute,Sudan,3,1,136,0,0,0,6.13,AF Cup of Nations
+7,Iyad Mohamed,2021-22,20,M(CLR),Comoros,1,1,46,0,0,0,6.13,AF Cup of Nations
+8,Mahmoud Alaa,2021-22,31,D(CLR),Egypt,1,0,30,0,0,0,6.13,AF Cup of Nations
+9,Mohamed Hakeem,2021-22,25,Substitute,Sudan,1,0,2,0,0,0,6.13,AF Cup of Nations
+0,Pa Konaté,2021-22,27,D(L),Guinea,2,1,85,0,0,0,6.13,AF Cup of Nations
+1,Ramadan Yusef,2021-22,20,D(CLR),Ethiopia,3,3,252,0,0,0,6.13,AF Cup of Nations
+2,Yacine Bourhane,2021-22,23,M(CLR),Comoros,1,0,31,0,0,0,6.13,AF Cup of Nations
+3,Aymen Barkok,2021-22,23,AM(CR),Morocco,3,1,147,0,0,0,6.12,AF Cup of Nations
+4,Mignot Debebe,2021-22,26,Substitute,Ethiopia,2,1,166,0,0,0,6.12,AF Cup of Nations
+5,Mohamed Hussein,2021-22,23,Substitute,Sudan,2,1,72,0,0,0,6.12,AF Cup of Nations
+6,Fitsum Alemu,2021-22,25,Substitute,Ethiopia,1,0,28,0,0,0,6.11,AF Cup of Nations
+7,Amanuel Yohannes,2021-22,22,M(CLR),Ethiopia,3,3,270,0,0,0,6.11,AF Cup of Nations
+8,Christian Bassogog,2021-22,26,"AM(R),FW",Cameroon,5,1,115,0,0,0,6.10,AF Cup of Nations
+9,Mujib Kassim,2021-22,26,Substitute,Ethiopia,1,0,8,0,0,0,6.09,AF Cup of Nations
+0,Saidu Fofanah,2021-22,24,Substitute,Sierra Leone,1,0,14,0,0,0,6.09,AF Cup of Nations
+1,Mustafa Elfadni,2021-22,22,D(CLR),Sudan,3,3,270,0,0,0,6.09,AF Cup of Nations
+2,Frédéric Mendy,2021-22,33,"AM(L),FW",Guinea-Bissau,3,0,50,0,0,0,6.08,AF Cup of Nations
+3,Bubacarr Sanneh,2021-22,27,D(C),Gambia,1,0,8,0,0,0,6.08,AF Cup of Nations
+4,Houcine Benayada,2021-22,29,Substitute,Algeria,1,0,10,0,0,0,6.08,AF Cup of Nations
+5,Benjamin Tetteh,2021-22,24,"AM(L),FW",Ghana,2,0,5,0,0,0,6.08,AF Cup of Nations
+6,Robin Ngalande,2021-22,29,Substitute,Malawi,2,0,20,0,0,0,6.07,AF Cup of Nations
+7,Henry Onyekuru,2021-22,24,"AM(LR),FW",Nigeria,1,0,5,0,0,0,6.07,AF Cup of Nations
+8,Jordan Zemura,2021-22,22,D(L),Zimbabwe,2,1,98,0,0,0,6.07,AF Cup of Nations
+9,Kalifa Coulibaly,2021-22,30,FW,Mali,2,0,33,0,0,0,6.07,AF Cup of Nations
+0,Maduka Okoye,2021-22,22,GK,Nigeria,3,3,270,0,0,0,6.07,AF Cup of Nations
+1,Munir Mohamedi,2021-22,32,GK,Morocco,1,1,90,0,0,0,6.07,AF Cup of Nations
+2,Habib Diallo,2021-22,26,"AM(R),FW",Senegal,3,1,102,0,0,0,6.07,AF Cup of Nations
+3,Djoumoi Moussa,2021-22,22,Substitute,Comoros,3,0,26,0,0,0,6.06,AF Cup of Nations
+4,Álex Balboa,2021-22,20,M(CLR),Equatorial Guinea,1,0,5,0,0,0,6.06,AF Cup of Nations
+5,Sharif Omar,2021-22,29,Substitute,Sudan,2,0,22,0,0,0,6.06,AF Cup of Nations
+6,Ahmed Musa,2021-22,29,"M(CLR),FW",Nigeria,2,0,27,0,0,0,6.05,AF Cup of Nations
+7,Dembo Darboe,2021-22,23,FW,Gambia,1,0,26,0,0,0,6.05,AF Cup of Nations
+8,Samuel Owusu,2021-22,25,FW,Ghana,1,0,9,0,0,0,6.05,AF Cup of Nations
+9,Stain Davie,2021-22,23,Substitute,Malawi,1,0,11,0,0,0,6.05,AF Cup of Nations
+0,Clinton N'Jie,2021-22,28,"AM(LR),FW",Cameroon,6,0,133,0,0,0,6.05,AF Cup of Nations
+1,Bubacarr Jobe,2021-22,27,Substitute,Gambia,2,0,13,0,0,0,6.05,AF Cup of Nations
+2,Issoufou Dayo,2021-22,30,D(CLR),Burkina Faso,4,4,360,0,0,0,6.05,AF Cup of Nations
+3,Omar Rekik,2021-22,20,D(CLR),Tunisia,2,0,10,0,0,0,6.05,AF Cup of Nations
+4,Prince Dube,2021-22,24,Striker,Zimbabwe,2,1,62,0,0,0,6.05,AF Cup of Nations
+5,Jérémie Boga,2021-22,25,"AM(CLR),FW",Ivory Coast,1,0,49,0,0,0,6.04,AF Cup of Nations
+6,Keita Baldé,2021-22,26,"AM(LR),FW",Senegal,2,1,65,0,0,0,6.04,AF Cup of Nations
+7,Petros Mhari,2021-22,32,GK,Zimbabwe,2,2,180,0,0,0,6.04,AF Cup of Nations
+8,Pape Bâ,2021-22,29,FW,Mauritania,3,2,225,0,0,0,6.03,AF Cup of Nations
+9,Ali M'Madi,2021-22,31,FW,Comoros,1,0,2,0,0,0,6.03,AF Cup of Nations
+0,Charles Petro,2021-22,20,D(CLR),Malawi,1,0,6,0,0,0,6.03,AF Cup of Nations
+1,Idrissa Thiam,2021-22,21,FW,Mauritania,3,2,174,0,0,0,6.03,AF Cup of Nations
+2,Issam Jebali,2021-22,30,"AM(C),FW",Tunisia,2,0,20,0,0,0,6.03,AF Cup of Nations
+3,Mohamed Sherif,2021-22,25,Substitute,Egypt,4,0,57,0,0,0,6.03,AF Cup of Nations
+4,Yvan Neyou,2021-22,25,DMC,Cameroon,2,0,5,0,0,0,6.03,AF Cup of Nations
+5,Takudzwa Chimwemwe,2021-22,29,M(CLR),Zimbabwe,3,2,182,0,0,0,6.02,AF Cup of Nations
+6,Jean Evrard Kouassi,2021-22,27,"AM(LR),FW",Ivory Coast,1,0,8,0,0,0,6.02,AF Cup of Nations
+7,Ulrick Eneme-Ella,2021-22,20,FW,Gabon,2,0,47,0,0,0,6.02,AF Cup of Nations
+8,Surafel Dagnachew,2021-22,24,M(CLR),Ethiopia,3,3,203,0,0,0,6.02,AF Cup of Nations
+9,Mohammed Jallow-Mbye,2021-22,32,Substitute,Gambia,2,1,47,0,0,0,6.02,AF Cup of Nations
+0,Alfa Semedo,2021-22,24,"D(C),M(C)",Guinea-Bissau,1,0,21,0,0,0,6.01,AF Cup of Nations
+1,Abdelkader Bedrane,2021-22,29,D(CLR),Algeria,2,2,136,0,0,0,6.00,AF Cup of Nations
+2,Anthony Mfa Mezui,2021-22,30,GK,Gabon,1,1,1,0,0,0,6.00,AF Cup of Nations
+3,Dramane Nikièma,2021-22,33,Substitute,Burkina Faso,1,0,1,0,0,0,6.00,AF Cup of Nations
+4,Farouk Ben Mustapha,2021-22,32,GK,Tunisia,1,1,1,0,0,0,6.00,AF Cup of Nations
+5,Lamin Jallow,2021-22,26,FW,Gambia,1,0,16,0,0,0,6.00,AF Cup of Nations
+6,James Léa Siliki,2021-22,25,M(CLR),Cameroon,4,0,116,0,0,0,5.99,AF Cup of Nations
+7,Abu Diaby Dumbuya,2021-22,22,Substitute,Sierra Leone,1,1,46,0,0,0,5.99,AF Cup of Nations
+8,David Sambissa,2021-22,26,M(R),Gabon,1,0,12,0,0,0,5.99,AF Cup of Nations
+9,Mauro Rodrigues,2021-22,20,Substitute,Guinea-Bissau,2,0,4,0,0,0,5.99,AF Cup of Nations
+0,Mory Konaté,2021-22,28,DMC,Guinea,1,0,12,0,0,0,5.99,AF Cup of Nations
+1,Nadjim Abdou,2021-22,37,"D(R),DMC",Comoros,4,2,112,0,0,0,5.99,AF Cup of Nations
+2,João Paulo,2021-22,23,Substitute,Cape Verde,1,0,23,0,0,0,5.98,AF Cup of Nations
+3,M'Backé N'Diaye,2021-22,27,Substitute,Mauritania,1,0,9,0,0,0,5.98,AF Cup of Nations
+4,Musab Eisa,2021-22,28,Striker,Sudan,1,1,46,0,0,0,5.98,AF Cup of Nations
+5,Beyatt Lekweiry,2021-22,16,Substitute,Mauritania,1,0,28,0,0,0,5.97,AF Cup of Nations
+6,Kévin Mayi,2021-22,29,"AM(LR),FW",Gabon,1,0,2,0,0,0,5.97,AF Cup of Nations
+7,Luis Meseguer,2021-22,22,D(CLR),Equatorial Guinea,1,0,1,0,0,0,5.97,AF Cup of Nations
+8,Mark Fodyah,2021-22,24,Substitute,Malawi,1,0,11,0,0,0,5.97,AF Cup of Nations
+9,Zebron Kalima,2021-22,19,Substitute,Malawi,1,0,10,0,0,0,5.97,AF Cup of Nations
+0,Faïz Mattoir,2021-22,21,FW,Comoros,3,0,92,0,0,0,5.96,AF Cup of Nations
+1,Abdallahi Mahmoud,2021-22,21,M(CLR),Mauritania,1,1,59,0,0,0,5.96,AF Cup of Nations
+2,Ibrahima Sory Conté,2021-22,30,AM(LR),Guinea,1,0,24,0,0,0,5.96,AF Cup of Nations
+3,Islam Slimani,2021-22,33,FW,Algeria,3,1,135,0,0,0,5.96,AF Cup of Nations
+4,Willis Furtado,2021-22,24,Striker,Cape Verde,1,0,12,0,0,0,5.96,AF Cup of Nations
+5,Manuel Sapunga,2021-22,29,GK,Equatorial Guinea,1,1,90,0,0,0,5.96,AF Cup of Nations
+6,Houssen Abderrahmane,2021-22,26,Substitute,Mauritania,1,1,90,0,0,0,5.95,AF Cup of Nations
+7,Vagner,2021-22,26,FW,Cape Verde,1,0,4,0,0,0,5.95,AF Cup of Nations
+8,Yoann Touzghar,2021-22,35,FW,Tunisia,1,0,11,0,0,0,5.95,AF Cup of Nations
+9,Shemekit Gugesa,2021-22,27,Substitute,Ethiopia,1,0,17,0,0,0,5.94,AF Cup of Nations
+0,Jorginho,2021-22,26,AM(R),Guinea-Bissau,2,1,101,0,0,0,5.94,AF Cup of Nations
+1,Abdoul Tapsoba,2021-22,20,FW,Burkina Faso,5,3,267,0,0,0,5.94,AF Cup of Nations
+2,Óscar Siafá,2021-22,24,Substitute,Equatorial Guinea,2,1,54,0,0,0,5.93,AF Cup of Nations
+3,Emilio Nsue,2021-22,32,"D(R),M(R),FW",Equatorial Guinea,4,2,245,0,0,0,5.92,AF Cup of Nations
+4,El Hassan Houbeib,2021-22,28,D(CLR),Mauritania,2,2,170,0,0,0,5.92,AF Cup of Nations
+5,Mesud Mohammed,2021-22,31,M(CLR),Ethiopia,2,2,87,0,0,0,5.92,AF Cup of Nations
+6,Mohamed Dellahi,2021-22,24,M(CLR),Mauritania,3,3,270,0,0,0,5.91,AF Cup of Nations
+7,Ryan Mendes,2021-22,32,"AM(LR),FW",Cape Verde,2,1,92,0,0,0,5.91,AF Cup of Nations
+8,Souleymane Karamoko,2021-22,29,D(CLR),Mauritania,3,1,119,0,0,0,5.91,AF Cup of Nations
+9,Yasin Hamed,2021-22,22,Striker,Sudan,3,2,175,0,0,0,5.88,AF Cup of Nations
+0,Eric Traoré,2021-22,25,midfielder,Burkina Faso,1,0,35,0,0,0,5.88,AF Cup of Nations
+1,Pelé,2021-22,30,M(C),Guinea-Bissau,1,1,85,0,0,0,5.88,AF Cup of Nations
+2,Firew Solomon,2021-22,29,Substitute,Ethiopia,2,0,73,0,0,0,5.88,AF Cup of Nations
+3,Ignatius Ganago,2021-22,22,"AM(LR),FW",Cameroon,2,1,66,0,0,0,5.87,AF Cup of Nations
+4,Mouhamed Soueid,2021-22,30,Substitute,Mauritania,2,1,138,0,0,0,5.86,AF Cup of Nations
+5,Saïd Benrahma,2021-22,26,AM(CLR),Algeria,2,1,53,0,0,0,5.85,AF Cup of Nations
+6,Joseph Wollacott,2021-22,25,GK,Ghana,3,3,270,0,0,0,5.82,AF Cup of Nations
+7,Abdoulkader Thiam,2021-22,23,D(CLR),Mauritania,2,2,156,0,0,0,5.81,AF Cup of Nations
+8,El Bilal Touré,2021-22,20,FW,Mali,2,0,43,0,0,0,5.81,AF Cup of Nations
+9,Alex Iwobi,2021-22,25,M(CLR),Nigeria,4,1,143,0,0,0,5.80,AF Cup of Nations
+0,Yared Bayeh,2021-22,26,D(CLR),Ethiopia,2,2,102,0,0,0,5.80,AF Cup of Nations
+1,Hamed Traorè,2021-22,21,AM(CLR),Ivory Coast,1,0,17,0,0,0,5.78,AF Cup of Nations
+2,Ilias Chair,2021-22,24,"AM(CLR),FW",Morocco,1,1,31,0,0,0,5.78,AF Cup of Nations
+3,Kassim Abdallah,2021-22,34,D(R),Comoros,1,1,46,0,0,0,5.77,AF Cup of Nations
+4,Yannis N’Gakoutou-Yapende,2021-22,23,D(CLR),Gabon,1,0,37,0,0,0,5.73,AF Cup of Nations
+5,Hemeya Tanjy,2021-22,23,Substitute,Mauritania,1,0,31,0,0,0,5.65,AF Cup of Nations
+6,Sidney Obissa,2021-22,21,D(CLR),Gabon,2,2,157,0,0,0,5.61,AF Cup of Nations
+7,Saïdou Simporé,2021-22,29,Substitute,Burkina Faso,1,0,39,0,0,0,5.43,AF Cup of Nations
+8,Sofian Chakla,2021-22,28,D(C),Morocco,1,1,89,0,0,0,5.21,AF Cup of Nations
+9,Aboubacar Sawadogo,2021-22,32,keeper,Burkina Faso,1,0,28,0,0,0,5.14,AF Cup of Nations
+0,Yusupha Njie,2021-22,27,"AM(CL),FW",Gambia,1,0,15,0,0,0,4.66,AF Cup of Nations

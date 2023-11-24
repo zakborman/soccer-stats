@@ -1,0 +1,608 @@
+,Player,Season,Age,Position,Team,Apps,Starts,Mins,Goals,Assists,MotM,Rating,Competition
+0,Armand Laurienté,2022-23,25,"AM(LR),FW",Lorient,3,3,269,1,0,3,8.61,FRA Ligue 1
+1,Lionel Messi,2022-23,37,"AM(CR),FW",PSG,32,32,2842,16,16,14,8.28,FRA Ligue 1
+2,Kylian Mbappé,2022-23,25,"AM(LR),FW",PSG,34,32,2822,29,5,7,7.80,FRA Ligue 1
+3,Martin Terrier,2022-23,27,"AM(CL),FW",Rennes,16,16,1330,9,4,7,7.71,FRA Ligue 1
+4,Neymar,2022-23,32,"AM(CLR),FW",PSG,20,18,1553,13,11,3,7.71,FRA Ligue 1
+5,Sofiane Diop,2022-23,24,AM(CLR),Monaco,1,1,66,1,0,0,7.56,FRA Ligue 1
+6,Dango Ouattara,2022-23,22,AM(LR),Lorient,18,18,1552,6,5,4,7.44,FRA Ligue 1
+7,Alexandre Lacazette,2022-23,33,"M(CLR),FW",Lyon,35,34,2938,27,5,5,7.42,FRA Ligue 1
+8,Rémy Cabella,2022-23,34,"M(CLR),FW",Lille,32,28,2535,7,10,5,7.38,FRA Ligue 1
+9,Lucas Paquetá,2022-23,27,"M(CLR),FW",Lyon,2,2,161,0,0,0,7.32,FRA Ligue 1
+0,Téji Savanier,2022-23,32,M(C),Montpellier,30,30,2557,12,4,7,7.28,FRA Ligue 1
+1,Enzo Le Fée,2022-23,24,M(CLR),Lorient,35,35,3039,5,5,5,7.26,FRA Ligue 1
+2,Romain Faivre,2022-23,26,AM(CLR),Lorient,16,14,1253,5,3,2,7.22,FRA Ligue 1
+3,Terem Moffi,2022-23,25,"AM(R),FW",Nice,16,15,1334,6,3,3,7.21,FRA Ligue 1
+4,Joaquín Blázquez,2022-23,23,GK,Brest,1,1,90,0,0,0,7.19,FRA Ligue 1
+5,Jonathan David,2022-23,24,"AM(C),FW",Lille,37,36,3179,24,4,5,7.18,FRA Ligue 1
+6,Benjamin André,2022-23,34,"D(R),M(CLR)",Lille,34,33,2919,1,1,3,7.16,FRA Ligue 1
+7,Benjamin Lecomte,2022-23,33,GK,Montpellier,19,19,1710,0,0,1,7.15,FRA Ligue 1
+8,Benjamin Bourigeaud,2022-23,30,M(CLR),Rennes,37,37,3084,7,10,4,7.15,FRA Ligue 1
+9,Issiaga Sylla,2022-23,30,"D(LR),M(L)",Montpellier,15,15,1306,1,3,1,7.15,FRA Ligue 1
+0,Florian Sotoca,2022-23,33,"M(CR),FW",Lens,38,34,3064,7,9,4,7.13,FRA Ligue 1
+1,Amine Gouiri,2022-23,24,"AM(L),FW",Rennes,33,29,2532,15,3,1,7.12,FRA Ligue 1
+2,Gaëtan Laborde,2022-23,30,"AM(CLR),FW",Nice,33,28,2514,13,3,4,7.12,FRA Ligue 1
+3,Aleksandr Golovin,2022-23,28,M(CLR),Monaco,34,29,2484,8,7,3,7.11,FRA Ligue 1
+4,Seko Fofana,2022-23,29,M(C),Lens,35,34,3079,7,5,4,7.10,FRA Ligue 1
+5,Kiki Kouyaté,2022-23,27,D(C),Montpellier,15,15,1259,0,0,2,7.10,FRA Ligue 1
+6,Ghjuvanni Quilichini,2022-23,22,GK,AC Ajaccio,1,0,81,0,0,0,7.10,FRA Ligue 1
+7,Andrei Girotto,2022-23,32,"D(C),DMC",Nantes,36,36,3153,1,1,4,7.09,FRA Ligue 1
+8,Edon Zhegrova,2022-23,25,AM(R),Lille,22,11,1056,3,4,2,7.08,FRA Ligue 1
+9,Donovan Léon,2022-23,31,GK,Auxerre,2,2,180,0,0,0,7.08,FRA Ligue 1
+0,Branco van den Boomen,2022-23,29,DMC,Toulouse,35,32,2893,5,8,1,7.08,FRA Ligue 1
+1,Jérémy Doku,2022-23,22,AM(LR),Rennes,29,13,1287,6,2,4,7.08,FRA Ligue 1
+2,Jean-Ricner Bellegarde,2022-23,26,M(CLR),Strasbourg,30,29,2428,2,6,5,7.07,FRA Ligue 1
+3,Steve Mounié,2022-23,29,FW,Brest,23,20,1662,6,0,2,7.07,FRA Ligue 1
+4,Wissam Ben Yedder,2022-23,34,"AM(C),FW",Monaco,32,28,2130,19,6,4,7.07,FRA Ligue 1
+5,Fabien Centonze,2022-23,28,"D(R),M(R)",Nantes,23,19,1693,0,0,1,7.06,FRA Ligue 1
+6,Nathan Ngoumou,2022-23,24,AM(R),Toulouse,1,1,90,0,0,0,7.06,FRA Ligue 1
+7,Sofiane Boufal,2022-23,30,"AM(CLR),FW",Angers,13,9,838,4,3,3,7.06,FRA Ligue 1
+8,Nuno Mendes,2022-23,22,"D(L),M(L)",PSG,23,18,1554,1,5,0,7.04,FRA Ligue 1
+9,Maxence Caqueret,2022-23,24,M(C),Lyon,36,32,2778,4,7,2,7.04,FRA Ligue 1
+0,Alexis Sánchez,2022-23,35,"M(CLR),FW",Marseille,35,32,2699,14,3,6,7.04,FRA Ligue 1
+1,Habib Diallo,2022-23,29,"AM(R),FW",Strasbourg,37,32,2880,20,1,5,7.04,FRA Ligue 1
+2,Nabil Bentaleb,2022-23,29,M(C),Angers,30,29,2492,4,4,4,7.03,FRA Ligue 1
+3,Przemyslaw Frankowski,2022-23,29,"D(R),M(CLR)",Lens,37,31,2838,5,3,3,7.03,FRA Ligue 1
+4,Ludovic Blas,2022-23,26,"M(CLR),FW",Nantes,37,30,2821,7,5,3,7.01,FRA Ligue 1
+5,Terem Moffi,2022-23,25,"AM(R),FW",Lorient,18,17,1398,12,0,1,7.01,FRA Ligue 1
+6,Valentin Rongier,2022-23,29,"D(R),M(C)",Marseille,36,34,3034,1,2,1,7.00,FRA Ligue 1
+7,Franck Honorat,2022-23,28,"M(LR),FW",Brest,33,29,2546,6,5,3,7.00,FRA Ligue 1
+8,Rayan Cherki,2022-23,21,AM(CLR),Lyon,34,21,1874,4,6,3,6.99,FRA Ligue 1
+9,Loïs Openda,2022-23,24,FW,Lens,38,29,2529,21,4,6,6.99,FRA Ligue 1
+0,Pierre Lees-Melou,2022-23,31,M(CLR),Brest,32,32,2773,5,5,3,6.99,FRA Ligue 1
+1,Hicham Boudaoui,2022-23,24,M(CR),Nice,27,22,1882,1,2,0,6.97,FRA Ligue 1
+2,Nicolas Pépé,2022-23,29,"AM(LR),FW",Nice,19,17,1529,6,0,1,6.96,FRA Ligue 1
+3,Jonathan Clauss,2022-23,31,"D(R),M(LR)",Marseille,34,32,2604,2,9,2,6.95,FRA Ligue 1
+4,Jonathan Gradit,2022-23,31,D(CR),Lens,33,33,2830,1,3,0,6.95,FRA Ligue 1
+5,Dante,2022-23,40,D(C),Nice,37,37,3300,1,2,0,6.94,FRA Ligue 1
+6,Yunis Abdelhamid,2022-23,36,D(C),Reims,37,37,3330,1,2,1,6.94,FRA Ligue 1
+7,Rasmus Nicolaisen,2022-23,27,D(C),Toulouse,34,34,2997,0,2,1,6.94,FRA Ligue 1
+8,Achraf Hakimi,2022-23,25,"D(LR),M(R)",PSG,28,23,2053,5,3,0,6.94,FRA Ligue 1
+9,Yehvann Diouf,2022-23,24,GK,Reims,31,31,2790,0,0,2,6.94,FRA Ligue 1
+0,Kevin Danso,2022-23,25,D(C),Lens,37,37,3234,1,2,2,6.94,FRA Ligue 1
+1,Bradley Barcola,2022-23,22,AM(R),Lyon,26,15,1438,5,8,3,6.94,FRA Ligue 1
+2,Marco Verratti,2022-23,31,M(C),PSG,29,27,2206,0,0,0,6.94,FRA Ligue 1
+3,Vanderson,2022-23,23,"D(R),M(R)",Monaco,31,24,2220,1,4,2,6.93,FRA Ligue 1
+4,Kenny Lala,2022-23,32,"D(LR),M(R)",Brest,17,16,1419,0,2,0,6.93,FRA Ligue 1
+5,Tetê,2022-23,24,AM(R),Lyon,17,14,1114,6,2,2,6.93,FRA Ligue 1
+6,Adrien Thomasson,2022-23,30,M(CLR),Lens,20,16,1288,5,5,0,6.92,FRA Ligue 1
+7,Alexander Djiku,2022-23,30,"D(CR),DMC",Strasbourg,31,31,2681,1,2,1,6.92,FRA Ligue 1
+8,Caio Henrique,2022-23,27,"D(L),M(CL)",Monaco,35,32,2898,1,9,2,6.92,FRA Ligue 1
+9,Karl Toko Ekambi,2022-23,31,"AM(LR),FW",Lyon,19,15,1357,4,2,2,6.91,FRA Ligue 1
+0,Jonathan Bamba,2022-23,28,"AM(CLR),FW",Lille,34,32,2790,6,7,2,6.91,FRA Ligue 1
+1,Dejan Lovren,2022-23,35,D(C),Lyon,17,17,1462,1,0,0,6.91,FRA Ligue 1
+2,Neto Borges,2022-23,27,"D(L),M(L)",Clermont Foot,33,33,2840,3,1,4,6.91,FRA Ligue 1
+3,Khéphren Thuram,2022-23,23,"DMC,M(L)",Nice,35,30,2560,2,4,1,6.91,FRA Ligue 1
+4,Folarin Balogun,2022-23,23,FW,Reims,37,34,3013,21,2,4,6.90,FRA Ligue 1
+5,Azor Matusiwa,2022-23,26,DMC,Reims,30,29,2492,0,0,0,6.89,FRA Ligue 1
+6,Mateusz Lis,2022-23,27,GK,Troyes,9,8,749,0,0,0,6.89,FRA Ligue 1
+7,Youssouf Fofana,2022-23,25,DMC,Monaco,36,35,3089,2,2,0,6.89,FRA Ligue 1
+8,Fabián Ruiz,2022-23,28,M(CL),PSG,27,21,1899,3,2,1,6.89,FRA Ligue 1
+9,Junya Ito,2022-23,31,"AM(LR),FW",Reims,35,34,2930,6,5,3,6.89,FRA Ligue 1
+0,Romain Del Castillo,2022-23,28,"AM(CLR),FW",Brest,27,16,1429,6,6,2,6.88,FRA Ligue 1
+1,Gianluigi Donnarumma,2022-23,25,GK,PSG,38,38,3410,0,0,3,6.88,FRA Ligue 1
+2,Marshall Munetsi,2022-23,28,"D(C),M(C)",Reims,34,31,2708,7,3,0,6.88,FRA Ligue 1
+3,Youcef Belaïli,2022-23,32,AM(L),AC Ajaccio,17,15,1162,6,3,2,6.88,FRA Ligue 1
+4,Paul Joly,2022-23,24,D(R),Auxerre,10,10,867,0,0,1,6.87,FRA Ligue 1
+5,Cengiz Ünder,2022-23,27,M(CLR),Marseille,37,28,2497,5,4,4,6.87,FRA Ligue 1
+6,Elye Wahi,2022-23,21,"AM(L),FW",Montpellier,33,29,2530,19,5,2,6.87,FRA Ligue 1
+7,Rony Lopes,2022-23,28,"AM(CLR),FW",Troyes,32,29,2360,7,5,2,6.87,FRA Ligue 1
+8,Nicolás Tagliafico,2022-23,32,"D(CL),M(L)",Lyon,34,34,2995,1,3,1,6.86,FRA Ligue 1
+9,Malo Gusto,2022-23,21,"D(R),M(R)",Lyon,21,19,1602,0,1,1,6.86,FRA Ligue 1
+0,Benoît Badiashile,2022-23,23,D(C),Monaco,11,9,839,2,0,0,6.86,FRA Ligue 1
+1,Gaëtan Laborde,2022-23,30,"AM(CLR),FW",Rennes,4,3,251,2,0,0,6.86,FRA Ligue 1
+2,Morgan Sanson,2022-23,30,M(CLR),Strasbourg,18,18,1429,1,2,0,6.86,FRA Ligue 1
+3,Nuno Tavares,2022-23,24,"D(L),M(L)",Marseille,31,23,2349,6,0,1,6.86,FRA Ligue 1
+4,Jordan Veretout,2022-23,31,M(C),Marseille,38,31,2864,4,3,1,6.85,FRA Ligue 1
+5,Andrei Radu,2022-23,27,GK,Auxerre,17,17,1530,0,0,1,6.84,FRA Ligue 1
+6,Baptiste Santamaría,2022-23,29,DMC,Rennes,25,20,1815,2,0,1,6.84,FRA Ligue 1
+7,Rafael Ratão,2022-23,28,AM(LR),Toulouse,30,25,1871,5,4,1,6.84,FRA Ligue 1
+8,Frédéric Guilbert,2022-23,29,"D(CLR),M(R)",Strasbourg,18,17,1465,0,1,0,6.84,FRA Ligue 1
+9,Axel Disasi,2022-23,26,D(C),Monaco,38,37,3330,3,3,1,6.83,FRA Ligue 1
+0,Samuel Gigot,2022-23,30,D(C),Marseille,26,24,1889,2,2,2,6.83,FRA Ligue 1
+1,Breel Embolo,2022-23,27,"AM(CR),FW",Monaco,32,19,1856,12,2,1,6.83,FRA Ligue 1
+2,Adrien Truffert,2022-23,22,"D(L),M(L)",Rennes,28,24,1962,0,6,1,6.83,FRA Ligue 1
+3,Ismaily,2022-23,34,D(L),Lille,23,21,1785,2,1,0,6.83,FRA Ligue 1
+4,Corentin Tolisso,2022-23,30,"D(R),M(CR)",Lyon,30,25,2050,1,2,1,6.82,FRA Ligue 1
+5,Jaouen Hadjam,2022-23,21,D(L),Nantes,13,8,806,0,1,0,6.82,FRA Ligue 1
+6,Alexis Flips,2022-23,24,M(CLR),Reims,33,28,1998,4,6,2,6.82,FRA Ligue 1
+7,Mory Diaw,2022-23,31,GK,Clermont Foot,37,37,3330,0,0,3,6.82,FRA Ligue 1
+8,Nathan Zézé,2022-23,19,D(CLR),Nantes,1,1,60,0,0,0,6.82,FRA Ligue 1
+9,Hamari Traoré,2022-23,32,"D(R),M(R)",Rennes,31,28,2531,1,4,0,6.82,FRA Ligue 1
+0,Djed Spence,2022-23,24,"D(R),M(R)",Rennes,8,7,575,0,0,0,6.82,FRA Ligue 1
+1,Sergio Ramos,2022-23,38,D(CR),PSG,33,31,2709,2,1,0,6.82,FRA Ligue 1
+2,Jordan Lotomba,2022-23,25,"D(LR),M(R)",Nice,33,27,2456,0,2,2,6.82,FRA Ligue 1
+3,Chancel Mbemba,2022-23,30,"D(CLR),DMC",Marseille,36,32,2850,5,0,1,6.82,FRA Ligue 1
+4,Angelo Fulgini,2022-23,28,"AM(CLR),FW",Lens,17,12,866,1,1,2,6.81,FRA Ligue 1
+5,Stijn Spierings,2022-23,28,M(C),Toulouse,36,35,3123,2,0,0,6.81,FRA Ligue 1
+6,Pau López,2022-23,29,GK,Marseille,33,32,2925,0,2,1,6.81,FRA Ligue 1
+7,Alban Lafont,2022-23,25,GK,Nantes,37,37,3330,0,0,5,6.81,FRA Ligue 1
+8,Luis Suárez,2022-23,26,"AM(L),FW",Marseille,7,2,291,3,1,0,6.81,FRA Ligue 1
+9,Florian Tardieu,2022-23,32,M(C),Troyes,15,11,1010,3,0,0,6.81,FRA Ligue 1
+0,Mikkel Desler,2022-23,29,D(R),Toulouse,27,26,2262,1,2,1,6.80,FRA Ligue 1
+1,Facundo Medina,2022-23,25,D(CL),Lens,32,32,2784,2,4,1,6.80,FRA Ligue 1
+2,Maxime Dupé,2022-23,31,GK,Toulouse,38,38,3420,0,0,4,6.80,FRA Ligue 1
+3,Adam Ounas,2022-23,27,"AM(CLR),FW",Lille,21,12,1065,1,1,1,6.80,FRA Ligue 1
+4,Brendan Chardonnet,2022-23,29,D(C),Brest,30,27,2489,0,0,0,6.79,FRA Ligue 1
+5,Montassar Talbi,2022-23,26,D(C),Lorient,38,38,3420,1,2,1,6.79,FRA Ligue 1
+6,Johan Gastien,2022-23,36,DMC,Clermont Foot,31,29,2607,4,3,2,6.79,FRA Ligue 1
+7,Alexsandro Ribeiro,2022-23,25,D(C),Lille,21,16,1611,3,0,2,6.79,FRA Ligue 1
+8,Salis Abdul Samed,2022-23,24,DMC,Lens,33,33,2897,1,1,0,6.79,FRA Ligue 1
+9,Emmanuel Agbadou,2022-23,27,"D(C),DMC",Reims,29,27,2390,0,3,1,6.79,FRA Ligue 1
+0,Kasper Schmeichel,2022-23,37,GK,Nice,36,36,3240,0,0,2,6.79,FRA Ligue 1
+1,Jean-Clair Todibo,2022-23,24,D(C),Nice,34,33,2873,0,0,1,6.79,FRA Ligue 1
+2,Mohamed Camara,2022-23,24,DMC,Monaco,29,25,2200,0,3,1,6.78,FRA Ligue 1
+3,Krépin Diatta,2022-23,25,"M(CLR),FW",Monaco,31,22,2079,4,2,1,6.78,FRA Ligue 1
+4,Himad Abdelli,2022-23,24,"AM(CL),FW",Angers,30,24,2141,2,2,3,6.78,FRA Ligue 1
+5,Rominigue Kouamé,2022-23,27,DMC,Troyes,32,31,2669,1,1,1,6.77,FRA Ligue 1
+6,Brice Samba,2022-23,30,GK,Lens,37,37,3330,0,0,1,6.77,FRA Ligue 1
+7,Arnaud Nordin,2022-23,26,"AM(CLR),FW",Montpellier,36,30,2419,9,3,1,6.76,FRA Ligue 1
+8,Danilo Pereira,2022-23,32,"D(C),DMC",PSG,33,27,2411,2,0,0,6.76,FRA Ligue 1
+9,Guillermo Maripán,2022-23,30,D(C),Monaco,26,25,2160,3,0,1,6.76,FRA Ligue 1
+0,Nordi Mukiele,2022-23,26,"D(CR),M(R)",PSG,19,12,1133,0,3,1,6.76,FRA Ligue 1
+1,Youcef Atal,2022-23,28,"D(R),M(R)",Nice,18,8,777,1,0,1,6.76,FRA Ligue 1
+2,Melvin Bard,2022-23,23,"D(L),M(L)",Nice,33,28,2460,0,0,0,6.75,FRA Ligue 1
+3,Sinaly Diomandé,2022-23,23,D(CR),Lyon,24,22,1959,0,0,0,6.75,FRA Ligue 1
+4,Alidu Seidu,2022-23,24,D(CR),Clermont Foot,28,28,2463,0,0,0,6.75,FRA Ligue 1
+5,Faitout Maouassa,2022-23,26,"D(L),M(LR)",Montpellier,33,23,1935,5,5,0,6.75,FRA Ligue 1
+6,Jimmy Cabot,2022-23,30,M(LR),Lens,11,5,508,0,1,2,6.75,FRA Ligue 1
+7,Sead Kolasinac,2022-23,31,"D(CL),DMC,M(L)",Marseille,33,26,2219,4,1,2,6.74,FRA Ligue 1
+8,Vitinha,2022-23,24,M(C),PSG,36,29,2461,2,3,0,6.74,FRA Ligue 1
+9,Christopher Jullien,2022-23,31,D(C),Montpellier,30,30,2696,0,2,0,6.74,FRA Ligue 1
+0,Saîf-Eddine Khaoui,2022-23,29,AM(CR),Clermont Foot,34,23,2036,7,3,2,6.74,FRA Ligue 1
+1,Jérémy Le Douaron,2022-23,26,"AM(L),FW",Brest,32,24,2080,10,3,2,6.73,FRA Ligue 1
+2,Azzedine Ounahi,2022-23,24,AM(CR),Angers,15,13,1137,0,0,0,6.73,FRA Ligue 1
+3,Castello Lukeba,2022-23,21,D(C),Lyon,34,33,2986,2,0,0,6.73,FRA Ligue 1
+4,Mama Baldé,2022-23,28,"D(R),M(CLR),FW",Troyes,34,30,2672,12,3,3,6.73,FRA Ligue 1
+5,Gideon Mensah,2022-23,26,"D(L),M(L)",Auxerre,26,26,2263,0,0,2,6.73,FRA Ligue 1
+6,Ante Palaversa,2022-23,24,DMC,Troyes,2,0,29,1,0,0,6.73,FRA Ligue 1
+7,Sofiane Diop,2022-23,24,AM(CLR),Nice,22,14,1231,1,4,1,6.73,FRA Ligue 1
+8,Jubal,2022-23,31,D(C),Auxerre,37,35,3216,3,1,2,6.73,FRA Ligue 1
+9,Leonardo Balerdi,2022-23,25,D(C),Marseille,35,30,2643,0,1,0,6.73,FRA Ligue 1
+0,Quentin Merlin,2022-23,22,"D(L),M(L)",Nantes,24,22,1803,1,2,1,6.73,FRA Ligue 1
+1,Badredine Bouanani,2022-23,19,AM(R),Nice,19,9,861,0,4,0,6.72,FRA Ligue 1
+2,Lovro Majer,2022-23,26,AM(CR),Rennes,32,18,1670,2,5,1,6.72,FRA Ligue 1
+3,Laurent Abergel,2022-23,31,DMC,Lorient,29,28,2351,0,1,0,6.72,FRA Ligue 1
+4,Deiver Machado,2022-23,31,M(L),Lens,33,26,2206,4,3,2,6.72,FRA Ligue 1
+5,Warmed Omari,2022-23,24,D(C),Rennes,16,15,1363,0,0,0,6.72,FRA Ligue 1
+6,Marquinhos,2022-23,30,"D(CR),DMC",PSG,33,30,2718,2,0,0,6.72,FRA Ligue 1
+7,Théo Sainte-Luce,2022-23,25,D(L),Montpellier,9,7,535,1,1,0,6.72,FRA Ligue 1
+8,Lucien Agoumé,2022-23,22,DMC,Troyes,15,14,1097,0,1,0,6.71,FRA Ligue 1
+9,Désiré Doué,2022-23,19,AM(C),Rennes,26,11,1116,3,1,1,6.71,FRA Ligue 1
+0,Vito Mannone,2022-23,36,GK,Lorient,18,17,1607,0,0,1,6.71,FRA Ligue 1
+1,Mario Lemina,2022-23,31,DMC,Nice,14,11,844,0,0,0,6.71,FRA Ligue 1
+2,Angel Gomes,2022-23,24,"M(CL),FW",Lille,36,34,2836,2,6,1,6.71,FRA Ligue 1
+3,Arthur Theate,2022-23,24,D(C),Rennes,35,35,3129,4,0,1,6.71,FRA Ligue 1
+4,André Gomes,2022-23,31,M(CLR),Lille,26,18,1628,3,2,1,6.71,FRA Ligue 1
+5,Steve Mandanda,2022-23,39,GK,Rennes,34,34,3016,0,1,2,6.70,FRA Ligue 1
+6,Marco Bizot,2022-23,33,GK,Brest,37,37,3330,0,0,3,6.70,FRA Ligue 1
+7,Zakaria Aboukhlal,2022-23,24,AM(LR),Toulouse,37,28,2480,10,5,3,6.70,FRA Ligue 1
+8,Farès Chaïbi,2022-23,21,AM(CL),Toulouse,36,24,2345,5,5,0,6.70,FRA Ligue 1
+9,Jean-Charles Castelletto,2022-23,29,D(C),Nantes,32,30,2569,0,0,0,6.69,FRA Ligue 1
+0,Aaron Ramsey,2022-23,33,M(CLR),Nice,27,18,1588,1,1,1,6.69,FRA Ligue 1
+1,Tiago Djaló,2022-23,24,D(CLR),Lille,25,24,2022,2,0,1,6.69,FRA Ligue 1
+2,Gédéon Kalulu,2022-23,27,"D(R),M(R)",Lorient,29,28,2442,0,4,1,6.69,FRA Ligue 1
+3,Han-Noah Massengo,2022-23,23,M(C),Auxerre,14,13,1119,0,0,0,6.69,FRA Ligue 1
+4,Nuno da Costa,2022-23,33,"AM(CLR),FW",Auxerre,33,23,2017,5,4,3,6.69,FRA Ligue 1
+5,Anthony Lopes,2022-23,33,GK,Lyon,32,32,2817,0,0,0,6.69,FRA Ligue 1
+6,Andy Delort,2022-23,32,"AM(R),FW",Nice,14,9,781,6,1,0,6.68,FRA Ligue 1
+7,Jeffinho,2022-23,24,AM(L),Lyon,9,4,443,1,0,0,6.68,FRA Ligue 1
+8,Alexander Nübel,2022-23,27,GK,Monaco,38,38,3420,0,0,1,6.68,FRA Ligue 1
+9,Jonas Omlin,2022-23,30,GK,Montpellier,14,14,1168,0,0,0,6.68,FRA Ligue 1
+0,Karl Toko Ekambi,2022-23,31,"AM(LR),FW",Rennes,17,11,973,3,2,0,6.68,FRA Ligue 1
+1,Youssouf Ndayishimiye,2022-23,25,"D(C),DMC",Nice,10,6,566,1,0,0,6.68,FRA Ligue 1
+2,Joris Chotard,2022-23,22,DMC,Montpellier,35,26,2461,0,6,1,6.67,FRA Ligue 1
+3,Bamo Meïté,2022-23,23,D(C),Lorient,18,17,1504,1,0,1,6.67,FRA Ligue 1
+4,Nicolas Pallois,2022-23,36,D(C),Nantes,26,26,2217,1,0,1,6.67,FRA Ligue 1
+5,Dimitri Payet,2022-23,37,"M(CLR),FW",Marseille,24,9,828,4,3,2,6.67,FRA Ligue 1
+6,Bafodé Diakité,2022-23,23,D(CR),Lille,33,29,2656,3,0,1,6.66,FRA Ligue 1
+7,Chrislain Matsima,2022-23,22,D(C),Monaco,8,5,446,0,1,1,6.66,FRA Ligue 1
+8,Jeanuël Belocian,2022-23,19,D(L),Rennes,8,6,508,0,0,0,6.66,FRA Ligue 1
+9,Quentin Bernard,2022-23,35,D(L),Auxerre,7,7,630,0,1,0,6.66,FRA Ligue 1
+0,Lilian Brassier,2022-23,24,D(CL),Brest,36,35,3094,0,0,0,6.66,FRA Ligue 1
+1,Anthony Rouault,2022-23,23,D(C),Toulouse,37,37,3316,2,0,2,6.65,FRA Ligue 1
+2,Maximiliano Caufriez,2022-23,27,D(CR),Clermont Foot,26,25,2224,1,0,1,6.65,FRA Ligue 1
+3,Cheick Keita,2022-23,21,D(C),Reims,9,8,688,0,0,0,6.65,FRA Ligue 1
+4,Maxime Le Marchand,2022-23,34,D(CL),Strasbourg,26,23,2018,0,0,0,6.65,FRA Ligue 1
+5,Issiaga Sylla,2022-23,30,"D(LR),M(L)",Toulouse,17,16,1376,0,0,1,6.65,FRA Ligue 1
+6,Grejohn Kyei,2022-23,29,FW,Clermont Foot,37,26,2244,10,3,5,6.65,FRA Ligue 1
+7,Thijs Dallinga,2022-23,24,FW,Toulouse,36,28,2363,12,1,1,6.65,FRA Ligue 1
+8,Ruslan Malinovskyi,2022-23,31,"M(CLR),FW",Marseille,20,13,1232,1,1,0,6.65,FRA Ligue 1
+9,Ismaël Doukouré,2022-23,21,D(C),Strasbourg,28,25,2301,1,1,0,6.65,FRA Ligue 1
+0,Joe Rodon,2022-23,26,D(C),Rennes,16,16,1418,1,0,1,6.65,FRA Ligue 1
+1,Mostafa Mohamed,2022-23,26,FW,Nantes,36,18,1936,8,2,1,6.64,FRA Ligue 1
+2,Julien Laporte,2022-23,30,D(C),Lorient,20,19,1656,0,0,0,6.64,FRA Ligue 1
+3,Eliesse Ben Seghir,2022-23,19,FW,Monaco,19,13,1060,4,1,1,6.64,FRA Ligue 1
+4,Gabriel Suazo,2022-23,27,D(L),Toulouse,18,14,1258,0,1,0,6.63,FRA Ligue 1
+5,Vincent Le Goff,2022-23,34,"D(CL),M(L)",Lorient,37,37,3330,0,0,0,6.63,FRA Ligue 1
+6,Mahdi Camara,2022-23,26,"D(CR),M(C)",Brest,31,20,1825,2,0,0,6.63,FRA Ligue 1
+7,Mattéo Guendouzi,2022-23,25,M(C),Marseille,33,25,2113,2,4,0,6.63,FRA Ligue 1
+8,Hamza Sakhi,2022-23,28,AM(C),Auxerre,27,18,1660,1,2,2,6.63,FRA Ligue 1
+9,Lucas Chevalier,2022-23,22,GK,Lille,32,32,2880,0,0,0,6.63,FRA Ligue 1
+0,Flavien Tait,2022-23,31,M(CLR),Rennes,30,19,1685,2,2,1,6.62,FRA Ligue 1
+1,Arnaud Kalimuendo,2022-23,22,FW,Rennes,30,24,1862,7,3,1,6.62,FRA Ligue 1
+2,Christopher Wooh,2022-23,22,D(C),Rennes,13,12,1007,0,0,0,6.62,FRA Ligue 1
+3,Xavier Chavalerin,2022-23,33,"DMC,M(L)",Troyes,34,25,2422,4,2,0,6.62,FRA Ligue 1
+4,Matz Sels,2022-23,32,GK,Strasbourg,38,38,3420,0,0,2,6.61,FRA Ligue 1
+5,Wahbi Khazri,2022-23,33,"M(CLR),FW",Montpellier,27,20,1644,4,1,0,6.61,FRA Ligue 1
+6,Quentin Boisgard,2022-23,27,AM(CLR),Lorient,5,1,182,1,0,0,6.61,FRA Ligue 1
+7,Presnel Kimpembe,2022-23,29,D(C),PSG,11,9,731,0,0,0,6.61,FRA Ligue 1
+8,Isaak Touré,2022-23,21,D(C),Auxerre,19,18,1591,1,0,1,6.61,FRA Ligue 1
+9,Jens Cajuste,2022-23,25,DMC,Reims,31,14,1529,3,1,0,6.61,FRA Ligue 1
+0,Thiago Mendes,2022-23,32,"D(CR),M(CR)",Lyon,31,22,2065,1,1,0,6.61,FRA Ligue 1
+1,Saël Kumbedi,2022-23,19,D(R),Lyon,20,14,1317,0,2,0,6.61,FRA Ligue 1
+2,Mateusz Wieteska,2022-23,27,D(C),Clermont Foot,35,35,3120,0,1,1,6.61,FRA Ligue 1
+3,Thomas Foket,2022-23,29,"D(LR),M(R)",Reims,24,23,1983,0,1,0,6.61,FRA Ligue 1
+4,Juan Bernat,2022-23,31,"D(L),M(CL)",PSG,28,18,1648,1,4,0,6.61,FRA Ligue 1
+5,Gauthier Gallon,2022-23,31,GK,Troyes,30,30,2668,0,0,1,6.60,FRA Ligue 1
+6,Thibault De Smet,2022-23,26,"D(L),M(L)",Reims,22,20,1762,0,1,0,6.60,FRA Ligue 1
+7,Kevin Gameiro,2022-23,37,FW,Strasbourg,34,23,2103,10,0,1,6.60,FRA Ligue 1
+8,Yvon Mvogo,2022-23,30,GK,Lorient,21,21,1813,0,0,0,6.59,FRA Ligue 1
+9,Jackson Porozo,2022-23,24,D(C),Troyes,22,17,1616,2,0,1,6.59,FRA Ligue 1
+0,Habib Diarra,2022-23,20,AM(CR),Strasbourg,29,18,1628,3,2,1,6.59,FRA Ligue 1
+1,Birama Touré,2022-23,32,DMC,Auxerre,38,38,3405,2,0,0,6.59,FRA Ligue 1
+2,Lilian Raolisoa,2022-23,24,D(CLR),Angers,7,0,166,1,0,0,6.59,FRA Ligue 1
+3,Lucas Perrin,2022-23,25,D(C),Strasbourg,26,18,1763,0,1,0,6.59,FRA Ligue 1
+4,Hugo Ekitike,2022-23,22,FW,PSG,25,12,1155,3,4,0,6.59,FRA Ligue 1
+5,Jean Lucas,2022-23,26,M(C),Monaco,6,3,289,0,0,0,6.58,FRA Ligue 1
+6,Cheick Oumar Konate,2022-23,20,D(C),Clermont Foot,9,6,572,0,0,0,6.58,FRA Ligue 1
+7,Dénys Bain,2022-23,31,D(C),Auxerre,2,1,124,0,0,0,6.58,FRA Ligue 1
+8,Rhys Healey,2022-23,29,FW,Toulouse,4,0,61,2,0,0,6.58,FRA Ligue 1
+9,Bradley Locko,2022-23,22,"D(L),M(L)",Reims,15,13,1060,0,0,0,6.58,FRA Ligue 1
+0,José Fonte,2022-23,40,D(C),Lille,31,30,2593,1,0,1,6.58,FRA Ligue 1
+1,Yan Valery,2022-23,25,"D(CR),M(R)",Angers,30,30,2504,0,0,0,6.57,FRA Ligue 1
+2,Elbasan Rashani,2022-23,31,AM(CLR),Clermont Foot,32,26,2173,3,3,1,6.57,FRA Ligue 1
+3,Ludovic Ajorque,2022-23,30,FW,Strasbourg,13,9,772,1,0,0,6.57,FRA Ligue 1
+4,Loïc Badé,2022-23,24,D(C),Rennes,1,1,90,0,1,0,6.57,FRA Ligue 1
+5,Issa Kaboré,2022-23,23,"D(R),M(R)",Marseille,22,9,1022,1,0,0,6.57,FRA Ligue 1
+6,Yahia Fofana,2022-23,24,GK,Angers,11,11,990,0,0,0,6.57,FRA Ligue 1
+7,Ignatius Ganago,2022-23,25,"AM(LR),FW",Nantes,28,16,1520,5,3,0,6.56,FRA Ligue 1
+8,Mounaïm El Idrissy,2022-23,25,FW,AC Ajaccio,32,30,2509,6,0,2,6.56,FRA Ligue 1
+9,Alexis Claude-Maurice,2022-23,26,AM(CL),Lens,20,5,597,5,3,1,6.56,FRA Ligue 1
+0,Andreaw Gravillon,2022-23,26,D(CR),Reims,13,12,1040,0,0,0,6.56,FRA Ligue 1
+1,Mathias Autret,2022-23,33,M(CLR),Auxerre,23,16,1302,2,2,0,6.56,FRA Ligue 1
+2,Yusuf Yazici,2022-23,27,"M(CLR),FW",Lille,4,3,202,1,1,0,6.55,FRA Ligue 1
+3,Bingourou Kamara,2022-23,27,GK,Montpellier,5,4,407,0,0,1,6.55,FRA Ligue 1
+4,Muhammed Cham,2022-23,23,AM(C),Clermont Foot,38,23,1976,7,4,1,6.55,FRA Ligue 1
+5,Jordan Ferri,2022-23,32,M(C),Montpellier,34,32,2749,1,2,1,6.55,FRA Ligue 1
+6,Renaud Ripart,2022-23,31,"D(R),M(CLR),FW",Troyes,26,15,1319,4,1,0,6.55,FRA Ligue 1
+7,Moses Simon,2022-23,29,"M(CLR),FW",Nantes,34,28,2359,5,4,1,6.55,FRA Ligue 1
+8,Thomas Delaine,2022-23,32,"D(L),M(LR)",Strasbourg,17,13,1078,0,2,0,6.55,FRA Ligue 1
+9,Leandro Paredes,2022-23,30,DMC,PSG,3,0,49,0,1,0,6.55,FRA Ligue 1
+0,Maxime Gonalons,2022-23,35,"D(C),M(C)",Clermont Foot,25,19,1457,1,0,1,6.55,FRA Ligue 1
+1,Faouzi Ghoulam,2022-23,33,D(L),Angers,7,6,482,0,0,0,6.55,FRA Ligue 1
+2,Jean-Kévin Duverne,2022-23,27,D(CLR),Brest,34,27,2514,0,0,0,6.54,FRA Ligue 1
+3,Ross Barkley,2022-23,30,M(CLR),Nice,27,9,923,4,2,0,6.54,FRA Ligue 1
+4,Nicolas Cozza,2022-23,25,D(CL),Montpellier,17,14,1275,2,1,0,6.54,FRA Ligue 1
+5,Stephy Mavididi,2022-23,26,"AM(LR),FW",Montpellier,26,14,1285,4,2,0,6.54,FRA Ligue 1
+6,Jean-Louis Leca,2022-23,38,GK,Lens,1,1,90,0,0,0,6.54,FRA Ligue 1
+7,Amine Harit,2022-23,27,"AM(CLR),FW",Marseille,10,6,515,0,0,0,6.54,FRA Ligue 1
+8,Henrique,2022-23,30,"D(L),M(L)",Lyon,7,3,353,0,1,0,6.54,FRA Ligue 1
+9,Rémy Riou,2022-23,37,GK,Lyon,7,6,601,0,0,0,6.54,FRA Ligue 1
+0,Edan Diop,2022-23,20,M(CLR),Monaco,7,1,220,1,0,0,6.53,FRA Ligue 1
+1,David Pereira da Costa,2022-23,23,AM(CL),Lens,31,16,1410,1,3,0,6.53,FRA Ligue 1
+2,Maxime Estève,2022-23,22,D(C),Montpellier,23,18,1645,0,0,2,6.53,FRA Ligue 1
+3,Timothy Weah,2022-23,24,"D(LR),M(LR),FW",Lille,29,18,1748,0,2,0,6.53,FRA Ligue 1
+4,Gabriel Gudmundsson,2022-23,25,"D(L),M(LR)",Lille,18,9,832,0,0,0,6.53,FRA Ligue 1
+5,Mohamed Youssouf,2022-23,36,D(R),AC Ajaccio,30,27,2457,0,0,1,6.53,FRA Ligue 1
+6,Igor Silva,2022-23,28,"D(R),M(R)",Lorient,7,5,457,0,0,1,6.53,FRA Ligue 1
+7,Noah Fadiga,2022-23,24,D(R),Brest,21,16,1312,1,0,1,6.52,FRA Ligue 1
+8,Falaye Sacko,2022-23,29,"D(CR),M(R)",Montpellier,35,29,2580,1,3,0,6.52,FRA Ligue 1
+9,Dimitri Liénard,2022-23,36,"D(L),M(CL)",Strasbourg,28,18,1546,0,0,0,6.52,FRA Ligue 1
+0,Florent Mollet,2022-23,32,AM(CLR),Nantes,19,11,1090,1,2,0,6.52,FRA Ligue 1
+1,Antoine Mendy,2022-23,20,D(R),Nice,11,7,520,0,1,0,6.52,FRA Ligue 1
+2,Pedro Chirivella,2022-23,27,DMC,Nantes,26,25,2042,0,1,0,6.52,FRA Ligue 1
+3,Akim Zedadka,2022-23,29,"D(R),M(R)",Auxerre,20,19,1603,0,0,0,6.51,FRA Ligue 1
+4,Rayan Raveloson,2022-23,27,"D(CR),DMC",Auxerre,34,27,2427,2,1,1,6.51,FRA Ligue 1
+5,Pape Gueye,2022-23,25,DMC,Marseille,14,4,486,1,1,0,6.51,FRA Ligue 1
+6,Ronaël Pierre-Gabriel,2022-23,26,"D(CLR),M(R)",Strasbourg,14,7,653,0,1,0,6.50,FRA Ligue 1
+7,Kamory Doumbia,2022-23,21,AM(C),Reims,26,13,1158,2,2,0,6.50,FRA Ligue 1
+8,Haris Belkebla,2022-23,30,DMC,Brest,38,30,2658,2,0,0,6.50,FRA Ligue 1
+9,Evann Guessand,2022-23,23,"AM(R),FW",Nantes,30,15,1257,3,2,1,6.50,FRA Ligue 1
+0,Brecht Dejaegere,2022-23,33,AM(C),Toulouse,30,25,1827,4,1,0,6.50,FRA Ligue 1
+1,Jean Onana,2022-23,24,DMC,Lens,21,9,807,0,0,0,6.50,FRA Ligue 1
+2,Kenji-Van Boto,2022-23,28,D(CLR),Auxerre,2,2,180,0,0,0,6.49,FRA Ligue 1
+3,Yohann Magnin,2022-23,27,DMC,Clermont Foot,38,25,2393,0,0,0,6.49,FRA Ligue 1
+4,Johann Lepenant,2022-23,21,DMC,Lyon,31,21,1935,1,2,0,6.49,FRA Ligue 1
+5,Mickaël Barreto,2022-23,33,M(C),AC Ajaccio,20,15,1328,1,1,0,6.49,FRA Ligue 1
+6,Vincent Marchetti,2022-23,27,M(C),AC Ajaccio,31,29,2463,0,2,0,6.49,FRA Ligue 1
+7,Arkadiusz Milik,2022-23,30,"AM(C),FW",Marseille,2,2,131,0,0,0,6.49,FRA Ligue 1
+8,Bamba Dieng,2022-23,24,"AM(L),FW",Lorient,15,9,749,3,0,0,6.48,FRA Ligue 1
+9,Lesley Ugochukwu,2022-23,20,DMC,Rennes,26,14,1330,0,1,0,6.48,FRA Ligue 1
+0,Théo Le Bris,2022-23,21,M(L),Lorient,27,15,1451,2,2,0,6.48,FRA Ligue 1
+1,Sanjin Prcic,2022-23,30,M(C),Strasbourg,29,17,1633,1,1,0,6.48,FRA Ligue 1
+2,Gerson,2022-23,27,M(CLR),Marseille,10,6,420,2,0,0,6.48,FRA Ligue 1
+3,Massadio Haïdara,2022-23,31,"D(CL),M(L)",Lens,36,17,1657,0,1,0,6.47,FRA Ligue 1
+4,Xeka,2022-23,29,M(C),Rennes,8,6,551,0,0,0,6.47,FRA Ligue 1
+5,Aiman Maurer,2022-23,19,AM(C),Clermont Foot,10,6,504,0,1,0,6.47,FRA Ligue 1
+6,Youssouf Koné,2022-23,29,"D(CL),M(L)",AC Ajaccio,13,12,922,0,0,0,6.47,FRA Ligue 1
+7,Gaetan Perrin,2022-23,28,AM(CL),Auxerre,37,15,1388,3,1,1,6.47,FRA Ligue 1
+8,Kamaldeen Sulemana,2022-23,22,"AM(L),FW",Rennes,14,2,317,1,0,0,6.47,FRA Ligue 1
+9,Reda Belahyane,2022-23,20,M(CLR),Nice,4,1,179,0,0,0,6.47,FRA Ligue 1
+0,Damien da Silva,2022-23,36,D(C),Lyon,7,3,336,0,0,0,6.46,FRA Ligue 1
+1,Abdu Conté,2022-23,26,"D(CL),M(L)",Troyes,19,15,1317,1,2,0,6.46,FRA Ligue 1
+2,Ibrahima Koné,2022-23,25,FW,Lorient,37,15,1569,7,1,0,6.46,FRA Ligue 1
+3,Carlos Soler,2022-23,27,M(CLR),PSG,26,14,1188,3,2,1,6.46,FRA Ligue 1
+4,Yuito Suzuki,2022-23,22,M(CLR),Strasbourg,3,0,34,1,0,0,6.46,FRA Ligue 1
+5,Hugo Magnetti,2022-23,26,DMC,Brest,32,19,1688,1,2,0,6.46,FRA Ligue 1
+6,Mehdi Zeffane,2022-23,32,"D(LR),M(R)",Clermont Foot,18,7,656,1,1,0,6.46,FRA Ligue 1
+7,Stéphane Diarra,2022-23,25,AM(R),Lorient,28,14,1070,2,0,1,6.46,FRA Ligue 1
+8,Mathias Pereira Lage,2022-23,27,M(CLR),Brest,24,16,1272,2,1,0,6.45,FRA Ligue 1
+9,Jim Allevinah,2022-23,29,M(LR),Clermont Foot,36,25,2248,1,1,0,6.45,FRA Ligue 1
+0,Wesley Saïd,2022-23,29,"AM(CLR),FW",Lens,21,6,638,5,0,0,6.45,FRA Ligue 1
+1,Léo Leroy,2022-23,24,DMC,Montpellier,27,14,1189,0,0,0,6.45,FRA Ligue 1
+2,Achraf Dari,2022-23,25,D(C),Brest,18,15,1317,1,0,0,6.45,FRA Ligue 1
+3,Kays Ruiz-Atil,2022-23,22,M(CLR),Auxerre,1,1,63,0,0,0,6.45,FRA Ligue 1
+4,Yasser Larouci,2022-23,23,"D(L),M(L)",Troyes,30,21,1800,1,1,0,6.45,FRA Ligue 1
+5,Warren Kamanzi,2022-23,23,D(CLR),Toulouse,11,7,662,0,0,0,6.45,FRA Ligue 1
+6,Myziane Maolida,2022-23,25,"AM(LR),FW",Reims,9,2,227,1,0,0,6.44,FRA Ligue 1
+7,Leny Yoro,2022-23,18,D(C),Lille,13,8,768,0,0,0,6.44,FRA Ligue 1
+8,Fernand Mayembo,2022-23,28,D(C),AC Ajaccio,11,8,707,0,0,0,6.44,FRA Ligue 1
+9,Colin Dagba,2022-23,25,"D(R),M(R)",Strasbourg,21,12,960,0,0,0,6.44,FRA Ligue 1
+0,Bradley Locko,2022-23,22,"D(L),M(L)",Brest,7,2,270,0,0,0,6.44,FRA Ligue 1
+1,Takumi Minamino,2022-23,29,"AM(CLR),FW",Monaco,18,10,726,1,3,0,6.44,FRA Ligue 1
+2,Eduard Sobol,2022-23,29,"D(L),M(L)",Strasbourg,15,9,869,0,1,0,6.44,FRA Ligue 1
+3,Rudy Kohon,2022-23,20,D(CLR),Troyes,1,0,63,0,0,0,6.44,FRA Ligue 1
+4,Bevic Moussiti-Oko,2022-23,29,FW,AC Ajaccio,17,7,696,1,0,1,6.44,FRA Ligue 1
+5,Jean-Victor Makengo,2022-23,26,M(CL),Lorient,15,12,1067,0,0,0,6.44,FRA Ligue 1
+6,Gerzino Nyamsi,2022-23,27,D(C),Strasbourg,20,19,1580,1,1,1,6.44,FRA Ligue 1
+7,Renato Sanches,2022-23,27,M(CR),PSG,23,6,705,2,0,0,6.43,FRA Ligue 1
+8,Jean-Eudes Aholou,2022-23,30,DMC,Strasbourg,30,16,1301,3,1,1,6.43,FRA Ligue 1
+9,Yoann Salmier,2022-23,31,D(C),Troyes,32,31,2652,1,0,0,6.43,FRA Ligue 1
+0,Mattia Viti,2022-23,22,D(C),Nice,9,7,634,1,0,0,6.43,FRA Ligue 1
+1,Wilson Odobert,2022-23,19,AM(CL),Troyes,32,19,1767,4,2,0,6.43,FRA Ligue 1
+2,Jere Uronen,2022-23,30,"D(L),M(L)",Brest,6,3,298,0,1,0,6.43,FRA Ligue 1
+3,Rubén Blanco,2022-23,29,GK,Marseille,6,6,496,0,0,0,6.43,FRA Ligue 1
+4,Kevin Volland,2022-23,32,"AM(CLR),FW",Monaco,17,7,638,3,2,1,6.43,FRA Ligue 1
+5,Dion Lopy,2022-23,22,DMC,Reims,29,16,1377,0,1,0,6.43,FRA Ligue 1
+6,Jodel Dossou,2022-23,32,AM(R),Clermont Foot,9,2,254,1,0,0,6.43,FRA Ligue 1
+7,Darline Yongwa,2022-23,23,M(L),Lorient,14,8,778,1,1,1,6.43,FRA Ligue 1
+8,Houssem Aouar,2022-23,26,M(CL),Lyon,16,6,522,1,1,0,6.42,FRA Ligue 1
+9,Jean-Claude Billong,2022-23,30,D(C),Clermont Foot,1,0,22,0,0,0,6.42,FRA Ligue 1
+0,Miha Blazic,2022-23,31,D(C),Angers,24,22,1980,2,0,0,6.42,FRA Ligue 1
+1,Logan Costa,2022-23,23,D(C),Toulouse,6,4,414,0,0,0,6.42,FRA Ligue 1
+2,Samuel Moutoussamy,2022-23,28,M(CL),Nantes,35,27,2403,0,2,0,6.42,FRA Ligue 1
+3,Calvin Stengs,2022-23,25,M(CR),Nice,4,3,214,0,0,0,6.42,FRA Ligue 1
+4,Adil Rami,2022-23,38,D(C),Troyes,20,18,1600,0,1,0,6.41,FRA Ligue 1
+5,Ibrahima Sissoko,2022-23,26,"D(C),DMC",Strasbourg,26,13,1306,0,2,0,6.41,FRA Ligue 1
+6,Cédric Bakambu,2022-23,33,"AM(LR),FW",Marseille,3,0,56,0,1,0,6.41,FRA Ligue 1
+7,Ibrahim Diakité,2022-23,20,D(CLR),Reims,3,1,132,0,0,0,6.41,FRA Ligue 1
+8,Youcef Belaïli,2022-23,32,AM(L),Brest,6,4,359,0,2,0,6.41,FRA Ligue 1
+9,Soungoutou Magassa,2022-23,20,M(CLR),Monaco,2,0,80,0,0,0,6.40,FRA Ligue 1
+0,Paul Bernardoni,2022-23,27,GK,Angers,27,27,2430,0,0,1,6.40,FRA Ligue 1
+1,Julian Jeanvier,2022-23,32,D(C),Auxerre,22,20,1763,1,0,0,6.40,FRA Ligue 1
+2,Jeff Reine-Adélaïde,2022-23,26,"AM(CLR),FW",Lyon,14,1,325,0,0,0,6.40,FRA Ligue 1
+3,Lassine Sinayoko,2022-23,24,AM(R),Auxerre,33,16,1569,1,2,0,6.40,FRA Ligue 1
+4,Pablo Rosario,2022-23,27,"D(C),DMC",Nice,31,17,1760,0,1,0,6.40,FRA Ligue 1
+5,Adrien Thomasson,2022-23,30,M(CLR),Strasbourg,15,10,938,0,2,0,6.39,FRA Ligue 1
+6,Julien Ponceau,2022-23,23,AM(C),Lorient,31,20,1663,1,4,0,6.39,FRA Ligue 1
+7,Souleyman Doumbia,2022-23,27,"D(L),M(L)",Angers,24,21,1793,0,0,0,6.39,FRA Ligue 1
+8,Cyrille Bayala,2022-23,28,AM(R),AC Ajaccio,33,25,2017,1,1,0,6.39,FRA Ligue 1
+9,Akim Zedadka,2022-23,29,"D(R),M(R)",Lille,8,4,353,1,0,0,6.39,FRA Ligue 1
+0,Arbër Zeneli,2022-23,29,"AM(LR),FW",Reims,23,12,1003,0,2,1,6.39,FRA Ligue 1
+1,Billal Brahimi,2022-23,24,"AM(L),FW",Nice,26,5,786,3,2,1,6.39,FRA Ligue 1
+2,Oumar Gonzalez,2022-23,26,D(C),AC Ajaccio,30,29,2579,0,0,0,6.39,FRA Ligue 1
+3,Vincent Sierro,2022-23,28,DMC,Toulouse,15,7,662,0,0,0,6.39,FRA Ligue 1
+4,Sacha Delaye,2022-23,22,FW,Montpellier,3,0,17,1,0,0,6.39,FRA Ligue 1
+5,Siriki Dembélé,2022-23,28,"AM(CL),FW",Auxerre,12,4,370,0,0,0,6.39,FRA Ligue 1
+6,Moussa Sissoko,2022-23,35,M(CR),Nantes,30,22,1923,2,0,1,6.38,FRA Ligue 1
+7,Thierno Baldé,2022-23,22,"D(R),M(R)",Troyes,31,25,2161,0,1,0,6.38,FRA Ligue 1
+8,Alexandre Coeff,2022-23,32,D(CR),Auxerre,7,6,583,0,1,1,6.38,FRA Ligue 1
+9,Matis Carvalho,2022-23,25,GK,Montpellier,2,1,134,0,0,0,6.38,FRA Ligue 1
+0,Yoann Cathline,2022-23,22,AM(L),Lorient,23,11,1085,1,1,0,6.38,FRA Ligue 1
+1,Ibrahima Niane,2022-23,25,"AM(L),FW",Angers,16,15,1147,2,0,0,6.38,FRA Ligue 1
+2,Abdallah Sima,2022-23,23,"AM(R),FW",Angers,34,19,1833,5,1,0,6.38,FRA Ligue 1
+3,Christophe Hérelle,2022-23,32,D(CR),Brest,16,12,1060,0,0,0,6.38,FRA Ligue 1
+4,Brayann Pereira,2022-23,21,D(CLR),Auxerre,2,2,180,0,0,0,6.38,FRA Ligue 1
+5,Birger Meling,2022-23,29,"D(LR),DMC",Rennes,27,10,1200,0,1,0,6.37,FRA Ligue 1
+6,Wout Faes,2022-23,26,D(C),Reims,3,3,270,0,0,0,6.37,FRA Ligue 1
+7,Bamba Dieng,2022-23,24,"AM(L),FW",Marseille,10,1,188,1,0,1,6.37,FRA Ligue 1
+8,Adrien Hunou,2022-23,30,"AM(CLR),FW",Angers,34,28,2248,4,1,0,6.37,FRA Ligue 1
+9,Cédric Hountondji,2022-23,30,D(C),Angers,36,35,3097,0,0,0,6.37,FRA Ligue 1
+0,Vítinha,2022-23,24,FW,Marseille,14,5,460,2,0,0,6.37,FRA Ligue 1
+1,Eric Bailly,2022-23,30,D(CR),Marseille,17,5,539,0,0,0,6.37,FRA Ligue 1
+2,Tanguy Zoukrou,2022-23,21,D(C),Troyes,8,5,509,0,0,0,6.37,FRA Ligue 1
+3,Pierrick Capelle,2022-23,37,"D(L),M(CLR)",Angers,26,15,1424,0,3,0,6.36,FRA Ligue 1
+4,Romain Faivre,2022-23,26,AM(CLR),Lyon,10,3,297,0,1,0,6.36,FRA Ligue 1
+5,Franci Bouebari,2022-23,20,D(CLR),Strasbourg,2,0,74,0,0,0,6.36,FRA Ligue 1
+6,Ismaël Diallo,2022-23,27,D(L),AC Ajaccio,28,25,2183,0,0,0,6.36,FRA Ligue 1
+7,Batista Mendy,2022-23,24,"D(C),DMC",Angers,35,35,2871,0,0,0,6.35,FRA Ligue 1
+8,Amine Salama,2022-23,24,FW,Angers,25,12,1245,3,1,0,6.35,FRA Ligue 1
+9,Mitchell van Bergen,2022-23,25,"AM(LR),FW",Reims,28,6,889,0,1,0,6.35,FRA Ligue 1
+0,Amine Gouiri,2022-23,24,"AM(L),FW",Nice,3,3,228,0,0,0,6.35,FRA Ligue 1
+1,Mickaël Alphonse,2022-23,35,D(LR),AC Ajaccio,26,14,1357,0,0,1,6.35,FRA Ligue 1
+2,Moussa Diarra,2022-23,23,D(CL),Toulouse,23,12,1222,0,1,0,6.35,FRA Ligue 1
+3,Denis Genreau,2022-23,25,AM(C),Toulouse,20,7,654,0,1,0,6.35,FRA Ligue 1
+4,Rémy Descamps,2022-23,28,GK,Nantes,2,2,91,0,0,0,6.35,FRA Ligue 1
+5,Jeff Reine-Adélaïde,2022-23,26,"AM(CLR),FW",Troyes,6,3,233,0,1,0,6.34,FRA Ligue 1
+6,João Victor,2022-23,26,D(CR),Nantes,13,9,840,0,1,0,6.34,FRA Ligue 1
+7,Komnen Andric,2022-23,29,FW,Clermont Foot,34,16,1442,4,3,0,6.34,FRA Ligue 1
+8,Ruben Aguilar,2022-23,31,"D(R),M(R)",Monaco,20,14,1176,0,0,0,6.34,FRA Ligue 1
+9,Maxime Busi,2022-23,24,"D(R),M(R)",Reims,21,11,1041,0,1,1,6.34,FRA Ligue 1
+0,Khalil Fayad,2022-23,20,DMC,Montpellier,24,7,707,0,2,0,6.34,FRA Ligue 1
+1,Dennis Appiah,2022-23,32,"D(CLR),M(R)",Nantes,15,9,796,0,0,0,6.34,FRA Ligue 1
+2,Bonke Innocent,2022-23,28,DMC,Lorient,25,14,1183,0,1,0,6.34,FRA Ligue 1
+3,Erik Palmer-Brown,2022-23,27,D(C),Troyes,38,36,3194,0,0,0,6.34,FRA Ligue 1
+4,Amin Sarr,2022-23,23,"AM(L),FW",Lyon,13,6,537,1,1,0,6.33,FRA Ligue 1
+5,Timothée Pembélé,2022-23,21,"D(R),M(R)",PSG,5,4,265,0,1,0,6.33,FRA Ligue 1
+6,Florent Ogier,2022-23,35,D(C),Clermont Foot,26,18,1695,0,1,0,6.33,FRA Ligue 1
+7,Nordine Kandil,2022-23,22,M(CLR),Strasbourg,7,0,94,0,1,0,6.33,FRA Ligue 1
+8,Jérôme Boateng,2022-23,36,D(CR),Lyon,8,6,432,0,0,0,6.33,FRA Ligue 1
+9,Gauthier Hein,2022-23,28,AM(CR),Auxerre,35,23,1886,2,0,0,6.33,FRA Ligue 1
+0,Azzedine Ounahi,2022-23,24,AM(CR),Marseille,7,1,117,1,0,0,6.32,FRA Ligue 1
+1,Arnaud Souquet,2022-23,32,"D(CR),M(R)",Montpellier,12,3,355,0,0,0,6.32,FRA Ligue 1
+2,Thomas Mangani,2022-23,37,M(C),AC Ajaccio,26,14,1329,1,1,0,6.32,FRA Ligue 1
+3,Moussa Dembélé,2022-23,28,FW,Lyon,23,8,866,3,0,0,6.32,FRA Ligue 1
+4,Benoît Costil,2022-23,37,GK,Auxerre,19,19,1710,0,0,0,6.32,FRA Ligue 1
+5,Alexis Beka Beka,2022-23,23,DMC,Nice,14,7,546,0,0,0,6.32,FRA Ligue 1
+6,Enzo Tchato,2022-23,21,D(R),Montpellier,21,11,1094,1,1,0,6.32,FRA Ligue 1
+7,Marcus Coco,2022-23,28,"M(LR),FW",Nantes,26,6,629,1,0,0,6.32,FRA Ligue 1
+8,Malang Sarr,2022-23,25,D(CL),Monaco,13,8,713,0,0,0,6.32,FRA Ligue 1
+9,Romain Hamouma,2022-23,37,"M(CLR),FW",AC Ajaccio,19,14,1091,2,2,0,6.31,FRA Ligue 1
+0,Papa Ndiaga Yade,2022-23,24,M(L),Troyes,14,6,566,0,2,0,6.31,FRA Ligue 1
+1,Farid El Melali,2022-23,27,"D(R),M(R)",Angers,17,9,809,0,0,0,6.31,FRA Ligue 1
+2,M'Baye Niang,2022-23,29,"AM(LR),FW",Auxerre,30,17,1486,6,0,0,6.31,FRA Ligue 1
+3,Warren Zaïre-Emery,2022-23,18,"DMC,M(R)",PSG,26,8,919,2,0,0,6.31,FRA Ligue 1
+4,Gelson Martins,2022-23,29,M(LR),Monaco,11,3,341,0,0,0,6.31,FRA Ligue 1
+5,Mamadou Sakho,2022-23,34,D(C),Montpellier,15,7,762,1,0,0,6.30,FRA Ligue 1
+6,Julien Le Cardinal,2022-23,27,D(CLR),Lens,8,2,162,0,0,0,6.30,FRA Ligue 1
+7,Clément Vidal,2022-23,24,D(C),AC Ajaccio,26,21,1901,1,0,1,6.29,FRA Ligue 1
+8,Ibrahim Salah,2022-23,23,FW,Rennes,13,1,218,0,0,0,6.29,FRA Ligue 1
+9,Myron Boadu,2022-23,23,FW,Monaco,12,3,290,3,0,0,6.29,FRA Ligue 1
+0,Youssouf M'Changama,2022-23,34,M(C),Auxerre,26,11,1079,0,0,0,6.29,FRA Ligue 1
+1,Mohamed Bayo,2022-23,26,FW,Lille,27,6,640,4,1,0,6.29,FRA Ligue 1
+2,Eliot Matazo,2022-23,22,DMC,Monaco,23,13,1176,1,0,0,6.29,FRA Ligue 1
+3,Ayoub Amraoui,2022-23,20,D(CLR),Nice,7,3,293,0,0,0,6.29,FRA Ligue 1
+4,Maghnes Akliouche,2022-23,22,M(CLR),Monaco,11,5,403,0,0,0,6.28,FRA Ligue 1
+5,Steven Fortès,2022-23,32,D(C),Lens,1,0,6,0,0,0,6.28,FRA Ligue 1
+6,Andy Delort,2022-23,32,"AM(R),FW",Nantes,12,6,471,0,0,0,6.28,FRA Ligue 1
+7,Jérémie Bela,2022-23,31,M(LR),Clermont Foot,19,7,737,1,1,0,6.28,FRA Ligue 1
+8,Ismail Jakobs,2022-23,25,"D(L),M(L)",Monaco,32,9,1102,0,2,0,6.27,FRA Ligue 1
+9,Yanis Cimignani,2022-23,22,M(CLR),AC Ajaccio,8,3,276,0,0,0,6.27,FRA Ligue 1
+0,Fallou Fall,2022-23,20,D(CLR),Reims,1,0,31,0,0,0,6.27,FRA Ligue 1
+1,Kévin Danois,2022-23,20,M(CLR),Auxerre,1,0,1,0,0,0,6.27,FRA Ligue 1
+2,Carlos Baleba,2022-23,20,DMC,Lille,19,5,472,0,0,0,6.27,FRA Ligue 1
+3,Sada Thioub,2022-23,29,"D(R),M(LR)",Angers,27,11,1056,1,2,0,6.26,FRA Ligue 1
+4,Andreas Bruus,2022-23,25,"D(R),M(R)",Troyes,27,18,1626,0,2,0,6.26,FRA Ligue 1
+5,Rares Ilie,2022-23,21,M(CLR),Nice,4,2,149,0,0,0,6.26,FRA Ligue 1
+6,Kevin Spadanuda,2022-23,27,M(L),AC Ajaccio,22,13,1069,0,1,0,6.26,FRA Ligue 1
+7,Sébastien Corchia,2022-23,33,"D(R),M(R)",Nantes,22,6,775,0,1,0,6.26,FRA Ligue 1
+8,Benjamin Leroy,2022-23,35,GK,AC Ajaccio,32,32,2799,0,0,1,6.26,FRA Ligue 1
+9,Marcin Bulka,2022-23,24,GK,Nice,2,2,180,0,0,0,6.26,FRA Ligue 1
+0,Siriné Doucouré,2022-23,22,FW,Lorient,12,0,126,0,1,0,6.25,FRA Ligue 1
+1,Ismaël Boura,2022-23,24,M(L),Lens,9,0,85,0,0,0,6.25,FRA Ligue 1
+2,Pablo Sarabia,2022-23,32,"D(L),M(CLR),FW",PSG,14,3,364,0,0,0,6.25,FRA Ligue 1
+3,Alexis Claude-Maurice,2022-23,26,AM(CL),Nice,2,1,64,0,0,0,6.25,FRA Ligue 1
+4,Ibrahim Amadou,2022-23,31,"D(C),DMC",Angers,7,4,422,0,0,0,6.25,FRA Ligue 1
+5,Oliver Zandén,2022-23,23,D(CLR),Toulouse,5,1,143,0,0,0,6.25,FRA Ligue 1
+6,Souleymane Cissé,2022-23,22,D(CLR),Clermont Foot,2,0,35,0,0,0,6.25,FRA Ligue 1
+7,Islam Slimani,2022-23,36,FW,Brest,16,11,989,1,1,0,6.25,FRA Ligue 1
+8,Charles Traoré,2022-23,32,"D(L),M(L)",Nantes,12,6,482,0,0,0,6.25,FRA Ligue 1
+9,Mathieu Coutadeur,2022-23,38,M(C),AC Ajaccio,27,22,1951,0,0,0,6.24,FRA Ligue 1
+0,Riad Nouri,2022-23,39,M(LR),AC Ajaccio,33,16,1692,1,1,0,6.24,FRA Ligue 1
+1,Ruan,2022-23,25,FW,AC Ajaccio,3,0,23,0,0,0,6.24,FRA Ligue 1
+2,Arial Mendy,2022-23,29,D(L),Clermont Foot,5,1,218,0,0,0,6.23,FRA Ligue 1
+3,Taïryk Arconte,2022-23,20,FW,Brest,4,1,126,0,0,0,6.23,FRA Ligue 1
+4,Valère Germain,2022-23,34,"AM(CLR),FW",Montpellier,31,5,673,2,0,0,6.23,FRA Ligue 1
+5,Matthis Abline,2022-23,21,FW,Auxerre,19,8,803,2,1,0,6.23,FRA Ligue 1
+6,Halid Sabanovic,2022-23,25,D(CLR),Angers,15,8,638,2,0,0,6.23,FRA Ligue 1
+7,Lebo Mothiba,2022-23,28,FW,Strasbourg,19,3,428,3,0,0,6.22,FRA Ligue 1
+8,Ado Onaiwu,2022-23,28,FW,Toulouse,34,9,1073,2,1,0,6.22,FRA Ligue 1
+9,Lukasz Poreba,2022-23,24,M(CLR),Lens,10,3,260,0,1,0,6.22,FRA Ligue 1
+0,Matthis Abline,2022-23,21,FW,Rennes,11,0,97,1,0,0,6.22,FRA Ligue 1
+1,Jonas Martin,2022-23,34,M(CL),Lille,12,2,272,0,0,0,6.22,FRA Ligue 1
+2,Ayman Kari,2022-23,19,M(CLR),Lorient,5,0,91,0,0,0,6.22,FRA Ligue 1
+3,Lois Diony,2022-23,31,"AM(L),FW",Angers,11,5,503,1,0,0,6.20,FRA Ligue 1
+4,Abdoulaye Bamba,2022-23,34,"D(CLR),M(R)",Angers,21,12,1359,0,0,0,6.20,FRA Ligue 1
+5,Gaëtan Charbonnier,2022-23,35,"AM(C),FW",Auxerre,6,3,253,1,0,0,6.20,FRA Ligue 1
+6,Iké Ugbo,2022-23,25,FW,Troyes,25,9,889,2,1,0,6.20,FRA Ligue 1
+7,Serhou Guirassy,2022-23,28,"AM(L),FW",Rennes,1,0,22,0,0,0,6.20,FRA Ligue 1
+8,Lorenz Assignon,2022-23,24,D(R),Rennes,12,2,254,0,1,0,6.20,FRA Ligue 1
+9,Mehdi Puch-Herrantz,2022-23,20,M(CLR),AC Ajaccio,4,0,44,0,0,0,6.20,FRA Ligue 1
+0,Fábio,2022-23,34,"D(LR),M(R)",Nantes,6,3,225,0,0,1,6.20,FRA Ligue 1
+1,Ismaël Gharbi,2022-23,20,M(CLR),PSG,6,0,53,0,0,0,6.20,FRA Ligue 1
+2,Karol Fila,2022-23,26,D(CR),Strasbourg,2,0,46,0,0,0,6.19,FRA Ligue 1
+3,Tony Strata,2022-23,20,D(CLR),AC Ajaccio,3,1,136,0,0,0,6.18,FRA Ligue 1
+4,Cédric Avinel,2022-23,37,D(C),AC Ajaccio,24,19,1791,1,0,1,6.18,FRA Ligue 1
+5,Theocharis Tsingaras,2022-23,24,M(CLR),Toulouse,1,0,7,0,0,0,6.18,FRA Ligue 1
+6,Justin-Noel Kalumba,2022-23,19,D(L),Angers,7,7,550,0,0,0,6.18,FRA Ligue 1
+7,Gaël Kakuta,2022-23,33,"M(CLR),FW",Lens,2,0,20,0,0,0,6.18,FRA Ligue 1
+8,Amar Ahmed Fatah,2022-23,20,M(CLR),Troyes,1,0,19,0,0,0,6.17,FRA Ligue 1
+9,Joe Bryan,2022-23,30,"D(L),M(CL)",Nice,6,2,177,0,0,0,6.17,FRA Ligue 1
+0,Marin Jakolis,2022-23,27,FW,Angers,1,0,27,0,0,0,6.16,FRA Ligue 1
+1,Martin Adeline,2022-23,20,M(CLR),Reims,5,0,102,0,0,0,6.16,FRA Ligue 1
+2,Kyliane Dong,2022-23,19,M(CLR),Troyes,6,2,211,0,0,0,6.16,FRA Ligue 1
+3,Flavius Daniliuc,2022-23,23,D(CR),Nice,2,1,91,0,0,0,6.15,FRA Ligue 1
+4,Théo Pellenard,2022-23,30,D(L),Auxerre,2,1,99,0,0,0,6.15,FRA Ligue 1
+5,Lohann Doucet,2022-23,21,M(CLR),Nantes,9,0,84,0,0,0,6.15,FRA Ligue 1
+6,Qazim Laçi,2022-23,28,M(C),AC Ajaccio,9,2,207,0,0,0,6.15,FRA Ligue 1
+7,Derek Mazou-Sacko,2022-23,19,M(CLR),Troyes,1,0,16,0,0,0,6.15,FRA Ligue 1
+8,Antonin Bobichon,2022-23,28,AM(CL),Angers,3,0,15,0,0,0,6.15,FRA Ligue 1
+9,Axel Camblan,2022-23,21,M(CLR),Brest,7,0,62,0,0,0,6.15,FRA Ligue 1
+0,Ousmane Camara,2022-23,21,D(C),Angers,9,6,521,0,0,0,6.15,FRA Ligue 1
+1,Adil Aouchiche,2022-23,22,AM(CL),Lorient,11,1,242,0,0,0,6.14,FRA Ligue 1
+2,Duje Caleta-Car,2022-23,27,D(C),Marseille,1,0,7,0,0,0,6.14,FRA Ligue 1
+3,Rémy Dugimont,2022-23,38,FW,Auxerre,11,0,105,0,1,0,6.14,FRA Ligue 1
+4,Mohamed Achi,2022-23,22,M(CLR),Nantes,2,0,34,0,0,0,6.14,FRA Ligue 1
+5,Alexis Tibidi,2022-23,20,FW,Troyes,3,0,73,0,0,0,6.13,FRA Ligue 1
+6,Ben Touré,2022-23,21,FW,AC Ajaccio,4,2,211,0,0,0,6.13,FRA Ligue 1
+7,Samuel Koeberlé,2022-23,19,M(CLR),Reims,1,0,2,0,0,0,6.13,FRA Ligue 1
+8,Yanis Massolin,2022-23,21,M(CLR),Clermont Foot,6,0,54,0,0,0,6.13,FRA Ligue 1
+9,Waniss Taibi,2022-23,22,M(CLR),Angers,11,1,180,0,0,0,6.13,FRA Ligue 1
+0,Chrislain Matsima,2022-23,22,D(C),Lorient,6,2,223,0,0,0,6.13,FRA Ligue 1
+1,Stredair Appuah,2022-23,20,FW,Nantes,5,0,62,0,0,0,6.12,FRA Ligue 1
+2,Ivane Chegra,2022-23,20,FW,AC Ajaccio,6,1,191,0,0,0,6.12,FRA Ligue 1
+3,Noah Holm,2022-23,23,FW,Reims,8,2,189,0,0,0,6.12,FRA Ligue 1
+4,Félix Lemaréchal,2022-23,21,M(CLR),Brest,13,2,278,0,0,0,6.12,FRA Ligue 1
+5,Mamadou Diakhon,2022-23,18,FW,Reims,2,0,20,0,0,0,6.12,FRA Ligue 1
+6,Ilyés Chétti,2022-23,29,D(CLR),Angers,6,2,206,0,0,0,6.11,FRA Ligue 1
+7,Jean-Mattéo Bahoya,2022-23,19,FW,Angers,10,2,266,0,0,0,6.11,FRA Ligue 1
+8,Brandon Baiye,2022-23,23,M(C),Clermont Foot,7,0,47,0,0,0,6.11,FRA Ligue 1
+9,Eli Junior Kroupi,2022-23,18,M(CLR),Lorient,1,0,7,0,0,0,6.11,FRA Ligue 1
+0,Marvin Senaya,2022-23,23,D(CLR),Strasbourg,1,0,8,0,0,0,6.11,FRA Ligue 1
+1,Rémy Labeau Lascary,2022-23,21,FW,Lens,10,0,112,0,0,0,6.11,FRA Ligue 1
+2,Marlos Moreno,2022-23,27,AM(LR),Troyes,2,0,11,0,0,0,6.11,FRA Ligue 1
+3,El Chadaille Bitshiabu,2022-23,19,D(C),PSG,13,6,580,0,0,0,6.11,FRA Ligue 1
+4,Veljko Birmancevic,2022-23,26,M(CLR),Toulouse,25,2,427,0,0,0,6.11,FRA Ligue 1
+5,Valentin Atangana Edoa,2022-23,19,M(CLR),Reims,7,2,170,0,0,0,6.11,FRA Ligue 1
+6,Tristan Dingomé,2022-23,33,M(C),Troyes,8,0,91,0,0,0,6.11,FRA Ligue 1
+7,Dogan Alemdar,2022-23,21,GK,Rennes,6,4,406,0,0,0,6.11,FRA Ligue 1
+8,Mohamed Touré,2022-23,20,FW,Reims,3,0,19,0,0,0,6.10,FRA Ligue 1
+9,Kaj Sierhuis,2022-23,26,FW,Reims,14,1,208,0,0,0,6.09,FRA Ligue 1
+0,Abdoul Kader Bamba,2022-23,30,AM(LR),Nantes,5,2,77,0,0,0,6.09,FRA Ligue 1
+1,Patrick Pentz,2022-23,27,GK,Reims,7,7,630,0,0,0,6.09,FRA Ligue 1
+2,Jean Botué,2022-23,22,M(CLR),AC Ajaccio,8,2,225,0,0,0,6.09,FRA Ligue 1
+3,Hianga'a M'Bock,2022-23,24,DMC,Brest,2,0,15,0,0,0,6.09,FRA Ligue 1
+4,Naatan Skyttä,2022-23,22,M(CLR),Toulouse,2,0,21,0,0,0,6.09,FRA Ligue 1
+5,Baila Diallo,2022-23,23,D(CLR),Clermont Foot,6,0,83,0,0,0,6.08,FRA Ligue 1
+6,Alan Virginius,2022-23,21,FW,Lille,15,1,248,1,0,0,6.08,FRA Ligue 1
+7,Nathanaël Mbuku,2022-23,22,"AM(CLR),FW",Reims,6,0,60,0,0,0,6.08,FRA Ligue 1
+8,Zinédine Ould Khaled,2022-23,24,D(CLR),Angers,4,0,47,0,0,0,6.08,FRA Ligue 1
+9,Ousmane Camara,2022-23,22,FW,Auxerre,3,0,22,0,0,0,6.08,FRA Ligue 1
+0,Moussa Soumano,2022-23,19,FW,AC Ajaccio,14,5,491,1,0,0,6.07,FRA Ligue 1
+1,Ilyes Housni,2022-23,19,FW,PSG,1,0,10,0,0,0,6.07,FRA Ligue 1
+2,Guela Doué,2022-23,21,D(CLR),Rennes,2,0,10,0,0,0,6.07,FRA Ligue 1
+3,Béni Makouana,2022-23,21,FW,Montpellier,8,1,194,0,0,0,6.06,FRA Ligue 1
+4,Karamoko Dembélé,2022-23,21,FW,Brest,15,0,165,0,0,0,6.06,FRA Ligue 1
+5,Sérigné Faye,2022-23,20,FW,Montpellier,2,0,35,0,0,0,6.05,FRA Ligue 1
+6,Mamadou Sarr,2022-23,19,D(CLR),Lyon,1,0,7,0,0,0,6.05,FRA Ligue 1
+7,Florian Chabrolle,2022-23,26,M(CLR),AC Ajaccio,7,3,325,0,0,0,6.04,FRA Ligue 1
+8,Irvin Cardona,2022-23,27,"AM(L),FW",Brest,10,1,225,0,0,0,6.04,FRA Ligue 1
+9,Rafik Guitane,2022-23,25,AM(CR),Reims,1,0,2,0,0,0,6.04,FRA Ligue 1
+0,Thibault Tamas,2022-23,23,D(CLR),Montpellier,1,0,9,0,0,0,6.04,FRA Ligue 1
+1,Alberth Elis,2022-23,28,"AM(LR),FW",Brest,10,2,253,0,0,0,6.04,FRA Ligue 1
+2,El Bilal Touré,2022-23,22,FW,Reims,3,1,91,0,0,0,6.04,FRA Ligue 1
+3,Jason Berthomier,2022-23,34,AM(C),Clermont Foot,2,0,21,0,0,0,6.04,FRA Ligue 1
+4,Alan Do Marcolino,2022-23,22,FW,Rennes,3,0,16,0,0,0,6.03,FRA Ligue 1
+5,Kévin Keben,2022-23,20,D(CLR),Toulouse,11,4,357,0,0,0,6.03,FRA Ligue 1
+6,Christopher Wooh,2022-23,22,D(C),Lens,1,0,3,0,0,0,6.02,FRA Ligue 1
+7,Isaak Touré,2022-23,21,D(C),Marseille,5,0,66,0,0,0,6.02,FRA Ligue 1
+8,Yanis Begraoui,2022-23,23,FW,Toulouse,3,1,64,0,0,0,6.02,FRA Ligue 1
+9,Saïd Hamulic,2022-23,23,FW,Toulouse,6,0,101,0,0,0,6.01,FRA Ligue 1
+0,Alexandre Letellier,2022-23,33,GK,PSG,1,0,10,0,0,0,6.01,FRA Ligue 1
+1,Amine Messoussa,2022-23,19,FW,Lille,1,0,1,0,0,0,6.00,FRA Ligue 1
+2,Andréa Dacourt,2022-23,19,M(CLR),Nice,1,0,1,0,0,0,6.00,FRA Ligue 1
+3,Axel Gueguin,2022-23,19,FW,Montpellier,5,0,21,0,0,0,6.00,FRA Ligue 1
+4,Mohamed El Arouch,2022-23,20,M(CLR),Lyon,1,0,1,0,0,0,6.00,FRA Ligue 1
+5,Paolo Lebas,2022-23,21,M(CLR),AC Ajaccio,1,0,55,0,0,0,6.00,FRA Ligue 1
+6,Romain Salin,2022-23,40,GK,Rennes,1,1,1,0,0,0,6.00,FRA Ligue 1
+7,Simon Ramet,2022-23,21,D(CLR),Lille,1,0,1,0,0,0,6.00,FRA Ligue 1
+8,Théo Trinker,2022-23,23,M(CLR),Nice,1,0,1,0,0,0,6.00,FRA Ligue 1
+9,Danel Dongmo,2022-23,23,M(CLR),Troyes,2,0,19,0,0,0,5.99,FRA Ligue 1
+0,Yoann Touzghar,2022-23,37,FW,AC Ajaccio,11,5,447,0,0,0,5.98,FRA Ligue 1
+1,Adrian Grbic,2022-23,28,FW,Lorient,2,0,23,0,0,0,5.98,FRA Ligue 1
+2,Ignatius Ganago,2022-23,25,"AM(LR),FW",Lens,4,0,58,0,0,0,5.98,FRA Ligue 1
+3,Adam Buksa,2022-23,28,FW,Lens,8,0,94,0,0,0,5.98,FRA Ligue 1
+4,Moussa Djitté,2022-23,24,FW,AC Ajaccio,6,1,134,0,0,0,5.97,FRA Ligue 1
+5,Patrick Berg,2022-23,26,DMC,Lens,3,0,22,0,0,0,5.97,FRA Ligue 1
+6,Anthony Khelifa,2022-23,18,D(CLR),AC Ajaccio,2,0,9,0,0,0,5.97,FRA Ligue 1
+7,Dany Jean,2022-23,21,M(CLR),Strasbourg,2,0,12,0,0,0,5.96,FRA Ligue 1
+8,Jason Mbock,2022-23,24,FW,Angers,2,0,23,0,0,0,5.95,FRA Ligue 1
+9,Salim Ben Seghir,2022-23,21,FW,Marseille,1,0,4,0,0,0,5.92,FRA Ligue 1
+0,François Mughe,2022-23,20,FW,Marseille,1,0,10,0,0,0,5.88,FRA Ligue 1
+1,François-Joseph Sollacaro,2022-23,30,GK,AC Ajaccio,7,7,541,0,0,0,5.86,FRA Ligue 1
+2,Ouparine Djoco,2022-23,26,GK,Clermont Foot,1,1,90,0,0,0,5.82,FRA Ligue 1
+3,Mathis Hamdi,2022-23,20,D(CLR),Troyes,2,0,68,0,0,0,5.78,FRA Ligue 1
+4,Pedro Mendes,2022-23,33,D(CR),Montpellier,1,0,12,0,0,0,5.72,FRA Ligue 1
+5,Léo Jardim,2022-23,29,GK,Lille,6,6,540,0,0,0,5.66,FRA Ligue 1
+6,Christian Mawissa Elebi,2022-23,19,D(CLR),Toulouse,2,1,97,0,0,0,5.65,FRA Ligue 1

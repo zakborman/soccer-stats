@@ -1,0 +1,604 @@
+,Player,Season,Age,Position,Team,Apps,Starts,Mins,Goals,Assists,MotM,Rating,Competition
+0,Salvatore Sirigu,2022-23,37,GK,Fiorentina,1,1,90,0,0,0,7.63,ITA Serie A
+1,Victor Osimhen,2022-23,25,FW,Napoli,32,30,2583,26,4,5,7.45,ITA Serie A
+2,Khvicha Kvaratskhelia,2022-23,23,AM(CLR),Napoli,34,30,2541,12,10,7,7.43,ITA Serie A
+3,Francesco Bardi,2022-23,32,GK,Bologna,1,1,90,0,0,0,7.36,ITA Serie A
+4,Sergej Milinkovic-Savic,2022-23,29,AM(C),Lazio,36,34,3030,9,8,6,7.24,ITA Serie A
+5,Paulo Dybala,2022-23,30,"AM(CR),FW",Roma,26,22,1752,12,6,6,7.20,ITA Serie A
+6,Rafael Leão,2022-23,25,"AM(CL),FW",AC Milan,35,28,2434,15,8,8,7.19,ITA Serie A
+7,Lautaro Martínez,2022-23,27,FW,Inter,38,27,2577,21,6,8,7.18,ITA Serie A
+8,Mattia Zaccagni,2022-23,29,"AM(CL),FW",Lazio,35,33,2783,10,6,5,7.16,ITA Serie A
+9,Domenico Berardi,2022-23,30,"AM(R),FW",Sassuolo,26,22,1872,12,7,6,7.15,ITA Serie A
+0,Armand Laurienté,2022-23,25,"AM(LR),FW",Sassuolo,28,27,2191,7,6,4,7.11,ITA Serie A
+1,Adrien Rabiot,2022-23,29,"DMC,M(L)",Juventus,32,31,2751,8,4,3,7.11,ITA Serie A
+2,Teun Koopmeiners,2022-23,26,"D(C),M(C)",Atalanta,33,32,2861,10,4,2,7.11,ITA Serie A
+3,Felipe Anderson,2022-23,31,"M(CLR),FW",Lazio,38,35,2969,9,2,4,7.09,ITA Serie A
+4,Lorenzo Pellegrini,2022-23,28,M(CL),Roma,32,29,2558,4,5,5,7.09,ITA Serie A
+5,Mário Rui,2022-23,33,"D(L),M(L)",Napoli,22,21,1763,0,6,2,7.09,ITA Serie A
+6,Lucas Martínez,2022-23,28,D(C),Fiorentina,27,25,2173,1,1,5,7.08,ITA Serie A
+7,Hakan Çalhanoglu,2022-23,30,"M(CLR),FW",Inter,33,28,2375,3,6,1,7.07,ITA Serie A
+8,Kim Min-Jae,2022-23,27,D(C),Napoli,35,35,3055,2,2,1,7.07,ITA Serie A
+9,Gerard Deulofeu,2022-23,30,"AM(CLR),FW",Udinese,16,15,1219,2,6,2,7.06,ITA Serie A
+0,Giovanni Di Lorenzo,2022-23,31,"D(CLR),M(R)",Napoli,37,36,3257,3,4,5,7.04,ITA Serie A
+1,Danilo,2022-23,33,"D(CLR),DMC",Juventus,37,35,3182,3,3,2,7.04,ITA Serie A
+2,André-Frank Zambo Anguissa,2022-23,28,M(C),Napoli,36,36,3062,3,5,1,7.03,ITA Serie A
+3,Simone Perilli,2022-23,29,GK,Verona,1,1,90,0,0,0,7.00,ITA Serie A
+4,Carlos Augusto,2022-23,25,"D(L),M(L)",Monza,35,35,3087,6,5,4,6.99,ITA Serie A
+5,Luis Alberto,2022-23,31,"AM(CL),FW",Lazio,35,27,2444,6,7,3,6.98,ITA Serie A
+6,Stefan Posch,2022-23,27,D(CR),Bologna,30,30,2541,6,2,7,6.96,ITA Serie A
+7,Romelu Lukaku,2022-23,31,"AM(R),FW",Inter,25,19,1663,10,6,3,6.96,ITA Serie A
+8,Ismaël Bennacer,2022-23,26,M(C),AC Milan,28,24,2015,2,2,2,6.96,ITA Serie A
+9,Martin Turk,2022-23,21,GK,Sampdoria,4,4,360,0,0,0,6.96,ITA Serie A
+0,Nicolò Barella,2022-23,27,AM(C),Inter,35,31,2622,6,6,4,6.94,ITA Serie A
+1,Armando Izzo,2022-23,32,D(C),Monza,30,29,2475,1,0,3,6.93,ITA Serie A
+2,Piotr Zielinski,2022-23,30,M(CLR),Napoli,37,27,2306,3,8,1,6.93,ITA Serie A
+3,Fabiano Parisi,2022-23,23,D(L),Empoli,33,33,2835,2,0,1,6.93,ITA Serie A
+4,Cristiano Biraghi,2022-23,32,"D(L),M(L)",Fiorentina,33,30,2556,2,4,2,6.92,ITA Serie A
+5,Bremer,2022-23,27,D(C),Juventus,30,30,2640,4,1,3,6.92,ITA Serie A
+6,Nicolás Domínguez,2022-23,26,M(C),Bologna,31,26,2309,3,2,1,6.91,ITA Serie A
+7,Chris Smalling,2022-23,34,D(CR),Roma,32,31,2808,3,1,2,6.91,ITA Serie A
+8,Pierluigi Gollini,2022-23,29,GK,Fiorentina,3,3,270,0,0,0,6.91,ITA Serie A
+9,Sandro Tonali,2022-23,24,DMC,AC Milan,34,30,2721,2,7,2,6.91,ITA Serie A
+0,Ademola Lookman,2022-23,26,"AM(CLR),FW",Atalanta,31,20,1737,13,6,1,6.91,ITA Serie A
+1,Ivan Provedel,2022-23,30,GK,Lazio,38,37,3412,0,0,0,6.89,ITA Serie A
+2,Fikayo Tomori,2022-23,26,D(CR),AC Milan,33,32,2765,1,1,2,6.89,ITA Serie A
+3,Juan Cuadrado,2022-23,36,"D(R),M(CLR),FW",Juventus,31,24,2090,1,3,2,6.89,ITA Serie A
+4,Olivier Giroud,2022-23,37,FW,AC Milan,33,25,2148,13,5,1,6.88,ITA Serie A
+5,Manuel Locatelli,2022-23,26,M(C),Juventus,32,29,2460,0,2,1,6.88,ITA Serie A
+6,Boulaye Dia,2022-23,27,"AM(R),FW",Salernitana,33,27,2527,16,6,4,6.88,ITA Serie A
+7,Andrei Radu,2022-23,27,GK,Cremonese,9,9,810,0,0,1,6.88,ITA Serie A
+8,Federico Dimarco,2022-23,26,"D(CL),M(L)",Inter,33,26,2089,4,3,0,6.87,ITA Serie A
+9,Stanislav Lobotka,2022-23,29,DMC,Napoli,38,34,3113,1,1,0,6.87,ITA Serie A
+0,Pierluigi Gollini,2022-23,29,GK,Napoli,4,4,360,0,0,0,6.87,ITA Serie A
+1,Théo Hernández,2022-23,26,"D(L),M(L)",AC Milan,32,32,2777,4,3,2,6.87,ITA Serie A
+2,Ibañez,2022-23,25,D(C),Roma,33,32,2797,3,0,1,6.87,ITA Serie A
+3,Amir Rrahmani,2022-23,30,D(CL),Napoli,29,27,2450,2,1,0,6.87,ITA Serie A
+4,Destiny Udogie,2022-23,21,"D(L),M(L)",Udinese,33,31,2714,3,4,0,6.87,ITA Serie A
+5,Stefan de Vrij,2022-23,32,D(C),Inter,27,22,1944,1,0,0,6.87,ITA Serie A
+6,Ciro Immobile,2022-23,34,FW,Lazio,31,27,2228,12,5,4,6.87,ITA Serie A
+7,Matteo Pessina,2022-23,27,AM(CR),Monza,35,34,2938,5,3,0,6.86,ITA Serie A
+8,Jaka Bijol,2022-23,25,"D(C),M(C),FW",Udinese,32,32,2732,3,2,2,6.86,ITA Serie A
+9,Alessio Romagnoli,2022-23,29,D(CL),Lazio,34,33,2925,2,0,1,6.86,ITA Serie A
+0,Ivan Ilic,2022-23,23,M(C),Torino,14,13,1180,2,2,1,6.85,ITA Serie A
+1,Mattia Perin,2022-23,31,GK,Juventus,11,10,947,0,0,1,6.85,ITA Serie A
+2,Guglielmo Vicario,2022-23,27,GK,Empoli,31,31,2784,0,0,1,6.85,ITA Serie A
+3,Luigi Sepe,2022-23,33,GK,Salernitana,17,17,1530,0,0,1,6.84,ITA Serie A
+4,Ángel Di María,2022-23,36,"M(CLR),FW",Juventus,26,15,1364,4,4,0,6.83,ITA Serie A
+5,Junior Messias,2022-23,33,"M(CR),FW",AC Milan,25,19,1511,5,2,2,6.82,ITA Serie A
+6,Rafael Tolói,2022-23,33,D(C),Atalanta,32,32,2791,2,1,3,6.82,ITA Serie A
+7,Morten Hjulmand,2022-23,25,DMC,Lecce,35,34,2963,0,4,5,6.82,ITA Serie A
+8,Antonio Sanabria,2022-23,28,FW,Torino,33,28,2442,12,4,4,6.82,ITA Serie A
+9,Rade Krunic,2022-23,30,M(CL),AC Milan,23,18,1659,0,1,1,6.81,ITA Serie A
+0,Bryan Cristante,2022-23,29,"D(C),M(C)",Roma,36,34,2945,1,1,3,6.81,ITA Serie A
+1,Ardian Ismajli,2022-23,27,D(C),Empoli,25,22,2091,0,0,2,6.80,ITA Serie A
+2,Leo Østigård,2022-23,24,D(C),Napoli,7,4,417,0,0,0,6.80,ITA Serie A
+3,Giorgos Kyriakopoulos,2022-23,28,"D(L),M(L)",Sassuolo,12,9,773,1,1,1,6.80,ITA Serie A
+4,Guillermo Ochoa,2022-23,39,GK,Salernitana,20,20,1800,0,0,1,6.80,ITA Serie A
+5,Davide Zappacosta,2022-23,32,"D(LR),M(LR)",Atalanta,21,18,1479,4,2,2,6.80,ITA Serie A
+6,Davide Frattesi,2022-23,24,DMC,Sassuolo,36,35,2891,7,0,1,6.80,ITA Serie A
+7,Lukasz Skorupski,2022-23,33,GK,Bologna,37,37,3330,0,0,2,6.79,ITA Serie A
+8,Brahim Díaz,2022-23,25,AM(CLR),AC Milan,33,27,1947,6,7,2,6.79,ITA Serie A
+9,Christian Kouamé,2022-23,26,"AM(LR),FW",Fiorentina,28,22,1871,4,4,3,6.79,ITA Serie A
+0,Francesco Acerbi,2022-23,36,D(C),Inter,31,25,2418,0,2,0,6.79,ITA Serie A
+1,Nicolás González,2022-23,26,"M(CLR),FW",Fiorentina,24,13,1355,6,1,2,6.79,ITA Serie A
+2,Stephan El Shaarawy,2022-23,31,"M(CLR),FW",Roma,29,14,1523,7,2,2,6.79,ITA Serie A
+3,Michele Di Gregorio,2022-23,27,GK,Monza,37,37,3330,0,1,3,6.79,ITA Serie A
+4,Jérémie Boga,2022-23,27,"AM(CLR),FW",Atalanta,23,5,770,2,5,1,6.78,ITA Serie A
+5,Marcelo Brozovic,2022-23,31,M(CR),Inter,28,19,1769,3,5,1,6.78,ITA Serie A
+6,Nicolò Rovella,2022-23,22,DMC,Monza,25,21,1749,1,2,0,6.78,ITA Serie A
+7,Emil Audero,2022-23,27,GK,Sampdoria,25,25,2250,0,0,5,6.78,ITA Serie A
+8,Filip Kostic,2022-23,31,"M(LR),FW",Juventus,37,33,2582,3,8,2,6.78,ITA Serie A
+9,Marten de Roon,2022-23,33,"D(C),DMC",Atalanta,35,34,2966,3,1,0,6.78,ITA Serie A
+0,Nikola Milenkovic,2022-23,26,D(CR),Fiorentina,27,23,2136,2,1,0,6.77,ITA Serie A
+1,Davide Calabria,2022-23,27,"D(LR),M(R)",AC Milan,25,21,1697,1,4,0,6.77,ITA Serie A
+2,Roberto Pereyra,2022-23,33,"M(CLR),FW",Udinese,34,33,2837,5,7,3,6.77,ITA Serie A
+3,Wojciech Szczesny,2022-23,34,GK,Juventus,28,28,2473,0,0,0,6.77,ITA Serie A
+4,Hirving Lozano,2022-23,29,"AM(LR),FW",Napoli,32,20,1614,3,3,1,6.77,ITA Serie A
+5,Riccardo Orsolini,2022-23,27,"M(CR),FW",Bologna,32,22,2122,11,4,3,6.77,ITA Serie A
+6,Alessandro Buongiorno,2022-23,25,D(C),Torino,34,30,2723,1,2,2,6.77,ITA Serie A
+7,Juan Jesus,2022-23,33,D(CL),Napoli,15,10,929,1,0,1,6.77,ITA Serie A
+8,Gabriel Strefezza,2022-23,27,M(LR),Lecce,35,30,2464,8,4,1,6.77,ITA Serie A
+9,Malick Thiaw,2022-23,23,D(C),AC Milan,20,15,1364,0,0,0,6.76,ITA Serie A
+0,Edin Dzeko,2022-23,38,FW,Inter,33,18,1729,9,3,3,6.75,ITA Serie A
+1,Ivan Ilic,2022-23,23,M(C),Verona,11,10,852,0,1,1,6.75,ITA Serie A
+2,Dusan Vlahovic,2022-23,24,FW,Juventus,27,22,1932,10,2,3,6.75,ITA Serie A
+3,Tammy Abraham,2022-23,26,FW,Roma,38,24,2199,8,3,2,6.75,ITA Serie A
+4,Rodrigo Becão,2022-23,28,D(C),Udinese,28,28,2487,2,1,1,6.75,ITA Serie A
+5,Razvan Marin,2022-23,28,M(C),Empoli,33,28,2539,2,4,1,6.74,ITA Serie A
+6,Marco Carnesecchi,2022-23,24,GK,Cremonese,27,27,2430,0,1,3,6.74,ITA Serie A
+7,Patrick Ciurria,2022-23,29,M(CR),Monza,36,31,2757,6,5,3,6.74,ITA Serie A
+8,Pasquale Mazzocchi,2022-23,29,"D(R),M(LR)",Salernitana,27,23,1968,2,3,1,6.74,ITA Serie A
+9,Nikola Vlasic,2022-23,26,"AM(CLR),FW",Torino,34,29,2732,5,6,1,6.74,ITA Serie A
+0,Patric,2022-23,31,"D(CR),M(R)",Lazio,18,16,1415,0,0,1,6.74,ITA Serie A
+1,Milan Djuric,2022-23,34,FW,Verona,28,14,1364,1,1,3,6.74,ITA Serie A
+2,Lewis Ferguson,2022-23,25,M(C),Bologna,32,27,2324,7,0,2,6.73,ITA Serie A
+3,Federico Gatti,2022-23,26,D(C),Juventus,18,16,1446,0,0,1,6.73,ITA Serie A
+4,Michele Cerofolini,2022-23,25,GK,Fiorentina,5,5,450,0,0,0,6.72,ITA Serie A
+5,André Onana,2022-23,28,GK,Inter,24,24,2160,0,0,2,6.72,ITA Serie A
+6,Lassana Coulibaly,2022-23,28,M(CL),Salernitana,35,34,2901,3,3,2,6.72,ITA Serie A
+7,Federico Baschirotto,2022-23,27,D(C),Lecce,37,37,3330,3,0,1,6.71,ITA Serie A
+8,Rolando Mandragora,2022-23,27,DMC,Fiorentina,29,22,1955,2,4,1,6.71,ITA Serie A
+9,Berat Djimsiti,2022-23,31,D(C),Atalanta,24,20,1799,0,1,0,6.71,ITA Serie A
+0,Norbert Gyömbér,2022-23,32,"D(CR),DMC",Salernitana,27,23,1755,0,1,0,6.71,ITA Serie A
+1,Éderson,2022-23,25,M(C),Atalanta,35,25,2226,1,1,0,6.71,ITA Serie A
+2,Alex Sandro,2022-23,33,"D(CL),M(L)",Juventus,25,21,1789,0,1,0,6.70,ITA Serie A
+3,Lazar Samardzic,2022-23,22,AM(C),Udinese,37,19,1848,5,4,2,6.70,ITA Serie A
+4,Marko Arnautovic,2022-23,35,"AM(CLR),FW",Bologna,21,18,1540,10,0,1,6.70,ITA Serie A
+5,Jerdy Schouten,2022-23,27,DMC,Bologna,33,29,2516,0,2,0,6.70,ITA Serie A
+6,Nicolò Casale,2022-23,26,D(C),Lazio,29,27,2437,1,1,0,6.69,ITA Serie A
+7,Giacomo Bonaventura,2022-23,35,M(CLR),Fiorentina,30,21,1914,5,1,2,6.69,ITA Serie A
+8,Alex Meret,2022-23,27,GK,Napoli,34,34,3060,0,0,2,6.69,ITA Serie A
+9,Denzel Dumfries,2022-23,28,"D(R),M(R)",Inter,34,25,2223,1,4,0,6.69,ITA Serie A
+0,Arkadiusz Milik,2022-23,30,"AM(C),FW",Juventus,27,17,1583,7,1,1,6.69,ITA Serie A
+1,Henrikh Mkhitaryan,2022-23,35,"M(CLR),FW",Inter,31,24,1997,3,2,1,6.69,ITA Serie A
+2,Daniele Rugani,2022-23,30,D(C),Juventus,9,6,563,0,0,0,6.69,ITA Serie A
+3,Alessandro Bastoni,2022-23,25,D(C),Inter,29,26,2168,0,2,0,6.68,ITA Serie A
+4,Adam Marusic,2022-23,31,"D(CLR),M(LR)",Lazio,33,31,2767,0,2,0,6.68,ITA Serie A
+5,Samir Handanovic,2022-23,40,GK,Inter,14,14,1235,0,0,1,6.68,ITA Serie A
+6,Antonio Candreva,2022-23,37,M(CLR),Salernitana,35,32,2741,7,4,2,6.68,ITA Serie A
+7,Ola Aina,2022-23,27,"D(CLR),M(LR)",Torino,19,9,874,1,1,2,6.68,ITA Serie A
+8,Alessandro Tuia,2022-23,34,D(C),Lecce,7,6,511,0,0,0,6.68,ITA Serie A
+9,Perr Schuurs,2022-23,24,D(C),Torino,30,28,2334,0,2,0,6.67,ITA Serie A
+0,Andrea Ranocchia,2022-23,36,D(C),Monza,1,1,48,0,0,0,6.67,ITA Serie A
+1,Bram Nuytinck,2022-23,34,D(C),Sampdoria,19,19,1504,0,1,0,6.67,ITA Serie A
+2,Rasmus Højlund,2022-23,21,FW,Atalanta,32,20,1836,9,2,3,6.67,ITA Serie A
+3,Hans Hateboer,2022-23,30,"D(R),M(R)",Atalanta,17,17,1402,1,1,1,6.67,ITA Serie A
+4,Gianluca Mancini,2022-23,28,"D(C),DMC",Roma,35,33,2867,1,2,0,6.67,ITA Serie A
+5,Darko Lazovic,2022-23,33,M(CLR),Verona,30,27,2254,4,5,2,6.67,ITA Serie A
+6,Sandi Lovric,2022-23,26,AM(C),Udinese,37,28,2351,5,6,1,6.66,ITA Serie A
+7,Mathías Olivera,2022-23,26,"D(L),M(L)",Napoli,30,17,1637,2,2,3,6.66,ITA Serie A
+8,Beto,2022-23,26,FW,Udinese,33,23,2132,10,1,3,6.66,ITA Serie A
+9,Johan Vásquez,2022-23,25,D(CL),Cremonese,25,19,1809,1,0,0,6.66,ITA Serie A
+0,Koray Günter,2022-23,30,D(C),Verona,13,11,1003,1,1,0,6.66,ITA Serie A
+1,Walace,2022-23,29,DMC,Udinese,37,37,3200,0,1,0,6.66,ITA Serie A
+2,Nehuén Pérez,2022-23,24,D(C),Udinese,34,33,2831,2,0,1,6.65,ITA Serie A
+3,Simone Bastoni,2022-23,27,"D(L),DMC,M(L)",Spezia,19,15,1198,2,4,0,6.65,ITA Serie A
+4,Leonardo Sernicola,2022-23,27,"D(R),M(R)",Cremonese,32,27,2319,2,2,3,6.65,ITA Serie A
+5,Sebastiano Luperto,2022-23,28,D(C),Empoli,36,36,3137,2,0,3,6.65,ITA Serie A
+6,Wladimiro Falcone,2022-23,29,GK,Lecce,38,38,3420,0,0,4,6.65,ITA Serie A
+7,Denis Zakaria,2022-23,27,"D(C),DMC",Juventus,2,1,122,0,0,0,6.65,ITA Serie A
+8,Ricardo Rodríguez,2022-23,32,"D(CL),M(L)",Torino,35,30,2670,0,0,0,6.65,ITA Serie A
+9,Nemanja Matic,2022-23,36,DMC,Roma,35,16,1839,2,2,0,6.65,ITA Serie A
+0,Mike Maignan,2022-23,29,GK,AC Milan,22,22,1979,0,1,1,6.64,ITA Serie A
+1,Aleksey Miranchuk,2022-23,28,"M(CR),FW",Torino,29,24,2099,4,5,0,6.64,ITA Serie A
+2,M'Bala Nzola,2022-23,28,FW,Spezia,31,29,2654,13,2,3,6.64,ITA Serie A
+3,Stefano Sensi,2022-23,29,AM(C),Monza,28,21,1629,3,1,1,6.64,ITA Serie A
+4,Eljif Elmas,2022-23,24,M(CLR),Napoli,36,14,1618,6,3,1,6.64,ITA Serie A
+5,Emil Holm,2022-23,24,M(R),Spezia,20,17,1398,1,1,1,6.64,ITA Serie A
+6,Nikola Moro,2022-23,26,M(C),Bologna,26,12,1224,1,5,0,6.64,ITA Serie A
+7,Tyronne Ebuehi,2022-23,28,D(LR),Empoli,26,22,1926,2,4,1,6.64,ITA Serie A
+8,Wilfried Singo,2022-23,23,M(R),Torino,31,24,2056,2,1,0,6.64,ITA Serie A
+9,Dany Mota,2022-23,26,"AM(C),FW",Monza,29,21,1925,5,1,0,6.64,ITA Serie A
+0,Dodô,2022-23,25,D(R),Fiorentina,33,28,2341,1,3,1,6.64,ITA Serie A
+1,Giorgio Scalvini,2022-23,20,D(C),Atalanta,32,29,2346,2,2,0,6.63,ITA Serie A
+2,Ethan Ampadu,2022-23,23,"D(C),DMC",Spezia,31,31,2649,0,1,1,6.63,ITA Serie A
+3,Nicola Ravaglia,2022-23,35,GK,Sampdoria,9,9,810,0,0,1,6.63,ITA Serie A
+4,Lorenzo Montipò,2022-23,28,GK,Verona,37,37,3330,0,0,0,6.63,ITA Serie A
+5,Pedro,2022-23,37,"M(CLR),FW",Lazio,36,17,1896,4,3,1,6.63,ITA Serie A
+6,Matteo Darmian,2022-23,34,"D(CLR),M(LR)",Inter,31,24,2032,1,2,0,6.63,ITA Serie A
+7,Panagiotis Retsos,2022-23,26,D(CLR),Verona,2,1,122,0,0,0,6.63,ITA Serie A
+8,Samuel Umtiti,2022-23,30,D(CL),Lecce,25,24,2115,0,0,0,6.62,ITA Serie A
+9,Giorgos Kyriakopoulos,2022-23,28,"D(L),M(L)",Bologna,12,8,704,0,2,0,6.62,ITA Serie A
+0,Federico Fazio,2022-23,37,D(C),Salernitana,14,12,1075,1,0,2,6.62,ITA Serie A
+1,Jakub Kiwior,2022-23,24,"D(C),DMC",Spezia,17,17,1447,0,0,0,6.62,ITA Serie A
+2,Mehdi Léris,2022-23,26,M(CLR),Sampdoria,32,29,2465,1,1,0,6.62,ITA Serie A
+3,Musa Barrow,2022-23,25,"AM(CL),FW",Bologna,32,26,1971,3,8,0,6.62,ITA Serie A
+4,Valentin Gendrey,2022-23,24,D(R),Lecce,37,35,3103,0,2,0,6.62,ITA Serie A
+5,Simone Verdi,2022-23,32,"AM(CLR),FW",Verona,24,12,1093,5,0,3,6.62,ITA Serie A
+6,Samuele Ricci,2022-23,23,M(C),Torino,28,23,2073,2,1,0,6.62,ITA Serie A
+7,Marin Pongracic,2022-23,26,D(C),Lecce,9,9,792,0,0,0,6.62,ITA Serie A
+8,Nicolò Cambiaghi,2022-23,23,"AM(L),FW",Empoli,28,12,1282,6,1,1,6.61,ITA Serie A
+9,Pablo Marí,2022-23,31,D(C),Monza,30,28,2489,1,0,0,6.61,ITA Serie A
+0,Arthur Cabral,2022-23,26,FW,Fiorentina,28,15,1433,8,1,1,6.61,ITA Serie A
+1,Janis Antiste,2022-23,22,FW,Sassuolo,2,0,50,1,0,0,6.61,ITA Serie A
+2,Vlad Chiriches,2022-23,34,D(CR),Cremonese,16,14,986,0,0,0,6.61,ITA Serie A
+3,Alexis Blin,2022-23,27,DMC,Lecce,35,26,2380,1,0,1,6.60,ITA Serie A
+4,Danilo Cataldi,2022-23,30,M(C),Lazio,29,26,1942,0,1,0,6.60,ITA Serie A
+5,David Okereke,2022-23,27,"AM(CLR),FW",Cremonese,33,25,2277,7,0,0,6.60,ITA Serie A
+6,Georginio Wijnaldum,2022-23,33,M(CLR),Roma,14,10,768,2,0,0,6.60,ITA Serie A
+7,Matteo Politano,2022-23,31,"AM(CLR),FW",Napoli,27,14,1168,3,3,0,6.60,ITA Serie A
+8,Jhon Lucumí,2022-23,26,D(C),Bologna,33,33,2902,0,1,0,6.60,ITA Serie A
+9,Isak Hien,2022-23,25,D(C),Verona,32,28,2608,0,0,0,6.60,ITA Serie A
+0,José Palomino,2022-23,34,D(C),Atalanta,15,8,755,1,0,0,6.59,ITA Serie A
+1,Ciprian Tatarusanu,2022-23,38,GK,AC Milan,16,16,1440,0,1,0,6.59,ITA Serie A
+2,Martin Erlic,2022-23,26,D(C),Sassuolo,28,26,2332,0,0,0,6.59,ITA Serie A
+3,Krzysztof Piatek,2022-23,29,FW,Salernitana,33,23,2144,4,5,1,6.59,ITA Serie A
+4,Nicola Zalewski,2022-23,22,M(LR),Roma,33,26,2210,2,1,1,6.59,ITA Serie A
+5,Alessandro Zanoli,2022-23,23,"D(R),M(R)",Sampdoria,22,16,1539,2,2,1,6.59,ITA Serie A
+6,Federico Chiesa,2022-23,26,"M(CLR),FW",Juventus,21,6,843,2,5,1,6.59,ITA Serie A
+7,Weston McKennie,2022-23,26,"D(C),M(CLR)",Juventus,15,13,1060,1,1,0,6.59,ITA Serie A
+8,Alexis Saelemaekers,2022-23,25,M(R),AC Milan,30,14,1399,2,3,1,6.59,ITA Serie A
+9,Pierre Kalulu,2022-23,24,D(CR),AC Milan,34,26,2544,1,0,1,6.59,ITA Serie A
+0,Andrea Cambiaso,2022-23,24,"D(LR),M(L)",Bologna,32,25,2172,0,3,1,6.59,ITA Serie A
+1,Juan Musso,2022-23,30,GK,Atalanta,24,24,2078,0,0,0,6.58,ITA Serie A
+2,Bartlomiej Dragowski,2022-23,27,GK,Spezia,34,34,2948,0,1,6,6.58,ITA Serie A
+3,Diego Llorente,2022-23,31,"D(C),DMC",Roma,9,5,574,0,0,0,6.58,ITA Serie A
+4,Sasa Lukic,2022-23,28,M(C),Torino,16,13,1195,2,0,1,6.58,ITA Serie A
+5,Jonathan Ikoné,2022-23,26,"AM(CLR),FW",Fiorentina,33,24,2012,4,4,1,6.58,ITA Serie A
+6,Jean-Daniel Akpa Akpro,2022-23,31,"D(R),M(CLR)",Empoli,24,16,1364,1,1,1,6.58,ITA Serie A
+7,Vanja Milinkovic-Savic,2022-23,27,GK,Torino,38,38,3420,0,0,1,6.58,ITA Serie A
+8,Luca D'Andrea,2022-23,20,AM(R),Sassuolo,5,5,321,0,1,0,6.58,ITA Serie A
+9,Frank Tsadjout,2022-23,25,FW,Cremonese,20,14,1057,3,1,1,6.58,ITA Serie A
+0,Remi Oudin,2022-23,27,"M(CLR),FW",Lecce,31,12,1315,3,0,1,6.58,ITA Serie A
+1,Aleksa Terzic,2022-23,25,D(L),Fiorentina,22,8,929,1,1,0,6.58,ITA Serie A
+2,Matteo Ruggeri,2022-23,22,M(L),Atalanta,15,8,823,0,1,0,6.57,ITA Serie A
+3,Merih Demiral,2022-23,26,D(C),Atalanta,28,14,1525,1,0,1,6.57,ITA Serie A
+4,Denso Kasius,2022-23,21,M(R),Bologna,7,4,343,0,2,0,6.57,ITA Serie A
+5,Ruslan Malinovskyi,2022-23,31,"M(CLR),FW",Atalanta,15,5,548,1,2,0,6.57,ITA Serie A
+6,Pawel Dawidowicz,2022-23,29,D(C),Verona,23,20,1636,1,1,0,6.57,ITA Serie A
+7,Matheus Henrique,2022-23,26,M(C),Sassuolo,30,21,1951,4,1,0,6.57,ITA Serie A
+8,Fodé Ballo-Touré,2022-23,27,"D(L),M(L)",AC Milan,10,5,518,1,0,0,6.56,ITA Serie A
+9,Lorenzo Pirola,2022-23,22,D(C),Salernitana,26,23,1949,2,0,2,6.56,ITA Serie A
+0,Cyril Ngonge,2022-23,24,"AM(CR),FW",Verona,14,9,747,3,1,1,6.56,ITA Serie A
+1,Manolo Gabbiadini,2022-23,32,"AM(CLR),FW",Sampdoria,35,27,2369,7,2,2,6.56,ITA Serie A
+2,Mile Svilar,2022-23,25,GK,Roma,3,3,270,0,0,0,6.56,ITA Serie A
+3,Manuel Lazzari,2022-23,30,"D(R),M(R)",Lazio,29,23,1888,0,0,0,6.56,ITA Serie A
+4,Alessandro Florenzi,2022-23,33,"D(R),M(CLR)",AC Milan,6,2,200,0,0,0,6.56,ITA Serie A
+5,Samuele Perisan,2022-23,27,GK,Empoli,7,7,630,0,0,0,6.55,ITA Serie A
+6,Marco Silvestri,2022-23,33,GK,Udinese,38,38,3420,0,0,0,6.55,ITA Serie A
+7,Luka Lochoshvili,2022-23,26,D(C),Cremonese,25,22,1850,1,2,0,6.55,ITA Serie A
+8,Ondrej Duda,2022-23,29,"AM(C),FW",Verona,15,11,1066,0,0,0,6.55,ITA Serie A
+9,Cristian Volpato,2022-23,20,M(CLR),Roma,7,2,224,1,1,1,6.55,ITA Serie A
+0,Rogério,2022-23,26,"D(L),M(L)",Sassuolo,36,34,2999,0,3,2,6.55,ITA Serie A
+1,Leonardo Spinazzola,2022-23,31,"D(LR),M(L)",Roma,26,18,1656,1,4,2,6.55,ITA Serie A
+2,Filippo Bandinelli,2022-23,29,M(C),Empoli,35,28,2284,2,0,1,6.55,ITA Serie A
+3,Luca Ranieri,2022-23,25,"D(CL),M(L)",Fiorentina,9,5,505,0,0,0,6.55,ITA Serie A
+4,Tommaso Baldanzi,2022-23,21,AM(C),Empoli,26,24,1789,4,0,1,6.55,ITA Serie A
+5,Alex Ferrari,2022-23,30,D(CR),Cremonese,16,13,1014,0,0,0,6.54,ITA Serie A
+6,Isaac Success,2022-23,28,"AM(LR),FW",Udinese,30,21,1821,1,6,0,6.54,ITA Serie A
+7,Marco Sportiello,2022-23,32,GK,Atalanta,15,14,1340,0,0,0,6.54,ITA Serie A
+8,Andrea Colpani,2022-23,25,AM(C),Monza,27,10,944,4,1,0,6.54,ITA Serie A
+9,Gaetano Castrovilli,2022-23,27,AM(C),Fiorentina,15,7,717,2,1,1,6.54,ITA Serie A
+0,James Abankwah,2022-23,20,D(CLR),Udinese,2,1,63,0,0,0,6.54,ITA Serie A
+1,Santiago Ascacíbar,2022-23,27,DMC,Cremonese,13,7,728,0,0,0,6.54,ITA Serie A
+2,Jeroen Zoet,2022-23,33,GK,Spezia,5,4,335,0,0,0,6.54,ITA Serie A
+3,Caleb Okoli,2022-23,23,D(C),Atalanta,17,9,953,0,0,1,6.54,ITA Serie A
+4,Matías Vecino,2022-23,33,M(C),Lazio,32,17,1685,2,0,1,6.54,ITA Serie A
+5,Francesco Caputo,2022-23,37,FW,Empoli,21,20,1719,5,4,0,6.54,ITA Serie A
+6,Mouhamadou Sarr,2022-23,27,GK,Cremonese,2,2,180,0,0,0,6.54,ITA Serie A
+7,Fabio Depaoli,2022-23,27,"D(R),M(CLR)",Sampdoria,3,1,134,0,0,0,6.53,ITA Serie A
+8,Charalampos Lykogiannis,2022-23,30,"D(CL),M(L)",Bologna,21,11,1105,2,0,0,6.53,ITA Serie A
+9,Flavius Daniliuc,2022-23,23,D(CR),Salernitana,27,23,2195,0,2,0,6.53,ITA Serie A
+0,Kevin Agudelo,2022-23,25,"AM(CR),FW",Spezia,34,23,2140,0,1,1,6.53,ITA Serie A
+1,Nadir Zortea,2022-23,25,"D(R),M(L)",Atalanta,9,1,214,1,0,0,6.53,ITA Serie A
+2,Elseid Hysaj,2022-23,30,"D(LR),M(R)",Lazio,34,22,1992,1,1,0,6.53,ITA Serie A
+3,Antonino Gallo,2022-23,24,D(L),Lecce,32,28,2486,0,1,0,6.53,ITA Serie A
+4,Luka Jovic,2022-23,26,FW,Fiorentina,31,16,1529,6,3,2,6.53,ITA Serie A
+5,Nicolò Fagioli,2022-23,23,M(C),Juventus,26,17,1523,3,3,0,6.53,ITA Serie A
+6,Mehdi Bourabia,2022-23,33,M(C),Spezia,37,36,2796,1,3,0,6.52,ITA Serie A
+7,Tommaso Augello,2022-23,30,"D(L),M(L)",Sampdoria,37,35,3068,2,5,0,6.52,ITA Serie A
+8,Soualiho Meïté,2022-23,30,M(C),Cremonese,31,28,2372,0,2,1,6.52,ITA Serie A
+9,Valentino Lazaro,2022-23,28,"D(R),M(CLR)",Torino,23,15,1377,0,3,2,6.52,ITA Serie A
+0,Mario Pasalic,2022-23,29,M(CLR),Atalanta,32,24,1789,5,2,1,6.52,ITA Serie A
+1,Andrea Petagna,2022-23,29,FW,Monza,31,19,1671,4,5,1,6.51,ITA Serie A
+2,Omar Colley,2022-23,31,D(C),Sampdoria,16,15,1385,1,0,0,6.51,ITA Serie A
+3,Przemyslaw Wisniewski,2022-23,26,D(C),Spezia,14,11,1000,1,0,1,6.51,ITA Serie A
+4,Pietro Terracciano,2022-23,34,GK,Fiorentina,29,29,2610,0,0,1,6.51,ITA Serie A
+5,Simon Kjær,2022-23,35,D(C),AC Milan,17,12,1012,0,0,0,6.51,ITA Serie A
+6,Arkadiusz Reca,2022-23,29,"D(L),M(L)",Spezia,30,24,2171,1,1,0,6.51,ITA Serie A
+7,Alberto Grassi,2022-23,29,DMC,Empoli,25,14,1193,0,0,1,6.51,ITA Serie A
+8,Matteo Bianchetti,2022-23,31,D(C),Cremonese,25,22,2130,1,0,0,6.51,ITA Serie A
+9,Maxime Lopez,2022-23,26,M(CR),Sassuolo,30,25,2297,0,0,0,6.51,ITA Serie A
+0,Duván Zapata,2022-23,33,FW,Atalanta,25,16,1393,2,2,0,6.51,ITA Serie A
+1,Joakim Mæhle,2022-23,27,"D(LR),M(LR)",Atalanta,34,25,2214,3,3,0,6.50,ITA Serie A
+2,Emanuel Aiwu,2022-23,23,D(C),Cremonese,23,17,1653,0,0,1,6.50,ITA Serie A
+3,Bartosz Bereszynski,2022-23,32,"D(CLR),M(R)",Napoli,3,2,165,0,1,0,6.50,ITA Serie A
+4,Matías Soulé,2022-23,21,FW,Juventus,13,4,415,1,0,0,6.50,ITA Serie A
+5,Nicola Sansone,2022-23,32,"AM(LR),FW",Bologna,18,8,740,4,2,0,6.50,ITA Serie A
+6,Luis Muriel,2022-23,33,"AM(CL),FW",Atalanta,29,10,1071,3,3,2,6.50,ITA Serie A
+7,Giangiacomo Magnani,2022-23,28,D(C),Verona,24,19,1535,0,1,1,6.50,ITA Serie A
+8,Koffi Djidji,2022-23,31,D(CL),Torino,34,26,2422,1,0,1,6.50,ITA Serie A
+9,Nadir Zortea,2022-23,25,"D(R),M(L)",Sassuolo,10,7,655,0,1,0,6.50,ITA Serie A
+0,Gianluca Caprari,2022-23,31,"AM(CLR),FW",Monza,37,32,2466,5,2,1,6.50,ITA Serie A
+1,Leonardo Bonucci,2022-23,37,D(C),Juventus,17,10,878,1,0,0,6.50,ITA Serie A
+2,Josh Doig,2022-23,22,"D(CL),M(L)",Verona,22,15,1359,2,3,0,6.50,ITA Serie A
+3,Sam Lammers,2022-23,27,FW,Empoli,14,10,886,1,1,1,6.49,ITA Serie A
+4,Nemanja Radonjic,2022-23,28,"M(CLR),FW",Torino,28,16,1458,2,2,4,6.49,ITA Serie A
+5,Sebastian Walukiewicz,2022-23,24,D(C),Empoli,11,6,601,0,0,0,6.49,ITA Serie A
+6,Adama Soumaoro,2022-23,32,D(CR),Bologna,23,22,1873,0,0,0,6.49,ITA Serie A
+7,Bruno Amione,2022-23,22,D(C),Sampdoria,26,25,2093,1,1,0,6.49,ITA Serie A
+8,Josip Brekalo,2022-23,26,"AM(CLR),FW",Fiorentina,6,1,228,0,0,0,6.49,ITA Serie A
+9,Grigoris Kastanos,2022-23,26,M(CR),Salernitana,28,13,1280,2,1,0,6.49,ITA Serie A
+0,Adam Masina,2022-23,30,"D(CL),M(L)",Udinese,14,8,785,2,0,1,6.49,ITA Serie A
+1,Roberto Soriano,2022-23,33,AM(CLR),Bologna,27,15,1326,1,3,0,6.48,ITA Serie A
+2,Zeki Çelik,2022-23,27,"D(R),M(R)",Roma,24,16,1503,0,1,0,6.48,ITA Serie A
+3,Federico Ceccherini,2022-23,32,D(C),Verona,22,18,1431,2,0,1,6.48,ITA Serie A
+4,Pablo Galdames,2022-23,27,M(C),Cremonese,13,10,740,1,2,0,6.48,ITA Serie A
+5,Mërgim Vojvoda,2022-23,29,"D(CR),M(LR)",Torino,29,18,1717,0,5,0,6.48,ITA Serie A
+6,Luca Caldirola,2022-23,33,D(CL),Monza,31,27,2360,2,0,0,6.48,ITA Serie A
+7,Marco Benassi,2022-23,29,M(CR),Fiorentina,2,1,93,0,0,0,6.48,ITA Serie A
+8,Enzo Barrenechea,2022-23,23,M(C),Juventus,3,3,161,0,0,0,6.47,ITA Serie A
+9,Riccardo Saponara,2022-23,32,AM(CLR),Fiorentina,29,14,1207,4,3,2,6.47,ITA Serie A
+0,Marco Benassi,2022-23,29,M(CR),Cremonese,15,11,996,0,0,0,6.47,ITA Serie A
+1,Emanuele Valeri,2022-23,25,"D(L),M(L)",Cremonese,37,31,2791,2,3,0,6.47,ITA Serie A
+2,Igor Julio,2022-23,26,"D(C),M(L)",Fiorentina,27,23,2060,0,0,0,6.47,ITA Serie A
+3,Oliver Abildgaard,2022-23,28,DMC,Verona,13,6,584,0,0,0,6.47,ITA Serie A
+4,Kingsley Ehizibue,2022-23,29,"D(R),M(R)",Udinese,27,16,1534,2,0,1,6.47,ITA Serie A
+5,Tonny Vilhena,2022-23,29,"D(L),M(CL)",Salernitana,33,27,2275,4,1,0,6.46,ITA Serie A
+6,Ante Rebic,2022-23,30,"AM(CLR),FW",AC Milan,23,10,977,3,2,1,6.46,ITA Serie A
+7,Bram Nuytinck,2022-23,34,D(C),Udinese,6,3,382,0,0,0,6.46,ITA Serie A
+8,Danilo D'Ambrosio,2022-23,35,"D(CLR),M(LR)",Inter,15,8,733,0,2,0,6.46,ITA Serie A
+9,Sofyan Amrabat,2022-23,28,DMC,Fiorentina,29,24,2007,0,1,0,6.46,ITA Serie A
+0,Harry Winks,2022-23,28,DMC,Sampdoria,20,19,1719,0,0,0,6.46,ITA Serie A
+1,Kevin Bonifazi,2022-23,28,D(C),Bologna,13,9,901,0,0,1,6.45,ITA Serie A
+2,Rui Patrício,2022-23,36,GK,Roma,35,35,3150,0,0,0,6.45,ITA Serie A
+3,Alex Cordaz,2022-23,41,GK,Inter,1,0,25,0,0,0,6.45,ITA Serie A
+4,Michele Castagnetti,2022-23,34,DMC,Cremonese,27,14,1415,0,1,0,6.45,ITA Serie A
+5,Jayden Braaf,2022-23,22,FW,Verona,6,2,289,0,0,0,6.45,ITA Serie A
+6,Kelvin Amian,2022-23,26,"D(CLR),M(R)",Spezia,30,26,2374,0,1,0,6.44,ITA Serie A
+7,Joshua Zirkzee,2022-23,23,FW,Bologna,19,5,809,2,2,0,6.44,ITA Serie A
+8,Milan Skriniar,2022-23,29,D(C),Inter,21,20,1770,0,0,0,6.44,ITA Serie A
+9,Abdelhamid Sabiri,2022-23,27,"AM(CL),FW",Sampdoria,18,12,1071,2,0,1,6.44,ITA Serie A
+0,Filip Djuricic,2022-23,32,"AM(CLR),FW",Sampdoria,32,27,2186,3,0,0,6.44,ITA Serie A
+1,Daniel Maldini,2022-23,22,FW,Spezia,18,4,622,2,0,0,6.44,ITA Serie A
+2,Tommaso De Nipoti,2022-23,21,FW,Atalanta,1,0,2,0,0,0,6.44,ITA Serie A
+3,Robin Gosens,2022-23,30,"D(L),M(CL)",Inter,32,11,1168,3,0,0,6.44,ITA Serie A
+4,William Troost-Ekong,2022-23,31,D(C),Salernitana,9,4,441,1,0,0,6.44,ITA Serie A
+5,Giacomo Raspadori,2022-23,24,"AM(CL),FW",Napoli,25,10,903,2,2,0,6.44,ITA Serie A
+6,Bartosz Bereszynski,2022-23,32,"D(CLR),M(R)",Sampdoria,15,15,1203,0,0,0,6.43,ITA Serie A
+7,Sam Lammers,2022-23,27,FW,Sampdoria,19,13,1103,1,1,0,6.43,ITA Serie A
+8,Salvatore Esposito,2022-23,23,M(C),Spezia,15,10,971,1,0,1,6.43,ITA Serie A
+9,Liberato Cacace,2022-23,23,"D(L),M(L)",Empoli,12,5,581,0,0,0,6.43,ITA Serie A
+0,Assan Ceesay,2022-23,30,FW,Lecce,34,20,1818,6,0,1,6.43,ITA Serie A
+1,Marco Faraoni,2022-23,32,"D(R),M(R)",Verona,23,19,1493,2,3,0,6.42,ITA Serie A
+2,Karol Linetty,2022-23,29,M(CLR),Torino,32,22,1888,1,0,1,6.42,ITA Serie A
+3,Paul Pogba,2022-23,31,M(CL),Juventus,6,1,108,0,0,0,6.42,ITA Serie A
+4,Marcos Antônio,2022-23,24,DMC,Lazio,16,6,587,1,1,0,6.42,ITA Serie A
+5,Petar Stojanovic,2022-23,28,"D(R),M(R)",Empoli,27,16,1528,0,1,0,6.42,ITA Serie A
+6,Koray Günter,2022-23,30,D(C),Sampdoria,10,8,776,0,0,0,6.42,ITA Serie A
+7,Koni De Winter,2022-23,22,D(C),Empoli,14,12,1022,0,0,0,6.42,ITA Serie A
+8,Tommaso Pobega,2022-23,25,M(C),AC Milan,19,9,877,2,0,0,6.42,ITA Serie A
+9,Yann Karamoh,2022-23,26,"AM(CLR),FW",Torino,21,7,710,4,0,1,6.42,ITA Serie A
+0,Zlatan Ibrahimovic,2022-23,42,FW,AC Milan,4,1,144,1,0,0,6.42,ITA Serie A
+1,Leandro Paredes,2022-23,30,DMC,Juventus,25,8,969,1,0,1,6.41,ITA Serie A
+2,Nedim Bajrami,2022-23,25,AM(CR),Sassuolo,18,7,816,1,0,0,6.41,ITA Serie A
+3,Filippo Ranocchia,2022-23,23,M(CLR),Monza,14,5,528,1,0,0,6.41,ITA Serie A
+4,Adrien Tameze,2022-23,30,M(C),Verona,37,35,3038,0,0,0,6.41,ITA Serie A
+5,Sergiño Dest,2022-23,23,"D(LR),M(R)",AC Milan,8,2,328,0,0,0,6.41,ITA Serie A
+6,Dylan Bronn,2022-23,29,D(C),Salernitana,24,19,1684,0,0,0,6.41,ITA Serie A
+7,Jean-Victor Makengo,2022-23,26,M(CL),Udinese,16,11,812,0,1,0,6.40,ITA Serie A
+8,Alfred Duncan,2022-23,31,DMC,Fiorentina,25,13,1107,1,0,0,6.40,ITA Serie A
+9,Mattia De Sciglio,2022-23,31,"D(CLR),M(LR)",Juventus,17,11,1046,0,0,0,6.40,ITA Serie A
+0,Mattia Caldara,2022-23,30,D(C),Spezia,20,13,1251,0,0,0,6.40,ITA Serie A
+1,Gary Medel,2022-23,37,"D(C),DMC",Bologna,29,17,1477,0,1,0,6.39,ITA Serie A
+2,Tomás Rincón,2022-23,36,M(CR),Sampdoria,34,30,2566,0,2,0,6.39,ITA Serie A
+3,Miguel Veloso,2022-23,38,M(C),Verona,22,14,1169,0,0,0,6.39,ITA Serie A
+4,Fabio Miretti,2022-23,21,AM(C),Juventus,27,14,1233,0,2,0,6.39,ITA Serie A
+5,Luca Zanimacchia,2022-23,26,AM(C),Cremonese,15,9,748,0,0,0,6.39,ITA Serie A
+6,Joan González,2022-23,22,M(C),Lecce,35,26,2212,1,3,1,6.39,ITA Serie A
+7,Riccardo Sottil,2022-23,25,AM(LR),Fiorentina,18,9,834,0,2,0,6.39,ITA Serie A
+8,Domagoj Bradaric,2022-23,24,"D(L),M(L)",Salernitana,31,24,2254,0,3,0,6.39,ITA Serie A
+9,Filippo Terracciano,2022-23,21,M(R),Verona,20,7,816,0,1,0,6.39,ITA Serie A
+0,Joaquín Correa,2022-23,30,"AM(CL),FW",Inter,26,12,947,3,1,0,6.39,ITA Serie A
+1,Thomas Henry,2022-23,29,FW,Verona,16,13,1038,2,0,1,6.38,ITA Serie A
+2,Antonín Barák,2022-23,29,AM(CR),Fiorentina,30,21,1807,2,0,0,6.38,ITA Serie A
+3,Marko Pjaca,2022-23,29,"AM(CL),FW",Empoli,17,5,518,0,0,0,6.38,ITA Serie A
+4,Pedro Obiang,2022-23,32,DMC,Sassuolo,17,11,881,0,1,0,6.38,ITA Serie A
+5,Cyriel Dessers,2022-23,29,FW,Cremonese,26,19,1595,6,2,0,6.38,ITA Serie A
+6,Andrea Pinamonti,2022-23,25,FW,Sassuolo,32,25,2174,5,0,0,6.38,ITA Serie A
+7,Petar Zovko,2022-23,22,GK,Spezia,1,0,72,0,0,0,6.38,ITA Serie A
+8,Charles De Ketelaere,2022-23,23,"M(CLR),FW",AC Milan,32,9,1102,0,1,0,6.38,ITA Serie A
+9,Emil Bohinen,2022-23,25,DMC,Salernitana,24,9,825,0,0,0,6.38,ITA Serie A
+0,Brandon Soppy,2022-23,22,"D(R),M(LR)",Atalanta,15,8,650,0,3,1,6.37,ITA Serie A
+1,Fabio Depaoli,2022-23,27,"D(R),M(CLR)",Verona,31,24,2172,2,2,0,6.37,ITA Serie A
+2,Alex Ferrari,2022-23,30,D(CR),Sampdoria,12,10,869,0,0,0,6.37,ITA Serie A
+3,Jeremy Toljan,2022-23,30,"D(LR),M(LR)",Sassuolo,31,29,2672,0,1,0,6.37,ITA Serie A
+4,Federico Di Francesco,2022-23,30,"M(LR),FW",Lecce,36,23,2040,2,2,1,6.37,ITA Serie A
+5,Albin Ekdal,2022-23,35,M(C),Spezia,31,18,1732,0,2,0,6.37,ITA Serie A
+6,Paolo Ghiglione,2022-23,27,"D(R),M(R)",Cremonese,15,8,709,1,1,0,6.37,ITA Serie A
+7,Lameck Banda,2022-23,23,AM(L),Lecce,36,19,1637,2,1,1,6.36,ITA Serie A
+8,Diego Coppola,2022-23,20,D(C),Verona,19,11,1171,0,0,0,6.36,ITA Serie A
+9,Dimitrios Nikolaou,2022-23,26,D(CL),Spezia,36,34,2964,1,0,0,6.36,ITA Serie A
+0,David Zima,2022-23,23,D(C),Torino,9,4,402,0,0,0,6.36,ITA Serie A
+1,Hamed Traorè,2022-23,24,AM(CLR),Sassuolo,11,6,593,0,3,0,6.36,ITA Serie A
+2,Roberto Piccoli,2022-23,23,FW,Empoli,13,6,516,2,0,0,6.36,ITA Serie A
+3,Samuel Iling-Junior,2022-23,20,FW,Juventus,12,1,308,1,1,0,6.36,ITA Serie A
+4,Martin Hongla,2022-23,26,"D(C),DMC",Verona,9,6,524,0,0,0,6.36,ITA Serie A
+5,José Machín,2022-23,28,M(C),Monza,25,11,1119,0,2,0,6.35,ITA Serie A
+6,Juan Cabal,2022-23,23,D(CLR),Verona,11,3,441,0,0,0,6.35,ITA Serie A
+7,Adam Ounas,2022-23,27,"AM(CLR),FW",Napoli,2,0,13,0,0,0,6.35,ITA Serie A
+8,Cristian Buonaiuto,2022-23,31,FW,Cremonese,29,7,970,1,0,0,6.34,ITA Serie A
+9,Gianluca Gaetano,2022-23,24,M(CLR),Napoli,8,0,65,1,1,0,6.34,ITA Serie A
+0,Mady Camara,2022-23,27,M(C),Roma,15,8,699,0,0,0,6.34,ITA Serie A
+1,Michaël Cuisance,2022-23,25,AM(C),Sampdoria,12,9,624,0,0,0,6.34,ITA Serie A
+2,Rick Karsdorp,2022-23,29,"D(R),M(R)",Roma,13,8,713,0,0,0,6.34,ITA Serie A
+3,Jacopo Fazzini,2022-23,21,AM(C),Empoli,21,8,818,0,0,0,6.34,ITA Serie A
+4,Samuel Ntanda,2022-23,19,FW,Sampdoria,1,0,1,0,0,0,6.34,ITA Serie A
+5,Daniel Ciofani,2022-23,39,FW,Cremonese,32,10,1058,8,0,0,6.34,ITA Serie A
+6,Marvin Zeegelaar,2022-23,34,"D(CL),M(L)",Udinese,7,4,354,1,0,0,6.34,ITA Serie A
+7,Marlon Santos,2022-23,29,D(C),Monza,28,18,1591,0,0,0,6.34,ITA Serie A
+8,Nedim Bajrami,2022-23,25,AM(CR),Empoli,19,8,931,1,1,0,6.34,ITA Serie A
+9,Adolfo Gaich,2022-23,25,FW,Verona,16,8,724,2,0,0,6.34,ITA Serie A
+0,Edoardo Bove,2022-23,22,M(C),Roma,22,10,990,1,0,0,6.34,ITA Serie A
+1,Festy Ebosele,2022-23,22,M(R),Udinese,17,4,400,0,1,0,6.34,ITA Serie A
+2,Luca Pellegrini,2022-23,25,"D(L),M(L)",Lazio,7,1,174,0,0,0,6.33,ITA Serie A
+3,Matteo Gabbia,2022-23,24,D(C),AC Milan,12,6,609,0,0,0,6.33,ITA Serie A
+4,Daniele Verde,2022-23,28,"AM(CLR),FW",Spezia,25,11,997,3,0,0,6.33,ITA Serie A
+5,Martín Satriano,2022-23,23,FW,Empoli,31,20,1709,2,1,0,6.33,ITA Serie A
+6,Axel Guessand,2022-23,19,D(CLR),Udinese,1,1,80,0,0,0,6.33,ITA Serie A
+7,Pietro Ceccaroni,2022-23,28,D(C),Lecce,2,0,41,0,0,0,6.33,ITA Serie A
+8,Charles Pickel,2022-23,27,M(C),Cremonese,33,30,2491,1,0,0,6.33,ITA Serie A
+9,Samuele Birindelli,2022-23,25,M(R),Monza,31,14,1397,0,1,0,6.33,ITA Serie A
+0,Matías Viña,2022-23,26,"D(L),M(L)",Roma,3,1,55,0,0,0,6.33,ITA Serie A
+1,Moise Kean,2022-23,24,"AM(LR),FW",Juventus,28,11,990,6,0,1,6.33,ITA Serie A
+2,Junior Sambia,2022-23,28,"D(R),M(CR)",Salernitana,22,7,691,0,1,0,6.33,ITA Serie A
+3,Divock Origi,2022-23,29,"AM(LR),FW",AC Milan,27,10,1015,2,1,1,6.32,ITA Serie A
+4,Ruan Tressoldi,2022-23,25,D(C),Sassuolo,23,21,1717,0,0,0,6.32,ITA Serie A
+5,Ola Solbakken,2022-23,26,AM(R),Roma,14,7,504,1,2,0,6.32,ITA Serie A
+6,Ibrahim Sulemana,2022-23,21,M(C),Verona,16,6,648,0,0,0,6.32,ITA Serie A
+7,Lorenzo Venuti,2022-23,29,"D(CLR),M(LR)",Fiorentina,17,9,923,0,1,0,6.32,ITA Serie A
+8,Domen Crnigoj,2022-23,28,AM(CR),Salernitana,7,4,296,0,0,0,6.32,ITA Serie A
+9,Andrea Consigli,2022-23,37,GK,Sassuolo,35,35,3150,0,0,1,6.32,ITA Serie A
+0,Enzo Ebosse,2022-23,25,D(C),Udinese,20,9,919,0,0,0,6.31,ITA Serie A
+1,Abdou Harroui,2022-23,26,M(CR),Sassuolo,23,5,637,2,0,0,6.31,ITA Serie A
+2,Alessandro Zanoli,2022-23,23,"D(R),M(R)",Napoli,1,0,11,0,0,0,6.31,ITA Serie A
+3,Vincenzo Fiorillo,2022-23,34,GK,Salernitana,1,1,90,0,0,0,6.31,ITA Serie A
+4,Giuseppe Pezzella,2022-23,26,"D(L),M(L)",Lecce,16,10,922,0,1,0,6.31,ITA Serie A
+5,Ilija Nestorovski,2022-23,34,FW,Udinese,21,5,626,2,1,0,6.31,ITA Serie A
+6,Gian Marco Ferrari,2022-23,32,D(C),Sassuolo,33,24,2221,1,0,0,6.31,ITA Serie A
+7,Emanuel Vignato,2022-23,24,AM(CL),Empoli,5,0,52,1,0,0,6.31,ITA Serie A
+8,Brian Bayeye,2022-23,24,M(CLR),Torino,2,1,63,0,0,0,6.31,ITA Serie A
+9,Gianluca Pegolo,2022-23,43,GK,Sassuolo,2,2,180,0,0,0,6.31,ITA Serie A
+0,Lorenzo Colombo,2022-23,22,FW,Lecce,33,18,1518,5,2,0,6.30,ITA Serie A
+1,Kristian Thorstvedt,2022-23,25,M(C),Sassuolo,31,13,1133,2,1,0,6.30,ITA Serie A
+2,Franco Carboni,2022-23,21,D(CLR),Monza,3,0,63,0,0,0,6.30,ITA Serie A
+3,Raoul Bellanova,2022-23,24,M(R),Inter,18,3,489,0,0,0,6.29,ITA Serie A
+4,Jaime Báez,2022-23,29,FW,Cremonese,2,1,96,0,0,0,6.29,ITA Serie A
+5,Eldor Shomurodov,2022-23,29,FW,Spezia,15,9,807,1,1,0,6.29,ITA Serie A
+6,Yayah Kallon,2022-23,23,AM(C),Verona,22,8,856,1,1,0,6.28,ITA Serie A
+7,Giovanni Simeone,2022-23,29,"AM(R),FW",Napoli,25,1,389,4,1,0,6.28,ITA Serie A
+8,Andreaw Gravillon,2022-23,26,D(CR),Torino,7,4,312,0,0,0,6.28,ITA Serie A
+9,Tolgay Arslan,2022-23,34,M(C),Udinese,36,12,1197,1,0,0,6.28,ITA Serie A
+0,Valerio Verre,2022-23,30,"AM(CL),FW",Sampdoria,18,6,674,0,0,0,6.28,ITA Serie A
+1,Michel Adopo,2022-23,24,M(CLR),Torino,9,3,260,0,0,0,6.28,ITA Serie A
+2,Lorenzo De Silvestri,2022-23,36,"D(R),M(R)",Bologna,15,6,667,1,0,0,6.28,ITA Serie A
+3,Nicolas Haas,2022-23,28,M(C),Empoli,24,12,1160,1,1,0,6.27,ITA Serie A
+4,Giulio Maggiore,2022-23,26,M(C),Salernitana,16,11,900,0,0,0,6.27,ITA Serie A
+5,Mario Gila,2022-23,24,D(C),Lazio,4,0,86,0,0,0,6.27,ITA Serie A
+6,Federico Bonazzoli,2022-23,27,"AM(C),FW",Salernitana,24,12,1119,2,1,0,6.27,ITA Serie A
+7,Roberto Gagliardini,2022-23,30,DMC,Inter,19,7,777,0,0,0,6.27,ITA Serie A
+8,Gonzalo Escalante,2022-23,31,DMC,Cremonese,9,7,556,0,1,0,6.26,ITA Serie A
+9,Samuele Vignato,2022-23,20,FW,Monza,5,0,56,0,1,0,6.26,ITA Serie A
+0,Luka Romero,2022-23,19,M(CLR),Lazio,6,1,148,1,0,0,6.26,ITA Serie A
+1,Francesco Rossi,2022-23,33,GK,Atalanta,1,0,2,0,0,0,6.26,ITA Serie A
+2,Benjamin Tahirovic,2022-23,21,DMC,Roma,11,4,352,0,0,0,6.26,ITA Serie A
+3,Joaquín Sosa,2022-23,22,D(C),Bologna,10,7,687,0,0,0,6.26,ITA Serie A
+4,Yacine Adli,2022-23,24,M(C),AC Milan,6,1,141,0,0,0,6.25,ITA Serie A
+5,Szymon Zurkowski,2022-23,26,M(C),Spezia,10,3,425,0,0,0,6.25,ITA Serie A
+6,Emmanuel Gyasi,2022-23,30,"M(LR),FW",Spezia,35,35,2838,2,0,0,6.25,ITA Serie A
+7,Szymon Zurkowski,2022-23,26,M(C),Fiorentina,2,0,30,0,1,0,6.25,ITA Serie A
+8,Mattia Valoti,2022-23,31,AM(CL),Monza,16,4,445,0,0,0,6.25,ITA Serie A
+9,Kristjan Asllani,2022-23,22,M(C),Inter,20,5,580,0,0,0,6.25,ITA Serie A
+0,Andrea Belotti,2022-23,30,FW,Roma,31,11,1135,0,2,0,6.25,ITA Serie A
+1,Tanguy Ndombélé,2022-23,27,M(C),Napoli,30,8,793,1,0,0,6.24,ITA Serie A
+2,Jeison Murillo,2022-23,32,D(C),Sampdoria,20,12,1058,0,0,0,6.24,ITA Serie A
+3,Kaan Ayhan,2022-23,29,"D(CR),DMC",Sassuolo,10,5,543,0,0,0,6.24,ITA Serie A
+4,Kevin Lasagna,2022-23,32,"AM(CL),FW",Verona,26,17,1575,1,2,0,6.23,ITA Serie A
+5,Nicolò Cocetta,2022-23,20,D(CLR),Udinese,1,0,31,0,0,0,6.23,ITA Serie A
+6,Tommaso Cassandro,2022-23,24,D(CLR),Lecce,1,0,12,0,0,0,6.23,ITA Serie A
+7,Demba Seck,2022-23,23,FW,Torino,19,6,516,0,0,0,6.23,ITA Serie A
+8,Simone Romagnoli,2022-23,34,D(C),Lecce,7,1,164,0,0,0,6.22,ITA Serie A
+9,Ignacio Pussetto,2022-23,28,"AM(CLR),FW",Sampdoria,5,1,150,0,0,0,6.22,ITA Serie A
+0,Alberto Basso,2022-23,20,FW,Cremonese,1,0,16,0,0,0,6.22,ITA Serie A
+1,Filippo Missori,2022-23,20,D(CLR),Roma,3,2,181,0,0,0,6.22,ITA Serie A
+2,Toma Basic,2022-23,27,M(C),Lazio,25,4,499,1,0,0,6.22,ITA Serie A
+3,Lukas Vorlicky,2022-23,22,FW,Atalanta,3,0,23,0,0,0,6.22,ITA Serie A
+4,Liam Henderson,2022-23,28,AM(C),Empoli,25,11,1004,0,1,0,6.22,ITA Serie A
+5,Nicolò Zaniolo,2022-23,25,"AM(CR),FW",Roma,13,12,898,1,0,0,6.21,ITA Serie A
+6,Kristoffer Askildsen,2022-23,23,M(C),Lecce,21,7,724,0,0,0,6.21,ITA Serie A
+7,Giacomo Quagliata,2022-23,24,D(L),Cremonese,20,6,693,0,1,0,6.21,ITA Serie A
+8,Florian Thauvin,2022-23,31,"M(CLR),FW",Udinese,16,5,543,0,0,0,6.21,ITA Serie A
+9,Alessio Zerbin,2022-23,25,FW,Napoli,10,2,193,0,0,0,6.21,ITA Serie A
+0,Pietro Pellegri,2022-23,23,FW,Torino,18,4,460,2,0,0,6.20,ITA Serie A
+1,Petko Hristov,2022-23,25,D(C),Spezia,9,4,363,0,0,0,6.20,ITA Serie A
+2,Andrea Barberis,2022-23,30,M(C),Monza,9,3,332,0,1,0,6.20,ITA Serie A
+3,Emil Ceïde,2022-23,23,FW,Sassuolo,19,5,505,0,1,0,6.20,ITA Serie A
+4,Grégoire Defrel,2022-23,33,"AM(CR),FW",Sassuolo,27,13,1168,2,1,1,6.20,ITA Serie A
+5,Viktor Kovalenko,2022-23,28,M(C),Spezia,18,7,549,0,0,0,6.19,ITA Serie A
+6,Salvatore Molina,2022-23,32,"DMC,M(LR)",Monza,5,1,229,0,0,0,6.19,ITA Serie A
+7,Tiémoué Bakayoko,2022-23,30,DMC,AC Milan,3,0,38,0,0,0,6.19,ITA Serie A
+8,Tio Cipot,2022-23,21,FW,Spezia,8,0,133,0,0,0,6.19,ITA Serie A
+9,Emanuel Vignato,2022-23,24,AM(CL),Bologna,8,2,239,0,1,0,6.19,ITA Serie A
+0,Erik Botheim,2022-23,24,"AM(C),FW",Salernitana,28,9,858,1,3,0,6.19,ITA Serie A
+1,Simone Pafundi,2022-23,18,M(CLR),Udinese,8,0,76,0,0,0,6.19,ITA Serie A
+2,Emirhan Ilkhan,2022-23,20,M(C),Torino,4,1,88,0,0,0,6.19,ITA Serie A
+3,Youssef Maleh,2022-23,26,M(C),Lecce,17,7,672,0,1,0,6.18,ITA Serie A
+4,Ronaldo Vieira,2022-23,26,DMC,Sampdoria,16,8,815,0,0,0,6.18,ITA Serie A
+5,Michel Aebischer,2022-23,27,M(CR),Bologna,32,18,1541,1,0,0,6.18,ITA Serie A
+6,Agustín Álvarez,2022-23,23,FW,Sassuolo,22,1,351,1,1,0,6.18,ITA Serie A
+7,Mato Jajalo,2022-23,36,M(C),Udinese,3,0,61,0,0,0,6.18,ITA Serie A
+8,Warren Bondo,2022-23,20,M(CLR),Monza,4,0,56,0,0,0,6.18,ITA Serie A
+9,Diego Demme,2022-23,32,DMC,Napoli,7,2,144,0,0,0,6.17,ITA Serie A
+0,Jesé,2022-23,31,"AM(LR),FW",Sampdoria,11,1,203,1,1,0,6.17,ITA Serie A
+1,Niklas Pyyhtia,2022-23,20,M(CLR),Bologna,6,0,103,0,1,0,6.16,ITA Serie A
+2,Francesco Caputo,2022-23,37,FW,Sampdoria,15,13,1100,1,0,0,6.16,ITA Serie A
+3,Marash Kumbulla,2022-23,24,D(C),Roma,7,5,263,0,0,0,6.15,ITA Serie A
+4,Aster Vranckx,2022-23,21,M(C),AC Milan,9,2,237,0,0,0,6.15,ITA Serie A
+5,Ivan Radovanovic,2022-23,36,"D(C),DMC",Salernitana,10,7,672,0,0,0,6.15,ITA Serie A
+6,Kristijan Bistrovic,2022-23,26,DMC,Lecce,11,5,460,0,0,0,6.15,ITA Serie A
+7,Nicolò Rovella,2022-23,22,DMC,Juventus,3,0,23,0,0,0,6.15,ITA Serie A
+8,Fabio Quagliarella,2022-23,41,FW,Sampdoria,23,7,797,1,1,0,6.14,ITA Serie A
+9,Salvador Ferrer,2022-23,26,D(R),Spezia,5,0,130,0,0,0,6.14,ITA Serie A
+0,Gerard Yepes,2022-23,22,M(CLR),Sampdoria,5,2,198,0,0,0,6.14,ITA Serie A
+1,Jack Hendry,2022-23,29,D(C),Cremonese,4,2,218,0,0,0,6.14,ITA Serie A
+2,Matteo Lovato,2022-23,24,D(C),Salernitana,17,8,810,0,0,0,6.14,ITA Serie A
+3,Emirhan Ilkhan,2022-23,20,M(C),Sampdoria,8,0,102,0,0,0,6.14,ITA Serie A
+4,Mattia Destro,2022-23,33,FW,Empoli,17,6,567,1,0,0,6.14,ITA Serie A
+5,Nicola Murru,2022-23,29,"D(L),M(L)",Sampdoria,20,5,775,0,0,0,6.14,ITA Serie A
+6,Valentin Antov,2022-23,23,D(C),Monza,9,2,301,0,0,0,6.13,ITA Serie A
+7,João Moutinho,2022-23,26,"D(L),M(L)",Spezia,4,0,57,0,0,0,6.13,ITA Serie A
+8,Antonio Iervolino,2022-23,21,M(CLR),Salernitana,1,0,5,0,0,0,6.13,ITA Serie A
+9,Giulio Donati,2022-23,34,"D(CLR),M(R)",Monza,9,5,424,1,0,0,6.13,ITA Serie A
+0,Thórir Helgason,2022-23,23,M(C),Lecce,12,2,215,0,0,0,6.13,ITA Serie A
+1,Youssef Maleh,2022-23,26,M(C),Fiorentina,7,4,299,0,0,0,6.13,ITA Serie A
+2,Matteo Cancellieri,2022-23,22,FW,Lazio,20,1,237,0,0,0,6.12,ITA Serie A
+3,Marios Oikonomou,2022-23,31,D(C),Sampdoria,6,3,220,0,0,0,6.12,ITA Serie A
+4,Alessandro Cortinovis,2022-23,23,M(CLR),Verona,1,0,6,0,0,0,6.12,ITA Serie A
+5,Antonio Mirante,2022-23,41,GK,AC Milan,1,0,1,0,0,0,6.12,ITA Serie A
+6,Jordan Majchrzak,2022-23,19,FW,Roma,1,0,13,0,0,0,6.12,ITA Serie A
+7,Alessandro Bianco,2022-23,21,M(CLR),Fiorentina,7,2,151,0,0,0,6.12,ITA Serie A
+8,Mert Müldür,2022-23,25,D(R),Sassuolo,2,1,13,0,0,0,6.12,ITA Serie A
+9,Tommaso Milanese,2022-23,22,M(CLR),Cremonese,2,0,27,0,0,0,6.12,ITA Serie A
+0,Riccardo Marchizza,2022-23,26,D(L),Sassuolo,10,3,281,0,1,0,6.11,ITA Serie A
+1,Hans Nicolussi Caviglia,2022-23,24,M(C),Salernitana,12,6,585,1,0,0,6.11,ITA Serie A
+2,Roberto Piccoli,2022-23,23,FW,Verona,7,2,189,0,0,0,6.11,ITA Serie A
+3,Leandro Sanca,2022-23,24,FW,Spezia,4,0,29,0,0,0,6.10,ITA Serie A
+4,Marco D'Alessandro,2022-23,33,M(LR),Monza,8,3,287,0,0,0,6.10,ITA Serie A
+5,Daniele Montevago,2022-23,21,FW,Sampdoria,6,3,228,0,0,0,6.10,ITA Serie A
+6,Eldor Shomurodov,2022-23,29,FW,Roma,6,1,115,0,0,0,6.09,ITA Serie A
+7,Ronaldo Vieira,2022-23,26,DMC,Torino,2,0,15,0,0,0,6.09,ITA Serie A
+8,Gonzalo Villar,2022-23,26,DMC,Sampdoria,15,8,695,0,0,0,6.08,ITA Serie A
+9,Diego Valencia,2022-23,24,FW,Salernitana,12,0,222,0,0,0,6.08,ITA Serie A
+0,Flavio Paoletti,2022-23,21,M(CLR),Sampdoria,12,1,279,0,0,0,6.07,ITA Serie A
+1,Lorenzo Malagrida,2022-23,20,M(CLR),Sampdoria,6,0,105,0,0,0,6.07,ITA Serie A
+2,Tommaso Barbieri,2022-23,22,D(CLR),Juventus,3,2,110,0,0,0,6.07,ITA Serie A
+3,Christian Gytkjær,2022-23,34,FW,Monza,22,3,539,1,0,0,6.07,ITA Serie A
+4,Filippo Romagna,2022-23,27,D(C),Sassuolo,2,0,46,0,0,0,6.07,ITA Serie A
+5,Marcin Listkowski,2022-23,26,FW,Lecce,5,0,75,0,0,0,6.06,ITA Serie A
+6,Joel Voelkerling Persson,2022-23,21,FW,Lecce,9,0,91,0,0,0,6.06,ITA Serie A
+7,Vivaldo Semedo,2022-23,19,FW,Udinese,5,0,30,0,0,0,6.05,ITA Serie A
+8,Felix Afena-Gyan,2022-23,21,FW,Cremonese,23,7,812,0,0,0,6.04,ITA Serie A
+9,Karim Zedadka,2022-23,24,M(CLR),Napoli,3,0,19,0,0,0,6.04,ITA Serie A
+0,Valentín Carboni,2022-23,19,M(CLR),Inter,5,0,21,0,0,0,6.04,ITA Serie A
+1,David Strelec,2022-23,23,FW,Spezia,7,1,165,0,0,0,6.04,ITA Serie A
+2,Antonio Raimondo,2022-23,20,FW,Bologna,2,0,13,0,0,0,6.04,ITA Serie A
+3,Julius Beck,2022-23,19,M(CLR),Spezia,1,0,9,0,0,0,6.03,ITA Serie A
+4,Pablo Rodríguez,2022-23,23,FW,Lecce,4,0,50,0,0,0,6.03,ITA Serie A
+5,Raimonds Krollis,2022-23,22,FW,Spezia,4,0,32,0,0,0,6.03,ITA Serie A
+6,Gvidas Gineitis,2022-23,20,M(C),Torino,3,2,137,0,0,0,6.02,ITA Serie A
+7,Samuel Di Carmine,2022-23,35,FW,Cremonese,2,0,26,0,0,0,6.02,ITA Serie A
+8,Leonardo Buta,2022-23,22,D(CLR),Udinese,2,0,15,0,0,0,6.02,ITA Serie A
+9,Mattia Zanotti,2022-23,21,D(CLR),Inter,2,0,26,0,0,0,6.02,ITA Serie A
+0,Deyovaisio Zeefuik,2022-23,26,"D(R),M(R)",Verona,1,0,9,0,0,0,6.01,ITA Serie A
+1,Mert Çetin,2022-23,27,D(C),Lecce,1,1,21,0,0,0,6.01,ITA Serie A
+2,Ajdin Hrustic,2022-23,28,M(CLR),Verona,6,3,226,0,0,0,6.00,ITA Serie A
+3,Antonín Barák,2022-23,29,AM(CR),Verona,1,0,23,0,0,0,6.00,ITA Serie A
+4,Duccio Degli Innocenti,2022-23,21,M(CLR),Empoli,1,0,1,0,0,0,6.00,ITA Serie A
+5,Herculano Nabian,2022-23,20,FW,Empoli,1,0,1,0,0,0,6.00,ITA Serie A
+6,Marco Bertini,2022-23,22,M(CLR),Lazio,1,0,1,0,0,0,6.00,ITA Serie A
+7,Mihailo Ivanovic,2022-23,19,FW,Sampdoria,1,0,2,0,0,0,6.00,ITA Serie A
+8,Niccolò Pisilli,2022-23,19,M(CLR),Roma,1,0,1,0,0,0,6.00,ITA Serie A
+9,Stefan Radu,2022-23,37,D(CL),Lazio,2,1,2,0,0,0,6.00,ITA Serie A
+0,Telasco Segovia,2022-23,21,M(CLR),Sampdoria,1,0,1,0,0,0,6.00,ITA Serie A
+1,Jacopo Sala,2022-23,32,"D(LR),M(CR)",Spezia,6,1,108,0,0,0,5.99,ITA Serie A
+2,Emmanuel Ekong,2022-23,22,FW,Empoli,2,0,18,0,0,0,5.99,ITA Serie A
+3,Franck Ribéry,2022-23,41,"AM(CL),FW",Salernitana,1,0,36,0,0,0,5.98,ITA Serie A
+4,Jacopo Segre,2022-23,27,M(CLR),Torino,1,0,20,0,0,0,5.98,ITA Serie A
+5,Mikael Ellertsson,2022-23,22,M(CLR),Spezia,11,1,164,0,0,0,5.98,ITA Serie A
+6,Federico Marchetti,2022-23,41,GK,Spezia,2,1,66,0,0,0,5.96,ITA Serie A
+7,Andrea Carboni,2022-23,23,D(C),Monza,4,1,164,0,0,0,5.94,ITA Serie A
+8,Julian Kristoffersen,2022-23,27,FW,Salernitana,1,0,17,0,0,0,5.94,ITA Serie A
+9,Christian Acella,2022-23,22,M(CLR),Cremonese,1,0,14,0,0,0,5.91,ITA Serie A
+0,Samir Ujkani,2022-23,36,GK,Empoli,1,0,6,0,0,0,5.91,ITA Serie A
+1,Lorenzo Tonelli,2022-23,34,D(C),Empoli,2,1,20,0,0,0,5.89,ITA Serie A
+2,Kastriot Dermaku,2022-23,32,D(C),Lecce,1,0,33,0,0,0,5.89,ITA Serie A
+3,Manuel De Luca,2022-23,26,FW,Sampdoria,2,0,43,0,0,0,5.88,ITA Serie A
+4,Andrea Conti,2022-23,30,"D(R),M(R)",Sampdoria,1,0,22,0,0,0,5.87,ITA Serie A
+5,Brandon Soppy,2022-23,22,"D(R),M(LR)",Udinese,1,1,90,0,0,0,5.87,ITA Serie A
+6,Luca Marrone,2022-23,34,"D(C),DMC",Monza,2,2,136,0,0,0,5.86,ITA Serie A
+7,Giacomo Raspadori,2022-23,24,"AM(CL),FW",Sassuolo,1,0,45,0,0,0,5.81,ITA Serie A
+8,Marko Lazetic,2022-23,20,FW,AC Milan,1,0,7,0,0,0,5.79,ITA Serie A
+9,Bruno Amione,2022-23,22,D(C),Verona,1,1,58,0,0,0,5.78,ITA Serie A
+0,Alessio Cragno,2022-23,30,GK,Monza,1,1,90,0,0,0,5.61,ITA Serie A
+1,Luís Maximiano,2022-23,25,GK,Lazio,1,1,6,0,0,0,5.33,ITA Serie A
+2,Alessandro Russo,2022-23,23,GK,Sassuolo,1,1,90,0,0,0,5.26,ITA Serie A

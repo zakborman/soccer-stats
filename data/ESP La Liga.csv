@@ -1,0 +1,598 @@
+,Player,Season,Age,Position,Team,Apps,Starts,Mins,Goals,Assists,MotM,Rating,Competition
+0,Antoine Griezmann,2022-23,33,"AM(CLR),FW",Atletico,38,31,2863,15,16,13,7.69,ESP La Liga
+1,Karim Benzema,2022-23,36,FW,Real Madrid,24,24,2044,19,3,6,7.53,ESP La Liga
+2,Robert Lewandowski,2022-23,36,FW,Barcelona,34,33,2852,23,7,7,7.49,ESP La Liga
+3,Leo Román,2022-23,24,GK,Mallorca,1,1,90,0,0,0,7.38,ESP La Liga
+4,Vinícius Júnior,2022-23,24,"AM(L),FW",Real Madrid,33,32,2833,10,9,4,7.35,ESP La Liga
+5,Rodrygo,2022-23,23,"AM(CLR),FW",Real Madrid,34,25,2382,9,8,4,7.26,ESP La Liga
+6,Memphis Depay,2022-23,30,"AM(CL),FW",Barcelona,2,2,116,1,0,0,7.23,ESP La Liga
+7,Pedri,2022-23,21,AM(CL),Barcelona,26,22,1983,6,1,4,7.20,ESP La Liga
+8,Joselu,2022-23,34,FW,Espanyol,34,33,2989,16,2,5,7.15,ESP La Liga
+9,Frenkie de Jong,2022-23,27,"D(C),DMC",Barcelona,33,29,2539,2,4,4,7.15,ESP La Liga
+0,Gerónimo Rulli,2022-23,32,GK,Villarreal,14,14,1260,0,0,2,7.14,ESP La Liga
+1,Ousmane Dembélé,2022-23,27,"AM(CLR),FW",Barcelona,25,16,1416,5,7,3,7.14,ESP La Liga
+2,Mikel Merino,2022-23,28,M(C),Real Sociedad,33,28,2500,2,9,7,7.13,ESP La Liga
+3,Gonzalo Escalante,2022-23,31,DMC,Cadiz,14,13,1126,4,1,2,7.10,ESP La Liga
+4,Lee Kang-In,2022-23,23,"AM(CLR),FW",Mallorca,36,33,2841,6,6,6,7.09,ESP La Liga
+5,Federico Valverde,2022-23,26,M(CLR),Real Madrid,34,29,2509,7,4,4,7.08,ESP La Liga
+6,Sergi Darder,2022-23,30,M(CL),Espanyol,38,38,3325,6,3,5,7.08,ESP La Liga
+7,Enes Ünal,2022-23,27,FW,Getafe,35,35,2986,14,3,5,7.07,ESP La Liga
+8,Juan Foyth,2022-23,26,"D(CR),DMC",Villarreal,24,22,1960,1,0,1,7.06,ESP La Liga
+9,Isi Palazón,2022-23,29,AM(R),Rayo Vallecano,37,36,2990,9,5,3,7.05,ESP La Liga
+0,Raphinha,2022-23,27,"AM(LR),FW",Barcelona,36,25,2087,7,7,6,7.04,ESP La Liga
+1,Toni Kroos,2022-23,34,M(C),Real Madrid,30,25,2164,2,4,1,7.04,ESP La Liga
+2,Aleix García,2022-23,27,DMC,Girona,30,26,2341,1,5,2,7.04,ESP La Liga
+3,Aurélien Tchouaméni,2022-23,24,DMC,Real Madrid,33,24,2120,0,4,2,7.04,ESP La Liga
+4,David Gil,2022-23,30,GK,Cadiz,4,4,360,0,0,0,7.04,ESP La Liga
+5,Jeremías Ledesma,2022-23,31,GK,Cadiz,34,34,3060,0,0,5,7.03,ESP La Liga
+6,Éder Militão,2022-23,26,D(CR),Real Madrid,33,30,2703,5,0,2,7.03,ESP La Liga
+7,Vedat Muriqi,2022-23,30,FW,Mallorca,35,34,2953,15,3,4,7.01,ESP La Liga
+8,Sergio Busquets,2022-23,36,DMC,Barcelona,30,28,2347,0,4,0,6.99,ESP La Liga
+9,Takefusa Kubo,2022-23,23,"AM(CLR),FW",Real Sociedad,35,29,2452,9,4,4,6.98,ESP La Liga
+0,Guido Rodríguez,2022-23,30,DMC,Real Betis,34,33,2878,1,0,3,6.98,ESP La Liga
+1,José Gayà,2022-23,29,"D(L),M(L)",Valencia,31,31,2716,1,3,3,6.98,ESP La Liga
+2,Javi Galán,2022-23,29,"D(L),M(L)",Celta Vigo,37,36,3163,0,3,5,6.98,ESP La Liga
+3,Jules Koundé,2022-23,25,D(CR),Barcelona,29,28,2429,1,3,1,6.97,ESP La Liga
+4,José Giménez,2022-23,29,D(CR),Atletico,28,26,2421,2,1,2,6.96,ESP La Liga
+5,Dani Parejo,2022-23,35,M(C),Villarreal,37,37,3289,3,4,2,6.96,ESP La Liga
+6,Marco Asensio,2022-23,28,"AM(CLR),FW",Real Madrid,31,15,1436,9,6,3,6.94,ESP La Liga
+7,Thibaut Courtois,2022-23,32,GK,Real Madrid,31,31,2790,0,0,2,6.94,ESP La Liga
+8,Gerard Moreno,2022-23,32,"AM(CR),FW",Villarreal,21,14,1227,7,3,1,6.94,ESP La Liga
+9,Brais Méndez,2022-23,27,"AM(CR),FW",Real Sociedad,34,28,2418,8,4,2,6.93,ESP La Liga
+0,Loïc Badé,2022-23,24,D(C),Sevilla,19,16,1448,1,0,3,6.92,ESP La Liga
+1,Iago Aspas,2022-23,37,"AM(CR),FW",Celta Vigo,37,31,2868,12,3,2,6.91,ESP La Liga
+2,Viktor Tsygankov,2022-23,26,AM(CLR),Girona,19,17,1494,3,6,1,6.91,ESP La Liga
+3,Ronald Araújo,2022-23,25,D(CR),Barcelona,22,21,1802,0,2,0,6.91,ESP La Liga
+4,Yeremy Pino,2022-23,21,AM(LR),Villarreal,36,31,2465,4,5,2,6.91,ESP La Liga
+5,Lucas Robertone,2022-23,27,M(C),Almeria,37,34,2860,2,7,2,6.91,ESP La Liga
+6,Reinildo,2022-23,30,"D(CL),M(L)",Atletico,22,22,1860,0,0,1,6.91,ESP La Liga
+7,Félix Garreta,2022-23,20,D(CLR),Real Betis,1,1,90,0,0,0,6.90,ESP La Liga
+8,Alejandro Balde,2022-23,20,D(LR),Barcelona,33,30,2477,1,6,1,6.90,ESP La Liga
+9,Nico Williams,2022-23,22,AM(LR),Athletic Bilbao,36,32,2675,6,4,3,6.89,ESP La Liga
+0,Samuel Chukwueze,2022-23,25,AM(CR),Villarreal,37,27,2350,6,5,3,6.89,ESP La Liga
+1,Claudio Bravo,2022-23,41,GK,Real Betis,12,12,1080,0,0,1,6.88,ESP La Liga
+2,Antonio Raíllo,2022-23,32,D(C),Mallorca,31,31,2767,2,3,1,6.88,ESP La Liga
+3,Nicolas Jackson,2022-23,23,FW,Villarreal,26,16,1603,12,4,4,6.87,ESP La Liga
+4,Ayoze Pérez,2022-23,31,"AM(CLR),FW",Real Betis,19,17,1395,3,1,1,6.87,ESP La Liga
+5,Marc-André ter Stegen,2022-23,32,GK,Barcelona,38,38,3349,0,0,0,6.86,ESP La Liga
+6,Yannick Carrasco,2022-23,31,"D(L),M(CLR),FW",Atletico,35,26,2330,7,3,0,6.85,ESP La Liga
+7,Umar Sadiq,2022-23,27,FW,Almeria,3,3,242,2,0,0,6.85,ESP La Liga
+8,Alexander Sørloth,2022-23,28,"AM(R),FW",Real Sociedad,34,28,2398,12,3,3,6.85,ESP La Liga
+9,David Silva,2022-23,38,"M(CLR),FW",Real Sociedad,28,25,1958,2,5,2,6.85,ESP La Liga
+0,Álvaro Morata,2022-23,31,"AM(L),FW",Atletico,36,23,1906,13,2,2,6.85,ESP La Liga
+1,Gerard Piqué,2022-23,37,D(C),Barcelona,7,5,383,0,0,0,6.85,ESP La Liga
+2,Aitor Fernández,2022-23,33,GK,Osasuna,21,21,1890,0,0,2,6.85,ESP La Liga
+3,André Almeida,2022-23,24,"M(C),FW",Valencia,34,29,2552,2,4,1,6.84,ESP La Liga
+4,David Soria,2022-23,31,GK,Getafe,38,38,3420,0,0,6,6.84,ESP La Liga
+5,Gavi,2022-23,20,AM(CL),Barcelona,36,30,2543,2,4,0,6.84,ESP La Liga
+6,Álex Moreno,2022-23,31,"D(L),M(L)",Real Betis,15,15,1350,0,3,0,6.83,ESP La Liga
+7,Iñaki Williams,2022-23,30,"AM(CLR),FW",Athletic Bilbao,36,34,2853,10,3,3,6.83,ESP La Liga
+8,Jordi Masip,2022-23,35,GK,Real Valladolid,28,28,2508,0,0,1,6.83,ESP La Liga
+9,Giovani Lo Celso,2022-23,28,"M(CR),FW",Villarreal,22,14,1130,2,3,2,6.82,ESP La Liga
+0,Jordi Alba,2022-23,35,"D(L),M(L)",Barcelona,24,14,1423,2,3,1,6.82,ESP La Liga
+1,Andreas Christensen,2022-23,28,"D(C),DMC",Barcelona,23,22,1767,1,1,0,6.82,ESP La Liga
+2,Álvaro García,2022-23,31,AM(L),Rayo Vallecano,35,34,2890,5,5,4,6.82,ESP La Liga
+3,Gabri Veiga,2022-23,22,AM(C),Celta Vigo,36,28,2308,11,4,3,6.82,ESP La Liga
+4,Íñigo Martínez,2022-23,33,D(C),Athletic Bilbao,15,15,1339,1,0,0,6.81,ESP La Liga
+5,Samuel Lino,2022-23,24,"AM(LR),FW",Valencia,38,33,2897,6,1,2,6.81,ESP La Liga
+6,Juan Miranda,2022-23,24,D(L),Real Betis,21,16,1475,3,2,2,6.81,ESP La Liga
+7,Marcos Llorente,2022-23,29,"D(R),M(CR),FW",Atletico,22,21,1712,1,2,1,6.81,ESP La Liga
+8,Rodrigo De Paul,2022-23,30,"AM(CLR),FW",Atletico,30,24,1935,2,7,2,6.81,ESP La Liga
+9,Pau Torres,2022-23,27,D(C),Villarreal,34,34,3055,1,0,1,6.80,ESP La Liga
+0,Adri Embarba,2022-23,32,"AM(CLR),FW",Almeria,29,18,1477,4,3,3,6.80,ESP La Liga
+1,Anuar Tuhami,2022-23,29,AM(C),Real Valladolid,3,3,212,1,0,1,6.80,ESP La Liga
+2,Yuri Berchiche,2022-23,34,"D(L),M(L)",Athletic Bilbao,29,27,2408,1,1,1,6.79,ESP La Liga
+3,Yeray Álvarez,2022-23,29,D(C),Athletic Bilbao,28,27,2337,1,1,1,6.79,ESP La Liga
+4,Nahuel Molina,2022-23,26,"D(R),M(R)",Atletico,33,33,2872,4,2,0,6.79,ESP La Liga
+5,Lucas Boyé,2022-23,28,"AM(L),FW",Elche,35,29,2475,7,2,4,6.79,ESP La Liga
+6,Iza Carcelén,2022-23,31,D(R),Cadiz,27,25,2204,0,1,0,6.79,ESP La Liga
+7,Selim Amallah,2022-23,27,"AM(CL),FW",Real Valladolid,7,3,270,2,1,1,6.79,ESP La Liga
+8,Eduardo Camavinga,2022-23,21,"D(L),DMC",Real Madrid,37,21,2003,0,1,0,6.78,ESP La Liga
+9,Youssouf Sabaly,2022-23,31,"D(LR),M(R)",Real Betis,23,19,1681,1,1,0,6.78,ESP La Liga
+0,Pablo Maffeo,2022-23,27,"D(LR),M(R)",Mallorca,35,34,2980,2,4,3,6.78,ESP La Liga
+1,Marcos Acuña,2022-23,32,"D(CL),M(CL)",Sevilla,30,21,1917,3,2,1,6.78,ESP La Liga
+2,Javi Guerra,2022-23,21,DMC,Valencia,10,6,603,1,0,0,6.77,ESP La Liga
+3,Pape Gueye,2022-23,25,DMC,Sevilla,16,15,1177,1,3,2,6.77,ESP La Liga
+4,Santi Comesaña,2022-23,27,M(C),Rayo Vallecano,35,29,2470,3,2,1,6.77,ESP La Liga
+5,David García,2022-23,30,D(C),Osasuna,32,31,2684,2,0,0,6.77,ESP La Liga
+6,Robin Le Normand,2022-23,27,D(C),Real Sociedad,33,31,2795,0,0,1,6.76,ESP La Liga
+7,Dominik Greif,2022-23,27,GK,Mallorca,1,1,90,0,0,0,6.76,ESP La Liga
+8,Ivo Grbic,2022-23,28,GK,Atletico,13,11,923,0,0,0,6.76,ESP La Liga
+9,David López,2022-23,34,"D(C),DMC",Girona,20,19,1658,3,1,2,6.75,ESP La Liga
+0,Gonzalo Plata,2022-23,23,"AM(R),FW",Real Valladolid,34,26,2310,1,5,2,6.75,ESP La Liga
+1,Diego Rico,2022-23,31,"D(CL),M(L)",Real Sociedad,20,18,1647,0,0,1,6.75,ESP La Liga
+2,Alexander Isak,2022-23,24,"AM(L),FW",Real Sociedad,2,2,154,1,0,0,6.74,ESP La Liga
+3,Dani Ceballos,2022-23,28,M(CL),Real Madrid,30,19,1568,0,4,0,6.74,ESP La Liga
+4,Gerard Gumbau,2022-23,29,DMC,Elche,35,31,2745,1,6,2,6.74,ESP La Liga
+5,Alex Berenguer,2022-23,29,"D(LR),M(CLR),FW",Athletic Bilbao,37,26,2304,4,1,2,6.74,ESP La Liga
+6,Copete,2022-23,24,D(C),Mallorca,28,27,2215,1,0,3,6.74,ESP La Liga
+7,Omar Alderete,2022-23,27,D(C),Getafe,25,23,2051,1,1,2,6.74,ESP La Liga
+8,Arnau Martínez,2022-23,21,D(R),Girona,33,32,2737,3,4,2,6.74,ESP La Liga
+9,Diego López,2022-23,22,AM(R),Valencia,10,5,448,3,1,0,6.74,ESP La Liga
+0,Germán Pezzella,2022-23,33,D(C),Real Betis,31,29,2515,0,0,2,6.74,ESP La Liga
+1,Unai Núñez,2022-23,27,D(C),Celta Vigo,36,35,3151,0,0,1,6.74,ESP La Liga
+2,Edgar Badia,2022-23,32,GK,Elche,36,36,3240,0,0,2,6.73,ESP La Liga
+3,Fernando Pacheco,2022-23,32,GK,Espanyol,16,16,1440,0,0,1,6.73,ESP La Liga
+4,Iker Muniain,2022-23,31,AM(CLR),Athletic Bilbao,30,19,1692,0,3,1,6.72,ESP La Liga
+5,Alfonso Espino,2022-23,32,D(L),Cadiz,36,35,3123,0,4,2,6.72,ESP La Liga
+6,Oihan Sancet,2022-23,24,"M(C),FW",Athletic Bilbao,36,32,2555,10,2,1,6.72,ESP La Liga
+7,Mario Hermoso,2022-23,29,D(CL),Atletico,26,24,2111,3,2,1,6.72,ESP La Liga
+8,João Félix,2022-23,24,"AM(CL),FW",Atletico,14,7,651,4,3,1,6.72,ESP La Liga
+9,William Carvalho,2022-23,32,M(C),Real Betis,33,31,2454,3,0,2,6.72,ESP La Liga
+0,Adri Embarba,2022-23,32,"AM(CLR),FW",Espanyol,1,0,34,0,0,0,6.72,ESP La Liga
+1,Koke,2022-23,32,M(CLR),Atletico,33,30,2560,0,3,0,6.72,ESP La Liga
+2,Fran García,2022-23,25,D(L),Rayo Vallecano,38,38,3409,2,3,0,6.72,ESP La Liga
+3,Étienne Capoue,2022-23,36,"D(C),M(CL)",Villarreal,28,22,1958,3,0,0,6.72,ESP La Liga
+4,Sergio Canales,2022-23,33,M(CLR),Real Betis,31,28,2417,4,3,1,6.72,ESP La Liga
+5,Stefan Savic,2022-23,33,D(C),Atletico,22,22,1946,0,0,0,6.72,ESP La Liga
+6,Cyle Larin,2022-23,29,"AM(LR),FW",Real Valladolid,19,16,1471,8,3,0,6.71,ESP La Liga
+7,Lucas Torró,2022-23,30,DMC,Osasuna,33,31,2489,1,0,0,6.71,ESP La Liga
+8,Lucas Ocampos,2022-23,30,"M(CLR),FW",Sevilla,19,11,1163,4,0,2,6.71,ESP La Liga
+9,Álex Remiro,2022-23,29,GK,Real Sociedad,38,38,3420,0,0,0,6.71,ESP La Liga
+0,Carlos García,2022-23,24,D(CLR),Cadiz,1,0,24,0,1,0,6.71,ESP La Liga
+1,Valentín Castellanos,2022-23,25,"AM(R),FW",Girona,35,33,2618,13,0,1,6.71,ESP La Liga
+2,Moi Gómez,2022-23,30,M(CLR),Osasuna,33,28,2458,3,2,0,6.71,ESP La Liga
+3,Martín Zubimendi,2022-23,25,DMC,Real Sociedad,36,35,3102,1,3,1,6.71,ESP La Liga
+4,Héctor Bellerín,2022-23,29,"D(R),M(R)",Barcelona,3,1,141,0,0,0,6.71,ESP La Liga
+5,Oriol Romeu,2022-23,32,DMC,Girona,33,33,2952,2,0,0,6.71,ESP La Liga
+6,Lucas Vázquez,2022-23,33,"D(R),M(R)",Real Madrid,23,12,1141,4,1,0,6.70,ESP La Liga
+7,Eray Cömert,2022-23,26,D(C),Valencia,23,19,1675,1,0,0,6.70,ESP La Liga
+8,Rui Silva,2022-23,30,GK,Real Betis,26,26,2340,0,0,1,6.70,ESP La Liga
+9,El Bilal Touré,2022-23,22,FW,Almeria,21,15,1275,7,2,2,6.70,ESP La Liga
+0,Ante Budimir,2022-23,33,FW,Osasuna,31,22,1811,8,0,2,6.70,ESP La Liga
+1,Paulo Gazzaniga,2022-23,32,GK,Girona,28,28,2520,0,0,3,6.69,ESP La Liga
+2,Predrag Rajkovic,2022-23,28,GK,Mallorca,36,36,3240,0,0,1,6.69,ESP La Liga
+3,Luis Suárez,2022-23,26,"AM(L),FW",Almeria,21,18,1498,4,4,1,6.69,ESP La Liga
+4,Nabil Fekir,2022-23,31,"AM(CLR),FW",Real Betis,15,12,970,2,2,0,6.69,ESP La Liga
+5,Sergio Escudero,2022-23,35,"D(L),M(L)",Real Valladolid,23,17,1442,1,0,1,6.69,ESP La Liga
+6,Aitor Ruibal,2022-23,28,"D(R),M(LR)",Real Betis,26,15,1451,0,0,2,6.68,ESP La Liga
+7,Vinicius Souza,2022-23,25,DMC,Espanyol,34,27,2434,1,1,0,6.68,ESP La Liga
+8,Thierry Correia,2022-23,25,"D(R),M(R)",Valencia,27,24,2015,0,0,0,6.68,ESP La Liga
+9,Rubén Sobrino,2022-23,32,"AM(CLR),FW",Cadiz,33,28,2471,3,2,1,6.68,ESP La Liga
+0,Jan Oblak,2022-23,31,GK,Atletico,28,28,2493,0,0,1,6.67,ESP La Liga
+1,Omar Mascarell,2022-23,31,"D(C),DMC",Elche,28,28,2450,0,1,0,6.67,ESP La Liga
+2,Nemanja Gudelj,2022-23,32,"D(C),M(C)",Sevilla,34,31,2779,3,1,2,6.67,ESP La Liga
+3,Íñigo Ruíz de Galarreta,2022-23,31,DMC,Mallorca,30,28,2457,0,1,0,6.67,ESP La Liga
+4,Suso,2022-23,30,"AM(CLR),FW",Sevilla,25,10,1063,2,4,1,6.67,ESP La Liga
+5,Marko Dmitrovic,2022-23,32,GK,Sevilla,15,13,1268,0,0,0,6.66,ESP La Liga
+6,Justin Kluivert,2022-23,25,"AM(LR),FW",Valencia,26,15,1452,6,0,2,6.66,ESP La Liga
+7,Óscar De Marcos,2022-23,35,"D(LR),M(CR)",Athletic Bilbao,37,32,2824,1,6,1,6.66,ESP La Liga
+8,Fernando Martínez,2022-23,34,GK,Almeria,37,37,3286,0,0,1,6.66,ESP La Liga
+9,Aridane Hernández,2022-23,35,D(C),Osasuna,23,20,1791,0,1,2,6.66,ESP La Liga
+0,Alfonso Pedraza,2022-23,28,"D(L),M(L)",Villarreal,26,20,1636,0,3,0,6.65,ESP La Liga
+1,Abde Ezzalzouli,2022-23,22,AM(L),Osasuna,28,19,1516,4,2,2,6.65,ESP La Liga
+2,Raúl Albiol,2022-23,39,D(C),Villarreal,25,24,2120,0,0,0,6.65,ESP La Liga
+3,Luka Modric,2022-23,38,M(C),Real Madrid,33,19,1746,4,3,0,6.65,ESP La Liga
+4,Luiz Felipe,2022-23,27,D(C),Real Betis,23,22,1769,0,0,0,6.65,ESP La Liga
+5,Sergi Roberto,2022-23,32,"D(R),M(CR)",Barcelona,23,15,1309,4,1,0,6.65,ESP La Liga
+6,Mouctar Diakhaby,2022-23,27,"D(C),DMC",Valencia,29,28,2449,3,0,1,6.65,ESP La Liga
+7,Joseph Aidoo,2022-23,28,D(C),Celta Vigo,35,35,3121,3,0,2,6.65,ESP La Liga
+8,Igor Zubeldia,2022-23,27,"D(C),DMC",Real Sociedad,31,29,2547,1,1,1,6.64,ESP La Liga
+9,Luiz Henrique,2022-23,23,AM(LR),Real Betis,33,21,1816,1,3,2,6.64,ESP La Liga
+0,Ander Barrenetxea,2022-23,22,M(LR),Real Sociedad,23,9,874,3,1,0,6.64,ESP La Liga
+1,Hugo Mallo,2022-23,33,"D(CR),M(R)",Celta Vigo,26,26,2171,0,1,1,6.64,ESP La Liga
+2,Óscar Trejo,2022-23,36,"M(CLR),FW",Rayo Vallecano,34,28,2164,3,4,1,6.64,ESP La Liga
+3,Chris Ramos,2022-23,27,FW,Cadiz,15,7,707,1,0,0,6.64,ESP La Liga
+4,Thomas Lemar,2022-23,28,AM(CLR),Atletico,27,17,1259,1,3,0,6.63,ESP La Liga
+5,Mikel Vesga,2022-23,31,DMC,Athletic Bilbao,36,28,2576,3,3,0,6.63,ESP La Liga
+6,Clerc,2022-23,32,"D(CL),M(L)",Elche,32,31,2647,0,1,0,6.63,ESP La Liga
+7,Borja Iglesias,2022-23,31,FW,Real Betis,35,29,2385,15,3,2,6.63,ESP La Liga
+8,Aimar Oroz,2022-23,22,AM(C),Osasuna,31,23,2023,3,6,3,6.63,ESP La Liga
+9,Rodrigo Riquelme,2022-23,24,AM(CL),Girona,34,25,2188,4,4,2,6.63,ESP La Liga
+0,Luis Milla,2022-23,29,DMC,Getafe,27,22,1862,0,3,0,6.63,ESP La Liga
+1,Martin Valjent,2022-23,28,D(C),Mallorca,30,30,2659,0,0,0,6.62,ESP La Liga
+2,Memphis Depay,2022-23,30,"AM(CL),FW",Atletico,8,3,269,4,0,0,6.62,ESP La Liga
+3,Carlos Soler,2022-23,27,M(CLR),Valencia,3,3,243,1,0,1,6.62,ESP La Liga
+4,Nacho,2022-23,34,D(CLR),Real Madrid,27,18,1632,1,1,0,6.62,ESP La Liga
+5,Federico Fernández,2022-23,35,D(C),Elche,1,1,90,0,0,0,6.62,ESP La Liga
+6,Álex Collado,2022-23,25,AM(CR),Elche,15,8,725,1,1,1,6.62,ESP La Liga
+7,Eric García,2022-23,23,D(C),Barcelona,24,15,1414,1,0,0,6.62,ESP La Liga
+8,Aihen Muñoz,2022-23,27,D(L),Real Sociedad,23,20,1758,0,1,0,6.62,ESP La Liga
+9,Cenk Özkacar,2022-23,23,D(C),Valencia,17,14,1364,0,0,0,6.62,ESP La Liga
+0,Manu Morlanes,2022-23,25,DMC,Mallorca,12,9,713,1,0,0,6.61,ESP La Liga
+1,Kike Barja,2022-23,27,AM(LR),Osasuna,27,15,1316,1,6,0,6.61,ESP La Liga
+2,Álvaro Aceves,2022-23,21,GK,Real Valladolid,1,0,12,0,0,0,6.61,ESP La Liga
+3,Léo Baptistão,2022-23,32,"AM(CLR),FW",Almeria,28,24,1746,5,2,3,6.61,ESP La Liga
+4,Alejandro Catena,2022-23,29,D(C),Rayo Vallecano,35,35,3105,1,1,0,6.61,ESP La Liga
+5,Aïssa Mandi,2022-23,32,D(CLR),Villarreal,21,16,1460,0,0,0,6.61,ESP La Liga
+6,Brian Oliván,2022-23,30,D(CL),Espanyol,30,29,2413,1,7,0,6.60,ESP La Liga
+7,César Montes,2022-23,27,D(C),Espanyol,20,18,1589,3,0,1,6.60,ESP La Liga
+8,Dani Rodríguez,2022-23,36,AM(CLR),Mallorca,35,26,2115,3,6,2,6.60,ESP La Liga
+9,José Gragera,2022-23,24,M(CLR),Espanyol,9,5,461,1,0,0,6.60,ESP La Liga
+0,Umar Sadiq,2022-23,27,FW,Real Sociedad,2,1,83,1,0,0,6.60,ESP La Liga
+1,Carles Pérez,2022-23,26,"AM(CR),FW",Celta Vigo,35,23,2150,3,5,2,6.60,ESP La Liga
+2,Jawad El Yamiq,2022-23,32,D(C),Real Valladolid,25,19,1612,1,0,0,6.59,ESP La Liga
+3,Théo Bongonda,2022-23,28,AM(LR),Cadiz,31,24,1951,4,3,1,6.59,ESP La Liga
+4,Óscar Valentín,2022-23,30,DMC,Rayo Vallecano,34,29,2564,0,0,0,6.59,ESP La Liga
+5,Álex Baena,2022-23,23,AM(CL),Villarreal,35,19,1947,6,2,2,6.59,ESP La Liga
+6,Martín Montoya,2022-23,33,"D(LR),M(R)",Real Betis,6,6,456,0,0,0,6.59,ESP La Liga
+7,Chimy Avila,2022-23,30,"AM(LR),FW",Osasuna,29,23,1724,8,2,3,6.59,ESP La Liga
+8,Dani Vivian,2022-23,25,D(C),Athletic Bilbao,29,26,2374,1,0,0,6.59,ESP La Liga
+9,Nico González,2022-23,22,DMC,Valencia,26,18,1410,1,1,0,6.59,ESP La Liga
+0,Sergi Guardiola,2022-23,33,FW,Cadiz,17,14,1176,3,0,1,6.59,ESP La Liga
+1,Álex Centelles,2022-23,25,D(L),Almeria,16,12,1124,1,2,0,6.59,ESP La Liga
+2,David Alaba,2022-23,32,"D(CL),M(CL)",Real Madrid,23,21,1841,1,3,0,6.58,ESP La Liga
+3,Santiago Bueno,2022-23,25,D(C),Girona,34,34,3012,0,1,0,6.58,ESP La Liga
+4,Tete Morente,2022-23,27,M(CLR),Elche,32,23,2073,4,0,1,6.58,ESP La Liga
+5,Pepe Reina,2022-23,42,GK,Villarreal,22,22,1980,0,0,0,6.58,ESP La Liga
+6,Melero,2022-23,30,"M(C),FW",Almeria,27,24,1877,4,3,0,6.58,ESP La Liga
+7,Edgar González,2022-23,27,"D(C),DMC",Real Betis,25,18,1770,0,0,0,6.58,ESP La Liga
+8,Ferland Mendy,2022-23,29,"D(L),M(L)",Real Madrid,18,17,1359,0,1,0,6.58,ESP La Liga
+9,Franco Cervi,2022-23,30,"D(L),M(CL)",Celta Vigo,36,21,1898,0,4,0,6.57,ESP La Liga
+0,Fernando,2022-23,37,"D(C),DMC",Sevilla,22,19,1581,0,1,0,6.57,ESP La Liga
+1,Samu Castillejo,2022-23,29,"AM(CLR),FW",Valencia,25,17,1371,4,0,0,6.57,ESP La Liga
+2,Kike Pérez,2022-23,27,M(C),Real Valladolid,36,28,2319,1,2,0,6.57,ESP La Liga
+3,Florian Lejeune,2022-23,33,D(C),Rayo Vallecano,31,31,2570,4,0,1,6.57,ESP La Liga
+4,Iván Sánchez,2022-23,31,AM(CR),Real Valladolid,25,13,1122,1,1,1,6.57,ESP La Liga
+5,Rodri,2022-23,24,AM(CLR),Real Betis,30,19,1610,2,3,1,6.57,ESP La Liga
+6,Isco,2022-23,32,"M(CLR),FW",Sevilla,12,10,803,0,2,0,6.57,ESP La Liga
+7,Miguel Gutiérrez,2022-23,23,D(L),Girona,34,27,2400,2,3,0,6.57,ESP La Liga
+8,Iván Fresneda,2022-23,19,D(R),Real Valladolid,22,18,1776,0,0,0,6.56,ESP La Liga
+9,Martin Braithwaite,2022-23,33,"AM(CLR),FW",Espanyol,31,29,2468,10,2,2,6.56,ESP La Liga
+0,Saúl Ñíguez,2022-23,29,"D(CL),M(CLR)",Atletico,31,11,1091,3,1,1,6.56,ESP La Liga
+1,Nemanja Maksimovic,2022-23,29,M(C),Getafe,29,26,2069,0,0,0,6.55,ESP La Liga
+2,Youssef En-Nesyri,2022-23,27,FW,Sevilla,31,17,1660,8,1,0,6.55,ESP La Liga
+3,Samú Costa,2022-23,23,DMC,Almeria,32,22,1988,1,2,2,6.55,ESP La Liga
+4,Geoffrey Kondogbia,2022-23,31,"D(C),DMC",Atletico,21,11,1001,0,2,0,6.55,ESP La Liga
+5,Óliver Torres,2022-23,29,M(CLR),Sevilla,32,27,2149,3,1,2,6.55,ESP La Liga
+6,Lázaro,2022-23,22,"AM(L),FW",Almeria,19,7,711,6,0,1,6.55,ESP La Liga
+7,Iván Martín,2022-23,25,M(C),Girona,24,18,1592,3,3,0,6.55,ESP La Liga
+8,Ansu Fati,2022-23,21,"AM(L),FW",Barcelona,36,12,1382,7,3,0,6.55,ESP La Liga
+9,Borja García,2022-23,33,AM(CL),Girona,11,10,686,1,0,0,6.55,ESP La Liga
+0,Axel Witsel,2022-23,35,"D(C),M(C)",Atletico,33,25,2255,0,0,0,6.55,ESP La Liga
+1,Íñigo Lekue,2022-23,31,"D(LR),M(LR)",Athletic Bilbao,20,14,1323,0,1,0,6.54,ESP La Liga
+2,Asier Illarramendi,2022-23,34,M(C),Real Sociedad,24,13,1077,1,0,0,6.54,ESP La Liga
+3,Damián Suárez,2022-23,36,"D(R),M(R)",Getafe,28,26,1961,1,1,0,6.54,ESP La Liga
+4,Sergio Camello,2022-23,23,FW,Rayo Vallecano,38,27,2412,6,5,1,6.54,ESP La Liga
+5,Jorge Cuenca,2022-23,24,D(C),Villarreal,10,5,503,0,0,0,6.54,ESP La Liga
+6,Sergio Herrera,2022-23,31,GK,Osasuna,17,17,1530,0,0,0,6.54,ESP La Liga
+7,Javi Sánchez,2022-23,27,D(C),Real Valladolid,32,28,2395,1,0,0,6.54,ESP La Liga
+8,Fernando Pacheco,2022-23,32,GK,Almeria,1,1,90,0,0,0,6.54,ESP La Liga
+9,Ramón Terrats,2022-23,23,DMC,Villarreal,16,11,824,1,1,1,6.54,ESP La Liga
+0,Álex Sola,2022-23,25,D(R),Real Sociedad,10,3,346,0,0,0,6.54,ESP La Liga
+1,Luis Pérez,2022-23,29,D(R),Real Valladolid,18,15,1216,0,1,1,6.54,ESP La Liga
+2,Giorgi Mamardashvili,2022-23,23,GK,Valencia,38,38,3420,0,0,2,6.54,ESP La Liga
+3,Ivan Rakitic,2022-23,36,M(CL),Sevilla,31,21,1791,1,3,1,6.54,ESP La Liga
+4,Manu Sánchez,2022-23,24,D(L),Osasuna,31,22,2117,0,2,0,6.54,ESP La Liga
+5,Marcão,2022-23,28,D(C),Sevilla,5,4,374,0,0,0,6.53,ESP La Liga
+6,Erik Lamela,2022-23,32,"AM(CLR),FW",Sevilla,32,20,1847,6,0,0,6.53,ESP La Liga
+7,Bryan Gil,2022-23,23,AM(CLR),Sevilla,17,10,921,2,2,0,6.53,ESP La Liga
+8,Rubén Peña,2022-23,33,"D(R),M(LR)",Osasuna,20,14,1282,0,1,1,6.53,ESP La Liga
+9,Lucas Rosa,2022-23,24,D(CLR),Real Valladolid,17,11,930,0,1,0,6.53,ESP La Liga
+0,Djené Dakonam,2022-23,32,"D(C),DMC",Getafe,33,33,2847,0,1,0,6.53,ESP La Liga
+1,Diego Mariño,2022-23,34,GK,Almeria,1,0,45,0,0,0,6.53,ESP La Liga
+2,Iker Benito,2022-23,22,FW,Osasuna,4,2,176,0,0,0,6.53,ESP La Liga
+3,Julen Agirrezabala,2022-23,23,GK,Athletic Bilbao,8,7,675,0,0,0,6.53,ESP La Liga
+4,Srdjan Babic,2022-23,28,D(C),Almeria,34,33,2999,3,0,0,6.53,ESP La Liga
+5,Marcos Alonso,2022-23,33,"D(CL),M(L)",Barcelona,24,11,1163,1,0,0,6.53,ESP La Liga
+6,Antonio Rüdiger,2022-23,31,D(CLR),Real Madrid,33,26,2411,1,0,0,6.53,ESP La Liga
+7,Rodrigo Ely,2022-23,30,D(C),Almeria,36,36,3158,0,1,0,6.52,ESP La Liga
+8,Monchu,2022-23,24,DMC,Real Valladolid,34,24,2030,3,2,1,6.52,ESP La Liga
+9,Joaquín Fernández,2022-23,28,"D(C),DMC",Real Valladolid,27,24,2158,1,0,1,6.52,ESP La Liga
+0,Jaume Costa,2022-23,36,"D(LR),M(L)",Mallorca,32,30,2610,0,1,0,6.52,ESP La Liga
+1,Jorge Meré,2022-23,27,D(C),Cadiz,10,6,600,0,0,0,6.52,ESP La Liga
+2,Yan Couto,2022-23,22,"D(R),M(R)",Girona,25,12,1154,1,2,0,6.52,ESP La Liga
+3,Alex Telles,2022-23,31,"D(CL),M(L)",Sevilla,27,15,1428,0,2,0,6.52,ESP La Liga
+4,Agustín Marchesín,2022-23,36,GK,Celta Vigo,19,19,1710,0,0,0,6.52,ESP La Liga
+5,Gorka Guruzeta,2022-23,27,FW,Athletic Bilbao,30,17,1421,6,1,2,6.52,ESP La Liga
+6,Manu Bueno,2022-23,20,M(CLR),Sevilla,2,2,150,0,0,0,6.52,ESP La Liga
+7,Javier Puado,2022-23,26,"AM(CLR),FW",Espanyol,37,25,2350,7,2,0,6.51,ESP La Liga
+8,Andrés Guardado,2022-23,37,"D(L),M(CL)",Real Betis,26,16,1376,1,1,0,6.51,ESP La Liga
+9,Óscar Plano,2022-23,33,"AM(CLR),FW",Real Valladolid,33,22,2048,1,1,0,6.51,ESP La Liga
+0,Brian Ocampo,2022-23,25,AM(L),Cadiz,18,15,1129,1,1,1,6.51,ESP La Liga
+1,Juan Iglesias,2022-23,26,"D(LR),M(R)",Getafe,32,21,2144,1,0,0,6.51,ESP La Liga
+2,Ángel Correa,2022-23,29,"AM(CLR),FW",Atletico,35,13,1449,9,1,2,6.50,ESP La Liga
+3,Domingos Duarte,2022-23,29,D(C),Getafe,31,30,2658,0,2,1,6.50,ESP La Liga
+4,Jon Pacheco,2022-23,23,D(C),Real Sociedad,17,12,1189,0,1,0,6.50,ESP La Liga
+5,Borja Mayoral,2022-23,27,"AM(R),FW",Getafe,35,33,2775,8,2,2,6.50,ESP La Liga
+6,Giovanni González,2022-23,29,D(CR),Mallorca,16,10,924,0,2,0,6.50,ESP La Liga
+7,Rubén Alcaraz,2022-23,33,DMC,Cadiz,31,22,2047,3,0,1,6.50,ESP La Liga
+8,Gastón Álvarez,2022-23,24,D(L),Getafe,22,16,1504,2,0,0,6.50,ESP La Liga
+9,Darwin Machís,2022-23,31,AM(LR),Real Valladolid,11,7,599,0,1,1,6.50,ESP La Liga
+0,Fran Beltrán,2022-23,25,DMC,Celta Vigo,36,33,2864,0,2,0,6.49,ESP La Liga
+1,Andoni Gorosabel,2022-23,28,D(R),Real Sociedad,27,19,1712,0,0,1,6.49,ESP La Liga
+2,Leandro Cabrera,2022-23,33,D(CL),Espanyol,32,31,2673,0,1,0,6.48,ESP La Liga
+3,Víctor Ruiz,2022-23,35,D(C),Real Betis,10,5,557,0,0,0,6.48,ESP La Liga
+4,Óscar Rodríguez,2022-23,26,AM(CLR),Celta Vigo,33,19,1772,2,0,0,6.48,ESP La Liga
+5,Ferran Torres,2022-23,24,"AM(LR),FW",Barcelona,33,14,1385,4,2,1,6.48,ESP La Liga
+6,Álex Pozo,2022-23,25,"D(R),M(R)",Almeria,30,20,1878,0,3,0,6.48,ESP La Liga
+7,José Luís Morales,2022-23,37,"D(R),M(CLR),FW",Villarreal,29,11,1205,7,0,0,6.48,ESP La Liga
+8,Jørgen Strand Larsen,2022-23,24,FW,Celta Vigo,32,20,1713,4,4,1,6.48,ESP La Liga
+9,Unai Simón,2022-23,27,GK,Athletic Bilbao,31,31,2746,0,0,1,6.48,ESP La Liga
+0,Mauro Arambarri,2022-23,28,DMC,Getafe,13,13,1000,0,1,0,6.48,ESP La Liga
+1,Stefan Mitrovic,2022-23,34,D(C),Getafe,22,18,1678,0,0,0,6.48,ESP La Liga
+2,Edu Expósito,2022-23,28,M(C),Espanyol,28,13,1165,2,2,1,6.47,ESP La Liga
+3,Toni Villa,2022-23,29,AM(CLR),Girona,24,12,896,1,3,2,6.47,ESP La Liga
+4,Dani García,2022-23,34,DMC,Athletic Bilbao,25,18,1492,0,2,0,6.47,ESP La Liga
+5,Rubén Sánchez,2022-23,23,M(R),Espanyol,18,9,894,0,2,0,6.47,ESP La Liga
+6,Mohamed-Ali Cho,2022-23,20,FW,Real Sociedad,19,5,580,1,2,1,6.47,ESP La Liga
+7,Andriy Lunin,2022-23,25,GK,Real Madrid,7,7,630,0,0,0,6.46,ESP La Liga
+8,Hugo Guillamón,2022-23,24,"D(C),DMC",Valencia,25,19,1634,1,4,0,6.46,ESP La Liga
+9,Lucas Olaza,2022-23,30,"D(L),M(L)",Real Valladolid,23,16,1497,0,1,0,6.46,ESP La Liga
+0,Luis Hernández,2022-23,35,D(CR),Cadiz,35,35,3150,0,0,0,6.46,ESP La Liga
+1,Álvaro Aguado,2022-23,28,M(C),Real Valladolid,34,18,1887,1,2,0,6.46,ESP La Liga
+2,Unai García,2022-23,32,D(C),Osasuna,21,20,1718,0,1,0,6.46,ESP La Liga
+3,Óscar Mingueza,2022-23,25,D(CR),Celta Vigo,21,13,1285,0,0,0,6.46,ESP La Liga
+4,Jesús Navas,2022-23,38,"D(R),M(R)",Sevilla,32,21,1980,0,0,0,6.46,ESP La Liga
+5,Paul Akouokou,2022-23,26,DMC,Real Betis,12,3,442,0,0,0,6.45,ESP La Liga
+6,Nacho Vidal,2022-23,29,D(R),Osasuna,20,15,1250,0,0,0,6.45,ESP La Liga
+7,Yangel Herrera,2022-23,26,M(C),Girona,20,12,966,2,2,0,6.45,ESP La Liga
+8,Javi Hernández,2022-23,26,D(L),Girona,25,13,1117,1,2,0,6.45,ESP La Liga
+9,Fernando Calero,2022-23,28,"D(C),DMC",Espanyol,27,20,1618,0,1,0,6.45,ESP La Liga
+0,Luca Koleosho,2022-23,19,FW,Espanyol,4,0,54,1,0,0,6.45,ESP La Liga
+1,Karim Rekik,2022-23,29,D(CL),Sevilla,16,15,1185,1,1,0,6.44,ESP La Liga
+2,Raúl de Tomás,2022-23,29,FW,Rayo Vallecano,19,9,804,4,0,0,6.44,ESP La Liga
+3,Haris Seferovic,2022-23,32,"AM(LR),FW",Celta Vigo,18,10,889,3,1,0,6.44,ESP La Liga
+4,Fali,2022-23,31,"D(C),DMC",Cadiz,25,22,1722,0,0,0,6.44,ESP La Liga
+5,Stole Dimitrievski,2022-23,30,GK,Rayo Vallecano,37,37,3325,0,0,3,6.44,ESP La Liga
+6,Lisandro Magallán,2022-23,30,D(C),Elche,14,11,903,0,0,0,6.44,ESP La Liga
+7,Kiko Femenía,2022-23,33,"D(LR),M(R)",Villarreal,20,13,1137,0,0,0,6.44,ESP La Liga
+8,Jon Moncayola,2022-23,26,"D(R),M(C)",Osasuna,37,25,2445,1,3,0,6.44,ESP La Liga
+9,Rubén García,2022-23,31,"AM(CLR),FW",Osasuna,29,11,1152,2,2,0,6.44,ESP La Liga
+0,Dani Carvajal,2022-23,32,D(R),Real Madrid,27,20,1788,0,2,0,6.44,ESP La Liga
+1,Iván Balliu,2022-23,32,"D(R),M(R)",Rayo Vallecano,37,37,3237,0,0,0,6.44,ESP La Liga
+2,Jesús Corona,2022-23,31,"D(R),M(CLR),FW",Sevilla,4,1,110,1,0,0,6.44,ESP La Liga
+3,Ronaël Pierre-Gabriel,2022-23,26,"D(CLR),M(R)",Espanyol,8,2,239,1,0,0,6.43,ESP La Liga
+4,Gabriel Paulista,2022-23,33,D(CR),Valencia,21,18,1508,1,0,0,6.43,ESP La Liga
+5,Denis Suárez,2022-23,30,M(CLR),Espanyol,18,11,950,0,0,0,6.43,ESP La Liga
+6,Felipe,2022-23,35,D(C),Atletico,3,2,193,0,0,0,6.43,ESP La Liga
+7,Johan Mojica,2022-23,32,"D(L),M(L)",Elche,3,3,270,0,0,0,6.43,ESP La Liga
+8,Jorge Pascual,2022-23,21,FW,Villarreal,2,0,8,1,0,0,6.43,ESP La Liga
+9,Munir El Haddadi,2022-23,29,"AM(CLR),FW",Getafe,28,10,1149,3,1,0,6.43,ESP La Liga
+0,Josan,2022-23,34,"D(R),M(R)",Elche,26,9,1070,1,3,0,6.43,ESP La Liga
+1,Sergi Gómez,2022-23,32,D(CR),Espanyol,29,26,2343,0,0,0,6.43,ESP La Liga
+2,Miguel Rodríguez,2022-23,21,FW,Celta Vigo,7,3,252,1,1,0,6.43,ESP La Liga
+3,Alberto Moreno,2022-23,32,"D(L),M(L)",Villarreal,24,14,1298,0,1,0,6.43,ESP La Liga
+4,Papu Gómez,2022-23,36,"M(CLR),FW",Sevilla,19,11,1063,1,1,0,6.42,ESP La Liga
+5,Francis Coquelin,2022-23,33,M(CLR),Villarreal,16,9,746,1,0,0,6.42,ESP La Liga
+6,Edinson Cavani,2022-23,37,"AM(LR),FW",Valencia,25,20,1463,5,2,0,6.42,ESP La Liga
+7,Pere Milla,2022-23,31,"AM(CLR),FW",Elche,32,22,1875,6,1,2,6.42,ESP La Liga
+8,Sergio Akieme,2022-23,26,D(L),Almeria,29,27,2300,1,0,1,6.42,ESP La Liga
+9,Yassine Bounou,2022-23,33,GK,Sevilla,26,26,2154,0,0,1,6.42,ESP La Liga
+0,Matheus Cunha,2022-23,25,"AM(CL),FW",Atletico,11,2,372,0,2,0,6.42,ESP La Liga
+1,Yunus Musah,2022-23,21,AM(CR),Valencia,33,26,2121,0,2,0,6.42,ESP La Liga
+2,Mikel Oyarzabal,2022-23,27,"AM(CLR),FW",Real Sociedad,23,14,1217,4,1,1,6.42,ESP La Liga
+3,Iván Villar,2022-23,27,GK,Celta Vigo,19,19,1710,0,0,0,6.42,ESP La Liga
+4,Álvaro Fernández,2022-23,26,GK,Espanyol,12,12,991,0,0,0,6.42,ESP La Liga
+5,John Donald,2022-23,24,"D(C),DMC",Elche,14,13,1095,0,0,0,6.41,ESP La Liga
+6,Aritz Elustondo,2022-23,30,D(CR),Real Sociedad,25,16,1450,0,1,0,6.41,ESP La Liga
+7,Juanmi Latasa,2022-23,23,FW,Getafe,18,2,437,1,0,0,6.40,ESP La Liga
+8,Pedro Bigas,2022-23,34,D(CL),Elche,28,25,2027,0,0,0,6.40,ESP La Liga
+9,Randy Nteka,2022-23,26,"AM(C),FW",Elche,14,10,730,0,0,0,6.40,ESP La Liga
+0,Ander Guevara,2022-23,27,DMC,Real Sociedad,8,2,218,0,0,0,6.40,ESP La Liga
+1,Adrià Pedrosa,2022-23,26,"D(L),M(L)",Espanyol,7,2,226,0,0,0,6.40,ESP La Liga
+2,Óscar Gil,2022-23,26,D(R),Espanyol,33,31,2571,0,1,0,6.40,ESP La Liga
+3,César de la Hoz,2022-23,32,DMC,Almeria,25,18,1672,1,0,1,6.40,ESP La Liga
+4,Roque Mesa,2022-23,35,DMC,Real Valladolid,30,21,1629,2,1,1,6.40,ESP La Liga
+5,Fidel,2022-23,34,M(CLR),Elche,27,21,1730,3,2,0,6.40,ESP La Liga
+6,Dimitri Foulquier,2022-23,31,"D(CLR),M(R)",Valencia,30,17,1729,0,2,1,6.39,ESP La Liga
+7,Rafa Mir,2022-23,27,FW,Sevilla,26,16,1300,6,0,1,6.39,ESP La Liga
+8,Iddrisu Baba,2022-23,28,DMC,Mallorca,29,20,1751,0,0,0,6.39,ESP La Liga
+9,Matija Nastasic,2022-23,31,D(C),Mallorca,14,10,904,1,0,0,6.39,ESP La Liga
+0,Manu Vallejo,2022-23,27,FW,Girona,7,2,203,0,1,0,6.39,ESP La Liga
+1,Bernardo Espinosa,2022-23,35,D(C),Girona,20,14,1226,1,1,1,6.39,ESP La Liga
+2,Dennis Hadzikadunic,2022-23,26,D(C),Mallorca,8,7,616,0,0,0,6.38,ESP La Liga
+3,Renato Tapia,2022-23,29,"D(C),DMC",Celta Vigo,28,16,1450,0,0,0,6.38,ESP La Liga
+4,Manuel Pozo,2022-23,22,FW,Real Valladolid,1,0,18,0,0,0,6.38,ESP La Liga
+5,Tino Kadewere,2022-23,28,"AM(R),FW",Mallorca,15,5,540,1,0,0,6.38,ESP La Liga
+6,Joseba Zaldúa,2022-23,32,D(R),Cadiz,10,7,640,0,1,0,6.38,ESP La Liga
+7,Tanguy Nianzou,2022-23,22,D(C),Sevilla,19,16,1370,1,0,0,6.38,ESP La Liga
+8,Pablo Ibáñez,2022-23,25,M(C),Osasuna,25,12,1061,0,1,1,6.37,ESP La Liga
+9,Helibelton Palacios,2022-23,31,D(CR),Elche,24,23,1922,0,0,0,6.37,ESP La Liga
+0,Ander Herrera,2022-23,35,M(C),Athletic Bilbao,17,9,700,0,1,0,6.37,ESP La Liga
+1,Jon Olasagasti,2022-23,24,M(CLR),Real Sociedad,3,0,63,0,0,0,6.37,ESP La Liga
+2,Victor Chust,2022-23,24,D(C),Cadiz,14,10,965,1,0,0,6.36,ESP La Liga
+3,Nicolás Melamed,2022-23,23,AM(CL),Espanyol,32,16,1251,1,2,0,6.36,ESP La Liga
+4,Fernando Medrano,2022-23,24,D(CLR),Celta Vigo,1,0,12,0,0,0,6.36,ESP La Liga
+5,Juan Cruz,2022-23,32,D(CL),Osasuna,27,21,2058,0,0,0,6.36,ESP La Liga
+6,José Ángel Carmona,2022-23,22,"D(CR),M(R)",Elche,9,8,593,1,0,1,6.36,ESP La Liga
+7,Sergio Asenjo,2022-23,35,GK,Real Valladolid,10,10,900,0,0,1,6.36,ESP La Liga
+8,José Carlos Lazo,2022-23,28,M(CLR),Espanyol,10,0,149,1,1,1,6.35,ESP La Liga
+9,Gonzalo Montiel,2022-23,27,"D(CR),M(R)",Sevilla,28,17,1522,0,3,0,6.35,ESP La Liga
+0,Hugo Sotelo,2022-23,20,M(CLR),Celta Vigo,1,0,17,0,0,0,6.35,ESP La Liga
+1,Unai López,2022-23,28,M(CR),Rayo Vallecano,34,12,1244,1,2,1,6.35,ESP La Liga
+2,Joan Jordán,2022-23,30,M(C),Sevilla,23,19,1595,0,1,0,6.35,ESP La Liga
+3,Pathé Ciss,2022-23,30,DMC,Rayo Vallecano,32,12,1268,1,0,1,6.35,ESP La Liga
+4,Juanpe,2022-23,33,D(C),Girona,19,17,1429,1,0,0,6.35,ESP La Liga
+5,Álvaro Negredo,2022-23,39,FW,Cadiz,21,9,756,1,2,1,6.35,ESP La Liga
+6,José Ángel Carmona,2022-23,22,"D(CR),M(R)",Sevilla,10,5,529,2,1,1,6.35,ESP La Liga
+7,Álex Fernández,2022-23,31,"M(CL),FW",Cadiz,28,17,1575,3,0,1,6.35,ESP La Liga
+8,Darko Brasanac,2022-23,32,M(CR),Osasuna,25,9,1037,1,1,0,6.35,ESP La Liga
+9,Pol Lirola,2022-23,27,"D(R),M(LR)",Elche,12,7,628,1,0,0,6.35,ESP La Liga
+0,Rober,2022-23,23,M(CLR),Real Betis,2,0,52,0,0,0,6.35,ESP La Liga
+1,Chumi,2022-23,25,D(CR),Almeria,21,15,1486,1,0,0,6.34,ESP La Liga
+2,Kike Salas,2022-23,22,D(C),Sevilla,6,4,370,1,1,1,6.34,ESP La Liga
+3,Alberto Perea,2022-23,33,AM(LR),Cadiz,1,1,46,0,0,0,6.34,ESP La Liga
+4,Reinier,2022-23,22,AM(C),Girona,19,6,640,2,1,0,6.34,ESP La Liga
+5,Raúl García,2022-23,38,"M(CLR),FW",Athletic Bilbao,35,6,948,2,3,0,6.34,ESP La Liga
+6,Adnan Januzaj,2022-23,29,AM(CLR),Sevilla,2,1,47,0,0,0,6.34,ESP La Liga
+7,Cristhian Stuani,2022-23,37,"AM(CLR),FW",Girona,32,8,1078,9,0,0,6.33,ESP La Liga
+8,Toni Lato,2022-23,26,"D(L),M(L)",Valencia,24,9,909,1,0,1,6.33,ESP La Liga
+9,Juan Carlos Martín,2022-23,36,GK,Girona,10,10,900,0,0,0,6.33,ESP La Liga
+0,Juanmi,2022-23,31,"AM(CLR),FW",Real Betis,22,9,922,4,0,1,6.33,ESP La Liga
+1,Largie Ramazani,2022-23,23,"AM(L),FW",Almeria,33,13,1395,3,1,0,6.32,ESP La Liga
+2,Luca de la Torre,2022-23,26,M(CLR),Celta Vigo,28,16,1489,0,2,0,6.32,ESP La Liga
+3,Anthony Lozano,2022-23,31,"AM(L),FW",Cadiz,28,14,1441,1,1,0,6.32,ESP La Liga
+4,Ilaix Moriba,2022-23,21,M(C),Valencia,24,10,1006,0,2,1,6.32,ESP La Liga
+5,Carlos Domínguez,2022-23,23,D(C),Celta Vigo,3,1,107,0,0,0,6.32,ESP La Liga
+6,Portu,2022-23,32,"M(CLR),FW",Getafe,34,17,1762,0,3,0,6.32,ESP La Liga
+7,Momo Mbaye,2022-23,26,D(C),Cadiz,14,7,754,0,0,0,6.32,ESP La Liga
+8,José Antonio de la Rosa,2022-23,20,FW,Cadiz,2,0,45,0,1,0,6.32,ESP La Liga
+9,Kasper Dolberg,2022-23,26,FW,Sevilla,4,2,198,0,1,0,6.32,ESP La Liga
+0,Valery Fernández,2022-23,24,"D(R),M(L)",Girona,25,7,959,0,2,0,6.31,ESP La Liga
+1,Pablo Barrios,2022-23,21,M(C),Atletico,21,6,716,0,1,0,6.31,ESP La Liga
+2,Joaquín,2022-23,43,"M(CLR),FW",Real Betis,22,2,471,0,2,0,6.31,ESP La Liga
+3,Fede San Emeterio,2022-23,27,DMC,Cadiz,33,24,1856,0,1,0,6.31,ESP La Liga
+4,Zouhair Feddal,2022-23,34,D(C),Real Valladolid,8,4,374,0,0,0,6.31,ESP La Liga
+5,Franck Kessié,2022-23,27,M(C),Barcelona,28,7,980,1,1,0,6.30,ESP La Liga
+6,Pablo Marín,2022-23,21,M(CLR),Real Sociedad,10,3,356,0,0,0,6.30,ESP La Liga
+7,Juan Cruz,2022-23,24,M(CLR),Real Betis,6,1,174,1,0,0,6.30,ESP La Liga
+8,Jesús Vallejo,2022-23,27,D(CR),Real Madrid,1,0,21,0,0,0,6.30,ESP La Liga
+9,Juan Cala,2022-23,34,D(C),Cadiz,3,1,137,0,0,0,6.30,ESP La Liga
+0,Johan Mojica,2022-23,32,"D(L),M(L)",Villarreal,17,5,634,0,0,0,6.29,ESP La Liga
+1,Pep Chavarría,2022-23,26,D(CLR),Rayo Vallecano,16,2,357,0,2,0,6.29,ESP La Liga
+2,Amath Ndiaye,2022-23,28,"AM(LR),FW",Mallorca,28,12,1220,2,0,0,6.29,ESP La Liga
+3,Jesús Vázquez,2022-23,21,D(L),Valencia,10,3,306,0,0,0,6.29,ESP La Liga
+4,Malcom Adu,2022-23,22,FW,Athletic Bilbao,8,0,77,0,0,0,6.29,ESP La Liga
+5,Lucas Pérez,2022-23,35,"AM(CR),FW",Cadiz,14,5,623,3,0,0,6.29,ESP La Liga
+6,Gonzalo Villar,2022-23,26,DMC,Getafe,16,3,449,0,0,0,6.28,ESP La Liga
+7,Haissem Hassan,2022-23,22,FW,Villarreal,2,0,50,0,0,0,6.28,ESP La Liga
+8,Sergio León,2022-23,35,FW,Real Valladolid,29,14,1332,6,1,1,6.28,ESP La Liga
+9,Abdul Mumin,2022-23,26,D(C),Rayo Vallecano,16,9,919,0,0,0,6.28,ESP La Liga
+0,Dyego Sousa,2022-23,34,FW,Almeria,20,3,516,0,1,0,6.28,ESP La Liga
+1,Aitor Paredes,2022-23,24,D(C),Athletic Bilbao,16,9,854,0,0,0,6.27,ESP La Liga
+2,Álvaro Rodríguez,2022-23,20,FW,Real Madrid,6,0,76,1,1,0,6.27,ESP La Liga
+3,Manu Trigueros,2022-23,32,"M(CLR),FW",Villarreal,23,8,818,0,1,0,6.27,ESP La Liga
+4,Enzo Roco,2022-23,32,D(C),Elche,22,19,1657,0,0,0,6.27,ESP La Liga
+5,Francisco Portillo,2022-23,34,M(CLR),Almeria,27,4,706,2,1,0,6.27,ESP La Liga
+6,Eden Hazard,2022-23,33,"M(CLR),FW",Real Madrid,6,2,194,0,1,0,6.27,ESP La Liga
+7,Lautaro Blanco,2022-23,25,"D(L),M(L)",Elche,17,9,874,0,2,0,6.26,ESP La Liga
+8,Oscar Ureña,2022-23,21,M(CLR),Girona,3,1,99,0,0,0,6.26,ESP La Liga
+9,Raúl Parra,2022-23,24,D(R),Cadiz,6,4,312,0,0,0,6.26,ESP La Liga
+0,Martin Hongla,2022-23,26,"D(C),DMC",Real Valladolid,16,15,1313,0,0,0,6.26,ESP La Liga
+1,Gonzalo Verdú,2022-23,35,D(C),Elche,16,9,704,1,0,0,6.26,ESP La Liga
+2,Diego Moreno,2022-23,23,D(R),Osasuna,11,7,636,0,0,0,6.26,ESP La Liga
+3,Álvaro Odriozola,2022-23,28,D(R),Real Madrid,3,0,36,0,0,0,6.25,ESP La Liga
+4,Carles Aleñá,2022-23,26,AM(CLR),Getafe,35,26,2127,2,2,1,6.25,ESP La Liga
+5,Aleix Vidal,2022-23,35,"D(R),M(LR)",Espanyol,25,10,1025,0,3,0,6.25,ESP La Liga
+6,Carlos Fernández,2022-23,28,"AM(C),FW",Real Sociedad,24,8,626,1,0,0,6.25,ESP La Liga
+7,Arnaut Danjuma,2022-23,27,"AM(L),FW",Villarreal,10,6,480,2,0,0,6.24,ESP La Liga
+8,Jaime Mata,2022-23,35,"AM(L),FW",Getafe,19,6,436,1,1,1,6.24,ESP La Liga
+9,Arnau Puigmal,2022-23,23,AM(R),Almeria,22,7,761,1,0,0,6.24,ESP La Liga
+0,Aleix Garrido,2022-23,20,M(CLR),Barcelona,1,0,6,0,0,0,6.24,ESP La Liga
+1,Roberto Torres,2022-23,35,AM(CLR),Osasuna,2,0,9,0,0,0,6.24,ESP La Liga
+2,Keidi Bare,2022-23,27,DMC,Espanyol,18,4,498,0,1,0,6.23,ESP La Liga
+3,Joel Roca,2022-23,19,M(CLR),Girona,5,0,81,0,0,0,6.23,ESP La Liga
+4,Kike García,2022-23,34,FW,Osasuna,35,7,999,2,0,0,6.23,ESP La Liga
+5,Gonçalo Paciência,2022-23,30,FW,Celta Vigo,25,5,650,2,0,1,6.23,ESP La Liga
+6,Roger Martí,2022-23,33,FW,Cadiz,14,8,640,1,0,0,6.23,ESP La Liga
+7,Pablo Torre,2022-23,21,M(CLR),Barcelona,8,1,138,0,0,0,6.22,ESP La Liga
+8,Cristhian Mosquera,2022-23,20,D(CLR),Valencia,3,1,143,0,0,0,6.22,ESP La Liga
+9,Braian Cufré,2022-23,27,"D(L),DMC,M(L)",Mallorca,5,2,217,0,0,0,6.22,ESP La Liga
+0,Iván Alejo,2022-23,29,AM(R),Cadiz,31,13,1304,0,1,0,6.22,ESP La Liga
+1,Íñigo Eguaras,2022-23,32,DMC,Almeria,25,10,961,1,1,0,6.22,ESP La Liga
+2,Iker Muñoz,2022-23,21,M(CLR),Osasuna,8,2,251,0,0,0,6.22,ESP La Liga
+3,Kaiky,2022-23,20,D(C),Almeria,13,7,582,0,0,0,6.22,ESP La Liga
+4,Ángel Algobia,2022-23,25,M(C),Getafe,26,11,1130,0,0,0,6.21,ESP La Liga
+5,Willian José,2022-23,32,FW,Real Betis,28,6,715,2,1,0,6.21,ESP La Liga
+6,Mamadou Fall,2022-23,21,D(C),Villarreal,1,0,29,0,0,0,6.21,ESP La Liga
+7,Mikel Balenziaga,2022-23,36,D(L),Athletic Bilbao,3,1,116,0,0,0,6.21,ESP La Liga
+8,Pierre-Emerick Aubameyang,2022-23,35,"M(CLR),FW",Barcelona,1,0,8,0,0,0,6.21,ESP La Liga
+9,Marcos André,2022-23,27,FW,Valencia,17,3,437,1,0,0,6.21,ESP La Liga
+0,Oier Zarraga,2022-23,25,"DMC,M(R)",Athletic Bilbao,26,6,841,0,0,0,6.21,ESP La Liga
+1,Ander Martín,2022-23,23,FW,Real Sociedad,3,0,39,0,0,0,6.21,ESP La Liga
+2,Clément Grenier,2022-23,33,M(CL),Mallorca,21,6,714,0,0,0,6.21,ESP La Liga
+3,Abner,2022-23,24,"D(L),M(L)",Real Betis,13,7,606,0,0,0,6.21,ESP La Liga
+4,Sergio Reguilón,2022-23,27,"D(L),M(L)",Atletico,11,2,307,0,0,0,6.20,ESP La Liga
+5,Alberto Marí,2022-23,23,FW,Valencia,5,0,81,1,0,0,6.20,ESP La Liga
+6,Benjamin Lecomte,2022-23,33,GK,Espanyol,10,10,900,0,0,1,6.20,ESP La Liga
+7,Augusto Solari,2022-23,32,AM(CR),Celta Vigo,13,4,260,0,1,0,6.20,ESP La Liga
+8,Jon Magunacelaya,2022-23,23,M(CLR),Real Sociedad,2,0,64,0,0,0,6.20,ESP La Liga
+9,José Mari Martín,2022-23,36,DMC,Cadiz,20,4,387,0,0,0,6.20,ESP La Liga
+0,Kevin Vázquez,2022-23,31,"D(R),M(R)",Celta Vigo,10,6,441,0,0,0,6.20,ESP La Liga
+1,Andrés Martín,2022-23,25,FW,Rayo Vallecano,9,3,203,0,0,0,6.20,ESP La Liga
+2,Thomas Delaney,2022-23,33,DMC,Sevilla,8,2,307,0,0,0,6.20,ESP La Liga
+3,Franco Russo,2022-23,29,D(C),Mallorca,3,2,147,0,0,0,6.19,ESP La Liga
+4,Nicolás Fernández Mercau,2022-23,24,M(L),Elche,18,3,504,0,1,0,6.19,ESP La Liga
+5,Ezequiel Ponce,2022-23,27,"AM(L),FW",Elche,34,8,1115,4,0,0,6.19,ESP La Liga
+6,José Carlos Lazo,2022-23,28,M(CLR),Almeria,1,0,19,0,0,0,6.19,ESP La Liga
+7,Hugo Duro,2022-23,24,"AM(L),FW",Valencia,30,12,1375,1,1,0,6.19,ESP La Liga
+8,Samu Sáiz,2022-23,33,AM(CL),Girona,8,1,236,2,0,0,6.19,ESP La Liga
+9,Bebé,2022-23,34,"AM(LR),FW",Rayo Vallecano,4,0,57,0,0,0,6.19,ESP La Liga
+0,Robert Navarro,2022-23,22,M(CLR),Real Sociedad,17,1,341,0,0,0,6.18,ESP La Liga
+1,Antonio Blanco,2022-23,24,M(C),Cadiz,3,2,159,0,0,0,6.18,ESP La Liga
+2,Antonio Sánchez,2022-23,27,M(CR),Mallorca,32,11,1066,0,0,0,6.17,ESP La Liga
+3,Jon Morcillo,2022-23,25,AM(L),Athletic Bilbao,10,0,59,0,1,0,6.17,ESP La Liga
+4,Alexander Callens,2022-23,32,D(CL),Girona,6,0,117,0,0,0,6.16,ESP La Liga
+5,Sergi Guardiola,2022-23,33,FW,Real Valladolid,14,8,508,0,0,0,6.16,ESP La Liga
+6,Manu Morlanes,2022-23,25,DMC,Villarreal,5,3,159,0,0,0,6.16,ESP La Liga
+7,Diego González,2022-23,29,D(CL),Elche,16,8,955,0,0,0,6.16,ESP La Liga
+8,Rodrigo Battaglia,2022-23,33,M(C),Mallorca,15,8,686,0,0,0,6.16,ESP La Liga
+9,Ander Capa,2022-23,32,"D(R),M(R)",Athletic Bilbao,7,1,104,0,0,0,6.16,ESP La Liga
+0,Ricard Artero,2022-23,21,M(CLR),Girona,7,0,128,0,0,0,6.16,ESP La Liga
+1,Axel Werner,2022-23,28,GK,Elche,2,2,180,0,0,0,6.15,ESP La Liga
+2,Asier Villalibre,2022-23,26,FW,Athletic Bilbao,5,1,96,0,0,0,6.15,ESP La Liga
+3,Ángel Rodríguez,2022-23,37,FW,Mallorca,18,3,382,1,0,0,6.15,ESP La Liga
+4,Toni Villa,2022-23,29,AM(CLR),Real Valladolid,2,1,91,0,0,0,6.15,ESP La Liga
+5,Lamine Yamal,2022-23,17,FW,Barcelona,1,0,7,0,0,0,6.14,ESP La Liga
+6,Abdón Prats,2022-23,31,FW,Mallorca,26,2,398,1,1,0,6.14,ESP La Liga
+7,Raúl Guti,2022-23,27,DMC,Elche,28,12,1084,0,0,0,6.13,ESP La Liga
+8,Ludwig Augustinsson,2022-23,30,"D(L),M(L)",Mallorca,4,1,130,0,0,0,6.13,ESP La Liga
+9,Omar El Hilali,2022-23,20,D(CLR),Espanyol,5,1,90,0,0,0,6.13,ESP La Liga
+0,Filip Jörgensen,2022-23,22,GK,Villarreal,2,2,180,0,0,0,6.12,ESP La Liga
+1,Josep Gayá,2022-23,24,D(CLR),Mallorca,2,1,53,0,0,0,6.12,ESP La Liga
+2,Roger Martí,2022-23,33,FW,Elche,12,8,657,0,1,0,6.11,ESP La Liga
+3,Jaime Seoane,2022-23,27,M(C),Getafe,16,2,320,0,0,0,6.11,ESP La Liga
+4,Diego Collado,2022-23,23,FW,Villarreal,2,0,5,0,0,0,6.11,ESP La Liga
+5,Curro Sánchez,2022-23,28,M(CLR),Almeria,2,0,41,0,0,0,6.11,ESP La Liga
+6,Radamel Falcao,2022-23,38,FW,Rayo Vallecano,27,3,598,2,0,0,6.10,ESP La Liga
+7,José Ángel Pozo,2022-23,28,AM(C),Rayo Vallecano,8,1,82,0,0,0,6.10,ESP La Liga
+8,Williot Swedberg,2022-23,20,M(CLR),Celta Vigo,4,0,52,0,0,0,6.10,ESP La Liga
+9,Moi Parra,2022-23,22,M(CLR),Getafe,1,0,9,0,0,0,6.10,ESP La Liga
+0,Mickaël Malsa,2022-23,27,DMC,Real Valladolid,5,0,65,0,0,0,6.10,ESP La Liga
+1,Beñat Turrientes,2022-23,22,M(C),Real Sociedad,6,1,102,0,0,0,6.09,ESP La Liga
+2,David Torres,2022-23,21,D(CLR),Real Valladolid,7,2,381,0,0,0,6.09,ESP La Liga
+3,Pablo Durán,2022-23,23,FW,Celta Vigo,4,0,32,0,0,0,6.09,ESP La Liga
+4,Carlos Martín,2022-23,22,FW,Atletico,4,0,25,0,0,0,6.09,ESP La Liga
+5,Francisco Mwepu,2022-23,24,M(CLR),Cadiz,1,0,20,0,0,0,6.09,ESP La Liga
+6,Nabili Zoubdi Touaizi,2022-23,23,FW,Espanyol,1,0,2,0,0,0,6.09,ESP La Liga
+7,Salvi Sánchez,2022-23,33,AM(R),Rayo Vallecano,24,4,475,0,0,0,6.09,ESP La Liga
+8,Lago Junior,2022-23,33,M(L),Mallorca,5,0,48,0,0,0,6.08,ESP La Liga
+9,Kenedy,2022-23,28,"D(L),M(LR)",Real Valladolid,12,2,267,0,1,0,6.08,ESP La Liga
+0,Fabrizio Angileri,2022-23,30,"D(L),M(L)",Getafe,15,7,584,0,0,0,6.07,ESP La Liga
+1,Shon Weissman,2022-23,28,FW,Real Valladolid,15,6,742,1,0,0,6.07,ESP La Liga
+2,Simo,2022-23,19,D(CLR),Espanyol,7,0,144,0,0,0,6.07,ESP La Liga
+3,Houboulang Mendes,2022-23,26,D(CR),Almeria,14,11,890,0,1,0,6.06,ESP La Liga
+4,Loren Morón,2022-23,30,FW,Real Betis,2,0,13,0,0,0,6.06,ESP La Liga
+5,Mamady Diarra,2022-23,24,FW,Cadiz,2,1,66,0,0,0,6.06,ESP La Liga
+6,Roberto Arroyo,2022-23,21,FW,Real Valladolid,1,0,14,0,0,0,6.06,ESP La Liga
+7,Dani Gómez,2022-23,26,FW,Espanyol,8,0,83,0,0,0,6.05,ESP La Liga
+8,Iñaki Peña,2022-23,25,GK,Barcelona,2,0,72,0,0,0,6.05,ESP La Liga
+9,Javi Llabrés,2022-23,21,FW,Mallorca,1,0,16,0,0,0,6.05,ESP La Liga
+0,Santiago Arzamendia,2022-23,26,"D(L),M(L)",Cadiz,12,5,479,0,0,0,6.05,ESP La Liga
+1,Mariano Díaz,2022-23,31,FW,Real Madrid,9,1,150,0,0,0,6.04,ESP La Liga
+2,Ramón Terrats,2022-23,23,DMC,Girona,8,2,211,0,0,0,6.04,ESP La Liga
+3,Fran Delgado,2022-23,23,D(CLR),Real Betis,1,0,11,0,0,0,6.04,ESP La Liga
+4,Jordan Amavi,2022-23,30,"D(L),M(L)",Getafe,6,2,200,0,0,0,6.03,ESP La Liga
+5,Matt Doherty,2022-23,32,"D(LR),M(LR)",Atletico,2,0,16,0,0,0,6.03,ESP La Liga
+6,Juanjo Narváez,2022-23,29,M(CLR),Real Valladolid,5,1,147,0,0,0,6.03,ESP La Liga
+7,Ángel Alarcón,2022-23,20,M(CLR),Barcelona,4,0,23,0,0,0,6.03,ESP La Liga
+8,Randy Nteka,2022-23,26,"AM(C),FW",Rayo Vallecano,10,0,109,0,0,0,6.03,ESP La Liga
+9,Jon Karrikaburu,2022-23,21,FW,Real Sociedad,6,0,87,0,0,0,6.02,ESP La Liga
+0,Casemiro,2022-23,32,DMC,Real Madrid,1,0,7,0,0,0,6.02,ESP La Liga
+1,Maximiliano Gómez,2022-23,28,FW,Valencia,3,0,106,0,0,0,6.02,ESP La Liga
+2,Pablo Muñoz,2022-23,21,M(CLR),Rayo Vallecano,2,0,11,0,0,0,6.02,ESP La Liga
+3,Sergio Arribas,2022-23,22,M(CLR),Real Madrid,2,0,17,0,0,0,6.02,ESP La Liga
+4,Domingos Quina,2022-23,24,M(CL),Elche,10,2,269,0,0,0,6.01,ESP La Liga
+5,Rubén Quintanilla,2022-23,22,M(CLR),Mallorca,1,0,3,0,0,0,6.01,ESP La Liga
+6,Unai Vencedor,2022-23,23,DMC,Athletic Bilbao,10,0,183,0,0,0,6.01,ESP La Liga
+7,Youba Diarra,2022-23,26,M(CLR),Cadiz,5,1,95,0,0,0,6.01,ESP La Liga
+8,Fran Pérez,2022-23,21,M(CLR),Valencia,7,0,135,0,0,0,6.01,ESP La Liga
+9,Álex Revuelta,2022-23,24,D(CLR),Getafe,1,0,1,0,0,0,6.00,ESP La Liga
+0,Arnau Tenas,2022-23,23,GK,Barcelona,1,1,1,0,0,0,6.00,ESP La Liga
+1,Chadi Riad,2022-23,21,D(CLR),Barcelona,1,0,1,0,0,0,6.00,ESP La Liga
+2,Diego Méndez,2022-23,21,M(CLR),Rayo Vallecano,1,0,1,0,0,0,6.00,ESP La Liga
+3,Esteban Saveljich,2022-23,33,D(C),Rayo Vallecano,2,1,2,0,0,0,6.00,ESP La Liga
+4,Pedro Ortiz,2022-23,24,DMC,Sevilla,1,0,1,0,0,0,6.00,ESP La Liga
+5,Mario Hernández,2022-23,25,D(R),Rayo Vallecano,3,1,103,0,0,0,6.00,ESP La Liga
+6,Alberto del Moral,2022-23,24,M(CLR),Villarreal,1,0,4,0,0,0,5.99,ESP La Liga
+7,Marko Milovanovic,2022-23,21,FW,Almeria,2,0,14,0,0,0,5.99,ESP La Liga
+8,Awer Mabil,2022-23,28,"AM(LR),FW",Cadiz,5,1,163,0,0,0,5.99,ESP La Liga
+9,Antonio Gomis,2022-23,21,GK,Atletico,1,0,5,0,0,0,5.98,ESP La Liga
+0,Tunde,2022-23,21,FW,Real Valladolid,1,0,10,0,0,0,5.98,ESP La Liga
+1,Mario Suárez,2022-23,37,"D(C),M(C)",Rayo Vallecano,3,1,11,0,0,0,5.97,ESP La Liga
+2,Pol Lozano,2022-23,24,M(C),Espanyol,4,0,13,0,0,0,5.97,ESP La Liga
+3,Fernando Niño,2022-23,23,FW,Villarreal,3,0,19,0,0,0,5.96,ESP La Liga
+4,Alejandro Alfaro,2022-23,22,M(CLR),Elche,1,0,14,0,0,0,5.95,ESP La Liga
+5,Javier Pastore,2022-23,35,AM(CLR),Elche,1,0,4,0,0,0,5.94,ESP La Liga
+6,Iván Romero,2022-23,23,FW,Sevilla,1,0,10,0,0,0,5.92,ESP La Liga
+7,Roger Martínez,2022-23,20,M(CLR),Espanyol,1,0,6,0,0,0,5.91,ESP La Liga
+8,Carlos Álvarez,2022-23,21,M(CLR),Sevilla,1,0,9,0,0,0,5.89,ESP La Liga
+9,Pape Cheikh,2022-23,27,DMC,Elche,3,1,36,0,0,0,5.88,ESP La Liga
+0,Sekou Gassama,2022-23,29,FW,Real Valladolid,1,0,34,0,0,0,5.85,ESP La Liga
+1,Diego Hormigo,2022-23,21,D(CLR),Sevilla,1,1,46,0,0,0,5.84,ESP La Liga
+2,Tomás Alarcón,2022-23,25,DMC,Cadiz,4,2,222,0,0,0,5.82,ESP La Liga
+3,Álvaro Giménez,2022-23,33,FW,Cadiz,1,0,16,0,0,0,5.82,ESP La Liga
+4,Joan García,2022-23,23,GK,Espanyol,1,1,90,0,0,0,5.73,ESP La Liga
+5,Jorge Herrando,2022-23,23,D(CLR),Osasuna,1,1,27,0,0,0,5.65,ESP La Liga
+6,Diego López,2022-23,42,GK,Rayo Vallecano,2,1,95,0,0,0,5.27,ESP La Liga

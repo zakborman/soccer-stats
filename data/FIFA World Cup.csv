@@ -1,0 +1,682 @@
+,Player,Season,Age,Position,Team,Apps,Starts,Mins,Goals,Assists,MotM,Rating,Competition
+0,Lionel Messi,2023-24,36,"AM(CR),FW",Argentina,7,7,692,7,3,2,8.25,FIFA World Cup
+1,Bruno Fernandes,2023-24,28,M(CLR),Portugal,4,4,357,2,3,2,8.15,FIFA World Cup
+2,Kylian Mbappé,2023-24,24,"AM(LR),FW",France,7,6,598,8,2,3,8.00,FIFA World Cup
+3,Wojciech Szczesny,2023-24,33,GK,Poland,4,4,360,0,0,1,7.88,FIFA World Cup
+4,Juan Vargas,2023-24,28,D(CLR),Costa Rica,1,1,90,1,0,0,7.72,FIFA World Cup
+5,Jean-Charles Castelletto,2023-24,28,D(C),Cameroon,2,2,180,1,1,0,7.71,FIFA World Cup
+6,Bukayo Saka,2023-24,22,"D(L),M(CLR)",England,4,4,293,3,0,1,7.68,FIFA World Cup
+7,Jamal Musiala,2023-24,20,M(CL),Germany,3,3,259,0,1,1,7.64,FIFA World Cup
+8,Jude Bellingham,2023-24,20,M(CLR),England,5,5,415,1,1,1,7.58,FIFA World Cup
+9,Cody Gakpo,2023-24,24,"AM(CL),FW",Netherlands,5,5,456,3,0,1,7.53,FIFA World Cup
+0,Casemiro,2023-24,31,DMC,Brazil,4,4,391,1,0,0,7.53,FIFA World Cup
+1,Mohammed Kudus,2023-24,23,"M(CR),FW",Ghana,3,3,250,2,0,0,7.53,FIFA World Cup
+2,Antoine Griezmann,2023-24,32,"AM(CLR),FW",France,7,6,538,0,3,2,7.52,FIFA World Cup
+3,Paik Seung-Ho,2023-24,26,M(CL),South Korea,1,0,25,1,0,0,7.50,FIFA World Cup
+4,Eduardo Camavinga,2023-24,20,"D(L),DMC",France,2,1,140,0,0,1,7.49,FIFA World Cup
+5,Neymar,2023-24,31,"AM(CLR),FW",Brazil,3,3,282,2,1,1,7.45,FIFA World Cup
+6,Richarlison,2023-24,26,"AM(CLR),FW",Brazil,4,4,326,3,0,2,7.41,FIFA World Cup
+7,Nader Ghandri,2023-24,28,M(CLR),Tunisia,1,1,90,0,0,0,7.40,FIFA World Cup
+8,Devis Epassy,2023-24,30,GK,Cameroon,2,2,180,0,0,1,7.39,FIFA World Cup
+9,Rodri,2023-24,27,"D(C),DMC",Spain,4,4,391,0,0,1,7.37,FIFA World Cup
+0,Giorgian de Arrascaeta,2023-24,29,"AM(CLR),FW",Uruguay,2,1,108,2,0,1,7.37,FIFA World Cup
+1,Harry Maguire,2023-24,30,D(C),England,5,5,430,0,1,1,7.35,FIFA World Cup
+2,Harry Kane,2023-24,30,"AM(C),FW",England,5,5,404,2,3,0,7.34,FIFA World Cup
+3,César Azpilicueta,2023-24,34,"D(CLR),M(R)",Spain,2,2,136,0,1,0,7.32,FIFA World Cup
+4,Mehdi Taremi,2023-24,31,"AM(L),FW",Iran,3,3,270,2,1,1,7.31,FIFA World Cup
+5,Edson Álvarez,2023-24,25,"D(C),DMC",Mexico,2,2,176,0,0,0,7.31,FIFA World Cup
+6,Serge Gnabry,2023-24,28,"AM(CLR),FW",Germany,3,3,265,1,1,0,7.31,FIFA World Cup
+7,Enner Valencia,2023-24,33,"AM(LR),FW",Ecuador,3,3,257,3,0,1,7.30,FIFA World Cup
+8,Diogo Dalot,2023-24,24,"D(LR),M(R)",Portugal,3,3,259,0,1,0,7.27,FIFA World Cup
+9,Mohammed Al Owais,2023-24,31,GK,Saudi Arabia,3,3,270,0,0,1,7.27,FIFA World Cup
+0,Frenkie de Jong,2023-24,26,"D(C),DMC",Netherlands,5,5,477,1,1,2,7.27,FIFA World Cup
+1,Enzo Ebosse,2023-24,24,D(C),Cameroon,1,1,90,0,0,0,7.26,FIFA World Cup
+2,Jordi Alba,2023-24,34,"D(L),M(L)",Spain,4,3,266,0,2,1,7.26,FIFA World Cup
+3,Munir Mohamedi,2023-24,34,GK,Morocco,1,1,90,0,0,0,7.26,FIFA World Cup
+4,Rodrigo Bentancur,2023-24,26,M(C),Uruguay,3,3,214,0,0,0,7.24,FIFA World Cup
+5,Ramin Rezaeian,2023-24,33,D(R),Iran,2,2,180,1,0,0,7.23,FIFA World Cup
+6,Théo Hernández,2023-24,25,"D(L),M(L)",France,6,5,508,1,2,1,7.22,FIFA World Cup
+7,Simon Kjær,2023-24,34,D(C),Denmark,1,1,65,0,0,0,7.22,FIFA World Cup
+8,Olivier Giroud,2023-24,36,FW,France,6,6,424,4,0,0,7.21,FIFA World Cup
+9,Vinícius Júnior,2023-24,23,"AM(L),FW",Brazil,4,4,302,1,2,0,7.20,FIFA World Cup
+0,Daley Blind,2023-24,33,"D(CL),DMC,M(L)",Netherlands,5,5,424,1,1,1,7.19,FIFA World Cup
+1,David Raum,2023-24,25,"D(L),M(LR)",Germany,3,3,244,0,1,0,7.19,FIFA World Cup
+2,Adrien Rabiot,2023-24,28,"DMC,M(L)",France,6,5,483,1,1,0,7.18,FIFA World Cup
+3,Kai Havertz,2023-24,24,"M(CR),FW",Germany,2,1,103,2,0,0,7.18,FIFA World Cup
+4,Randal Kolo Muani,2023-24,24,"AM(R),FW",France,3,1,181,1,0,0,7.17,FIFA World Cup
+5,Ritsu Doan,2023-24,25,"AM(CLR),FW",Japan,4,2,218,2,0,1,7.17,FIFA World Cup
+6,Robert Lewandowski,2023-24,35,FW,Poland,4,4,360,2,1,1,7.16,FIFA World Cup
+7,Joshua Kimmich,2023-24,28,"D(CR),DMC,M(R)",Germany,3,3,270,0,0,0,7.15,FIFA World Cup
+8,Phil Foden,2023-24,23,"AM(CLR),FW",England,4,3,259,1,2,0,7.15,FIFA World Cup
+9,Alex Sandro,2023-24,32,"D(CL),M(L)",Brazil,3,2,192,0,0,1,7.14,FIFA World Cup
+0,Dani Olmo,2023-24,25,"AM(CLR),FW",Spain,4,4,368,1,1,1,7.14,FIFA World Cup
+1,Yasir Al Shahrani,2023-24,31,D(CLR),Saudi Arabia,1,1,90,0,0,0,7.13,FIFA World Cup
+2,Lucas Paquetá,2023-24,26,"M(CLR),FW",Brazil,4,4,317,1,1,0,7.13,FIFA World Cup
+3,Andreas Christensen,2023-24,27,"D(C),DMC",Denmark,3,3,270,1,0,0,7.12,FIFA World Cup
+4,Ángel Di María,2023-24,35,"M(CLR),FW",Argentina,5,4,291,1,1,0,7.12,FIFA World Cup
+5,Thibaut Courtois,2023-24,31,GK,Belgium,3,3,270,0,0,2,7.11,FIFA World Cup
+6,Alexis Mac Allister,2023-24,24,"M(CL),FW",Argentina,6,6,556,1,1,0,7.11,FIFA World Cup
+7,Luis Chávez,2023-24,27,M(CLR),Mexico,3,3,270,1,0,1,7.10,FIFA World Cup
+8,João Félix,2023-24,23,"AM(CL),FW",Portugal,4,4,333,1,2,0,7.10,FIFA World Cup
+9,Leroy Sané,2023-24,27,"M(CLR),FW",Germany,2,1,110,0,1,0,7.10,FIFA World Cup
+0,Cheikhou Kouyaté,2023-24,33,"D(CR),DMC",Senegal,1,1,73,0,0,0,7.09,FIFA World Cup
+1,Ivan Perisic,2023-24,34,"M(CLR),FW",Croatia,7,7,673,1,3,1,7.08,FIFA World Cup
+2,Henry Martín,2023-24,30,FW,Mexico,2,2,148,1,0,0,7.08,FIFA World Cup
+3,Christian Pulisic,2023-24,24,"M(CLR),FW",USA,4,4,316,1,2,1,7.07,FIFA World Cup
+4,Thiago Silva,2023-24,38,D(C),Brazil,4,4,391,0,1,0,7.07,FIFA World Cup
+5,Eric Choupo-Moting,2023-24,34,"M(CLR),FW",Cameroon,3,3,254,1,0,0,7.07,FIFA World Cup
+6,Enzo Fernández,2023-24,22,M(C),Argentina,7,5,565,1,1,0,7.06,FIFA World Cup
+7,Silvan Widmer,2023-24,30,"D(CR),M(R)",Switzerland,3,3,266,0,1,0,7.04,FIFA World Cup
+8,Achraf Hakimi,2023-24,24,"D(LR),M(R)",Morocco,7,7,634,0,1,0,7.04,FIFA World Cup
+9,Mathías Olivera,2023-24,25,"D(L),M(L)",Uruguay,3,3,255,0,0,0,7.03,FIFA World Cup
+0,Álvaro Morata,2023-24,30,"AM(L),FW",Spain,4,1,184,3,1,0,7.03,FIFA World Cup
+1,Ismaïla Sarr,2023-24,25,"AM(CLR),FW",Senegal,4,4,344,1,0,0,7.02,FIFA World Cup
+2,Pedri,2023-24,20,AM(CL),Spain,4,4,358,0,0,0,7.01,FIFA World Cup
+3,Mateo Kovacic,2023-24,29,M(CL),Croatia,7,7,640,0,0,0,7.00,FIFA World Cup
+4,Leander Dendoncker,2023-24,28,"D(C),M(C)",Belgium,2,2,162,0,0,0,7.00,FIFA World Cup
+5,Andrija Zivkovic,2023-24,27,M(CLR),Serbia,3,3,213,0,2,0,6.99,FIFA World Cup
+6,Aymeric Laporte,2023-24,29,D(CL),Spain,3,3,301,0,0,0,6.99,FIFA World Cup
+7,Cho Gue-Sung,2023-24,25,FW,South Korea,4,3,276,2,0,1,6.99,FIFA World Cup
+8,Jurriën Timber,2023-24,22,D(CR),Netherlands,4,4,391,0,0,0,6.99,FIFA World Cup
+9,Hirving Lozano,2023-24,28,"AM(LR),FW",Mexico,3,3,253,0,0,0,6.99,FIFA World Cup
+0,Dominik Livakovic,2023-24,28,GK,Croatia,7,7,692,0,0,1,6.99,FIFA World Cup
+1,Gonçalo Ramos,2023-24,22,"AM(C),FW",Portugal,4,2,153,3,1,1,6.98,FIFA World Cup
+2,Gavi,2023-24,19,AM(CL),Spain,4,4,287,1,0,0,6.98,FIFA World Cup
+3,Federico Valverde,2023-24,25,M(CLR),Uruguay,3,3,270,0,0,0,6.98,FIFA World Cup
+4,Ibrahima Konaté,2023-24,24,D(C),France,5,3,294,0,0,0,6.98,FIFA World Cup
+5,Luka Modric,2023-24,37,M(C),Croatia,7,7,657,0,0,0,6.97,FIFA World Cup
+6,Julián Álvarez,2023-24,23,"AM(CR),FW",Argentina,7,5,467,4,0,1,6.97,FIFA World Cup
+7,Ilkay Gündogan,2023-24,32,M(C),Germany,3,3,192,1,0,1,6.96,FIFA World Cup
+8,Raphaël Guerreiro,2023-24,29,"D(L),M(CL)",Portugal,4,3,279,1,2,0,6.96,FIFA World Cup
+9,Pepe,2023-24,40,D(C),Portugal,4,4,360,1,0,0,6.96,FIFA World Cup
+0,Jan Vertonghen,2023-24,36,D(CL),Belgium,3,3,270,0,0,0,6.96,FIFA World Cup
+1,Dejan Lovren,2023-24,34,D(C),Croatia,6,6,602,0,1,1,6.95,FIFA World Cup
+2,Borna Barisic,2023-24,30,D(L),Croatia,1,1,121,0,0,0,6.95,FIFA World Cup
+3,Aleksandar Mitrovic,2023-24,28,FW,Serbia,3,3,263,2,0,0,6.95,FIFA World Cup
+4,Harry Souttar,2023-24,24,D(C),Australia,4,4,360,0,0,1,6.94,FIFA World Cup
+5,Marcus Rashford,2023-24,25,"AM(CLR),FW",England,5,1,137,3,0,1,6.94,FIFA World Cup
+6,Josko Gvardiol,2023-24,21,D(CL),Croatia,7,7,692,1,0,0,6.94,FIFA World Cup
+7,Otávio,2023-24,28,"AM(CLR),FW",Portugal,3,3,199,0,0,0,6.93,FIFA World Cup
+8,Kalidou Koulibaly,2023-24,32,D(C),Senegal,4,4,360,1,0,1,6.93,FIFA World Cup
+9,Cameron Carter-Vickers,2023-24,25,D(C),USA,1,1,90,0,0,0,6.93,FIFA World Cup
+0,Luke Shaw,2023-24,28,"D(CL),M(L)",England,5,5,425,0,1,0,6.93,FIFA World Cup
+1,Aurélien Tchouaméni,2023-24,23,DMC,France,7,7,624,1,0,0,6.93,FIFA World Cup
+2,Ellyes Skhiri,2023-24,28,DMC,Tunisia,3,3,270,0,0,0,6.92,FIFA World Cup
+3,Nuno Mendes,2023-24,21,"D(L),M(L)",Portugal,1,1,42,0,0,0,6.92,FIFA World Cup
+4,João Cancelo,2023-24,29,"D(LR),M(R)",Portugal,4,3,309,0,0,0,6.92,FIFA World Cup
+5,Dusan Tadic,2023-24,34,"AM(CLR),FW",Serbia,3,3,258,0,2,0,6.92,FIFA World Cup
+6,Kieran Trippier,2023-24,32,"D(LR),M(R)",England,3,2,205,0,0,0,6.92,FIFA World Cup
+7,Diego Godín,2023-24,37,D(C),Uruguay,2,2,152,0,0,1,6.91,FIFA World Cup
+8,Pervis Estupiñán,2023-24,25,D(L),Ecuador,3,3,270,0,0,0,6.91,FIFA World Cup
+9,Declan Rice,2023-24,24,"D(C),DMC",England,5,5,418,0,0,0,6.90,FIFA World Cup
+0,Montassar Talbi,2023-24,25,D(C),Tunisia,3,3,270,0,0,0,6.90,FIFA World Cup
+1,Mohamed Ben Romdhane,2023-24,24,M(CLR),Tunisia,1,1,74,0,0,0,6.90,FIFA World Cup
+2,Famara Diédhiou,2023-24,30,FW,Senegal,2,1,92,1,0,1,6.90,FIFA World Cup
+3,Toby Alderweireld,2023-24,34,D(CR),Belgium,3,3,270,0,1,0,6.89,FIFA World Cup
+4,Andries Noppert,2023-24,29,GK,Netherlands,5,5,481,0,0,0,6.89,FIFA World Cup
+5,Angelo Preciado,2023-24,25,"D(R),M(R)",Ecuador,3,3,265,0,1,0,6.89,FIFA World Cup
+6,Gideon Mensah,2023-24,25,"D(L),M(L)",Ghana,1,1,88,0,0,0,6.89,FIFA World Cup
+7,Jérome Mbekeli,2023-24,24,M(CLR),Cameroon,1,0,4,0,1,0,6.89,FIFA World Cup
+8,Luuk de Jong,2023-24,33,"AM(C),FW",Netherlands,1,0,57,0,0,0,6.89,FIFA World Cup
+9,Kevin De Bruyne,2023-24,32,"M(CLR),FW",Belgium,3,3,270,0,0,0,6.88,FIFA World Cup
+0,Vincent Aboubakar,2023-24,31,"AM(R),FW",Cameroon,3,1,141,2,1,1,6.88,FIFA World Cup
+1,Hakim Ziyech,2023-24,30,M(CLR),Morocco,7,7,639,1,1,0,6.88,FIFA World Cup
+2,César Montes,2023-24,26,D(C),Mexico,3,3,270,0,1,0,6.87,FIFA World Cup
+3,Orbelín Pineda,2023-24,27,M(CLR),Mexico,1,1,77,0,0,0,6.87,FIFA World Cup
+4,Youssouf Sabaly,2023-24,30,"D(LR),M(R)",Senegal,4,4,360,0,0,0,6.87,FIFA World Cup
+5,Yassine Meriah,2023-24,30,D(C),Tunisia,3,3,270,0,0,0,6.87,FIFA World Cup
+6,Raphinha,2023-24,26,"AM(LR),FW",Brazil,5,4,317,0,0,0,6.87,FIFA World Cup
+7,Marcelo Brozovic,2023-24,30,M(CR),Croatia,6,6,555,0,0,0,6.86,FIFA World Cup
+8,Mohammed Salisu,2023-24,24,D(CL),Ghana,3,3,270,1,0,0,6.86,FIFA World Cup
+9,Niclas Füllkrug,2023-24,30,FW,Germany,3,0,66,2,1,0,6.86,FIFA World Cup
+0,Ko Itakura,2023-24,26,"D(C),DMC",Japan,3,3,270,0,1,0,6.86,FIFA World Cup
+1,Ousmane Dembélé,2023-24,26,"AM(CLR),FW",France,7,6,438,0,2,0,6.86,FIFA World Cup
+2,Nouhou Tolo,2023-24,26,D(CL),Cameroon,3,3,270,0,0,0,6.86,FIFA World Cup
+3,Piotr Zielinski,2023-24,29,M(CLR),Poland,4,4,330,1,0,0,6.86,FIFA World Cup
+4,Jules Koundé,2023-24,24,D(CR),France,6,5,482,0,0,0,6.85,FIFA World Cup
+5,Youssef En-Nesyri,2023-24,26,FW,Morocco,7,7,547,2,0,1,6.85,FIFA World Cup
+6,Mohamed Kanno,2023-24,28,Substitute,Saudi Arabia,3,3,270,0,0,0,6.85,FIFA World Cup
+7,Youssef Msakni,2023-24,32,AM(L),Tunisia,2,2,170,0,0,0,6.85,FIFA World Cup
+8,José Giménez,2023-24,28,D(CR),Uruguay,3,3,270,0,0,0,6.84,FIFA World Cup
+9,Nathan Aké,2023-24,28,"D(CL),DMC",Netherlands,5,5,481,0,0,0,6.84,FIFA World Cup
+0,Tyler Adams,2023-24,24,"D(R),M(CR)",USA,4,4,360,0,0,0,6.84,FIFA World Cup
+1,Leandro Paredes,2023-24,29,DMC,Argentina,5,2,226,0,0,0,6.81,FIFA World Cup
+2,Matt Turner,2023-24,29,GK,USA,4,4,360,0,0,0,6.81,FIFA World Cup
+3,Félix Torres,2023-24,26,Substitute,Ecuador,3,3,270,0,1,0,6.81,FIFA World Cup
+4,Virgil van Dijk,2023-24,32,D(C),Netherlands,5,5,481,0,0,0,6.80,FIFA World Cup
+5,Nicolás Otamendi,2023-24,35,D(C),Argentina,7,7,692,0,1,0,6.80,FIFA World Cup
+6,Olivier Ntcham,2023-24,27,M(CLR),Cameroon,1,0,22,0,0,0,6.80,FIFA World Cup
+7,Salem Al Dawsari,2023-24,32,M(L),Saudi Arabia,3,3,270,2,0,0,6.80,FIFA World Cup
+8,Aziz Behich,2023-24,32,"D(LR),M(L)",Australia,4,4,360,0,0,0,6.80,FIFA World Cup
+9,Marcos Acuña,2023-24,31,"D(CL),M(CL)",Argentina,6,4,375,0,0,0,6.79,FIFA World Cup
+0,Aïssa Laïdouni,2023-24,26,DMC,Tunisia,3,3,245,0,1,0,6.79,FIFA World Cup
+1,Aymen Dahmen,2023-24,26,keeper,Tunisia,3,3,270,0,0,0,6.79,FIFA World Cup
+2,Christopher Wooh,2023-24,21,D(C),Cameroon,1,1,90,0,0,0,6.79,FIFA World Cup
+3,Jordan Henderson,2023-24,33,"D(C),M(CLR)",England,4,3,272,1,0,0,6.79,FIFA World Cup
+4,Hwang Hee-Chan,2023-24,27,"AM(CLR),FW",South Korea,2,1,114,1,0,0,6.78,FIFA World Cup
+5,Éder Militão,2023-24,25,D(CR),Brazil,4,4,349,0,0,0,6.78,FIFA World Cup
+6,Kim Moon-Hwan,2023-24,28,"D(R),M(R)",South Korea,4,4,360,0,0,0,6.78,FIFA World Cup
+7,Alphonso Davies,2023-24,22,"D(L),M(LR)",Canada,3,3,270,1,0,0,6.77,FIFA World Cup
+8,Romain Saïss,2023-24,33,"D(C),DMC",Morocco,6,6,469,1,0,1,6.77,FIFA World Cup
+9,Thilo Kehrer,2023-24,26,"D(CLR),M(R)",Germany,1,1,70,0,0,0,6.77,FIFA World Cup
+0,Noussair Mazraoui,2023-24,25,D(LR),Morocco,5,5,368,0,0,0,6.77,FIFA World Cup
+1,Nico Elvedi,2023-24,26,D(CLR),Switzerland,2,2,180,0,0,0,6.77,FIFA World Cup
+2,Pierre-Emile Højbjerg,2023-24,28,M(C),Denmark,3,3,270,0,0,0,6.76,FIFA World Cup
+3,Wataru Endo,2023-24,30,DMC,Japan,4,3,304,0,0,0,6.76,FIFA World Cup
+4,Axel Witsel,2023-24,34,"D(C),M(C)",Belgium,3,3,270,0,0,0,6.76,FIFA World Cup
+5,Wahbi Khazri,2023-24,32,"M(CLR),FW",Tunisia,2,1,83,1,0,0,6.76,FIFA World Cup
+6,Vanja Milinkovic-Savic,2023-24,26,GK,Serbia,3,3,270,0,0,0,6.76,FIFA World Cup
+7,Danilo,2023-24,32,"D(CLR),DMC",Brazil,3,3,283,0,0,0,6.75,FIFA World Cup
+8,Yassine Bounou,2023-24,32,GK,Morocco,6,6,571,0,0,1,6.75,FIFA World Cup
+9,Kyle Walker,2023-24,33,"D(CR),M(R)",England,3,3,237,0,0,0,6.75,FIFA World Cup
+0,Carlos Soler,2023-24,26,M(CLR),Spain,2,0,91,1,0,0,6.74,FIFA World Cup
+1,Jorge Sánchez,2023-24,25,D(R),Mexico,2,2,176,0,0,0,6.74,FIFA World Cup
+2,Sergej Milinkovic-Savic,2023-24,28,AM(C),Serbia,3,3,236,1,0,0,6.74,FIFA World Cup
+3,Kim Jin-Su,2023-24,31,D(L),South Korea,4,4,316,0,1,0,6.74,FIFA World Cup
+4,Davy Klaassen,2023-24,30,M(CL),Netherlands,4,3,192,1,2,0,6.73,FIFA World Cup
+5,André-Frank Zambo Anguissa,2023-24,27,M(C),Cameroon,3,3,261,0,0,0,6.73,FIFA World Cup
+6,Borna Sosa,2023-24,25,"D(L),M(L)",Croatia,5,5,426,0,0,0,6.73,FIFA World Cup
+7,Maya Yoshida,2023-24,35,D(CR),Japan,4,4,391,0,1,0,6.73,FIFA World Cup
+8,Pierre Kunde,2023-24,28,DMC,Cameroon,2,2,135,0,0,0,6.73,FIFA World Cup
+9,Azzedine Ounahi,2023-24,23,AM(CR),Morocco,7,6,571,0,0,0,6.72,FIFA World Cup
+0,John Stones,2023-24,29,"D(CR),DMC",England,5,5,437,0,0,0,6.72,FIFA World Cup
+1,Thomas Partey,2023-24,30,"D(R),M(CR)",Ghana,3,3,270,0,0,0,6.72,FIFA World Cup
+2,Josip Juranovic,2023-24,28,"D(LR),M(R)",Croatia,6,6,602,0,1,0,6.72,FIFA World Cup
+3,Hossein Hosseini,2023-24,31,GK,Iran,2,1,160,0,0,0,6.72,FIFA World Cup
+4,Saleh Al Shehri,2023-24,29,FW,Saudi Arabia,3,3,226,1,0,0,6.71,FIFA World Cup
+5,Rodrigo De Paul,2023-24,29,"AM(CLR),FW",Argentina,7,7,602,0,0,0,6.71,FIFA World Cup
+6,Kye Rowles,2023-24,25,D(C),Australia,4,4,360,0,0,0,6.71,FIFA World Cup
+7,Joachim Andersen,2023-24,27,D(C),Denmark,3,3,270,0,1,0,6.71,FIFA World Cup
+8,Xherdan Shaqiri,2023-24,31,M(CLR),Switzerland,3,3,231,1,1,0,6.71,FIFA World Cup
+9,Gonzalo Plata,2023-24,22,"AM(R),FW",Ecuador,3,3,270,0,0,0,6.71,FIFA World Cup
+0,Dusan Vlahovic,2023-24,23,FW,Serbia,2,1,79,1,0,1,6.71,FIFA World Cup
+1,Fran Karacic,2023-24,27,D(CLR),Australia,2,1,93,0,0,0,6.70,FIFA World Cup
+2,Josip Stanisic,2023-24,23,D(R),Croatia,1,1,90,0,0,0,6.70,FIFA World Cup
+3,Junya Ito,2023-24,30,"AM(LR),FW",Japan,4,3,324,0,1,0,6.70,FIFA World Cup
+4,Antonee Robinson,2023-24,26,"D(L),M(L)",USA,4,4,360,0,0,0,6.70,FIFA World Cup
+5,Nayef Aguerd,2023-24,27,D(C),Morocco,4,4,354,0,0,0,6.70,FIFA World Cup
+6,Kasper Schmeichel,2023-24,36,GK,Denmark,3,3,270,0,0,0,6.69,FIFA World Cup
+7,Ethan Ampadu,2023-24,22,"D(C),DMC",Wales,3,3,257,0,0,0,6.68,FIFA World Cup
+8,Raheem Sterling,2023-24,28,"M(CLR),FW",England,3,2,150,1,1,0,6.68,FIFA World Cup
+9,Wout Weghorst,2023-24,31,FW,Netherlands,4,0,62,2,0,1,6.68,FIFA World Cup
+0,Miki Yamane,2023-24,29,D(CLR),Japan,1,1,62,0,0,0,6.68,FIFA World Cup
+1,Yunus Musah,2023-24,20,AM(CR),USA,4,4,345,0,0,0,6.68,FIFA World Cup
+2,Thomas Meunier,2023-24,31,"D(R),M(R)",Belgium,3,2,213,0,0,0,6.67,FIFA World Cup
+3,Yann Sommer,2023-24,34,GK,Switzerland,3,3,270,0,0,1,6.67,FIFA World Cup
+4,Sofiane Boufal,2023-24,29,"AM(CLR),FW",Morocco,7,7,482,0,0,0,6.67,FIFA World Cup
+5,Dayot Upamecano,2023-24,24,D(C),France,5,5,481,0,0,0,6.67,FIFA World Cup
+6,Tim Ream,2023-24,35,"D(CL),DMC",USA,4,4,360,0,0,0,6.66,FIFA World Cup
+7,Yeltsin Tejeda,2023-24,31,M(C),Costa Rica,3,3,270,1,1,0,6.66,FIFA World Cup
+8,Teun Koopmeiners,2023-24,25,"D(C),M(C)",Netherlands,5,1,218,0,1,0,6.66,FIFA World Cup
+9,Ali Abdi,2023-24,29,D(CLR),Tunisia,3,2,187,0,0,1,6.66,FIFA World Cup
+0,Jesús Gallardo,2023-24,29,D(L),Mexico,3,3,270,0,0,0,6.65,FIFA World Cup
+1,Strahinja Pavlovic,2023-24,22,D(C),Serbia,3,3,236,1,0,0,6.65,FIFA World Cup
+2,Abdullah Madu,2023-24,30,D(CLR),Saudi Arabia,1,0,45,0,0,0,6.65,FIFA World Cup
+3,Christian Eriksen,2023-24,31,"M(CLR),FW",Denmark,3,3,270,0,0,0,6.65,FIFA World Cup
+4,Mathew Leckie,2023-24,32,M(CLR),Australia,4,4,336,1,1,0,6.65,FIFA World Cup
+5,Son Heung-Min,2023-24,31,"M(CLR),FW",South Korea,4,4,360,0,1,1,6.65,FIFA World Cup
+6,Sergiño Dest,2023-24,22,"D(LR),M(R)",USA,4,4,309,0,1,0,6.65,FIFA World Cup
+7,Daniel Amartey,2023-24,28,"D(CR),DMC",Ghana,3,3,270,0,0,0,6.64,FIFA World Cup
+8,Hugo Lloris,2023-24,36,GK,France,6,6,571,0,0,0,6.64,FIFA World Cup
+9,Ismail Jakobs,2023-24,24,"D(L),M(L)",Senegal,4,3,279,0,1,0,6.64,FIFA World Cup
+0,Achraf Dari,2023-24,24,D(C),Morocco,3,2,187,1,0,0,6.63,FIFA World Cup
+1,Rafael Leão,2023-24,24,"AM(CL),FW",Portugal,5,0,83,2,0,0,6.63,FIFA World Cup
+2,Mitchell Duke,2023-24,32,FW,Australia,4,4,274,1,0,1,6.63,FIFA World Cup
+3,Denzel Dumfries,2023-24,27,"D(R),M(R)",Netherlands,5,5,481,1,2,0,6.63,FIFA World Cup
+4,Sergio Busquets,2023-24,35,DMC,Spain,4,4,365,0,0,0,6.62,FIFA World Cup
+5,Ao Tanaka,2023-24,24,DMC,Japan,3,2,174,1,0,0,6.62,FIFA World Cup
+6,Cristian Romero,2023-24,25,D(C),Argentina,7,6,549,0,0,0,6.62,FIFA World Cup
+7,Aaron Mooy,2023-24,32,M(CLR),Australia,4,4,360,0,0,0,6.61,FIFA World Cup
+8,Mohamed Dräger,2023-24,27,D(R),Tunisia,2,2,134,0,0,0,6.61,FIFA World Cup
+9,Stephen Eustáquio,2023-24,26,DMC,Canada,2,2,127,0,0,0,6.61,FIFA World Cup
+0,Keysher Fuller,2023-24,29,D(CLR),Costa Rica,3,3,254,1,0,1,6.61,FIFA World Cup
+1,Morteza Pouraliganji,2023-24,31,D(C),Iran,3,3,270,0,0,0,6.61,FIFA World Cup
+2,Grzegorz Krychowiak,2023-24,33,"D(C),M(C)",Poland,4,4,334,0,0,0,6.61,FIFA World Cup
+3,Sergio Rochet,2023-24,30,GK,Uruguay,3,3,270,0,0,0,6.60,FIFA World Cup
+4,Walker Zimmerman,2023-24,30,D(C),USA,4,3,278,0,0,0,6.60,FIFA World Cup
+5,Sofyan Amrabat,2023-24,27,DMC,Morocco,7,7,661,0,0,0,6.60,FIFA World Cup
+6,Naïm Sliti,2023-24,31,AM(CL),Tunisia,2,1,113,0,0,0,6.60,FIFA World Cup
+7,Celso Borges,2023-24,35,"D(C),M(C)",Costa Rica,3,3,251,0,0,0,6.59,FIFA World Cup
+8,Jawad El Yamiq,2023-24,31,D(C),Morocco,6,3,309,0,0,0,6.59,FIFA World Cup
+9,Mislav Orsic,2023-24,30,"AM(L),FW",Croatia,6,1,163,1,2,0,6.59,FIFA World Cup
+0,Guido Rodríguez,2023-24,29,DMC,Argentina,1,1,57,0,0,0,6.59,FIFA World Cup
+1,Hassan Tambakti,2023-24,24,D(CLR),Saudi Arabia,2,2,180,0,0,0,6.59,FIFA World Cup
+2,Karol Swiderski,2023-24,26,"AM(C),FW",Poland,1,1,46,0,0,0,6.59,FIFA World Cup
+3,Shogo Taniguchi,2023-24,32,M(CLR),Japan,2,2,211,0,0,0,6.59,FIFA World Cup
+4,Thomas Delaney,2023-24,32,DMC,Denmark,1,1,46,0,0,0,6.59,FIFA World Cup
+5,Manuel Akanji,2023-24,28,D(CLR),Switzerland,4,4,360,1,0,0,6.59,FIFA World Cup
+6,Jhegson Méndez,2023-24,26,DMC,Ecuador,2,2,180,0,0,0,6.59,FIFA World Cup
+7,Marquinhos,2023-24,29,"D(CR),DMC",Brazil,5,4,427,0,0,0,6.58,FIFA World Cup
+8,Mohammed Muntari,2023-24,29,FW,Qatar,3,0,60,1,0,0,6.58,FIFA World Cup
+9,Niklas Süle,2023-24,28,D(CR),Germany,3,3,270,0,0,0,6.58,FIFA World Cup
+0,Joel Campbell,2023-24,31,"AM(CLR),FW",Costa Rica,3,3,270,0,0,0,6.58,FIFA World Cup
+1,Kendall Waston,2023-24,35,D(C),Costa Rica,3,2,225,0,0,0,6.58,FIFA World Cup
+2,Breel Embolo,2023-24,26,"AM(CR),FW",Switzerland,4,4,327,2,0,0,6.58,FIFA World Cup
+3,Ederson,2023-24,30,GK,Brazil,1,1,90,0,0,0,6.58,FIFA World Cup
+4,Riyadh Sharahili,2023-24,30,M(CLR),Saudi Arabia,1,0,53,0,0,0,6.58,FIFA World Cup
+5,Daizen Maeda,2023-24,25,"AM(LR),FW",Japan,3,3,183,1,0,0,6.58,FIFA World Cup
+6,William Carvalho,2023-24,31,M(C),Portugal,4,2,214,0,0,0,6.58,FIFA World Cup
+7,Kaoru Mitoma,2023-24,26,M(L),Japan,4,0,163,0,1,0,6.57,FIFA World Cup
+8,Kim Seung-Gyu,2023-24,32,GK,South Korea,4,4,360,0,0,0,6.57,FIFA World Cup
+9,Granit Xhaka,2023-24,30,"D(L),M(C)",Switzerland,4,4,360,0,0,0,6.57,FIFA World Cup
+0,Nico Schlotterbeck,2023-24,23,D(C),Germany,2,1,93,0,0,0,6.57,FIFA World Cup
+1,Victor Nelsson,2023-24,24,D(C),Denmark,1,1,90,0,0,0,6.57,FIFA World Cup
+2,Jordan Pickford,2023-24,29,GK,England,5,5,450,0,0,0,6.57,FIFA World Cup
+3,Kim Young-Gwon,2023-24,33,D(C),South Korea,4,4,351,1,0,0,6.57,FIFA World Cup
+4,Michael Estrada,2023-24,27,FW,Ecuador,3,3,228,0,0,0,6.56,FIFA World Cup
+5,Ali Gholizadeh,2023-24,27,"AM(CLR),FW",Iran,3,2,200,0,1,0,6.56,FIFA World Cup
+6,Andrés Guardado,2023-24,36,"D(L),M(CL)",Mexico,1,1,42,0,0,0,6.56,FIFA World Cup
+7,Rasmus Kristensen,2023-24,26,"D(CR),M(R)",Denmark,3,3,226,0,0,0,6.56,FIFA World Cup
+8,Andrej Kramaric,2023-24,32,"AM(CLR),FW",Croatia,7,7,481,2,0,1,6.55,FIFA World Cup
+9,Ali Maâloul,2023-24,33,D(L),Tunisia,1,1,90,0,0,0,6.55,FIFA World Cup
+0,Dani Alves,2023-24,40,"D(R),M(CR)",Brazil,2,1,117,0,0,0,6.55,FIFA World Cup
+1,Sebastián Coates,2023-24,32,D(C),Uruguay,2,2,180,0,0,0,6.55,FIFA World Cup
+2,Mathew Ryan,2023-24,31,GK,Australia,4,4,360,0,0,0,6.54,FIFA World Cup
+3,Marcus Thuram,2023-24,26,"AM(L),FW",France,5,0,148,0,2,0,6.54,FIFA World Cup
+4,Alireza Beiranvand,2023-24,30,GK,Iran,2,2,110,0,0,0,6.54,FIFA World Cup
+5,Héctor Herrera,2023-24,33,M(C),Mexico,2,2,161,0,0,0,6.54,FIFA World Cup
+6,Majid Hosseini,2023-24,27,D(C),Iran,3,3,270,0,0,0,6.54,FIFA World Cup
+7,Steve Mandanda,2023-24,38,GK,France,1,1,90,0,0,0,6.54,FIFA World Cup
+8,Saeed Ezatolahi,2023-24,26,DMC,Iran,3,2,218,0,0,0,6.54,FIFA World Cup
+9,Emiliano Martínez,2023-24,31,GK,Argentina,7,7,692,0,0,0,6.54,FIFA World Cup
+0,Timothy Castagne,2023-24,27,"D(CLR),M(LR)",Belgium,3,3,270,0,0,0,6.53,FIFA World Cup
+1,Chris Mepham,2023-24,25,D(C),Wales,3,3,270,0,0,0,6.53,FIFA World Cup
+2,Thorgan Hazard,2023-24,30,"M(CLR),FW",Belgium,2,1,106,0,0,0,6.53,FIFA World Cup
+3,Lisandro Martínez,2023-24,25,"D(CL),DMC",Argentina,5,2,301,0,0,0,6.53,FIFA World Cup
+4,Timothy Weah,2023-24,23,"D(LR),M(LR),FW",USA,4,4,320,1,0,0,6.53,FIFA World Cup
+5,Ismaeel Mohammad,2023-24,33,M(CLR),Qatar,2,2,175,0,1,0,6.53,FIFA World Cup
+6,Andreas Cornelius,2023-24,30,FW,Denmark,3,1,91,0,0,0,6.52,FIFA World Cup
+7,Nahuel Molina,2023-24,25,"D(R),M(R)",Argentina,7,6,570,1,1,0,6.52,FIFA World Cup
+8,Jack Grealish,2023-24,27,"AM(CL),FW",England,5,0,81,1,0,0,6.52,FIFA World Cup
+9,Hong Chul,2023-24,32,D(CLR),South Korea,1,0,45,0,0,0,6.52,FIFA World Cup
+0,Memphis Depay,2023-24,29,"AM(CL),FW",Netherlands,5,3,300,1,0,0,6.52,FIFA World Cup
+1,Rouzbeh Cheshmi,2023-24,30,D(CLR),Iran,2,1,58,1,0,0,6.52,FIFA World Cup
+2,Harry Wilson,2023-24,26,AM(CLR),Wales,3,2,161,0,0,0,6.51,FIFA World Cup
+3,Gareth Bale,2023-24,34,"M(CLR),FW",Wales,3,3,226,1,0,1,6.51,FIFA World Cup
+4,Idrissa Gueye,2023-24,33,M(C),Senegal,3,3,270,0,0,0,6.51,FIFA World Cup
+5,Hiroki Sakai,2023-24,33,"D(CLR),M(R)",Japan,2,1,121,0,0,0,6.51,FIFA World Cup
+6,Krystian Bielik,2023-24,25,"D(C),DMC",Poland,4,2,216,0,0,0,6.51,FIFA World Cup
+7,Boulaye Dia,2023-24,26,"AM(R),FW",Senegal,4,4,321,1,0,0,6.51,FIFA World Cup
+8,Bryan Mbeumo,2023-24,24,"AM(LR),FW",Cameroon,3,3,226,0,0,0,6.50,FIFA World Cup
+9,Lawrence Ati Zigi,2023-24,26,GK,Ghana,3,3,270,0,0,0,6.50,FIFA World Cup
+0,Przemyslaw Frankowski,2023-24,28,"D(R),M(CLR)",Poland,4,3,241,0,0,0,6.50,FIFA World Cup
+1,Sebastian Szymanski,2023-24,24,AM(CLR),Poland,2,2,136,0,0,0,6.50,FIFA World Cup
+2,Rúben Dias,2023-24,26,D(C),Portugal,4,4,360,0,0,0,6.50,FIFA World Cup
+3,Marco Asensio,2023-24,27,"AM(CLR),FW",Spain,4,3,231,1,0,0,6.49,FIFA World Cup
+4,Eden Hazard,2023-24,32,"M(CLR),FW",Belgium,3,2,125,0,0,0,6.49,FIFA World Cup
+5,Iliman Ndiaye,2023-24,23,"AM(C),FW",Senegal,3,2,137,0,1,0,6.49,FIFA World Cup
+6,Shuichi Gonda,2023-24,34,GK,Japan,4,4,391,0,0,0,6.49,FIFA World Cup
+7,Abdelhamid Sabiri,2023-24,26,"AM(CL),FW",Morocco,5,2,180,0,1,0,6.48,FIFA World Cup
+8,Luis Suárez,2023-24,36,"AM(CLR),FW",Uruguay,3,2,147,0,1,0,6.48,FIFA World Cup
+9,Lee Kang-In,2023-24,22,"AM(CLR),FW",South Korea,4,1,146,0,1,0,6.48,FIFA World Cup
+0,Kamil Glik,2023-24,35,D(C),Poland,4,4,360,0,0,0,6.48,FIFA World Cup
+1,Guillermo Ochoa,2023-24,38,GK,Mexico,3,3,270,0,0,1,6.48,FIFA World Cup
+2,Nicolás Tagliafico,2023-24,31,"D(CL),M(L)",Argentina,6,3,374,0,0,0,6.48,FIFA World Cup
+3,Ricardo Horta,2023-24,28,"AM(CLR),FW",Portugal,3,1,117,1,0,0,6.48,FIFA World Cup
+4,Alidu Seidu,2023-24,23,D(CR),Ghana,2,2,156,0,0,0,6.47,FIFA World Cup
+5,Anis Ben Slimane,2023-24,22,M(C),Tunisia,2,2,150,0,0,0,6.47,FIFA World Cup
+6,Fabinho,2023-24,29,"D(CR),DMC",Brazil,1,1,90,0,0,0,6.47,FIFA World Cup
+7,Na Sang-Ho,2023-24,27,M(CLR),South Korea,2,1,120,0,0,0,6.47,FIFA World Cup
+8,Bruno Petkovic,2023-24,28,FW,Croatia,6,1,232,1,0,0,6.47,FIFA World Cup
+9,Craig Goodwin,2023-24,31,M(L),Australia,4,3,236,1,0,0,6.47,FIFA World Cup
+0,Osman Bukari,2023-24,24,"M(R),FW",Ghana,2,0,58,1,0,0,6.47,FIFA World Cup
+1,Gabriel Jesus,2023-24,26,"AM(LR),FW",Brazil,3,1,92,0,0,0,6.46,FIFA World Cup
+2,Junior Hoilett,2023-24,33,"D(R),M(CLR),FW",Canada,3,2,162,0,0,0,6.46,FIFA World Cup
+3,Pedro Miguel,2023-24,33,D(CLR),Qatar,3,3,263,0,0,0,6.46,FIFA World Cup
+4,Mason Mount,2023-24,24,M(CLR),England,4,2,186,0,0,0,6.46,FIFA World Cup
+5,Joakim Mæhle,2023-24,26,"D(LR),M(LR)",Denmark,3,3,250,0,0,0,6.46,FIFA World Cup
+6,Milos Degenek,2023-24,29,"D(C),DMC",Australia,4,2,183,0,0,0,6.46,FIFA World Cup
+7,Raphaël Varane,2023-24,30,D(C),France,6,6,521,0,0,0,6.46,FIFA World Cup
+8,Haji Wright,2023-24,25,"AM(LR),FW",USA,4,1,135,1,0,0,6.46,FIFA World Cup
+9,Nikola Milenkovic,2023-24,25,D(CR),Serbia,3,3,270,0,0,0,6.46,FIFA World Cup
+0,Kwon Kyung-Won,2023-24,31,D(C),South Korea,2,1,91,0,0,0,6.46,FIFA World Cup
+1,Jordan Ayew,2023-24,31,"AM(CLR),FW",Ghana,3,2,137,0,1,0,6.45,FIFA World Cup
+2,Piero Hincapié,2023-24,21,"D(CL),M(L)",Ecuador,3,3,270,0,0,0,6.45,FIFA World Cup
+3,Martin Hongla,2023-24,25,"D(C),DMC",Cameroon,2,2,123,0,0,0,6.45,FIFA World Cup
+4,Michy Batshuayi,2023-24,29,FW,Belgium,2,2,153,1,0,0,6.45,FIFA World Cup
+5,Bernardo Silva,2023-24,29,"M(CLR),FW",Portugal,5,4,358,0,0,0,6.45,FIFA World Cup
+6,Kieffer Moore,2023-24,31,FW,Wales,3,2,225,0,0,0,6.45,FIFA World Cup
+7,Alexander Bah,2023-24,25,D(R),Denmark,2,0,46,0,0,0,6.45,FIFA World Cup
+8,Daichi Kamada,2023-24,27,"AM(CLR),FW",Japan,4,4,324,0,0,0,6.44,FIFA World Cup
+9,Moumi Ngamaleu,2023-24,29,AM(LR),Cameroon,2,1,95,0,0,0,6.44,FIFA World Cup
+0,Callum Wilson,2023-24,31,FW,England,2,0,46,0,1,0,6.44,FIFA World Cup
+1,Ferran Torres,2023-24,23,"AM(LR),FW",Spain,4,3,219,2,0,0,6.44,FIFA World Cup
+2,Mathias Jensen,2023-24,27,M(C),Denmark,2,1,84,0,0,0,6.44,FIFA World Cup
+3,Vitinha,2023-24,23,M(C),Portugal,3,1,118,0,0,0,6.44,FIFA World Cup
+4,Matthijs de Ligt,2023-24,24,D(C),Netherlands,2,1,91,0,0,0,6.44,FIFA World Cup
+5,Christian Fassnacht,2023-24,29,AM(CR),Switzerland,1,0,7,0,0,0,6.43,FIFA World Cup
+6,Jackson Irvine,2023-24,30,M(CL),Australia,4,4,355,0,0,0,6.43,FIFA World Cup
+7,Martín Cáceres,2023-24,36,"D(CLR),M(R)",Uruguay,1,1,90,0,0,0,6.43,FIFA World Cup
+8,Nemanja Maksimovic,2023-24,28,M(C),Serbia,3,1,120,0,0,0,6.43,FIFA World Cup
+9,Salis Abdul Samed,2023-24,23,DMC,Ghana,3,3,252,0,0,0,6.43,FIFA World Cup
+0,Yannick Carrasco,2023-24,30,"D(L),M(CLR),FW",Belgium,2,2,118,0,0,0,6.43,FIFA World Cup
+1,Rubén Vargas,2023-24,25,"AM(CLR),FW",Switzerland,4,4,289,0,1,0,6.43,FIFA World Cup
+2,Collins Fai,2023-24,31,"D(R),M(R)",Cameroon,3,3,270,0,0,0,6.43,FIFA World Cup
+3,Pape Gueye,2023-24,24,DMC,Senegal,3,1,152,0,0,0,6.43,FIFA World Cup
+4,Feras Al Brikan,2023-24,23,FW,Saudi Arabia,3,3,269,0,1,0,6.42,FIFA World Cup
+5,Bartosz Bereszynski,2023-24,31,"D(CLR),M(R)",Poland,4,4,342,0,0,0,6.42,FIFA World Cup
+6,Ahmad Noorollahi,2023-24,30,M(CLR),Iran,3,3,226,0,0,0,6.42,FIFA World Cup
+7,Connor Roberts,2023-24,27,"D(LR),M(R)",Wales,3,2,201,0,0,0,6.42,FIFA World Cup
+8,Yahya Attiat-Allah,2023-24,28,D(CLR),Morocco,6,2,318,0,1,0,6.41,FIFA World Cup
+9,Atiba Hutchinson,2023-24,40,"D(R),DMC",Canada,3,2,162,0,0,0,6.40,FIFA World Cup
+0,Kim Min-Jae,2023-24,26,D(C),South Korea,3,3,270,0,0,0,6.40,FIFA World Cup
+1,Bassam Al Rawi,2023-24,25,M(CLR),Qatar,1,1,90,0,0,0,6.40,FIFA World Cup
+2,Benjamin Pavard,2023-24,27,"D(CLR),M(R)",France,1,1,89,0,0,0,6.40,FIFA World Cup
+3,Marko Grujic,2023-24,27,DMC,Serbia,1,0,11,0,0,0,6.40,FIFA World Cup
+4,Josh Sargent,2023-24,23,"AM(CLR),FW",USA,3,2,158,0,0,0,6.40,FIFA World Cup
+5,Moisés Caicedo,2023-24,21,DMC,Ecuador,3,3,270,1,0,0,6.40,FIFA World Cup
+6,Marten de Roon,2023-24,32,"D(C),DMC",Netherlands,5,3,187,0,0,0,6.40,FIFA World Cup
+7,Romario Ibarra,2023-24,28,AM(L),Ecuador,2,1,69,0,0,0,6.40,FIFA World Cup
+8,Hidemasa Morita,2023-24,28,DMC,Japan,3,3,286,0,0,0,6.39,FIFA World Cup
+9,Selim Amallah,2023-24,26,"AM(CL),FW",Morocco,7,4,409,0,0,0,6.39,FIFA World Cup
+0,Antony,2023-24,23,AM(R),Brazil,4,1,171,0,0,0,6.39,FIFA World Cup
+1,Mehdi Torabi,2023-24,28,Substitute,Iran,3,0,59,0,0,0,6.39,FIFA World Cup
+2,Thomas Müller,2023-24,33,"M(CLR),FW",Germany,3,3,203,0,0,0,6.39,FIFA World Cup
+3,Nicolas Nkoulou,2023-24,33,D(C),Cameroon,2,2,180,0,0,0,6.39,FIFA World Cup
+4,Iñaki Williams,2023-24,29,"AM(CLR),FW",Ghana,3,3,252,0,1,0,6.38,FIFA World Cup
+5,André Onana,2023-24,27,GK,Cameroon,1,1,90,0,0,0,6.38,FIFA World Cup
+6,Axel Disasi,2023-24,25,D(C),France,3,1,92,0,0,0,6.38,FIFA World Cup
+7,Lee Jae-Sung,2023-24,31,"AM(CLR),FW",South Korea,3,3,214,0,0,0,6.38,FIFA World Cup
+8,Son Jun-Ho,2023-24,31,M(CLR),South Korea,3,0,70,0,0,0,6.38,FIFA World Cup
+9,Matías Vecino,2023-24,32,M(C),Uruguay,3,2,196,0,0,0,6.38,FIFA World Cup
+0,Neco Williams,2023-24,22,"D(LR),M(LR)",Wales,3,3,205,0,0,0,6.38,FIFA World Cup
+1,Marko Livaja,2023-24,30,"AM(C),FW",Croatia,6,3,243,1,1,0,6.38,FIFA World Cup
+2,Jakub Kiwior,2023-24,23,"D(C),DMC",Poland,4,4,356,0,0,0,6.38,FIFA World Cup
+3,Matty Cash,2023-24,26,"D(R),M(CLR)",Poland,4,4,360,0,0,0,6.38,FIFA World Cup
+4,Papu Gómez,2023-24,35,"M(CLR),FW",Argentina,2,2,109,0,0,0,6.37,FIFA World Cup
+5,Nasser Al Dawsari,2023-24,24,M(CLR),Saudi Arabia,1,0,4,0,0,0,6.37,FIFA World Cup
+6,Jakub Kaminski,2023-24,21,M(LR),Poland,4,2,233,0,0,0,6.37,FIFA World Cup
+7,Weston McKennie,2023-24,25,"D(C),M(CLR)",USA,4,4,275,0,0,0,6.36,FIFA World Cup
+8,Josip Sutalo,2023-24,23,D(C),Croatia,1,1,90,0,0,0,6.36,FIFA World Cup
+9,William Saliba,2023-24,22,D(C),France,1,0,27,0,0,0,6.36,FIFA World Cup
+0,Ferjani Sassi,2023-24,31,DMC,Tunisia,2,0,47,0,0,0,6.36,FIFA World Cup
+1,Jackson Porozo,2023-24,23,D(C),Ecuador,2,1,95,0,0,0,6.36,FIFA World Cup
+2,Mario Pasalic,2023-24,28,M(CLR),Croatia,7,2,269,0,0,0,6.36,FIFA World Cup
+3,Saud Abdulhamid,2023-24,24,D(CLR),Saudi Arabia,3,3,270,0,0,0,6.35,FIFA World Cup
+4,Alisson Becker,2023-24,30,GK,Brazil,4,4,381,0,0,0,6.35,FIFA World Cup
+5,Jeremy Sarmiento,2023-24,21,FW,Ecuador,3,0,83,0,0,0,6.35,FIFA World Cup
+6,Lovro Majer,2023-24,25,AM(CR),Croatia,7,1,130,1,0,0,6.35,FIFA World Cup
+7,Paulo Dybala,2023-24,29,"AM(CR),FW",Argentina,2,0,17,0,0,0,6.35,FIFA World Cup
+8,Djibril Sow,2023-24,26,M(C),Switzerland,4,4,269,0,1,0,6.35,FIFA World Cup
+9,Pape Matar Sarr,2023-24,20,M(C),Senegal,2,0,58,0,0,0,6.35,FIFA World Cup
+0,Guillermo Varela,2023-24,30,D(LR),Uruguay,3,2,182,0,0,0,6.34,FIFA World Cup
+1,Youssouf Fofana,2023-24,24,DMC,France,6,2,226,0,0,0,6.34,FIFA World Cup
+2,Karl Toko Ekambi,2023-24,30,"AM(LR),FW",Cameroon,3,2,167,0,0,0,6.34,FIFA World Cup
+3,Milad Mohammadi,2023-24,29,"D(LR),M(L)",Iran,3,3,201,0,0,0,6.34,FIFA World Cup
+4,Rodrygo,2023-24,22,"AM(CLR),FW",Brazil,5,1,180,0,1,0,6.34,FIFA World Cup
+5,Lukas Klostermann,2023-24,27,"D(CLR),M(R)",Germany,2,0,65,0,0,0,6.34,FIFA World Cup
+6,Christian Bassogog,2023-24,27,"AM(R),FW",Cameroon,1,0,24,0,0,0,6.33,FIFA World Cup
+7,Kamil Grosicki,2023-24,35,AM(LR),Poland,1,0,3,0,0,0,6.33,FIFA World Cup
+8,Mario Götze,2023-24,31,"M(CLR),FW",Germany,2,0,34,0,0,0,6.33,FIFA World Cup
+9,Zakaria Aboukhlal,2023-24,23,AM(LR),Morocco,4,0,73,1,0,0,6.33,FIFA World Cup
+0,Fabian Schär,2023-24,31,D(C),Switzerland,2,2,136,0,0,0,6.33,FIFA World Cup
+1,Hattan Bahbri,2023-24,31,midfielder,Saudi Arabia,2,0,3,0,1,0,6.33,FIFA World Cup
+2,Pedro,2023-24,26,FW,Brazil,2,0,63,0,0,0,6.33,FIFA World Cup
+3,Takuma Asano,2023-24,28,"AM(CLR),FW",Japan,4,0,163,1,0,0,6.32,FIFA World Cup
+4,Riley McGree,2023-24,24,AM(CLR),Australia,4,4,269,0,1,0,6.32,FIFA World Cup
+5,Unai Simón,2023-24,26,GK,Spain,4,4,391,0,0,0,6.32,FIFA World Cup
+6,Fred,2023-24,30,M(C),Brazil,4,2,145,0,0,0,6.32,FIFA World Cup
+7,Abdulelah Al Amri,2023-24,26,D(CLR),Saudi Arabia,3,2,182,0,0,0,6.31,FIFA World Cup
+8,Antonio Rüdiger,2023-24,30,D(CLR),Germany,3,3,270,0,0,0,6.31,FIFA World Cup
+9,Bruno Guimarães,2023-24,25,DMC,Brazil,2,0,67,0,0,0,6.31,FIFA World Cup
+0,Akram Afif,2023-24,26,FW,Qatar,3,3,270,0,0,0,6.31,FIFA World Cup
+1,Nico Williams,2023-24,21,AM(LR),Spain,4,1,146,0,0,0,6.31,FIFA World Cup
+2,Rúben Neves,2023-24,26,DMC,Portugal,5,4,271,0,0,0,6.30,FIFA World Cup
+3,Pathé Ciss,2023-24,29,DMC,Senegal,3,2,146,0,0,0,6.30,FIFA World Cup
+4,Steven Berghuis,2023-24,31,"AM(CR),FW",Netherlands,4,1,200,0,1,0,6.30,FIFA World Cup
+5,Maximiliano Gómez,2023-24,27,FW,Uruguay,2,0,28,0,0,0,6.30,FIFA World Cup
+6,Wayne Hennessey,2023-24,36,GK,Wales,2,2,176,0,0,0,6.30,FIFA World Cup
+7,Danilo Pereira,2023-24,31,"D(C),DMC",Portugal,1,1,90,0,0,0,6.30,FIFA World Cup
+8,Ghaylen Chaalali,2023-24,29,DMC,Tunisia,1,0,16,0,0,0,6.30,FIFA World Cup
+9,Jérémy Doku,2023-24,21,AM(LR),Belgium,1,0,18,0,0,0,6.30,FIFA World Cup
+0,Abdou Diallo,2023-24,27,D(CL),Senegal,4,4,332,0,0,0,6.30,FIFA World Cup
+1,Youri Tielemans,2023-24,26,M(C),Belgium,3,1,95,0,0,0,6.30,FIFA World Cup
+2,Alex Telles,2023-24,30,"D(CL),M(L)",Brazil,2,1,58,0,0,0,6.29,FIFA World Cup
+3,Denis Odoi,2023-24,35,"D(CLR),DMC",Ghana,1,0,12,0,0,0,6.29,FIFA World Cup
+4,Dylan Bronn,2023-24,28,D(C),Tunisia,2,2,163,0,0,0,6.29,FIFA World Cup
+5,Richie Laryea,2023-24,28,"D(CLR),M(R)",Canada,3,2,161,0,0,0,6.29,FIFA World Cup
+6,Youstin Salas,2023-24,27,M(CLR),Costa Rica,2,0,46,0,0,0,6.29,FIFA World Cup
+7,Gabriel Martinelli,2023-24,22,"AM(L),FW",Brazil,3,1,111,0,0,0,6.29,FIFA World Cup
+8,Bremer,2023-24,26,D(C),Brazil,2,1,108,0,0,0,6.29,FIFA World Cup
+9,Facundo Pellistri,2023-24,21,AM(R),Uruguay,3,2,182,0,0,0,6.28,FIFA World Cup
+0,Cristiano Ronaldo,2023-24,38,"M(L),FW",Portugal,5,3,291,1,0,0,6.28,FIFA World Cup
+1,Tajon Buchanan,2023-24,24,"D(R),M(CLR)",Canada,3,3,261,0,1,0,6.28,FIFA World Cup
+2,Alexander Djiku,2023-24,29,"D(CR),DMC",Ghana,2,1,97,0,0,0,6.28,FIFA World Cup
+3,Martin Braithwaite,2023-24,32,"AM(CLR),FW",Denmark,2,1,104,0,0,0,6.28,FIFA World Cup
+4,Darwin Núñez,2023-24,24,"AM(CL),FW",Uruguay,3,3,242,0,0,0,6.28,FIFA World Cup
+5,Ehsan Hajisafi,2023-24,33,"D(L),M(CL)",Iran,3,3,239,0,0,0,6.27,FIFA World Cup
+6,Joe Rodon,2023-24,25,D(C),Wales,3,3,270,0,0,0,6.27,FIFA World Cup
+7,Takehiro Tomiyasu,2023-24,24,D(CLR),Japan,3,1,187,0,0,0,6.27,FIFA World Cup
+8,Sardar Azmoun,2023-24,28,"AM(C),FW",Iran,3,2,127,0,0,0,6.27,FIFA World Cup
+9,Kingsley Coman,2023-24,27,"M(LR),FW",France,6,1,167,0,0,0,6.27,FIFA World Cup
+0,Dani Carvajal,2023-24,31,D(R),Spain,2,1,135,0,0,0,6.27,FIFA World Cup
+1,Krépin Diatta,2023-24,24,"M(CLR),FW",Senegal,3,3,183,0,0,0,6.26,FIFA World Cup
+2,Alejandro Balde,2023-24,19,D(LR),Spain,4,1,125,0,0,0,6.26,FIFA World Cup
+3,Amadou Onana,2023-24,22,DMC,Belgium,2,1,105,0,0,0,6.26,FIFA World Cup
+4,Shaq Moore,2023-24,26,D(R),USA,2,0,20,0,0,0,6.26,FIFA World Cup
+5,Ali Al Bulayhi,2023-24,33,D(CLR),Saudi Arabia,3,3,217,0,0,0,6.26,FIFA World Cup
+6,André Ayew,2023-24,33,"M(CLR),FW",Ghana,3,3,201,1,0,0,6.25,FIFA World Cup
+7,António Silva,2023-24,19,D(C),Portugal,1,1,90,0,0,0,6.25,FIFA World Cup
+8,Bryan Ruiz,2023-24,38,"M(CLR),FW",Costa Rica,1,0,29,0,0,0,6.25,FIFA World Cup
+9,Pau Torres,2023-24,26,D(C),Spain,1,1,90,0,0,0,6.25,FIFA World Cup
+0,Jung Woo-Young,2023-24,33,"D(C),DMC",South Korea,4,4,305,0,0,0,6.25,FIFA World Cup
+1,Mikkel Damsgaard,2023-24,23,AM(CL),Denmark,3,1,149,0,0,0,6.25,FIFA World Cup
+2,Uriel Antuna,2023-24,26,"AM(LR),FW",Mexico,3,0,75,0,0,0,6.25,FIFA World Cup
+3,Nampalys Mendy,2023-24,31,M(C),Senegal,4,3,273,0,0,0,6.24,FIFA World Cup
+4,Ali Karimi,2023-24,29,DMC,Iran,3,1,96,0,0,0,6.24,FIFA World Cup
+5,Leon Goretzka,2023-24,28,M(CR),Germany,3,2,159,0,0,0,6.24,FIFA World Cup
+6,Filip Kostic,2023-24,30,"M(LR),FW",Serbia,2,2,180,0,0,0,6.24,FIFA World Cup
+7,Marcos Llorente,2023-24,28,"D(R),M(CR),FW",Spain,1,1,121,0,0,0,6.24,FIFA World Cup
+8,Vincent Janssen,2023-24,29,FW,Netherlands,2,1,86,0,0,0,6.24,FIFA World Cup
+9,Nikola Vlasic,2023-24,25,"AM(CLR),FW",Croatia,6,1,208,0,0,0,6.24,FIFA World Cup
+0,Gaël Ondoua,2023-24,27,DMC,Cameroon,2,0,45,0,0,0,6.24,FIFA World Cup
+1,Gonzalo Montiel,2023-24,26,"D(CR),M(R)",Argentina,4,1,120,0,0,0,6.24,FIFA World Cup
+2,Hannibal Mejbri,2023-24,20,AM(C),Tunisia,1,0,10,0,0,0,6.23,FIFA World Cup
+3,Koke,2023-24,31,M(CLR),Spain,2,0,50,0,0,0,6.23,FIFA World Cup
+4,Loïs Openda,2023-24,23,FW,Belgium,1,0,12,0,0,0,6.23,FIFA World Cup
+5,Matías Viña,2023-24,25,"D(L),M(L)",Uruguay,2,0,15,0,0,0,6.23,FIFA World Cup
+6,Yuto Nagatomo,2023-24,36,"D(LR),M(LR)",Japan,4,4,213,0,0,0,6.23,FIFA World Cup
+7,Cyle Larin,2023-24,28,"AM(LR),FW",Canada,3,2,138,0,0,0,6.23,FIFA World Cup
+8,Kalvin Phillips,2023-24,27,"D(C),DMC",England,2,0,40,0,1,0,6.23,FIFA World Cup
+9,Ricardo Rodríguez,2023-24,31,"D(CL),M(L)",Switzerland,4,4,360,0,0,0,6.22,FIFA World Cup
+0,Ángel Correa,2023-24,28,"AM(CLR),FW",Argentina,1,0,4,0,0,0,6.22,FIFA World Cup
+1,Ben Davies,2023-24,30,"D(CL),M(L)",Wales,3,3,239,0,0,0,6.22,FIFA World Cup
+2,Dries Mertens,2023-24,36,"AM(CLR),FW",Belgium,2,1,77,0,0,0,6.22,FIFA World Cup
+3,Hwang In-Beom,2023-24,26,M(C),South Korea,4,4,335,0,0,0,6.22,FIFA World Cup
+4,Jesper Lindstrøm,2023-24,23,"AM(CLR),FW",Denmark,3,2,200,0,0,0,6.22,FIFA World Cup
+5,Diogo Costa,2023-24,23,GK,Portugal,5,5,450,0,0,0,6.22,FIFA World Cup
+6,Giovanni Reyna,2023-24,20,AM(CLR),USA,2,0,52,0,0,0,6.22,FIFA World Cup
+7,Edinson Cavani,2023-24,36,"AM(LR),FW",Uruguay,3,1,123,0,0,0,6.21,FIFA World Cup
+8,Ali Asad,2023-24,30,M(CLR),Qatar,1,0,26,0,0,0,6.21,FIFA World Cup
+9,David Wotherspoon,2023-24,33,AM(C),Canada,1,0,14,0,0,0,6.21,FIFA World Cup
+0,Eric Dier,2023-24,29,"D(CR),DMC",England,2,0,33,0,0,0,6.21,FIFA World Cup
+1,Romelu Lukaku,2023-24,30,"AM(R),FW",Belgium,2,0,54,0,0,0,6.21,FIFA World Cup
+2,Wajdi Kechrida,2023-24,27,"D(R),M(R)",Tunisia,3,1,109,0,0,0,6.21,FIFA World Cup
+3,Alistair Johnston,2023-24,24,"D(CR),M(R)",Canada,3,3,270,0,0,0,6.20,FIFA World Cup
+4,Éverton Ribeiro,2023-24,34,AM(CLR),Brazil,1,0,35,0,0,0,6.20,FIFA World Cup
+5,Fabian Rieder,2023-24,21,M(C),Switzerland,2,1,68,0,0,0,6.20,FIFA World Cup
+6,Johan Venegas,2023-24,34,AM(CR),Costa Rica,1,1,74,0,0,0,6.20,FIFA World Cup
+7,Noa Lang,2023-24,24,"AM(LR),FW",Netherlands,1,0,8,0,0,0,6.20,FIFA World Cup
+8,Ajdin Hrustic,2023-24,27,M(CLR),Australia,3,0,59,0,0,0,6.20,FIFA World Cup
+9,Lautaro Martínez,2023-24,26,FW,Argentina,6,2,240,0,0,0,6.20,FIFA World Cup
+0,Abdulrahman Al Obud,2023-24,28,FW,Saudi Arabia,2,0,33,0,0,0,6.20,FIFA World Cup
+1,Tariq Lamptey,2023-24,22,"D(R),M(R)",Ghana,2,1,102,0,0,0,6.20,FIFA World Cup
+2,Arkadiusz Milik,2023-24,29,"AM(C),FW",Poland,3,1,100,0,0,0,6.19,FIFA World Cup
+3,Pape Abou Cissé,2023-24,27,D(C),Senegal,3,1,104,0,0,0,6.19,FIFA World Cup
+4,Kamal Miller,2023-24,26,D(CL),Canada,3,3,270,0,0,0,6.19,FIFA World Cup
+5,Samuel Gouet,2023-24,25,DMC,Cameroon,2,1,99,0,0,0,6.19,FIFA World Cup
+6,Bryan Oviedo,2023-24,33,"D(LR),M(L)",Costa Rica,3,3,262,0,0,0,6.18,FIFA World Cup
+7,Érick Gutiérrez,2023-24,28,DMC,Mexico,1,0,48,0,0,0,6.18,FIFA World Cup
+8,Thiago Almada,2023-24,22,AM(CLR),Argentina,1,0,6,0,0,0,6.18,FIFA World Cup
+9,Remo Freuler,2023-24,31,DMC,Switzerland,4,4,324,1,0,0,6.18,FIFA World Cup
+0,Agustín Canobbio,2023-24,24,AM(R),Uruguay,1,0,10,0,0,0,6.17,FIFA World Cup
+1,Kamaldeen Sulemana,2023-24,21,"AM(L),FW",Ghana,2,0,57,0,0,0,6.17,FIFA World Cup
+2,Abde Ezzalzouli,2023-24,21,AM(L),Morocco,3,0,92,0,0,0,6.17,FIFA World Cup
+3,Homam Ahmed,2023-24,24,D(CLR),Qatar,3,3,263,0,0,0,6.17,FIFA World Cup
+4,Exequiel Palacios,2023-24,24,M(C),Argentina,3,0,47,0,0,0,6.16,FIFA World Cup
+5,Bailey Wright,2023-24,31,D(CR),Australia,1,0,16,0,0,0,6.16,FIFA World Cup
+6,Hiroki Ito,2023-24,24,D(CL),Japan,1,0,45,0,0,0,6.16,FIFA World Cup
+7,Juan Foyth,2023-24,25,"D(CR),DMC",Argentina,1,0,4,0,0,0,6.16,FIFA World Cup
+8,Trent Alexander-Arnold,2023-24,24,"D(R),DMC,M(R)",England,1,0,33,0,0,0,6.16,FIFA World Cup
+9,Daniel-Kofi Kyereh,2023-24,27,"AM(CLR),FW",Ghana,3,0,31,0,0,0,6.16,FIFA World Cup
+0,Mohammed Al Burayk,2023-24,30,D(CLR),Saudi Arabia,2,1,66,0,0,0,6.15,FIFA World Cup
+1,Alexis Vega,2023-24,25,FW,Mexico,3,3,196,0,0,0,6.15,FIFA World Cup
+2,João Palhinha,2023-24,28,DMC,Portugal,3,0,35,0,0,0,6.15,FIFA World Cup
+3,Anass Zaroury,2023-24,22,"AM(L),FW",Morocco,1,0,26,0,0,0,6.15,FIFA World Cup
+4,Ante Budimir,2023-24,32,FW,Croatia,2,0,55,0,0,0,6.15,FIFA World Cup
+5,Assim Madibo,2023-24,26,M(CLR),Qatar,2,2,154,0,0,0,6.15,FIFA World Cup
+6,Bamba Dieng,2023-24,23,"AM(L),FW",Senegal,4,0,98,1,0,0,6.14,FIFA World Cup
+7,Musaab Khidir,2023-24,29,D(CLR),Qatar,1,0,5,0,0,0,6.14,FIFA World Cup
+8,Karim Ansarifard,2023-24,33,FW,Iran,2,0,34,0,0,0,6.14,FIFA World Cup
+9,Brenden Aaronson,2023-24,22,AM(CLR),USA,4,0,105,0,0,0,6.13,FIFA World Cup
+0,Hassan Al Haydos,2023-24,32,M(C),Qatar,3,3,209,0,0,0,6.13,FIFA World Cup
+1,Issam Jebali,2023-24,31,"AM(C),FW",Tunisia,3,2,184,0,0,0,6.13,FIFA World Cup
+2,João Mário,2023-24,30,M(CLR),Portugal,2,1,84,0,0,0,6.13,FIFA World Cup
+3,Kellyn Acosta,2023-24,28,"D(LR),M(CR)",USA,2,0,41,0,0,0,6.13,FIFA World Cup
+4,Mattéo Guendouzi,2023-24,24,M(C),France,1,1,79,0,0,0,6.13,FIFA World Cup
+5,Xavi Simons,2023-24,20,"AM(CLR),FW",Netherlands,1,0,7,0,0,0,6.13,FIFA World Cup
+6,Matheus Nunes,2023-24,25,M(CLR),Portugal,2,1,73,0,0,0,6.13,FIFA World Cup
+7,Mohammed Waad,2023-24,23,M(CLR),Qatar,2,0,26,0,0,0,6.13,FIFA World Cup
+8,Jamie Maclaren,2023-24,30,FW,Australia,3,0,52,0,0,0,6.12,FIFA World Cup
+9,Abderrazzaq Hamed Allah,2023-24,32,FW,Morocco,4,0,64,0,0,0,6.12,FIFA World Cup
+0,Abdelkarim Hassan,2023-24,30,D(CLR),Qatar,3,3,270,0,0,0,6.12,FIFA World Cup
+1,Abolfazl Jalali,2023-24,25,D(CLR),Iran,1,0,18,0,0,0,6.12,FIFA World Cup
+2,Carlos Rodríguez,2023-24,26,M(CLR),Mexico,2,0,32,0,0,0,6.12,FIFA World Cup
+3,Héctor Moreno,2023-24,35,D(CL),Mexico,3,3,270,0,0,0,6.12,FIFA World Cup
+4,Hernán Galíndez,2023-24,36,GK,Ecuador,3,3,270,0,0,0,6.12,FIFA World Cup
+5,Anthony Contreras,2023-24,23,FW,Costa Rica,3,2,127,0,0,0,6.12,FIFA World Cup
+6,Ansu Fati,2023-24,20,"AM(L),FW",Spain,2,0,45,0,0,0,6.12,FIFA World Cup
+7,José Cifuentes,2023-24,24,AM(C),Ecuador,2,0,58,0,0,0,6.12,FIFA World Cup
+8,Nicolás de la Cruz,2023-24,26,M(CLR),Uruguay,2,0,36,0,0,0,6.12,FIFA World Cup
+9,Ali Al Hassan,2023-24,26,M(CLR),Saudi Arabia,1,1,46,0,0,0,6.11,FIFA World Cup
+0,Ayase Ueda,2023-24,25,"AM(C),FW",Japan,1,1,46,0,0,0,6.11,FIFA World Cup
+1,Néstor Araújo,2023-24,32,D(C),Mexico,1,1,90,0,0,0,6.11,FIFA World Cup
+2,Joe Morrell,2023-24,26,DMC,Wales,2,0,32,0,0,0,6.11,FIFA World Cup
+3,DeAndre Yedlin,2023-24,30,"D(R),M(R)",USA,2,0,32,0,0,0,6.11,FIFA World Cup
+4,Denis Zakaria,2023-24,26,"D(C),DMC",Switzerland,2,0,57,0,0,0,6.11,FIFA World Cup
+5,Sam Adekugbe,2023-24,28,D(L),Canada,3,1,94,0,0,0,6.10,FIFA World Cup
+6,Fabian Frei,2023-24,34,M(C),Switzerland,2,0,23,0,0,0,6.10,FIFA World Cup
+7,Luka Jovic,2023-24,25,FW,Serbia,2,1,36,0,0,0,6.10,FIFA World Cup
+8,Steven Bergwijn,2023-24,25,"AM(CLR),FW",Netherlands,4,3,217,0,0,0,6.10,FIFA World Cup
+9,Yuki Soma,2023-24,26,AM(CR),Japan,1,1,82,0,0,0,6.10,FIFA World Cup
+0,Garang Kuol,2023-24,18,FW,Australia,2,0,35,0,0,0,6.10,FIFA World Cup
+1,Brandon Aguilera,2023-24,20,M(CLR),Costa Rica,3,1,89,0,0,0,6.09,FIFA World Cup
+2,Filip Djuricic,2023-24,31,"AM(CLR),FW",Serbia,2,0,13,0,0,0,6.09,FIFA World Cup
+3,Ismaël Koné,2023-24,21,AM(C),Canada,3,0,106,0,0,0,6.09,FIFA World Cup
+4,Mark-Anthony Kaye,2023-24,28,M(C),Canada,1,1,60,0,0,0,6.09,FIFA World Cup
+5,Hossein Kanaanizadegan,2023-24,29,D(CLR),Iran,2,1,46,0,0,0,6.09,FIFA World Cup
+6,Nicola Zalewski,2023-24,21,M(LR),Poland,2,1,65,0,0,0,6.09,FIFA World Cup
+7,Kasper Dolberg,2023-24,25,FW,Denmark,3,1,113,0,0,0,6.08,FIFA World Cup
+8,Alan Franco,2023-24,25,M(C),Ecuador,2,1,47,0,0,0,6.08,FIFA World Cup
+9,Édouard Mendy,2023-24,31,GK,Senegal,4,4,360,0,0,0,6.08,FIFA World Cup
+0,Nemanja Gudelj,2023-24,31,"D(C),M(C)",Serbia,2,1,92,0,0,0,6.08,FIFA World Cup
+1,Leandro Trossard,2023-24,28,"M(CLR),FW",Belgium,3,1,103,0,0,0,6.07,FIFA World Cup
+2,Tarek Salman,2023-24,25,D(CLR),Qatar,1,0,7,0,0,0,6.07,FIFA World Cup
+3,Artur Jedrzejczyk,2023-24,35,D(CLR),Poland,1,0,18,0,0,0,6.06,FIFA World Cup
+4,Gerson Torres,2023-24,26,M(CLR),Costa Rica,1,1,65,0,0,0,6.06,FIFA World Cup
+5,Ivan Ilic,2023-24,22,M(C),Serbia,1,0,33,0,0,0,6.06,FIFA World Cup
+6,Kenneth Taylor,2023-24,21,DMC,Netherlands,1,0,4,0,0,0,6.06,FIFA World Cup
+7,Raúl Jiménez,2023-24,32,FW,Mexico,3,0,56,0,0,0,6.06,FIFA World Cup
+8,Krzysztof Piatek,2023-24,28,FW,Poland,2,0,26,0,0,0,6.06,FIFA World Cup
+9,Karim Boudiaf,2023-24,32,M(CLR),Qatar,3,2,185,0,0,0,6.05,FIFA World Cup
+0,Fodé Ballo-Touré,2023-24,26,"D(L),M(L)",Senegal,1,0,6,0,0,0,6.05,FIFA World Cup
+1,Kevin Álvarez,2023-24,24,D(CLR),Mexico,2,1,70,0,0,0,6.05,FIFA World Cup
+2,Kwon Chang-Hoon,2023-24,29,AM(CR),South Korea,1,1,57,0,0,0,6.04,FIFA World Cup
+3,Ilias Chair,2023-24,25,"AM(CLR),FW",Morocco,1,0,45,0,0,0,6.04,FIFA World Cup
+4,Takumi Minamino,2023-24,28,"AM(CLR),FW",Japan,3,0,58,0,0,0,6.04,FIFA World Cup
+5,Francisco Calvo,2023-24,31,D(CL),Costa Rica,2,2,180,0,0,0,6.04,FIFA World Cup
+6,Steven Vitória,2023-24,36,D(C),Canada,3,3,270,0,0,0,6.03,FIFA World Cup
+7,André Silva,2023-24,27,FW,Portugal,1,0,25,0,0,0,6.03,FIFA World Cup
+8,Carlos Gruezo,2023-24,28,DMC,Ecuador,1,1,46,0,0,0,6.03,FIFA World Cup
+9,Georges-Kévin Nkoudou,2023-24,28,AM(LR),Cameroon,2,0,25,0,0,0,6.03,FIFA World Cup
+0,Jonathan Osorio,2023-24,31,M(CLR),Canada,3,1,119,0,0,0,6.03,FIFA World Cup
+1,Michal Skóras,2023-24,23,M(R),Poland,1,0,45,0,0,0,6.03,FIFA World Cup
+2,Abdulaziz Hatem,2023-24,32,M(C),Qatar,3,2,196,0,0,0,6.02,FIFA World Cup
+3,Keanu Baccus,2023-24,25,M(C),Australia,4,1,113,0,0,0,6.02,FIFA World Cup
+4,Edimilson Fernandes,2023-24,27,"D(C),M(CR)",Switzerland,3,1,143,0,0,0,6.02,FIFA World Cup
+5,Gregor Kobel,2023-24,25,GK,Switzerland,1,1,90,0,0,0,6.02,FIFA World Cup
+6,Jan Bednarek,2023-24,27,D(C),Poland,1,0,4,0,0,0,6.02,FIFA World Cup
+7,Jordan Veretout,2023-24,30,M(C),France,1,1,63,0,0,0,6.02,FIFA World Cup
+8,Srdjan Babic,2023-24,27,D(C),Serbia,1,0,12,0,0,0,6.02,FIFA World Cup
+9,Keylor Navas,2023-24,36,GK,Costa Rica,3,3,270,0,0,0,6.02,FIFA World Cup
+0,Awer Mabil,2023-24,27,"AM(LR),FW",Australia,2,0,22,0,0,0,6.02,FIFA World Cup
+1,Boualem Khoukhi,2023-24,33,D(C),Qatar,3,3,270,0,0,0,6.01,FIFA World Cup
+2,Hwang Ui-Jo,2023-24,31,"AM(CLR),FW",South Korea,4,1,104,0,0,0,6.01,FIFA World Cup
+3,Nawaf Al Abid,2023-24,33,M(CLR),Saudi Arabia,2,0,85,0,0,0,6.01,FIFA World Cup
+4,Weverton,2023-24,35,GK,Brazil,1,0,10,0,0,0,6.01,FIFA World Cup
+5,Abdul Fatawu,2023-24,19,FW,Ghana,1,0,1,0,0,0,6.00,FIFA World Cup
+6,Daniel Chacón,2023-24,22,M(CLR),Costa Rica,1,0,1,0,0,0,6.00,FIFA World Cup
+7,Kevin Rodríguez,2023-24,23,FW,Ecuador,2,0,2,0,0,0,6.00,FIFA World Cup
+8,Kristijan Jakic,2023-24,26,"D(CR),DMC",Croatia,1,0,1,0,0,0,6.00,FIFA World Cup
+9,Matthias Ginter,2023-24,29,"D(CR),DMC",Germany,1,0,1,0,0,0,6.00,FIFA World Cup
+0,Predrag Rajkovic,2023-24,27,GK,Serbia,1,1,1,0,0,0,6.00,FIFA World Cup
+1,Roan Wilson,2023-24,21,M(CLR),Costa Rica,1,0,1,0,0,0,6.00,FIFA World Cup
+2,Sorba Thomas,2023-24,24,M(CLR),Wales,1,0,1,0,0,0,6.00,FIFA World Cup
+3,Youssoufa Moukoko,2023-24,18,FW,Germany,1,0,1,0,0,0,6.00,FIFA World Cup
+4,Cho Yu-Min,2023-24,26,M(CLR),South Korea,1,0,1,0,0,0,6.00,FIFA World Cup
+5,Jordan Morris,2023-24,28,"AM(LR),FW",USA,2,0,3,0,0,0,6.00,FIFA World Cup
+6,Yahya Jabrane,2023-24,32,M(CLR),Morocco,2,0,13,0,0,0,6.00,FIFA World Cup
+7,Ahmed Alaa,2023-24,30,FW,Qatar,1,0,5,0,0,0,5.99,FIFA World Cup
+8,Andreas Skov Olsen,2023-24,23,M(CR),Denmark,2,2,134,0,0,0,5.99,FIFA World Cup
+9,Damian Szymanski,2023-24,28,M(C),Poland,1,0,28,0,0,0,5.99,FIFA World Cup
+0,Sasa Lukic,2023-24,27,M(C),Serbia,3,3,246,0,0,0,5.99,FIFA World Cup
+1,Nemanja Radonjic,2023-24,27,"M(CLR),FW",Serbia,3,0,57,0,0,0,5.98,FIFA World Cup
+2,Haitham Asiri,2023-24,22,FW,Saudi Arabia,1,0,1,0,0,0,5.98,FIFA World Cup
+3,Milos Veljkovic,2023-24,27,"D(C),DMC",Serbia,3,3,223,0,0,0,5.97,FIFA World Cup
+4,Aaron Ramsey,2023-24,32,M(CLR),Wales,3,3,267,0,0,0,5.97,FIFA World Cup
+5,Rogelio Funes Mori,2023-24,32,FW,Mexico,1,0,4,0,0,0,5.97,FIFA World Cup
+6,Saman Ghoddos,2023-24,30,"M(CLR),FW",Iran,1,0,45,0,0,0,5.97,FIFA World Cup
+7,Haris Seferovic,2023-24,31,"AM(LR),FW",Switzerland,3,0,68,0,0,0,5.97,FIFA World Cup
+8,Antoine Semenyo,2023-24,23,"AM(LR),FW",Ghana,2,0,19,0,0,0,5.97,FIFA World Cup
+9,Taha Yassine Khenissi,2023-24,31,FW,Tunisia,2,0,27,0,0,0,5.97,FIFA World Cup
+0,Badr Benoun,2023-24,29,defender,Morocco,3,0,53,0,0,0,5.96,FIFA World Cup
+1,Óscar Duarte,2023-24,34,"D(C),DMC",Costa Rica,3,3,270,0,0,0,5.96,FIFA World Cup
+2,Alireza Jahanbakhsh,2023-24,30,AM(CLR),Iran,2,1,59,0,0,0,5.95,FIFA World Cup
+3,Jesús Ferreira,2023-24,22,"AM(C),FW",USA,1,1,46,0,0,0,5.95,FIFA World Cup
+4,Liam Millar,2023-24,23,AM(L),Canada,1,0,9,0,0,0,5.95,FIFA World Cup
+5,Lucas Cavallini,2023-24,30,FW,Canada,1,0,18,0,0,0,5.95,FIFA World Cup
+6,Robert Skov,2023-24,27,"D(L),M(LR)",Denmark,1,0,21,0,0,0,5.95,FIFA World Cup
+7,Noah Okafor,2023-24,23,FW,Switzerland,3,0,43,0,0,0,5.95,FIFA World Cup
+8,Sultan Al Ghannam,2023-24,29,D(CLR),Saudi Arabia,3,1,125,0,0,0,5.95,FIFA World Cup
+9,Eray Cömert,2023-24,25,D(C),Switzerland,2,0,46,0,0,0,5.95,FIFA World Cup
+0,Christian Nørgaard,2023-24,29,"D(C),DMC",Denmark,1,0,5,0,0,0,5.94,FIFA World Cup
+1,Manuel Neuer,2023-24,37,GK,Germany,3,3,270,0,0,0,5.94,FIFA World Cup
+2,Michel Aebischer,2023-24,26,M(CR),Switzerland,1,0,14,0,0,0,5.94,FIFA World Cup
+3,Rubin Colwill,2023-24,21,AM(CL),Wales,1,0,9,0,0,0,5.94,FIFA World Cup
+4,Djorkaeff Reasco,2023-24,24,FW,Ecuador,1,0,26,0,0,0,5.93,FIFA World Cup
+5,Bilal El Khannouss,2023-24,19,AM(C),Morocco,1,1,56,0,0,0,5.92,FIFA World Cup
+6,Joe Allen,2023-24,33,M(C),Wales,2,1,94,0,0,0,5.92,FIFA World Cup
+7,Takefusa Kubo,2023-24,22,"AM(CLR),FW",Japan,2,2,92,0,0,0,5.92,FIFA World Cup
+8,Lucas Hernández,2023-24,27,D(CL),France,1,1,13,0,0,0,5.91,FIFA World Cup
+9,Jonathan David,2023-24,23,"AM(C),FW",Canada,3,2,193,0,0,0,5.90,FIFA World Cup
+0,Ardon Jashari,2023-24,21,Substitute,Switzerland,1,0,1,0,0,0,5.90,FIFA World Cup
+1,Salman Al Faraj,2023-24,34,M(CLR),Saudi Arabia,1,1,49,0,0,0,5.90,FIFA World Cup
+2,Jonas Hofmann,2023-24,31,"D(R),M(CLR)",Germany,2,0,28,0,0,0,5.90,FIFA World Cup
+3,Germán Pezzella,2023-24,32,D(C),Argentina,3,0,59,0,0,0,5.89,FIFA World Cup
+4,Álvaro Zamora,2023-24,21,M(CLR),Costa Rica,1,0,29,0,0,0,5.89,FIFA World Cup
+5,Darko Lazovic,2023-24,32,M(CLR),Serbia,1,0,24,0,0,0,5.88,FIFA World Cup
+6,Filip Mladenovic,2023-24,32,"D(L),M(L)",Serbia,1,1,66,0,0,0,5.88,FIFA World Cup
+7,Milan Borjan,2023-24,35,GK,Canada,3,3,270,0,0,0,5.88,FIFA World Cup
+8,Daniel James,2023-24,25,"AM(CLR),FW",Wales,3,2,155,0,0,0,5.87,FIFA World Cup
+9,Abdul Baba,2023-24,29,"D(L),M(L)",Ghana,3,2,182,0,0,0,5.86,FIFA World Cup
+0,Rónald Matarrita,2023-24,29,"D(L),M(L)",Costa Rica,2,0,24,0,0,0,5.85,FIFA World Cup
+1,Sami Al Naji,2023-24,26,M(CLR),Saudi Arabia,1,1,46,0,0,0,5.85,FIFA World Cup
+2,Charles De Ketelaere,2023-24,22,"M(CLR),FW",Belgium,1,0,16,0,0,0,5.84,FIFA World Cup
+3,Brennan Johnson,2023-24,22,"AM(CLR),FW",Wales,3,0,89,0,0,0,5.83,FIFA World Cup
+4,Renato Steffen,2023-24,31,M(CLR),Switzerland,1,0,31,0,0,0,5.83,FIFA World Cup
+5,Almoez Ali,2023-24,27,FW,Qatar,3,3,226,0,0,0,5.82,FIFA World Cup
+6,Woo-Yeong Jeong,2023-24,23,"AM(CR),FW",South Korea,1,1,46,0,0,0,5.81,FIFA World Cup
+7,Roberto Alvarado,2023-24,25,M(CLR),Mexico,1,0,17,0,0,0,5.79,FIFA World Cup
+8,Jason Cummings,2023-24,28,"AM(R),FW",Australia,1,0,34,0,0,0,5.78,FIFA World Cup
+9,Carlos Martínez,2023-24,24,D(CLR),Costa Rica,1,1,46,0,0,0,5.77,FIFA World Cup
+0,Jewison Bennette,2023-24,19,FW,Costa Rica,3,1,102,0,0,0,5.77,FIFA World Cup
+1,Pablo Sarabia,2023-24,31,"D(L),M(CLR),FW",Spain,1,0,3,0,0,0,5.76,FIFA World Cup
+2,Nicolas Jackson,2023-24,22,FW,Senegal,1,0,17,0,0,0,5.75,FIFA World Cup
+3,Stefan Mitrovic,2023-24,33,D(C),Serbia,1,0,34,0,0,0,5.71,FIFA World Cup
+4,Saad Al Sheeb,2023-24,33,GK,Qatar,1,1,90,0,0,0,5.70,FIFA World Cup
+5,Meshaal Barsham,2023-24,25,GK,Qatar,2,2,180,0,0,0,5.69,FIFA World Cup
+6,Sadegh Moharrami,2023-24,27,D(R),Iran,1,1,90,0,0,0,5.66,FIFA World Cup
+7,Abdulelah Al Malki,2023-24,28,M(CLR),Saudi Arabia,2,2,175,0,0,0,5.65,FIFA World Cup
+8,Danny Ward,2023-24,30,GK,Wales,2,1,93,0,0,0,5.56,FIFA World Cup
+9,Walid Cheddira,2023-24,25,FW,Morocco,2,0,64,0,0,0,5.40,FIFA World Cup
+0,Nathaniel Atkinson,2023-24,24,"D(R),M(R)",Australia,1,1,85,0,0,0,5.18,FIFA World Cup

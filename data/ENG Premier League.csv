@@ -1,0 +1,570 @@
+,Player,Season,Age,Position,Team,Apps,Starts,Mins,Goals,Assists,MotM,Rating,Competition
+0,Asmir Begovic,2022-23,37,GK,Everton,1,1,90,0,0,1,7.82,ENG Premier League
+1,Kevin De Bruyne,2022-23,33,"M(CLR),FW",Man City,32,28,2425,7,16,9,7.58,ENG Premier League
+2,Stefan Ortega,2022-23,31,GK,Man City,3,3,270,0,0,1,7.56,ENG Premier League
+3,Erling Haaland,2022-23,24,FW,Man City,35,33,2779,36,8,6,7.54,ENG Premier League
+4,Harry Kane,2022-23,31,"AM(C),FW",Tottenham,38,38,3408,30,3,8,7.51,ENG Premier League
+5,Bruno Fernandes,2022-23,29,M(CLR),Man Utd,37,37,3320,8,8,6,7.44,ENG Premier League
+6,Gabriel Jesus,2022-23,27,"AM(LR),FW",Arsenal,26,24,2075,11,6,4,7.42,ENG Premier League
+7,Kieran Trippier,2022-23,33,"D(LR),M(R)",Newcastle,38,38,3348,1,7,8,7.41,ENG Premier League
+8,Bukayo Saka,2022-23,23,"D(L),M(CLR)",Arsenal,38,37,3195,14,11,4,7.40,ENG Premier League
+9,Solly March,2022-23,30,M(CLR),Brighton,33,31,2728,7,7,6,7.38,ENG Premier League
+0,Jack Grealish,2022-23,28,"AM(CL),FW",Man City,28,23,2064,5,7,3,7.33,ENG Premier League
+1,Martin Ødegaard,2022-23,25,AM(CR),Arsenal,37,37,3149,15,7,7,7.29,ENG Premier League
+2,Rodri,2022-23,28,"D(C),DMC",Man City,36,34,2921,2,6,3,7.26,ENG Premier League
+3,Gabriel Martinelli,2022-23,23,"AM(L),FW",Arsenal,36,34,2806,15,5,4,7.25,ENG Premier League
+4,Ivan Toney,2022-23,28,FW,Brentford,33,33,2955,20,4,5,7.25,ENG Premier League
+5,Joelinton,2022-23,28,"AM(CLR),FW",Newcastle,32,30,2664,6,1,3,7.24,ENG Premier League
+6,James Maddison,2022-23,27,AM(CLR),Leicester,30,28,2486,10,9,3,7.24,ENG Premier League
+7,Rodrigo Bentancur,2022-23,27,M(C),Tottenham,18,17,1506,5,2,1,7.22,ENG Premier League
+8,Bruno Guimarães,2022-23,26,DMC,Newcastle,32,32,2735,4,5,1,7.21,ENG Premier League
+9,Casemiro,2022-23,32,DMC,Man Utd,28,24,2126,4,3,5,7.17,ENG Premier League
+0,Mohamed Salah,2022-23,32,"AM(CLR),FW",Liverpool,38,37,3297,19,12,3,7.16,ENG Premier League
+1,Phil Foden,2022-23,24,"AM(CLR),FW",Man City,32,22,1844,11,5,3,7.13,ENG Premier League
+2,Ilkay Gündogan,2022-23,33,M(C),Man City,31,27,2359,8,4,2,7.11,ENG Premier League
+3,Trent Alexander-Arnold,2022-23,25,"D(R),DMC,M(R)",Liverpool,37,34,2932,2,9,2,7.11,ENG Premier League
+4,Ethan Pinnock,2022-23,31,D(C),Brentford,30,30,2700,3,0,2,7.11,ENG Premier League
+5,Aleksandar Mitrovic,2022-23,29,FW,Fulham,24,23,2015,14,1,4,7.08,ENG Premier League
+6,Marcus Rashford,2022-23,26,"AM(CLR),FW",Man Utd,35,32,2890,17,5,6,7.08,ENG Premier League
+7,Reece James,2022-23,24,"D(CR),DMC,M(R)",Chelsea,16,14,1244,1,1,0,7.07,ENG Premier League
+8,Thomas Partey,2022-23,31,"D(R),M(CR)",Arsenal,33,28,2487,3,0,1,7.06,ENG Premier League
+9,Felipe,2022-23,35,D(C),Nottingham Forest,16,15,1419,0,1,0,7.06,ENG Premier League
+0,Cody Gakpo,2022-23,25,"AM(CL),FW",Liverpool,21,17,1465,7,2,0,7.06,ENG Premier League
+1,Alexander Isak,2022-23,24,"AM(L),FW",Newcastle,22,17,1527,10,1,1,7.06,ENG Premier League
+2,Alexis Mac Allister,2022-23,25,"M(CL),FW",Brighton,35,31,2886,10,2,4,7.05,ENG Premier League
+3,Fabian Schär,2022-23,32,D(C),Newcastle,36,36,3209,1,3,2,7.05,ENG Premier League
+4,João Cancelo,2022-23,30,"D(LR),M(R)",Man City,17,16,1279,2,1,1,7.04,ENG Premier League
+5,Pierre-Emile Højbjerg,2022-23,29,M(C),Tottenham,35,35,3133,4,5,3,7.02,ENG Premier League
+6,Eberechi Eze,2022-23,26,AM(CLR),Crystal Palace,38,30,2644,10,4,4,7.02,ENG Premier League
+7,Riyad Mahrez,2022-23,33,"AM(CLR),FW",Man City,30,22,1924,5,10,2,7.01,ENG Premier League
+8,Declan Rice,2022-23,25,"D(C),DMC",West Ham,37,36,3272,4,2,1,7.01,ENG Premier League
+9,Bryan Mbeumo,2022-23,25,"AM(LR),FW",Brentford,38,36,2931,9,8,4,7.01,ENG Premier League
+0,Yerry Mina,2022-23,29,D(C),Everton,7,7,596,2,0,1,7.01,ENG Premier League
+1,Ben Mee,2022-23,34,D(CL),Brentford,37,37,3272,3,2,2,7.01,ENG Premier League
+2,Kaoru Mitoma,2022-23,27,M(L),Brighton,33,24,2318,7,5,4,7.00,ENG Premier League
+3,Dan Bentley,2022-23,31,GK,Wolves,2,2,180,0,0,0,7.00,ENG Premier League
+4,Pascal Groß,2022-23,33,"D(R),M(CR),FW",Brighton,37,37,3246,9,8,2,7.00,ENG Premier League
+5,Dwight McNeil,2022-23,24,M(CLR),Everton,36,28,2502,7,3,4,6.99,ENG Premier League
+6,Michael Olise,2022-23,22,AM(CLR),Crystal Palace,37,31,2757,2,11,5,6.99,ENG Premier League
+7,Willian,2022-23,36,AM(CLR),Fulham,27,25,2144,5,5,3,6.99,ENG Premier League
+8,Leandro Trossard,2022-23,29,"M(CLR),FW",Brighton,16,16,1326,7,2,2,6.99,ENG Premier League
+9,Kenny Tete,2022-23,28,"D(CR),M(R)",Fulham,31,29,2575,1,5,0,6.98,ENG Premier League
+0,Thiago Silva,2022-23,39,D(C),Chelsea,27,26,2352,0,2,1,6.98,ENG Premier League
+1,Granit Xhaka,2022-23,31,"D(L),M(C)",Arsenal,37,36,3004,7,7,1,6.98,ENG Premier League
+2,Martin Dúbravka,2022-23,35,GK,Newcastle,2,1,156,0,0,0,6.98,ENG Premier League
+3,James Tarkowski,2022-23,31,D(C),Everton,38,38,3420,1,1,2,6.97,ENG Premier League
+4,Luis Díaz,2022-23,27,AM(L),Liverpool,17,11,997,4,2,2,6.97,ENG Premier League
+5,David Raya,2022-23,28,GK,Brentford,38,38,3420,0,0,3,6.97,ENG Premier League
+6,Lucas Paquetá,2022-23,27,"M(CLR),FW",West Ham,28,27,2171,4,3,4,6.97,ENG Premier League
+7,Virgil van Dijk,2022-23,33,D(C),Liverpool,32,32,2836,3,1,2,6.97,ENG Premier League
+8,Ollie Watkins,2022-23,28,"AM(LR),FW",Aston Villa,37,36,3136,15,6,3,6.96,ENG Premier League
+9,Diogo Dalot,2022-23,25,"D(LR),M(R)",Man Utd,26,24,2155,1,2,2,6.96,ENG Premier League
+0,Pedro Porro,2022-23,24,"D(R),M(R)",Tottenham,15,13,1138,3,3,1,6.96,ENG Premier League
+1,James Ward-Prowse,2022-23,29,M(CR),Southampton,38,38,3373,9,4,2,6.95,ENG Premier League
+2,Rúben Neves,2022-23,27,DMC,Wolves,35,33,3022,6,1,5,6.95,ENG Premier League
+3,Marcus Tavernier,2022-23,25,M(CLR),Bournemouth,23,19,1749,5,4,3,6.95,ENG Premier League
+4,Son Heung-Min,2022-23,32,"M(CLR),FW",Tottenham,36,33,2899,10,6,2,6.95,ENG Premier League
+5,N'Golo Kanté,2022-23,33,M(C),Chelsea,7,6,520,0,1,1,6.95,ENG Premier League
+6,Bernd Leno,2022-23,32,GK,Fulham,36,36,3240,0,0,3,6.94,ENG Premier League
+7,Douglas Luiz,2022-23,26,M(C),Aston Villa,37,33,2933,6,6,3,6.93,ENG Premier League
+8,João Palhinha,2022-23,29,DMC,Fulham,35,35,3113,3,0,2,6.93,ENG Premier League
+9,Aaron Wan-Bissaka,2022-23,26,"D(R),M(R)",Man Utd,19,16,1436,0,0,0,6.93,ENG Premier League
+0,Alisson Becker,2022-23,31,GK,Liverpool,37,37,3330,0,1,2,6.92,ENG Premier League
+1,Callum Wilson,2022-23,32,FW,Newcastle,31,21,1887,18,5,4,6.92,ENG Premier League
+2,Moisés Caicedo,2022-23,22,DMC,Brighton,37,34,3141,1,1,0,6.92,ENG Premier League
+3,Miguel Almirón,2022-23,30,"AM(CLR),FW",Newcastle,34,29,2508,11,2,2,6.91,ENG Premier League
+4,Benoît Badiashile,2022-23,23,D(C),Chelsea,11,10,904,1,0,0,6.91,ENG Premier League
+5,Wesley Fofana,2022-23,23,D(C),Leicester,2,2,180,0,0,0,6.90,ENG Premier League
+6,Christian Nørgaard,2022-23,30,"D(C),DMC",Brentford,22,21,1771,1,3,0,6.90,ENG Premier League
+7,Luke Shaw,2022-23,29,"D(CL),M(L)",Man Utd,31,30,2558,1,2,1,6.90,ENG Premier League
+8,Joe Willock,2022-23,25,M(C),Newcastle,35,31,2578,3,6,2,6.88,ENG Premier League
+9,Lewis Hall,2022-23,19,D(L),Chelsea,9,8,658,0,0,0,6.87,ENG Premier League
+0,Emiliano Martínez,2022-23,32,GK,Aston Villa,36,36,3141,0,0,3,6.87,ENG Premier League
+1,Gabriel Magalhães,2022-23,26,D(C),Arsenal,38,38,3411,3,0,2,6.86,ENG Premier League
+2,Oleksandr Zinchenko,2022-23,27,"D(L),M(CLR)",Arsenal,27,26,2135,1,2,1,6.86,ENG Premier League
+3,Jacob Ramsey,2022-23,23,AM(CLR),Aston Villa,35,31,2647,6,7,1,6.86,ENG Premier League
+4,Roberto Firmino,2022-23,32,"M(CLR),FW",Liverpool,25,13,1213,11,4,2,6.85,ENG Premier League
+5,Sèrge Aurier,2022-23,31,"D(CLR),M(R)",Nottingham Forest,24,22,1949,1,0,1,6.85,ENG Premier League
+6,Leandro Trossard,2022-23,29,"M(CLR),FW",Arsenal,20,10,930,1,10,2,6.84,ENG Premier League
+7,Lisandro Martínez,2022-23,26,"D(CL),DMC",Man Utd,27,24,2117,1,0,0,6.84,ENG Premier League
+8,Kalidou Koulibaly,2022-23,33,D(C),Chelsea,23,20,1801,2,1,0,6.83,ENG Premier League
+9,Morgan Gibbs-White,2022-23,24,"AM(CLR),FW",Nottingham Forest,35,34,2978,5,8,5,6.83,ENG Premier League
+0,Jadon Sancho,2022-23,24,AM(CLR),Man Utd,26,21,1699,6,3,0,6.82,ENG Premier League
+1,Çaglar Söyüncü,2022-23,28,D(C),Leicester,7,6,529,1,0,1,6.82,ENG Premier League
+2,Antony,2022-23,24,AM(R),Man Utd,25,23,1819,4,2,1,6.82,ENG Premier League
+3,Michael Keane,2022-23,31,D(CR),Everton,12,10,983,1,2,1,6.82,ENG Premier League
+4,Alex Iwobi,2022-23,28,M(CLR),Everton,38,38,3382,2,7,0,6.82,ENG Premier League
+5,Joachim Andersen,2022-23,28,D(C),Crystal Palace,32,32,2784,1,0,0,6.82,ENG Premier League
+6,Thiago Alcântara,2022-23,33,M(C),Liverpool,18,14,1256,0,0,1,6.82,ENG Premier League
+7,Wilfried Zaha,2022-23,31,"AM(LR),FW",Crystal Palace,27,27,2295,7,2,2,6.82,ENG Premier League
+8,Philip Billing,2022-23,28,"M(C),FW",Bournemouth,36,34,2787,7,1,3,6.82,ENG Premier League
+9,John McGinn,2022-23,29,M(CLR),Aston Villa,34,30,2698,1,3,2,6.81,ENG Premier League
+0,Mathias Jensen,2022-23,28,M(C),Brentford,37,37,2830,5,6,3,6.81,ENG Premier League
+1,Jarrod Bowen,2022-23,27,"AM(CLR),FW",West Ham,38,36,3237,6,5,3,6.81,ENG Premier League
+2,Kepa,2022-23,29,GK,Chelsea,29,29,2566,0,0,2,6.81,ENG Premier League
+3,Bernardo Silva,2022-23,30,"M(CLR),FW",Man City,34,24,2203,4,5,0,6.80,ENG Premier League
+4,Tomás Soucek,2022-23,29,DMC,West Ham,36,32,2820,2,3,1,6.80,ENG Premier League
+5,Allan Saint-Maximin,2022-23,27,"AM(CLR),FW",Newcastle,25,12,1119,1,5,2,6.80,ENG Premier League
+6,Noni Madueke,2022-23,22,"AM(R),FW",Chelsea,12,7,646,1,0,0,6.80,ENG Premier League
+7,Jordan Ayew,2022-23,32,"AM(CLR),FW",Crystal Palace,38,31,2721,4,3,1,6.80,ENG Premier League
+8,Enzo Fernández,2022-23,23,M(C),Chelsea,18,18,1551,0,2,0,6.80,ENG Premier League
+9,John Stones,2022-23,30,"D(CR),DMC",Man City,23,21,1849,2,2,0,6.80,ENG Premier League
+0,Youri Tielemans,2022-23,27,M(C),Leicester,31,27,2351,3,2,1,6.80,ENG Premier League
+1,Cristian Romero,2022-23,26,D(C),Tottenham,27,26,2365,0,1,1,6.80,ENG Premier League
+2,Rúben Dias,2022-23,27,D(C),Man City,26,22,1999,0,0,0,6.79,ENG Premier League
+3,Hamed Traorè,2022-23,24,AM(CLR),Bournemouth,7,5,429,0,0,0,6.79,ENG Premier League
+4,Darwin Núñez,2022-23,25,"AM(CL),FW",Liverpool,29,19,1701,9,3,2,6.79,ENG Premier League
+5,Pervis Estupiñán,2022-23,26,D(L),Brighton,35,31,2683,1,5,2,6.79,ENG Premier League
+6,Dominic Solanke,2022-23,26,FW,Bournemouth,33,32,2873,6,7,3,6.79,ENG Premier League
+7,Ibrahima Konaté,2022-23,25,D(C),Liverpool,18,17,1551,0,0,0,6.79,ENG Premier League
+8,Ben White,2022-23,26,"D(CR),DMC",Arsenal,38,36,3068,2,5,0,6.78,ENG Premier League
+9,Andy Robertson,2022-23,30,"D(L),M(L)",Liverpool,34,29,2588,0,8,0,6.78,ENG Premier League
+0,Mohammed Salisu,2022-23,25,D(CL),Southampton,22,21,1973,0,1,0,6.78,ENG Premier League
+1,William Saliba,2022-23,23,D(C),Arsenal,27,27,2416,2,1,1,6.77,ENG Premier League
+2,Emerson Royal,2022-23,25,"D(R),M(R)",Tottenham,26,20,1737,2,1,1,6.77,ENG Premier League
+3,Julio Enciso,2022-23,20,AM(C),Brighton,20,7,802,4,2,1,6.77,ENG Premier League
+4,Dan Burn,2022-23,32,"D(CL),M(L)",Newcastle,38,35,3117,1,0,1,6.77,ENG Premier League
+5,Dejan Kulusevski,2022-23,24,"AM(CR),FW",Tottenham,30,23,2079,2,7,1,6.77,ENG Premier League
+6,Neto,2022-23,35,GK,Bournemouth,27,27,2386,0,0,2,6.76,ENG Premier League
+7,Vicente Guaita,2022-23,37,GK,Crystal Palace,27,27,2430,0,0,2,6.76,ENG Premier League
+8,Danny Welbeck,2022-23,33,"AM(CLR),FW",Brighton,31,21,1859,6,3,2,6.76,ENG Premier League
+9,Nathan Aké,2022-23,29,"D(CL),DMC",Man City,26,22,1876,1,0,0,6.75,ENG Premier League
+0,Kai Havertz,2022-23,25,"M(CR),FW",Chelsea,35,30,2580,7,1,2,6.75,ENG Premier League
+1,Tyrone Mings,2022-23,31,D(CL),Aston Villa,35,35,3150,1,2,1,6.75,ENG Premier League
+2,Sven Botman,2022-23,24,D(C),Newcastle,36,35,3129,0,0,0,6.74,ENG Premier League
+3,Antonee Robinson,2022-23,27,"D(L),M(L)",Fulham,35,35,3089,0,1,0,6.74,ENG Premier League
+4,Ivan Perisic,2022-23,35,"M(CLR),FW",Tottenham,34,23,2112,1,8,1,6.74,ENG Premier League
+5,Dango Ouattara,2022-23,22,AM(LR),Bournemouth,19,15,1246,1,3,1,6.74,ENG Premier League
+6,James Justin,2022-23,26,"D(CLR),M(LR)",Leicester,14,14,1254,0,0,0,6.74,ENG Premier League
+7,Raheem Sterling,2022-23,29,"M(CLR),FW",Chelsea,28,23,1905,6,3,2,6.74,ENG Premier League
+8,Diogo Jota,2022-23,27,"AM(CLR),FW",Liverpool,22,12,1133,7,4,1,6.74,ENG Premier League
+9,Jason Steele,2022-23,34,GK,Brighton,15,15,1350,0,1,0,6.73,ENG Premier League
+0,Sam Johnstone,2022-23,31,GK,Crystal Palace,9,9,810,0,0,1,6.73,ENG Premier League
+1,Tyler Adams,2022-23,25,"D(R),M(CR)",Leeds,24,24,2157,0,0,0,6.73,ENG Premier League
+2,Andreas Pereira,2022-23,28,M(CLR),Fulham,33,33,2718,4,6,3,6.73,ENG Premier League
+3,Jack Harrison,2022-23,27,"AM(CLR),FW",Leeds,36,34,2729,5,7,4,6.72,ENG Premier League
+4,Cheick Doucouré,2022-23,24,DMC,Crystal Palace,34,34,2786,0,3,0,6.72,ENG Premier League
+5,Tosin Adarabioyo,2022-23,26,D(CR),Fulham,25,23,2084,1,0,0,6.72,ENG Premier League
+6,Armel Bella-Kotchap,2022-23,22,D(C),Southampton,24,24,1885,0,2,0,6.71,ENG Premier League
+7,Álex Moreno,2022-23,31,"D(L),M(L)",Aston Villa,19,14,1336,0,3,0,6.71,ENG Premier League
+8,Shea Charles,2022-23,20,M(C),Man City,1,0,27,0,0,0,6.71,ENG Premier League
+9,Fabinho,2022-23,30,"D(CR),DMC",Liverpool,36,31,2678,0,2,0,6.71,ENG Premier League
+0,Timothy Castagne,2022-23,28,"D(CLR),M(LR)",Leicester,37,36,3257,2,3,0,6.71,ENG Premier League
+1,Danilo,2022-23,23,M(C),Nottingham Forest,13,12,983,3,2,1,6.71,ENG Premier League
+2,Matt Doherty,2022-23,32,"D(LR),M(LR)",Tottenham,12,7,667,1,0,0,6.71,ENG Premier League
+3,Amadou Onana,2022-23,23,DMC,Everton,33,29,2496,1,2,0,6.71,ENG Premier League
+4,Victor Lindelöf,2022-23,30,D(CR),Man Utd,20,14,1361,0,0,0,6.70,ENG Premier League
+5,Julián Álvarez,2022-23,24,"AM(CR),FW",Man City,31,13,1454,9,0,2,6.70,ENG Premier League
+6,Nick Pope,2022-23,32,GK,Newcastle,37,37,3262,0,0,2,6.70,ENG Premier League
+7,Kiernan Dewsbury-Hall,2022-23,26,M(C),Leicester,31,28,2316,2,2,1,6.70,ENG Premier League
+8,Saïd Benrahma,2022-23,29,AM(CLR),West Ham,35,22,2073,6,3,1,6.70,ENG Premier League
+9,Emiliano Buendía,2022-23,27,"M(CLR),FW",Aston Villa,38,27,2423,5,2,2,6.70,ENG Premier League
+0,Mason Mount,2022-23,25,M(CLR),Chelsea,24,20,1658,3,2,2,6.70,ENG Premier League
+1,Christian Eriksen,2022-23,32,"M(CLR),FW",Man Utd,28,25,2062,1,8,1,6.70,ENG Premier League
+2,Aymeric Laporte,2022-23,30,D(CL),Man City,12,11,994,0,0,0,6.69,ENG Premier League
+3,Jordan Pickford,2022-23,30,GK,Everton,37,37,3330,0,1,2,6.69,ENG Premier League
+4,Joe Gomez,2022-23,27,D(CLR),Liverpool,21,15,1461,0,0,0,6.69,ENG Premier League
+5,Kurt Zouma,2022-23,29,D(CR),West Ham,25,24,1991,2,0,2,6.68,ENG Premier League
+6,Marc Guéhi,2022-23,24,D(C),Crystal Palace,37,37,3330,1,0,0,6.68,ENG Premier League
+7,Rodrigo,2022-23,33,"M(CLR),FW",Leeds,31,23,1945,13,1,1,6.68,ENG Premier League
+8,Reiss Nelson,2022-23,24,M(LR),Arsenal,11,0,204,3,2,1,6.68,ENG Premier League
+9,Tim Ream,2022-23,36,"D(CL),DMC",Fulham,33,33,2899,1,0,1,6.68,ENG Premier League
+0,Lukasz Fabianski,2022-23,39,GK,West Ham,36,36,3114,0,0,0,6.68,ENG Premier League
+1,Nayef Aguerd,2022-23,28,D(C),West Ham,18,17,1596,2,0,0,6.67,ENG Premier League
+2,Curtis Jones,2022-23,23,AM(CL),Liverpool,18,12,1040,3,1,1,6.67,ENG Premier League
+3,Evan Ferguson,2022-23,19,FW,Brighton,19,10,952,6,2,0,6.67,ENG Premier League
+4,Jefferson Lerma,2022-23,29,"D(R),DMC",Bournemouth,37,37,3256,5,0,1,6.67,ENG Premier League
+5,David de Gea,2022-23,33,GK,Man Utd,38,38,3420,0,0,1,6.67,ENG Premier League
+6,Jan Bednarek,2022-23,28,D(C),Southampton,20,20,1674,0,0,0,6.67,ENG Premier League
+7,Pascal Struijk,2022-23,25,"D(CL),DMC",Leeds,29,26,2205,2,1,0,6.66,ENG Premier League
+8,Eric Dier,2022-23,30,"D(CR),DMC",Tottenham,33,31,2817,2,1,1,6.66,ENG Premier League
+9,Jeffrey Schlupp,2022-23,31,"D(L),M(CLR)",Crystal Palace,34,30,2546,3,1,1,6.66,ENG Premier League
+0,Harvey Barnes,2022-23,26,AM(CL),Leicester,34,32,2720,13,1,0,6.66,ENG Premier League
+1,Wout Faes,2022-23,26,D(C),Leicester,31,31,2787,1,2,0,6.66,ENG Premier League
+2,Idrissa Gueye,2022-23,34,M(C),Everton,33,32,2594,0,1,0,6.66,ENG Premier League
+3,Marc Cucurella,2022-23,26,"D(CL),M(L)",Chelsea,24,21,1679,0,2,0,6.65,ENG Premier League
+4,Jorginho,2022-23,32,DMC,Chelsea,18,15,1282,2,0,0,6.65,ENG Premier League
+5,Joel Ward,2022-23,34,"D(CLR),DMC,M(R)",Crystal Palace,28,24,2256,1,0,0,6.65,ENG Premier League
+6,Wesley Fofana,2022-23,23,D(C),Chelsea,15,12,1187,1,0,2,6.65,ENG Premier League
+7,Issa Diop,2022-23,27,D(C),Fulham,25,21,2009,1,0,0,6.65,ENG Premier League
+8,Raphaël Varane,2022-23,31,D(C),Man Utd,24,22,1917,0,0,0,6.64,ENG Premier League
+9,Rico Henry,2022-23,27,"D(L),M(L)",Brentford,37,37,3244,0,2,0,6.64,ENG Premier League
+0,Marcel Sabitzer,2022-23,30,"M(CLR),FW",Man Utd,11,7,628,0,1,0,6.64,ENG Premier League
+1,Sean Longstaff,2022-23,26,DMC,Newcastle,33,28,2517,1,4,0,6.64,ENG Premier League
+2,Tyrell Malacia,2022-23,25,D(L),Man Utd,22,14,1395,0,0,0,6.64,ENG Premier League
+3,Vladimír Coufal,2022-23,32,"D(R),M(R)",West Ham,27,24,2139,0,1,0,6.64,ENG Premier League
+4,Harry Souttar,2022-23,25,D(C),Leicester,12,11,991,0,1,0,6.64,ENG Premier League
+5,Maximilian Wöber,2022-23,26,D(CL),Leeds,16,14,1264,0,0,0,6.63,ENG Premier League
+6,Vitaly Janelt,2022-23,26,DMC,Brentford,35,24,2212,3,1,2,6.63,ENG Premier League
+7,Ben Davies,2022-23,31,"D(CL),M(L)",Tottenham,31,26,2290,2,2,0,6.63,ENG Premier League
+8,Maximilian Kilman,2022-23,27,D(C),Wolves,37,37,3308,0,0,1,6.63,ENG Premier League
+9,Matheus Cunha,2022-23,25,"AM(CL),FW",Wolves,17,12,972,2,0,1,6.63,ENG Premier League
+0,Aaron Ramsdale,2022-23,26,GK,Arsenal,38,38,3420,0,0,1,6.63,ENG Premier League
+1,Duje Caleta-Car,2022-23,27,D(C),Southampton,13,9,945,1,0,0,6.63,ENG Premier League
+2,João Félix,2022-23,24,"AM(CL),FW",Chelsea,16,11,944,4,0,1,6.63,ENG Premier League
+3,Rasmus Kristensen,2022-23,27,"D(CR),M(R)",Leeds,26,21,1962,3,1,0,6.63,ENG Premier League
+4,Dominic Calvert-Lewin,2022-23,27,"AM(L),FW",Everton,17,15,1176,2,1,0,6.62,ENG Premier League
+5,Kamaldeen Sulemana,2022-23,22,"AM(L),FW",Southampton,18,10,968,2,1,1,6.62,ENG Premier League
+6,Lewis Dunk,2022-23,32,D(C),Brighton,36,36,3240,1,0,0,6.62,ENG Premier League
+7,Toti Gomes,2022-23,25,D(CL),Wolves,17,10,981,1,0,1,6.62,ENG Premier League
+8,Manuel Akanji,2022-23,29,D(CLR),Man City,29,24,2287,0,1,0,6.62,ENG Premier League
+9,Liam Cooper,2022-23,33,D(C),Leeds,18,16,1427,1,0,0,6.62,ENG Premier League
+0,Craig Dawson,2022-23,34,D(CR),Wolves,17,17,1417,1,0,0,6.62,ENG Premier League
+1,Ben Chilwell,2022-23,27,"D(L),M(L)",Chelsea,23,15,1408,2,2,0,6.62,ENG Premier League
+2,Anthony Gordon,2022-23,23,AM(CLR),Everton,16,12,1097,3,0,2,6.61,ENG Premier League
+3,Robin Olsen,2022-23,34,GK,Aston Villa,4,2,280,0,0,0,6.61,ENG Premier League
+4,Willy-Arnaud Boly,2022-23,33,D(C),Nottingham Forest,11,9,687,0,1,1,6.61,ENG Premier League
+5,Demarai Gray,2022-23,28,"AM(CLR),FW",Everton,33,27,2512,4,1,1,6.61,ENG Premier League
+6,Aaron Cresswell,2022-23,34,"D(CL),M(L)",West Ham,28,24,2237,0,1,0,6.61,ENG Premier League
+7,Leon Bailey,2022-23,27,"M(CLR),FW",Aston Villa,33,26,1984,4,4,3,6.61,ENG Premier League
+8,Jorginho,2022-23,32,DMC,Arsenal,14,9,855,0,1,0,6.60,ENG Premier League
+9,Matheus Nunes,2022-23,26,M(CLR),Wolves,35,31,2480,1,1,2,6.60,ENG Premier League
+0,Jakub Kiwior,2022-23,24,"D(C),DMC",Arsenal,7,5,427,1,0,0,6.60,ENG Premier League
+1,Neco Williams,2022-23,23,"D(LR),M(LR)",Nottingham Forest,31,20,1877,1,0,1,6.60,ENG Premier League
+2,Lloyd Kelly,2022-23,25,D(CL),Bournemouth,23,23,2041,0,2,2,6.59,ENG Premier League
+3,Joël Veltman,2022-23,32,"D(CR),M(R)",Brighton,31,25,2196,1,1,0,6.59,ENG Premier League
+4,Boubacar Kamara,2022-23,24,"D(CL),DMC",Aston Villa,24,21,1779,0,1,0,6.59,ENG Premier League
+5,Ché Adams,2022-23,28,"AM(CL),FW",Southampton,28,23,1998,5,3,1,6.59,ENG Premier League
+6,Anthony Martial,2022-23,28,"AM(LR),FW",Man Utd,21,11,980,6,2,0,6.59,ENG Premier League
+7,Hugo Lloris,2022-23,37,GK,Tottenham,25,25,2206,0,0,0,6.59,ENG Premier League
+8,Harry Maguire,2022-23,31,D(C),Man Utd,16,8,762,0,0,0,6.59,ENG Premier League
+9,Vitalii Mykolenko,2022-23,25,"D(CL),M(L)",Everton,34,30,2657,0,0,0,6.58,ENG Premier League
+0,Pontus Jansson,2022-23,33,D(C),Brentford,12,9,725,1,0,0,6.58,ENG Premier League
+1,Chris Mepham,2022-23,26,D(C),Bournemouth,26,24,2198,0,0,0,6.58,ENG Premier League
+2,Caoimhín Kelleher,2022-23,25,GK,Liverpool,1,1,90,0,0,0,6.58,ENG Premier League
+3,Ashley Young,2022-23,39,"D(LR),M(LR)",Aston Villa,29,23,2039,1,0,0,6.58,ENG Premier League
+4,Luis Sinisterra,2022-23,25,"AM(LR),FW",Leeds,19,13,875,5,0,1,6.58,ENG Premier League
+5,Joe Worrall,2022-23,27,D(C),Nottingham Forest,30,21,2217,1,0,0,6.58,ENG Premier League
+6,Keylor Navas,2022-23,37,GK,Nottingham Forest,17,17,1530,0,0,2,6.58,ENG Premier League
+7,Kyle Walker-Peters,2022-23,27,"D(LR),M(R)",Southampton,31,30,2653,1,0,1,6.58,ENG Premier League
+8,Ezri Konsa,2022-23,26,D(CR),Aston Villa,38,37,3323,0,0,0,6.57,ENG Premier League
+9,Dean Henderson,2022-23,27,GK,Nottingham Forest,18,18,1620,0,0,2,6.57,ENG Premier League
+0,Jordan Henderson,2022-23,34,"D(C),M(CLR)",Liverpool,35,23,2075,0,2,0,6.57,ENG Premier League
+1,Ryan Christie,2022-23,29,"M(CLR),FW",Bournemouth,32,22,1842,1,1,0,6.57,ENG Premier League
+2,Rico Lewis,2022-23,19,"D(R),DMC",Man City,14,10,905,0,0,0,6.56,ENG Premier League
+3,Matty Cash,2022-23,27,"D(R),M(CLR)",Aston Villa,26,20,1821,0,1,1,6.56,ENG Premier League
+4,Roméo Lavia,2022-23,20,DMC,Southampton,29,26,2230,1,0,0,6.56,ENG Premier League
+5,Ruben Loftus-Cheek,2022-23,28,M(CLR),Chelsea,25,19,1543,0,1,0,6.56,ENG Premier League
+6,Séamus Coleman,2022-23,35,"D(CR),M(R)",Everton,23,20,1667,1,0,1,6.56,ENG Premier League
+7,Danny Ings,2022-23,32,"AM(C),FW",Aston Villa,18,8,819,6,0,1,6.56,ENG Premier League
+8,João Gomes,2022-23,23,DMC,Wolves,11,7,651,1,0,0,6.56,ENG Premier League
+9,Luke Ayling,2022-23,33,"D(CR),M(R)",Leeds,29,22,2049,2,1,0,6.55,ENG Premier League
+0,Scott McTominay,2022-23,27,"D(C),DMC",Man Utd,24,10,1151,1,0,1,6.55,ENG Premier League
+1,Leander Dendoncker,2022-23,29,"D(C),M(C)",Wolves,4,2,213,0,0,0,6.55,ENG Premier League
+2,Joe Aribo,2022-23,28,"M(CLR),FW",Southampton,21,13,1229,2,0,0,6.55,ENG Premier League
+3,Ayoze Pérez,2022-23,31,"AM(CLR),FW",Leicester,8,3,380,0,1,0,6.55,ENG Premier League
+4,Clément Lenglet,2022-23,29,D(C),Tottenham,26,24,2027,0,2,0,6.55,ENG Premier League
+5,Levi Colwill,2022-23,21,D(C),Brighton,17,13,1221,0,2,0,6.54,ENG Premier League
+6,Renan Lodi,2022-23,26,"D(L),M(L)",Nottingham Forest,28,26,2222,0,1,0,6.54,ENG Premier League
+7,Conor Gallagher,2022-23,24,AM(C),Chelsea,35,18,1616,3,1,2,6.54,ENG Premier League
+8,Stefan Bajcetic,2022-23,19,M(C),Liverpool,11,6,527,1,0,0,6.54,ENG Premier League
+9,Kyle Walker,2022-23,34,"D(CR),M(R)",Man City,27,22,1957,0,0,0,6.54,ENG Premier League
+0,Daniel Amartey,2022-23,29,"D(CR),DMC",Leicester,20,18,1610,0,0,1,6.53,ENG Premier League
+1,Tyrick Mitchell,2022-23,25,D(L),Crystal Palace,36,34,2896,0,2,0,6.53,ENG Premier League
+2,Angelo Ogbonna,2022-23,36,D(C),West Ham,16,13,1236,0,0,0,6.53,ENG Premier League
+3,Samuel Amo-Ameyaw,2022-23,18,FW,Southampton,1,0,3,0,0,0,6.53,ENG Premier League
+4,José Sá,2022-23,31,GK,Wolves,36,36,3240,0,0,2,6.53,ENG Premier League
+5,Harvey Elliott,2022-23,21,AM(CR),Liverpool,32,18,1615,1,2,0,6.53,ENG Premier League
+6,Marcos Senesi,2022-23,27,D(C),Bournemouth,31,29,2496,2,0,1,6.52,ENG Premier League
+7,Morgan Gibbs-White,2022-23,24,"AM(CLR),FW",Wolves,2,2,180,0,0,0,6.52,ENG Premier League
+8,Adam Webster,2022-23,29,D(C),Brighton,27,23,1989,0,0,0,6.52,ENG Premier League
+9,Manor Solomon,2022-23,25,AM(CL),Fulham,19,4,563,4,0,0,6.52,ENG Premier League
+0,Robin Koch,2022-23,28,"D(C),DMC",Leeds,36,36,3178,0,0,0,6.52,ENG Premier League
+1,César Azpilicueta,2022-23,35,"D(CLR),M(R)",Chelsea,25,16,1526,0,0,0,6.52,ENG Premier League
+2,Rayan Aït-Nouri,2022-23,23,"D(L),M(L)",Wolves,21,9,1070,1,0,0,6.51,ENG Premier League
+3,Matías Viña,2022-23,26,"D(L),M(L)",Bournemouth,12,5,455,2,0,0,6.51,ENG Premier League
+4,Yoane Wissa,2022-23,28,"AM(L),FW",Brentford,38,16,1601,7,3,0,6.51,ENG Premier League
+5,Nathan Patterson,2022-23,22,"D(R),M(R)",Everton,19,14,1274,0,0,0,6.51,ENG Premier League
+6,Victor Kristiansen,2022-23,21,D(L),Leicester,12,11,895,0,1,0,6.51,ENG Premier League
+7,Jack Stephens,2022-23,30,D(CR),Bournemouth,15,13,1172,0,0,0,6.51,ENG Premier League
+8,Cody Drameh,2022-23,22,"D(R),M(R)",Leeds,1,1,70,0,0,0,6.51,ENG Premier League
+9,Daniel Podence,2022-23,28,"AM(CLR),FW",Wolves,32,20,1773,6,0,2,6.50,ENG Premier League
+0,João Moutinho,2022-23,37,M(C),Wolves,31,20,1787,0,2,0,6.50,ENG Premier League
+1,Gianluca Scamacca,2022-23,25,FW,West Ham,16,11,929,3,0,0,6.50,ENG Premier League
+2,Joël Matip,2022-23,33,D(C),Liverpool,14,12,1093,1,0,1,6.50,ENG Premier League
+3,Thilo Kehrer,2022-23,27,"D(CLR),M(R)",West Ham,27,25,2231,0,2,0,6.50,ENG Premier League
+4,Marc Roca,2022-23,27,DMC,Leeds,32,29,2330,1,2,0,6.50,ENG Premier League
+5,Nélson Semedo,2022-23,30,"D(LR),M(R)",Wolves,36,31,2641,0,1,0,6.50,ENG Premier League
+6,Harrison Reed,2022-23,29,"D(R),M(CR)",Fulham,37,35,2882,3,4,0,6.50,ENG Premier League
+7,Ainsley Maitland-Niles,2022-23,27,"D(LR),M(CLR)",Southampton,22,13,1405,0,0,0,6.50,ENG Premier League
+8,Carlos Alcaraz,2022-23,21,"M(C),FW",Southampton,18,13,1035,4,2,2,6.49,ENG Premier League
+9,Wilfred Ndidi,2022-23,27,"D(C),DMC",Leicester,27,19,1683,0,0,0,6.49,ENG Premier League
+0,Taiwo Awoniyi,2022-23,27,FW,Nottingham Forest,27,17,1412,10,1,1,6.49,ENG Premier League
+1,Boubakary Soumaré,2022-23,25,DMC,Leicester,26,20,1635,0,0,0,6.49,ENG Premier League
+2,Matthew Craig,2022-23,21,M(CLR),Tottenham,1,0,13,0,0,0,6.49,ENG Premier League
+3,Brennan Johnson,2022-23,23,"AM(CLR),FW",Nottingham Forest,38,33,2941,8,3,2,6.49,ENG Premier League
+4,Jonny Evans,2022-23,36,D(CL),Leicester,13,12,1053,0,0,1,6.49,ENG Premier League
+5,David Datro Fofana,2022-23,21,FW,Chelsea,3,1,70,0,0,0,6.49,ENG Premier League
+6,Michail Antonio,2022-23,34,"D(R),M(CLR),FW",West Ham,33,21,1837,5,3,0,6.49,ENG Premier League
+7,Nathan Collins,2022-23,23,D(CR),Wolves,26,19,1813,0,0,0,6.48,ENG Premier League
+8,Tetê,2022-23,24,AM(R),Leicester,13,9,740,1,0,1,6.48,ENG Premier League
+9,Mohamed Elyounoussi,2022-23,30,"AM(CLR),FW",Southampton,33,27,2180,1,1,0,6.48,ENG Premier League
+0,Adama Traoré,2022-23,28,"M(CLR),FW",Wolves,34,12,1492,2,1,0,6.48,ENG Premier League
+1,Fred,2022-23,31,M(C),Man Utd,35,12,1235,2,2,0,6.48,ENG Premier League
+2,Moussa Niakhaté,2022-23,28,D(CL),Nottingham Forest,14,14,1162,0,0,0,6.48,ENG Premier League
+3,Abdoulaye Doucouré,2022-23,31,M(C),Everton,25,17,1529,5,2,0,6.48,ENG Premier League
+4,Kostas Tsimikas,2022-23,28,D(L),Liverpool,20,9,769,0,4,0,6.48,ENG Premier League
+5,Mateo Kovacic,2022-23,30,M(CL),Chelsea,27,17,1708,1,2,0,6.48,ENG Premier League
+6,Wilfried Gnonto,2022-23,20,AM(L),Leeds,24,14,1353,2,4,1,6.48,ENG Premier League
+7,Orel Mangala,2022-23,26,M(C),Nottingham Forest,27,20,1558,1,1,0,6.48,ENG Premier League
+8,Fraser Forster,2022-23,36,GK,Tottenham,14,13,1215,0,0,0,6.47,ENG Premier League
+9,Lyanco,2022-23,27,D(CR),Southampton,21,11,1175,1,1,0,6.47,ENG Premier League
+0,Davinson Sánchez,2022-23,28,D(C),Tottenham,18,8,852,0,0,0,6.47,ENG Premier League
+1,Kelechi Iheanacho,2022-23,27,"AM(C),FW",Leicester,28,11,1122,5,5,1,6.47,ENG Premier League
+2,Trevoh Chalobah,2022-23,25,"D(CR),DMC",Chelsea,25,18,1604,0,0,0,6.47,ENG Premier League
+3,Jordan Zemura,2022-23,24,D(L),Bournemouth,19,17,1457,0,1,0,6.46,ENG Premier League
+4,Diego Llorente,2022-23,31,"D(C),DMC",Leeds,8,7,648,0,0,0,6.46,ENG Premier League
+5,Romain Perraud,2022-23,26,"D(L),M(L)",Southampton,29,22,1839,2,2,1,6.46,ENG Premier League
+6,Danny Ward,2022-23,31,GK,Leicester,26,26,2340,0,0,1,6.46,ENG Premier League
+7,Richarlison,2022-23,27,"AM(CLR),FW",Tottenham,27,12,1008,1,3,1,6.46,ENG Premier League
+8,Bobby De Cordova-Reid,2022-23,31,"D(R),M(CLR),FW",Fulham,36,29,2487,4,1,0,6.46,ENG Premier League
+9,Crysencio Summerville,2022-23,22,AM(LR),Leeds,28,12,1418,4,2,0,6.46,ENG Premier League
+0,Ryan Yates,2022-23,26,DMC,Nottingham Forest,26,21,1840,0,2,0,6.46,ENG Premier League
+1,Jonny Otto,2022-23,30,"D(CLR),M(LR)",Wolves,18,14,1263,1,0,0,6.46,ENG Premier League
+2,Moussa Djenepo,2022-23,26,M(LR),Southampton,16,7,706,0,2,0,6.46,ENG Premier League
+3,Marc Albrighton,2022-23,34,"D(R),M(LR)",Leicester,6,1,233,1,0,0,6.46,ENG Premier League
+4,Mario Lemina,2022-23,31,DMC,Wolves,19,17,1306,0,1,0,6.45,ENG Premier League
+5,Adam Lallana,2022-23,36,M(CLR),Brighton,16,12,730,2,1,0,6.45,ENG Premier League
+6,Aaron Hickey,2022-23,22,"D(LR),M(LR)",Brentford,26,23,1931,0,1,0,6.45,ENG Premier League
+7,Patson Daka,2022-23,25,FW,Leicester,30,13,1181,4,4,0,6.45,ENG Premier League
+8,Hakim Ziyech,2022-23,31,M(CLR),Chelsea,18,6,653,0,3,1,6.45,ENG Premier League
+9,Kevin Schade,2022-23,22,AM(LR),Brentford,18,7,728,0,1,0,6.45,ENG Premier League
+0,Conor Coady,2022-23,31,"D(CR),DMC",Everton,24,23,2096,1,1,0,6.45,ENG Premier League
+1,Tino Livramento,2022-23,21,D(R),Southampton,2,0,26,0,0,0,6.45,ENG Premier League
+2,Josh Dasilva,2022-23,25,M(C),Brentford,36,14,1384,4,2,1,6.44,ENG Premier League
+3,Joe Rothwell,2022-23,29,M(CL),Bournemouth,20,12,1019,0,1,0,6.44,ENG Premier League
+4,Daniel James,2022-23,26,"AM(CLR),FW",Leeds,4,2,199,0,0,0,6.44,ENG Premier League
+5,Ederson,2022-23,31,GK,Man City,35,35,3150,0,1,0,6.44,ENG Premier League
+6,Eddie Nketiah,2022-23,25,FW,Arsenal,30,9,1073,4,1,1,6.44,ENG Premier League
+7,Paul Onuachu,2022-23,30,FW,Southampton,11,4,405,0,0,0,6.44,ENG Premier League
+8,Gavin Bazunu,2022-23,22,GK,Southampton,32,32,2880,0,0,1,6.44,ENG Premier League
+9,Harry Wilson,2022-23,27,AM(CLR),Fulham,29,13,1099,2,3,1,6.43,ENG Premier League
+0,Jacob Murphy,2022-23,29,"D(R),M(LR)",Newcastle,36,14,1246,4,2,0,6.43,ENG Premier League
+1,Mads Roerslev,2022-23,25,"D(R),M(R)",Brentford,20,12,1103,0,0,0,6.43,ENG Premier League
+2,James Garner,2022-23,23,M(CR),Everton,16,7,798,0,1,0,6.43,ENG Premier League
+3,Hugo Bueno,2022-23,21,D(L),Wolves,21,16,1316,0,1,0,6.43,ENG Premier League
+4,Odsonne Édouard,2022-23,26,"AM(L),FW",Crystal Palace,35,20,1806,5,2,0,6.43,ENG Premier League
+5,Luke Thomas,2022-23,23,"D(L),M(L)",Leicester,17,11,1072,0,0,0,6.43,ENG Premier League
+6,Bryan Gil,2022-23,23,AM(CLR),Tottenham,4,2,148,0,1,0,6.43,ENG Premier League
+7,Wayne Hennessey,2022-23,37,GK,Nottingham Forest,4,3,271,0,0,0,6.43,ENG Premier League
+8,Albert Sambi Lokonga,2022-23,24,DMC,Crystal Palace,9,6,536,0,0,0,6.42,ENG Premier League
+9,Emmanuel Dennis,2022-23,26,"M(LR),FW",Nottingham Forest,19,6,715,2,2,0,6.42,ENG Premier League
+0,Illan Meslier,2022-23,24,GK,Leeds,34,34,3060,0,0,3,6.42,ENG Premier League
+1,Robert Sánchez,2022-23,26,GK,Brighton,23,23,2070,0,0,0,6.42,ENG Premier League
+2,Craig Dawson,2022-23,34,D(CR),West Ham,8,8,720,0,0,0,6.42,ENG Premier League
+3,Weston McKennie,2022-23,26,"D(C),M(CLR)",Leeds,19,16,1440,0,1,0,6.42,ENG Premier League
+4,Joel Robles,2022-23,34,GK,Leeds,4,4,360,0,0,0,6.42,ENG Premier League
+5,Oliver Skipp,2022-23,23,DMC,Tottenham,23,18,1499,1,0,1,6.42,ENG Premier League
+6,Emerson,2022-23,30,"D(L),M(L)",West Ham,22,16,1323,1,0,0,6.42,ENG Premier League
+7,Junior Firpo,2022-23,28,"D(L),M(L)",Leeds,19,14,1368,1,1,1,6.42,ENG Premier League
+8,Brenden Aaronson,2022-23,23,AM(CLR),Leeds,36,28,2384,1,3,0,6.41,ENG Premier League
+9,Enock Mwepu,2022-23,26,M(CR),Brighton,6,2,211,0,1,0,6.41,ENG Premier League
+0,Lucas Digne,2022-23,31,"D(CL),M(L)",Aston Villa,28,18,1501,1,0,0,6.41,ENG Premier League
+1,Lewis Cook,2022-23,27,M(CL),Bournemouth,28,18,1715,0,2,0,6.41,ENG Premier League
+2,Chris Richards,2022-23,24,D(C),Crystal Palace,9,4,444,0,0,0,6.40,ENG Premier League
+3,Pablo Fornals,2022-23,28,M(CLR),West Ham,32,17,1506,3,1,2,6.40,ENG Premier League
+4,Ryan Sessegnon,2022-23,24,"D(L),M(LR)",Tottenham,17,9,811,2,0,0,6.40,ENG Premier League
+5,Juan Larios,2022-23,20,D(CLR),Southampton,5,2,152,0,0,0,6.40,ENG Premier League
+6,Nathaniel Phillips,2022-23,27,D(C),Liverpool,2,1,66,0,0,0,6.40,ENG Premier League
+7,Cristiano Ronaldo,2022-23,39,"M(L),FW",Man Utd,10,4,520,1,0,1,6.39,ENG Premier League
+8,Frank Onyeka,2022-23,26,DMC,Brentford,21,8,845,0,2,0,6.39,ENG Premier League
+9,Neeskens Kebano,2022-23,32,AM(CLR),Fulham,17,9,766,0,3,0,6.39,ENG Premier League
+0,Scott McKenna,2022-23,27,D(C),Nottingham Forest,20,19,1574,0,0,0,6.39,ENG Premier League
+1,Ben Johnson,2022-23,24,"D(CLR),M(LR)",West Ham,17,9,863,0,0,0,6.39,ENG Premier League
+2,Matt Targett,2022-23,28,"D(L),M(L)",Newcastle,17,6,603,0,0,0,6.39,ENG Premier League
+3,Cheikhou Kouyaté,2022-23,34,"D(CR),DMC",Nottingham Forest,21,10,880,1,0,0,6.38,ENG Premier League
+4,James Bree,2022-23,26,"D(CLR),M(R)",Southampton,5,4,368,0,0,0,6.38,ENG Premier League
+5,Gonçalo Guedes,2022-23,27,"AM(CLR),FW",Wolves,13,8,710,1,1,0,6.38,ENG Premier League
+6,Pedro Neto,2022-23,24,"AM(CLR),FW",Wolves,19,14,972,0,0,0,6.38,ENG Premier League
+7,Pablo Sarabia,2022-23,32,"D(L),M(CLR),FW",Wolves,13,9,772,1,0,1,6.38,ENG Premier League
+8,Theo Walcott,2022-23,35,"M(CLR),FW",Southampton,20,13,1134,2,2,0,6.38,ENG Premier League
+9,Wout Weghorst,2022-23,32,FW,Man Utd,17,10,797,0,1,0,6.38,ENG Premier League
+0,Ricardo Pereira,2022-23,30,"D(LR),M(R)",Leicester,10,5,453,1,1,0,6.38,ENG Premier League
+1,Kristoffer Ajer,2022-23,26,"D(CR),DMC",Brentford,9,9,766,0,0,0,6.37,ENG Premier League
+2,Remo Freuler,2022-23,32,DMC,Nottingham Forest,28,24,2167,0,0,0,6.37,ENG Premier League
+3,Philippe Coutinho,2022-23,32,M(CLR),Aston Villa,20,7,783,1,0,0,6.37,ENG Premier League
+4,Fábio Carvalho,2022-23,22,AM(CL),Liverpool,13,4,343,2,0,0,6.37,ENG Premier League
+5,Denis Zakaria,2022-23,27,"D(C),DMC",Chelsea,7,5,413,0,0,0,6.37,ENG Premier League
+6,Ludwig Augustinsson,2022-23,30,"D(L),M(L)",Aston Villa,3,1,80,0,0,0,6.37,ENG Premier League
+7,Steve Cook,2022-23,33,D(C),Nottingham Forest,12,11,959,0,0,0,6.37,ENG Premier League
+8,Bertrand Traoré,2022-23,29,"AM(R),FW",Aston Villa,8,1,227,2,0,0,6.36,ENG Premier League
+9,Zanka,2022-23,34,D(C),Brentford,18,11,1098,0,0,0,6.36,ENG Premier League
+0,Patrick Bamford,2022-23,31,"AM(CLR),FW",Leeds,28,18,1523,4,2,0,6.36,ENG Premier League
+1,Édouard Mendy,2022-23,32,GK,Chelsea,10,9,855,0,0,0,6.36,ENG Premier League
+2,Alejandro Garnacho,2022-23,20,AM(L),Man Utd,19,5,563,3,2,0,6.35,ENG Premier League
+3,Jeremy Sarmiento,2022-23,22,FW,Brighton,9,1,169,0,1,0,6.35,ENG Premier League
+4,Kieffer Moore,2022-23,32,FW,Bournemouth,27,12,1278,4,0,1,6.35,ENG Premier League
+5,Raúl Jiménez,2022-23,33,FW,Wolves,15,8,843,0,1,0,6.35,ENG Premier League
+6,Jaidon Anthony,2022-23,24,AM(LR),Bournemouth,30,11,1248,3,1,0,6.35,ENG Premier League
+7,Danny Ings,2022-23,32,"AM(C),FW",West Ham,17,7,771,2,2,0,6.35,ENG Premier League
+8,Isaac Price,2022-23,20,M(C),Everton,1,0,32,0,0,0,6.35,ENG Premier League
+9,Mark Travers,2022-23,25,GK,Bournemouth,12,11,1035,0,0,0,6.35,ENG Premier League
+0,Mikkel Damsgaard,2022-23,24,AM(CL),Brentford,26,9,982,0,0,0,6.35,ENG Premier League
+1,Mason Holgate,2022-23,27,"D(CR),DMC,M(R)",Everton,8,5,508,0,0,0,6.35,ENG Premier League
+2,Deniz Undav,2022-23,28,"AM(C),FW",Brighton,22,6,623,5,0,0,6.34,ENG Premier League
+3,James Milner,2022-23,38,"D(LR),M(CLR)",Liverpool,31,7,893,0,1,0,6.34,ENG Premier League
+4,Takehiro Tomiyasu,2022-23,25,D(CLR),Arsenal,21,6,656,0,1,0,6.34,ENG Premier League
+5,Jamie Vardy,2022-23,37,"AM(L),FW",Leicester,37,19,1855,3,4,0,6.33,ENG Premier League
+6,Stuart Armstrong,2022-23,32,AM(CLR),Southampton,32,14,1405,2,1,0,6.33,ENG Premier League
+7,Billy Gilmour,2022-23,23,DMC,Brighton,14,7,508,0,1,0,6.33,ENG Premier League
+8,Lewis Miley,2022-23,18,M(CLR),Newcastle,1,0,16,0,0,0,6.33,ENG Premier League
+9,Cédric Soares,2022-23,33,"D(LR),M(R)",Fulham,6,2,196,0,0,0,6.33,ENG Premier League
+0,Cole Palmer,2022-23,22,AM(C),Man City,14,2,359,0,1,0,6.33,ENG Premier League
+1,Ben Godfrey,2022-23,26,D(CLR),Everton,13,10,803,0,1,0,6.32,ENG Premier League
+2,Hwang Hee-Chan,2022-23,28,"AM(CLR),FW",Wolves,27,12,1131,3,1,0,6.32,ENG Premier League
+3,Carlos Vinícius,2022-23,29,FW,Fulham,28,11,1102,5,2,0,6.32,ENG Premier League
+4,Jan Bednarek,2022-23,28,D(C),Aston Villa,3,1,96,0,0,0,6.32,ENG Premier League
+5,Adam Smith,2022-23,33,"D(LR),M(LR)",Bournemouth,37,34,2950,0,1,0,6.32,ENG Premier League
+6,Samuel Edozie,2022-23,21,AM(L),Southampton,17,5,559,0,0,0,6.31,ENG Premier League
+7,Leander Dendoncker,2022-23,29,"D(C),M(C)",Aston Villa,20,7,690,0,0,0,6.31,ENG Premier League
+8,Lewis O'Brien,2022-23,25,"D(L),M(CL)",Nottingham Forest,13,6,581,1,0,0,6.31,ENG Premier League
+9,Nampalys Mendy,2022-23,32,M(C),Leicester,19,7,751,1,0,0,6.31,ENG Premier League
+0,Mykhailo Mudryk,2022-23,23,AM(L),Chelsea,15,7,656,0,2,0,6.31,ENG Premier League
+1,Fábio Vieira,2022-23,24,"AM(CR),FW",Arsenal,22,3,502,1,2,0,6.31,ENG Premier League
+2,Alphonse Areola,2022-23,31,GK,West Ham,5,2,307,0,0,0,6.31,ENG Premier League
+3,Rob Holding,2022-23,28,D(CR),Arsenal,14,6,562,1,0,0,6.31,ENG Premier League
+4,Tom Cairney,2022-23,33,M(CR),Fulham,33,6,971,2,0,0,6.30,ENG Premier League
+5,Chris Wood,2022-23,32,FW,Nottingham Forest,7,5,376,1,0,0,6.30,ENG Premier League
+6,Elliot Anderson,2022-23,21,AM(CL),Newcastle,22,3,396,0,1,0,6.30,ENG Premier League
+7,Sam Greenwood,2022-23,22,M(C),Leeds,18,3,413,1,2,0,6.30,ENG Premier League
+8,Daniel Iversen,2022-23,27,GK,Leicester,12,12,1080,0,0,0,6.30,ENG Premier League
+9,Alex Oxlade Chamberlain,2022-23,31,M(CLR),Liverpool,9,4,335,1,0,0,6.30,ENG Premier League
+0,Nathaniel Clyne,2022-23,33,"D(LR),M(R)",Crystal Palace,22,19,1642,0,0,0,6.29,ENG Premier League
+1,Chris Wood,2022-23,32,FW,Newcastle,18,4,440,2,0,0,6.29,ENG Premier League
+2,Armando Broja,2022-23,22,FW,Chelsea,12,2,290,1,0,0,6.29,ENG Premier League
+3,Yves Bissouma,2022-23,28,M(C),Tottenham,23,10,1005,0,0,0,6.29,ENG Premier League
+4,Harry Toffolo,2022-23,29,"D(L),M(L)",Nottingham Forest,19,9,935,0,0,0,6.28,ENG Premier League
+5,Darko Gyabi,2022-23,20,M(CLR),Leeds,1,0,7,0,0,0,6.28,ENG Premier League
+6,Facundo Buonanotte,2022-23,19,AM(CR),Brighton,13,6,565,1,1,0,6.28,ENG Premier League
+7,Albert Sambi Lokonga,2022-23,24,DMC,Arsenal,6,2,196,0,0,0,6.28,ENG Premier League
+8,Jack Colback,2022-23,34,"D(L),M(CL)",Nottingham Forest,11,4,495,0,0,0,6.27,ENG Premier League
+9,Oriol Romeu,2022-23,32,DMC,Southampton,1,1,75,0,0,0,6.27,ENG Premier League
+0,Sékou Mara,2022-23,22,FW,Southampton,22,4,541,1,2,0,6.27,ENG Premier League
+1,Adam Armstrong,2022-23,27,"AM(CLR),FW",Southampton,30,14,1336,2,1,0,6.27,ENG Premier League
+2,Kalvin Phillips,2022-23,28,"D(C),DMC",Man City,12,2,291,0,0,0,6.27,ENG Premier League
+3,Christian Pulisic,2022-23,25,"M(CLR),FW",Chelsea,24,8,814,1,1,0,6.27,ENG Premier League
+4,Will Hughes,2022-23,29,M(CLR),Crystal Palace,27,7,830,1,1,0,6.27,ENG Premier League
+5,Siriki Dembélé,2022-23,28,"AM(CL),FW",Bournemouth,6,0,104,0,0,0,6.26,ENG Premier League
+6,Daniel James,2022-23,26,"AM(CLR),FW",Fulham,20,5,614,2,1,1,6.26,ENG Premier League
+7,Adam Forshaw,2022-23,32,M(C),Leeds,12,5,478,0,0,0,6.26,ENG Premier League
+8,Anthony Elanga,2022-23,22,AM(LR),Man Utd,16,5,424,0,1,0,6.26,ENG Premier League
+9,Jan Paul van Hecke,2022-23,24,D(C),Brighton,8,3,291,0,0,0,6.26,ENG Premier League
+0,Carney Chukwuemeka,2022-23,20,AM(C),Chelsea,14,2,346,0,0,0,6.26,ENG Premier League
+1,Kieran Tierney,2022-23,27,"D(CL),M(L)",Arsenal,27,6,779,0,1,0,6.25,ENG Premier League
+2,Anthony Gordon,2022-23,23,AM(CLR),Newcastle,16,4,482,1,0,0,6.25,ENG Premier League
+3,Boubacar Traoré,2022-23,23,M(C),Wolves,10,4,406,0,1,0,6.25,ENG Premier League
+4,Georginio Rutter,2022-23,22,FW,Leeds,11,1,266,0,1,0,6.25,ENG Premier League
+5,Keane Lewis-Potter,2022-23,23,"AM(CLR),FW",Brentford,10,3,318,0,1,0,6.25,ENG Premier League
+6,Diego Costa,2022-23,35,FW,Wolves,23,16,1248,1,0,1,6.24,ENG Premier League
+7,Sergio Gómez,2022-23,24,D(L),Man City,12,2,341,0,1,0,6.24,ENG Premier League
+8,Ryan Fraser,2022-23,30,"M(CLR),FW",Newcastle,8,3,311,0,0,0,6.24,ENG Premier League
+9,Kevin Mbabu,2022-23,29,"D(R),M(R)",Fulham,6,1,144,0,1,0,6.23,ENG Premier League
+0,Luka Milivojevic,2022-23,33,DMC,Crystal Palace,18,5,505,0,0,0,6.23,ENG Premier League
+1,Arnaut Danjuma,2022-23,27,"AM(L),FW",Tottenham,9,1,163,1,0,0,6.23,ENG Premier League
+2,Illia Zabarnyi,2022-23,22,D(C),Bournemouth,5,3,297,0,0,0,6.23,ENG Premier League
+3,Shandon Baptiste,2022-23,26,AM(C),Brentford,23,4,606,0,1,0,6.22,ENG Premier League
+4,Marek Rodák,2022-23,27,GK,Fulham,2,2,180,0,0,0,6.22,ENG Premier League
+5,Sasa Kalajdzic,2022-23,27,FW,Wolves,1,1,46,0,0,0,6.22,ENG Premier League
+6,Giulian Biancone,2022-23,24,"D(CLR),M(LR)",Nottingham Forest,2,0,16,0,0,0,6.21,ENG Premier League
+7,Ibrahima Diallo,2022-23,25,DMC,Southampton,18,11,821,0,0,0,6.21,ENG Premier League
+8,Tariq Lamptey,2022-23,23,"D(R),M(R)",Brighton,20,3,443,0,0,0,6.21,ENG Premier League
+9,Neal Maupay,2022-23,28,"AM(C),FW",Everton,27,11,1115,1,0,0,6.20,ENG Premier League
+0,Rúben Vinagre,2022-23,25,"D(L),M(L)",Everton,2,0,24,0,0,0,6.20,ENG Premier League
+1,Gustavo Scarpa,2022-23,30,"D(L),M(CLR)",Nottingham Forest,6,2,181,0,0,0,6.20,ENG Premier League
+2,Dennis Praet,2022-23,30,AM(CR),Leicester,22,6,641,1,0,0,6.19,ENG Premier League
+3,Javier Manquillo,2022-23,30,"D(LR),M(R)",Newcastle,4,0,34,0,0,0,6.19,ENG Premier League
+4,Donny van de Beek,2022-23,27,M(C),Man Utd,7,2,166,0,0,0,6.18,ENG Premier League
+5,Facundo Pellistri,2022-23,22,AM(R),Man Utd,4,0,60,0,0,0,6.18,ENG Premier League
+6,Emile Smith Rowe,2022-23,24,AM(CL),Arsenal,12,0,164,0,2,0,6.18,ENG Premier League
+7,Antoine Semenyo,2022-23,24,"AM(LR),FW",Bournemouth,11,2,251,1,0,0,6.17,ENG Premier League
+8,Japhet Tanganga,2022-23,25,D(CR),Tottenham,4,2,147,0,0,0,6.17,ENG Premier League
+9,Sasa Lukic,2022-23,28,M(C),Fulham,12,4,409,0,0,0,6.17,ENG Premier League
+0,Jean-Philippe Mateta,2022-23,27,FW,Crystal Palace,29,6,754,2,0,0,6.17,ENG Premier League
+1,Joe Gelhardt,2022-23,22,FW,Leeds,15,1,202,0,2,0,6.16,ENG Premier League
+2,Yasin Ayari,2022-23,20,M(CLR),Brighton,3,1,66,0,0,0,6.16,ENG Premier League
+3,Jesse Lingard,2022-23,31,"AM(CLR),FW",Nottingham Forest,17,12,928,0,0,0,6.16,ENG Premier League
+4,Pape Matar Sarr,2022-23,21,M(C),Tottenham,11,2,213,0,1,0,6.15,ENG Premier League
+5,Jack Stephens,2022-23,30,D(CR),Southampton,2,0,46,0,0,0,6.15,ENG Premier League
+6,Ellis Simms,2022-23,23,FW,Everton,11,2,221,1,0,0,6.15,ENG Premier League
+7,Divin Mubama,2022-23,19,FW,West Ham,3,0,36,0,0,0,6.14,ENG Premier League
+8,Jonjo Shelvey,2022-23,32,M(C),Nottingham Forest,8,6,542,0,0,0,6.14,ENG Premier League
+9,Naby Keïta,2022-23,29,M(C),Liverpool,8,3,294,0,0,0,6.14,ENG Premier League
+0,Manuel Lanzini,2022-23,31,M(CLR),West Ham,10,2,246,1,0,0,6.13,ENG Premier League
+1,Flynn Downes,2022-23,25,M(C),West Ham,21,7,758,0,0,0,6.13,ENG Premier League
+2,James Tomkins,2022-23,35,D(CR),Crystal Palace,6,3,337,1,0,0,6.13,ENG Premier League
+3,James McArthur,2022-23,36,M(CLR),Crystal Palace,4,0,51,0,0,0,6.13,ENG Premier League
+4,Harvey White,2022-23,22,DMC,Tottenham,1,0,4,0,0,0,6.13,ENG Premier League
+5,Ryan Fredericks,2022-23,31,"D(R),M(R)",Bournemouth,12,5,531,0,0,0,6.13,ENG Premier League
+6,Saman Ghoddos,2022-23,31,"M(CLR),FW",Brentford,15,0,126,0,0,0,6.13,ENG Premier League
+7,Mateusz Klich,2022-23,34,M(CL),Leeds,14,0,266,0,0,0,6.12,ENG Premier League
+8,Matt Ritchie,2022-23,34,"D(L),M(CLR)",Newcastle,7,0,35,0,0,0,6.12,ENG Premier League
+9,Tom Davies,2022-23,26,M(C),Everton,19,4,530,0,0,0,6.12,ENG Premier League
+0,Pierre-Emerick Aubameyang,2022-23,35,"M(CLR),FW",Chelsea,15,5,551,1,0,0,6.12,ENG Premier League
+1,Mislav Orsic,2022-23,31,"AM(L),FW",Southampton,1,0,6,0,0,0,6.12,ENG Premier League
+2,Sergi Canós,2022-23,27,M(LR),Brentford,5,0,73,0,0,0,6.11,ENG Premier League
+3,Salomón Rondón,2022-23,34,FW,Everton,7,1,104,0,0,0,6.11,ENG Premier League
+4,Calum Chambers,2022-23,29,"D(CR),DMC",Aston Villa,14,2,345,0,0,0,6.11,ENG Premier League
+5,Kobbie Mainoo,2022-23,19,M(CLR),Man Utd,1,0,10,0,0,0,6.11,ENG Premier League
+6,Jairo Riedewald,2022-23,27,"D(CL),DMC",Crystal Palace,6,0,60,0,0,0,6.11,ENG Premier League
+7,Cafú,2022-23,31,M(C),Nottingham Forest,1,0,6,0,0,0,6.10,ENG Premier League
+8,Diego Carlos,2022-23,31,D(C),Aston Villa,3,2,205,0,0,0,6.10,ENG Premier League
+9,Ben Doak,2022-23,18,FW,Liverpool,2,0,24,0,0,0,6.10,ENG Premier League
+0,Mads Bech,2022-23,25,D(CL),Brentford,4,0,19,0,0,0,6.10,ENG Premier League
+1,Jay Stansfield,2022-23,21,FW,Fulham,3,1,86,0,0,0,6.09,ENG Premier League
+2,Jhon Durán,2022-23,20,FW,Aston Villa,12,0,127,0,0,0,6.09,ENG Premier League
+3,Maxwel Cornet,2022-23,27,"D(L),M(LR),FW",West Ham,14,2,235,0,0,0,6.09,ENG Premier League
+4,Lucas Moura,2022-23,32,"AM(CLR),FW",Tottenham,15,0,145,1,0,0,6.09,ENG Premier League
+5,Sam Surridge,2022-23,26,FW,Nottingham Forest,20,1,308,1,0,0,6.09,ENG Premier League
+6,Thomas Cannon,2022-23,21,FW,Everton,2,0,23,0,0,0,6.09,ENG Premier League
+7,Jack Stacey,2022-23,28,"D(R),M(R)",Bournemouth,10,3,294,0,0,0,6.08,ENG Premier League
+8,Layvin Kurzawa,2022-23,32,"D(L),M(L)",Fulham,3,2,138,0,0,0,6.07,ENG Premier League
+9,André Ayew,2022-23,34,"M(CLR),FW",Nottingham Forest,13,1,307,0,0,0,6.07,ENG Premier League
+0,David Brooks,2022-23,27,AM(CR),Bournemouth,6,2,172,0,0,0,6.07,ENG Premier League
+1,Jack Hinshelwood,2022-23,19,M(CLR),Brighton,1,0,1,0,0,0,6.07,ENG Premier League
+2,Mohamed Elneny,2022-23,32,DMC,Arsenal,5,1,111,0,0,0,6.07,ENG Premier League
+3,Chem Campbell,2022-23,21,AM(L),Wolves,5,0,69,0,0,0,6.07,ENG Premier League
+4,Cédric Soares,2022-23,33,"D(LR),M(R)",Arsenal,2,0,28,0,0,0,6.07,ENG Premier League
+5,Joe Whitworth,2022-23,20,GK,Crystal Palace,2,2,180,0,0,0,6.06,ENG Premier League
+6,Morgan Sanson,2022-23,30,M(CLR),Aston Villa,2,0,10,0,0,0,6.06,ENG Premier League
+7,Ben Pearson,2022-23,29,DMC,Bournemouth,7,3,286,0,0,0,6.05,ENG Premier League
+8,Mateo Joseph,2022-23,20,FW,Leeds,3,0,24,0,0,0,6.04,ENG Premier League
+9,Jamaal Lascelles,2022-23,30,D(C),Newcastle,9,4,217,0,0,0,6.04,ENG Premier League
+0,Bobby Clark,2022-23,19,M(CLR),Liverpool,1,0,7,0,0,0,6.04,ENG Premier League
+1,Malcolm Ebiowei,2022-23,21,AM(R),Crystal Palace,3,0,32,0,0,0,6.04,ENG Premier League
+2,Jonjo Shelvey,2022-23,32,M(C),Newcastle,3,0,34,0,0,0,6.03,ENG Premier League
+3,Junior Stanislas,2022-23,34,M(CLR),Bournemouth,4,0,58,0,0,0,6.03,ENG Premier League
+4,Halil Dervisoglu,2022-23,24,"AM(C),FW",Brentford,1,0,7,0,0,0,6.03,ENG Premier League
+5,Omari Hutchinson,2022-23,20,M(CLR),Chelsea,1,0,22,0,0,0,6.03,ENG Premier League
+6,Lewis Brunt,2022-23,23,D(CLR),Leicester,1,0,22,0,0,0,6.02,ENG Premier League
+7,Connor Ronan,2022-23,26,M(CL),Wolves,1,0,1,0,0,0,6.00,ENG Premier League
+8,Conor Coventry,2022-23,24,DMC,West Ham,1,0,1,0,0,0,6.00,ENG Premier League
+9,David Ozoh,2022-23,19,M(CLR),Crystal Palace,1,0,1,0,0,0,6.00,ENG Premier League
+0,Emil Krafth,2022-23,30,D(CR),Newcastle,1,0,1,0,0,0,6.00,ENG Premier League
+1,Ethan Nwaneri,2022-23,17,M(CLR),Arsenal,1,0,1,0,0,0,6.00,ENG Premier League
+2,George Abbott,2022-23,19,M(CLR),Tottenham,1,0,1,0,0,0,6.00,ENG Premier League
+3,Marquinhos,2022-23,21,AM(R),Arsenal,1,0,1,0,0,0,6.00,ENG Premier League
+4,Nathan Redmond,2022-23,30,"AM(CLR),FW",Southampton,1,0,1,0,0,0,6.00,ENG Premier League
+5,Tyrese Francois,2022-23,24,M(CLR),Fulham,1,0,1,0,0,0,6.00,ENG Premier League
+6,Naouirou Ahamada,2022-23,22,M(C),Crystal Palace,8,0,88,0,0,0,6.00,ENG Premier League
+7,Djed Spence,2022-23,24,"D(R),M(R)",Tottenham,4,0,5,0,0,0,6.00,ENG Premier League
+8,Joe Hodge,2022-23,21,M(C),Wolves,6,1,174,0,0,0,5.99,ENG Premier League
+9,Emiliano Marcondes,2022-23,29,AM(C),Bournemouth,1,0,8,0,0,0,5.99,ENG Premier League
+0,Jamal Lowe,2022-23,30,"AM(CLR),FW",Bournemouth,2,0,11,0,0,0,5.99,ENG Premier League
+1,Cameron Archer,2022-23,22,FW,Aston Villa,6,0,44,0,0,0,5.99,ENG Premier League
+2,Alex McCarthy,2022-23,34,GK,Southampton,6,6,540,0,0,0,5.99,ENG Premier League
+3,Josh Onomah,2022-23,27,M(CL),Fulham,2,0,14,0,0,0,5.99,ENG Premier League
+4,Luke Harris,2022-23,19,M(CLR),Fulham,3,0,10,0,0,0,5.98,ENG Premier League
+5,Dominic Ballard,2022-23,19,FW,Southampton,2,0,24,0,0,0,5.98,ENG Premier League
+6,Odeluga Offiah,2022-23,21,D(CLR),Brighton,2,0,23,0,0,0,5.98,ENG Premier League
+7,Dele Alli,2022-23,28,"M(CL),FW",Everton,2,0,38,0,0,0,5.96,ENG Premier League
+8,Alex Mighten,2022-23,22,AM(L),Nottingham Forest,1,0,7,0,0,0,5.95,ENG Premier League
+9,Jamal Lewis,2022-23,26,"D(L),M(L)",Newcastle,2,0,9,0,0,0,5.95,ENG Premier League
+0,Máximo Perrone,2022-23,21,DMC,Man City,1,0,18,0,0,0,5.95,ENG Premier League
+1,Kamari Doyle,2022-23,19,M(CLR),Southampton,1,0,6,0,0,0,5.94,ENG Premier League
+2,Owen Bevan,2022-23,20,D(CLR),Bournemouth,1,0,8,0,0,0,5.89,ENG Premier League
+3,Nathaniel Chalobah,2022-23,29,DMC,Fulham,4,1,12,0,0,0,5.89,ENG Premier League
+4,Dexter Lembikisa,2022-23,20,D(R),Wolves,1,0,22,0,0,0,5.88,ENG Premier League
+5,Cameron Peupion,2022-23,21,M(CLR),Brighton,1,0,5,0,0,0,5.85,ENG Premier League
+6,Andrew Moran,2022-23,20,M(CLR),Brighton,1,0,11,0,0,0,5.83,ENG Premier League
+7,Shane Duffy,2022-23,32,D(C),Fulham,5,0,17,0,0,0,5.79,ENG Premier League
+8,Yan Valery,2022-23,25,"D(CR),M(R)",Southampton,1,1,46,0,0,0,5.74,ENG Premier League

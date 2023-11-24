@@ -1,0 +1,728 @@
+,Player,Season,Age,Position,Team,Apps,Starts,Mins,Goals,Assists,MotM,Rating,Competition
+0,Lucas Hernández,2022-23,27,D(CL),Bayern,2,2,174,1,0,0,7.90,UEFA Champions League
+1,Lionel Messi,2022-23,36,"AM(CR),FW",PSG,7,7,615,4,4,3,7.86,UEFA Champions League
+2,Robert Lewandowski,2022-23,35,FW,Barcelona,5,5,442,5,0,2,7.83,UEFA Champions League
+3,Vinícius Júnior,2022-23,23,"AM(L),FW",Real Madrid,12,11,975,7,5,5,7.77,UEFA Champions League
+4,Joshua Kimmich,2022-23,28,"D(CR),DMC,M(R)",Bayern,9,9,810,1,3,2,7.68,UEFA Champions League
+5,Kylian Mbappé,2022-23,24,"AM(LR),FW",PSG,8,7,652,7,3,3,7.60,UEFA Champions League
+6,Khvicha Kvaratskhelia,2022-23,22,AM(CLR),Napoli,9,9,700,2,4,2,7.58,UEFA Champions League
+7,Mohamed Salah,2022-23,31,"AM(CLR),FW",Liverpool,8,7,624,8,2,1,7.56,UEFA Champions League
+8,Erling Haaland,2022-23,23,FW,Man City,11,11,848,12,1,2,7.55,UEFA Champions League
+9,Gregor Kobel,2022-23,25,GK,Borussia Dortmund,4,4,316,0,0,2,7.51,UEFA Champions League
+0,Kevin De Bruyne,2022-23,32,"M(CLR),FW",Man City,10,9,721,2,6,0,7.48,UEFA Champions League
+1,Mehdi Taremi,2022-23,31,"AM(L),FW",Porto,7,7,614,5,2,2,7.48,UEFA Champions League
+2,Victor Osimhen,2022-23,24,FW,Napoli,6,5,423,5,0,1,7.47,UEFA Champions League
+3,Jude Bellingham,2022-23,20,M(CLR),Borussia Dortmund,7,7,630,4,1,1,7.46,UEFA Champions League
+4,Neymar,2022-23,31,"AM(CLR),FW",PSG,6,6,540,2,2,0,7.43,UEFA Champions League
+5,Giovanni Di Lorenzo,2022-23,30,"D(CLR),M(R)",Napoli,10,10,890,2,2,1,7.43,UEFA Champions League
+6,Diogo Costa,2022-23,23,GK,Porto,8,8,720,0,1,2,7.43,UEFA Champions League
+7,Iñaki Peña,2022-23,24,GK,Barcelona,1,1,90,0,0,0,7.42,UEFA Champions League
+8,Kingsley Coman,2022-23,27,"M(LR),FW",Bayern,7,7,538,1,1,1,7.42,UEFA Champions League
+9,Fernando,2022-23,24,FW,Salzburg,1,1,65,0,1,0,7.41,UEFA Champions League
+0,Álex Grimaldo,2022-23,27,"D(L),M(L)",Benfica,10,10,900,2,4,2,7.39,UEFA Champions League
+1,Leroy Sané,2022-23,27,"M(CLR),FW",Bayern,8,7,557,4,1,0,7.39,UEFA Champions League
+2,Federico Valverde,2022-23,25,M(CLR),Real Madrid,11,11,968,2,3,2,7.36,UEFA Champions League
+3,Mohammed Kudus,2022-23,23,"M(CR),FW",Ajax,6,5,452,4,2,0,7.34,UEFA Champions League
+4,Jota,2022-23,24,AM(LR),Celtic,4,3,285,2,0,1,7.34,UEFA Champions League
+5,Rafa,2022-23,30,"AM(CLR),FW",Benfica,10,10,827,5,1,1,7.33,UEFA Champions League
+6,Jan Kliment,2022-23,30,FW,Viktoria Plzen,1,0,45,1,0,0,7.30,UEFA Champions League
+7,André-Frank Zambo Anguissa,2022-23,27,M(C),Napoli,8,8,653,1,3,1,7.28,UEFA Champions League
+8,Ciprian Tatarusanu,2022-23,37,GK,AC Milan,5,5,450,0,0,0,7.27,UEFA Champions League
+9,Rúben Dias,2022-23,26,D(C),Man City,12,11,1048,1,0,0,7.26,UEFA Champions League
+0,Rodri,2022-23,27,"D(C),DMC",Man City,12,11,997,2,0,1,7.26,UEFA Champions League
+1,Ivan Perisic,2022-23,34,"M(CLR),FW",Tottenham,7,7,574,0,3,1,7.26,UEFA Champions League
+2,João Mário,2022-23,30,M(CLR),Benfica,10,10,868,6,2,0,7.25,UEFA Champions League
+3,Rodrygo,2022-23,22,"AM(CLR),FW",Real Madrid,12,10,824,5,2,3,7.25,UEFA Champions League
+4,Giacomo Raspadori,2022-23,23,"AM(CL),FW",Napoli,7,3,250,4,3,1,7.25,UEFA Champions League
+5,Mohamed Simakan,2022-23,23,D(CR),RBL,7,6,514,1,3,0,7.24,UEFA Champions League
+6,Henrique Araújo,2022-23,21,FW,Benfica,1,0,8,1,0,0,7.24,UEFA Champions League
+7,Piotr Zielinski,2022-23,29,M(CLR),Napoli,10,8,624,4,2,0,7.24,UEFA Champions League
+8,Ángel Di María,2022-23,35,"M(CLR),FW",Juventus,3,2,146,0,3,0,7.23,UEFA Champions League
+9,Bernardo Silva,2022-23,29,"M(CLR),FW",Man City,13,9,909,3,1,2,7.23,UEFA Champions League
+0,Luis Díaz,2022-23,26,AM(L),Liverpool,3,3,270,1,0,0,7.23,UEFA Champions League
+1,Samuel Iling-Junior,2022-23,19,FW,Juventus,1,0,20,0,1,0,7.22,UEFA Champions League
+2,Manuel Neuer,2022-23,37,GK,Bayern,3,3,270,0,0,0,7.22,UEFA Champions League
+3,Ousmane Dembélé,2022-23,26,"AM(CLR),FW",Barcelona,6,5,415,1,2,0,7.21,UEFA Champions League
+4,Alphonso Davies,2022-23,22,"D(L),M(LR)",Bayern,9,6,603,0,2,1,7.21,UEFA Champions League
+5,Kim Min-Jae,2022-23,26,D(C),Napoli,9,9,786,0,0,0,7.20,UEFA Champions League
+6,Simon Mignolet,2022-23,35,GK,Club Bruges,8,8,720,0,0,2,7.20,UEFA Champions League
+7,Pierre-Emile Højbjerg,2022-23,28,M(C),Tottenham,7,7,625,1,2,0,7.20,UEFA Champions League
+8,Rafael Leão,2022-23,24,"AM(CL),FW",AC Milan,11,11,914,1,3,1,7.20,UEFA Champions League
+9,Leon Goretzka,2022-23,28,M(CR),Bayern,9,7,609,2,4,1,7.19,UEFA Champions League
+0,Sadio Mané,2022-23,31,"AM(CLR),FW",Bayern,9,6,551,3,1,2,7.18,UEFA Champions League
+1,Kamil Grabara,2022-23,24,GK,Copenhagen,4,4,360,0,0,1,7.18,UEFA Champions League
+2,Leo Østigård,2022-23,23,D(C),Napoli,3,2,196,1,0,0,7.18,UEFA Champions League
+3,Alexander Bah,2022-23,25,D(R),Benfica,8,8,657,0,2,0,7.17,UEFA Champions League
+4,André Onana,2022-23,27,GK,Inter,13,13,1170,0,0,2,7.17,UEFA Champions League
+5,Raphaël Guerreiro,2022-23,29,"D(L),M(CL)",Borussia Dortmund,6,5,481,2,1,1,7.15,UEFA Champions League
+6,Amine Harit,2022-23,26,"AM(CLR),FW",Marseille,6,4,379,1,2,2,7.14,UEFA Champions League
+7,Thibaut Courtois,2022-23,31,GK,Real Madrid,10,10,900,0,0,0,7.14,UEFA Champions League
+8,Thomas Meunier,2022-23,31,"D(R),M(R)",Borussia Dortmund,4,4,353,0,1,0,7.14,UEFA Champions League
+9,Trent Alexander-Arnold,2022-23,24,"D(R),DMC,M(R)",Liverpool,7,7,627,1,0,1,7.14,UEFA Champions League
+0,Galeno,2022-23,25,M(LR),Porto,8,7,568,2,1,0,7.13,UEFA Champions League
+1,Alessandro Bastoni,2022-23,24,D(C),Inter,12,12,991,0,3,1,7.13,UEFA Champions League
+2,Jorginho,2022-23,31,DMC,Chelsea,6,4,415,1,0,1,7.13,UEFA Champions League
+3,Marko Dmitrovic,2022-23,31,GK,Sevilla,2,2,180,0,0,0,7.13,UEFA Champions League
+4,Pape Matar Sarr,2022-23,20,M(C),Tottenham,1,1,90,0,0,0,7.12,UEFA Champions League
+5,Stephen Eustáquio,2022-23,26,DMC,Porto,7,7,597,2,0,0,7.11,UEFA Champions League
+6,Jordi Alba,2022-23,34,"D(L),M(L)",Barcelona,2,2,147,0,1,0,7.11,UEFA Champions League
+7,Noussair Mazraoui,2022-23,25,D(LR),Bayern,5,4,393,0,0,0,7.11,UEFA Champions League
+8,Mike Maignan,2022-23,28,GK,AC Milan,7,7,630,0,0,1,7.11,UEFA Champions League
+9,Malick Thiaw,2022-23,22,D(C),AC Milan,4,3,275,0,0,0,7.11,UEFA Champions League
+0,Eric Choupo-Moting,2022-23,34,"M(CLR),FW",Bayern,7,5,441,4,0,0,7.10,UEFA Champions League
+1,Karim Benzema,2022-23,35,FW,Real Madrid,10,9,747,4,1,0,7.10,UEFA Champions League
+2,Jack Grealish,2022-23,27,"AM(CL),FW",Man City,13,12,937,0,1,0,7.10,UEFA Champions League
+3,Christopher Nkunku,2022-23,25,"M(CLR),FW",RBL,7,6,562,3,1,1,7.10,UEFA Champions League
+4,Steven Berghuis,2022-23,31,"AM(CR),FW",Ajax,6,6,468,2,2,2,7.10,UEFA Champions League
+5,Pedro Porro,2022-23,23,"D(R),M(R)",Sporting,5,4,391,0,1,0,7.09,UEFA Champions League
+6,Reece James,2022-23,23,"D(CR),DMC,M(R)",Chelsea,8,8,692,1,1,1,7.08,UEFA Champions League
+7,Matthijs de Ligt,2022-23,24,D(C),Bayern,7,7,615,0,0,0,7.08,UEFA Champions League
+8,Riyad Mahrez,2022-23,32,"AM(CLR),FW",Man City,9,6,506,3,2,2,7.08,UEFA Champions League
+9,John Stones,2022-23,29,"D(CR),DMC",Man City,8,8,686,1,1,0,7.08,UEFA Champions League
+0,Marco Reus,2022-23,34,"M(CLR),FW",Borussia Dortmund,3,3,264,1,1,0,7.07,UEFA Champions League
+1,Gonçalo Ramos,2022-23,22,"AM(C),FW",Benfica,10,10,720,3,1,1,7.06,UEFA Champions League
+2,Adrien Rabiot,2022-23,28,"DMC,M(L)",Juventus,5,5,447,2,0,1,7.06,UEFA Champions League
+3,Manuel Ugarte,2022-23,22,DMC,Sporting,6,6,469,0,0,1,7.05,UEFA Champions League
+4,Fábio Cardoso,2022-23,29,D(C),Porto,4,4,360,0,0,0,7.05,UEFA Champions League
+5,Luka Modric,2022-23,37,M(C),Real Madrid,10,9,750,2,1,0,7.05,UEFA Champions League
+6,Marian Shved,2022-23,26,AM(R),Shakhtar,3,3,189,2,0,0,7.05,UEFA Champions League
+7,Thiago Alcântara,2022-23,32,M(C),Liverpool,5,3,309,0,0,0,7.04,UEFA Champions League
+8,Dino Peric,2022-23,29,D(C),Dinamo Zagreb,6,6,540,0,0,1,7.04,UEFA Champions League
+9,Edin Dzeko,2022-23,37,FW,Inter,13,11,834,4,1,3,7.03,UEFA Champions League
+0,Ederson,2022-23,30,GK,Man City,11,11,990,0,0,1,7.03,UEFA Champions League
+1,Marcus Edwards,2022-23,24,"AM(CLR),FW",Sporting,6,6,358,2,2,0,7.03,UEFA Champions League
+2,Alexis Sánchez,2022-23,34,"M(CLR),FW",Marseille,5,5,419,2,0,0,7.02,UEFA Champions League
+3,Nicolás Otamendi,2022-23,35,D(C),Benfica,9,9,794,0,1,0,7.02,UEFA Champions League
+4,João Cancelo,2022-23,29,"D(LR),M(R)",Man City,6,5,378,0,3,0,7.02,UEFA Champions League
+5,Marko Grujic,2022-23,27,DMC,Porto,4,3,277,0,0,0,7.01,UEFA Champions League
+6,Ilkay Gündogan,2022-23,32,M(C),Man City,13,12,997,1,2,0,7.01,UEFA Champions League
+7,Alex Meret,2022-23,26,GK,Napoli,10,10,900,0,0,0,7.01,UEFA Champions League
+8,Otávio,2022-23,28,"AM(CLR),FW",Porto,7,6,530,0,2,0,7.00,UEFA Champions League
+9,Kostas Tsimikas,2022-23,27,D(L),Liverpool,6,4,341,0,2,0,7.00,UEFA Champions League
+0,Joël Matip,2022-23,32,D(C),Liverpool,4,2,242,1,0,1,7.00,UEFA Champions League
+1,Anatolii Trubin,2022-23,22,GK,Shakhtar,6,6,540,0,0,0,6.98,UEFA Champions League
+2,Nathan Aké,2022-23,28,"D(CL),DMC",Man City,8,7,608,0,0,0,6.98,UEFA Champions League
+3,Olivier Giroud,2022-23,36,FW,AC Milan,12,12,940,5,2,1,6.98,UEFA Champions League
+4,Hugo Lloris,2022-23,36,GK,Tottenham,6,6,540,0,0,0,6.98,UEFA Champions League
+5,Daniele Rugani,2022-23,29,D(C),Juventus,1,1,90,0,0,0,6.97,UEFA Champions League
+6,Chancel Mbemba,2022-23,29,"D(CLR),DMC",Marseille,5,5,407,2,1,0,6.97,UEFA Champions League
+7,Enzo Fernández,2022-23,22,M(C),Benfica,5,5,429,0,1,0,6.97,UEFA Champions League
+8,Toni Kroos,2022-23,33,M(C),Real Madrid,12,10,846,0,2,0,6.95,UEFA Champions League
+9,Manuel Akanji,2022-23,28,D(CLR),Man City,11,10,945,1,0,0,6.95,UEFA Champions League
+0,Julian Brandt,2022-23,27,"M(CLR),FW",Borussia Dortmund,7,6,477,1,1,0,6.94,UEFA Champions League
+1,Phil Foden,2022-23,23,"AM(CLR),FW",Man City,8,3,381,1,1,1,6.94,UEFA Champions League
+2,Lautaro Martínez,2022-23,26,FW,Inter,13,12,1002,3,3,2,6.94,UEFA Champions League
+3,Hakan Çalhanoglu,2022-23,29,"M(CLR),FW",Inter,12,9,808,1,2,1,6.94,UEFA Champions League
+4,Federico Dimarco,2022-23,25,"D(CL),M(L)",Inter,11,10,735,0,5,0,6.93,UEFA Champions League
+5,Nicolas Seiwald,2022-23,22,DMC,Salzburg,6,6,540,1,0,1,6.93,UEFA Champions League
+6,Rico Lewis,2022-23,18,"D(R),DMC",Man City,2,1,118,1,0,0,6.93,UEFA Champions League
+7,Kepa,2022-23,28,GK,Chelsea,9,9,810,0,0,0,6.92,UEFA Champions League
+8,Mykhailo Mudryk,2022-23,22,AM(L),Shakhtar,6,6,519,3,2,1,6.92,UEFA Champions League
+9,Amir Rrahmani,2022-23,29,D(CL),Napoli,7,7,614,0,0,0,6.92,UEFA Champions League
+0,Henrikh Mkhitaryan,2022-23,34,"M(CLR),FW",Inter,13,11,910,2,0,0,6.92,UEFA Champions League
+1,André Silva,2022-23,27,FW,RBL,8,6,534,3,1,1,6.92,UEFA Champions League
+2,Darwin Núñez,2022-23,24,"AM(CL),FW",Liverpool,8,5,401,4,0,0,6.92,UEFA Champions League
+3,Florentino,2022-23,24,DMC,Benfica,10,10,862,0,0,0,6.91,UEFA Champions League
+4,Jamal Musiala,2022-23,20,M(CL),Bayern,9,7,534,0,2,0,6.91,UEFA Champions League
+5,David Neres,2022-23,26,AM(CLR),Benfica,9,4,444,3,1,1,6.91,UEFA Champions League
+6,Ferran Torres,2022-23,23,"AM(LR),FW",Barcelona,5,1,184,3,1,0,6.90,UEFA Champions League
+7,Marcos Alonso,2022-23,32,"D(CL),M(L)",Barcelona,5,5,406,1,0,0,6.90,UEFA Champions League
+8,Jordan Henderson,2022-23,33,"D(C),M(CLR)",Liverpool,4,4,281,0,1,0,6.90,UEFA Champions League
+9,Yann Sommer,2022-23,34,GK,Bayern,4,4,360,0,0,0,6.90,UEFA Champions League
+0,Fraser Forster,2022-23,35,GK,Tottenham,2,2,180,0,0,0,6.90,UEFA Champions League
+1,Pierre-Emerick Aubameyang,2022-23,34,"M(CLR),FW",Chelsea,6,6,409,2,2,0,6.90,UEFA Champions League
+2,Julián Álvarez,2022-23,23,"AM(CR),FW",Man City,10,4,468,3,2,1,6.89,UEFA Champions League
+3,Giovanni Simeone,2022-23,28,"AM(R),FW",Napoli,7,2,260,4,0,1,6.89,UEFA Champions League
+4,Antoine Griezmann,2022-23,32,"AM(CLR),FW",Atletico,6,4,406,1,1,0,6.89,UEFA Champions League
+5,Janis Blaswich,2022-23,32,GK,RBL,6,5,527,0,0,0,6.89,UEFA Champions League
+6,Wesley Fofana,2022-23,22,D(C),Chelsea,5,5,398,1,0,0,6.89,UEFA Champions League
+7,Isco,2022-23,31,"M(CLR),FW",Sevilla,6,5,402,1,1,1,6.89,UEFA Champions League
+8,Ibrahima Konaté,2022-23,24,D(C),Liverpool,3,3,259,0,0,0,6.89,UEFA Champions League
+9,Daichi Kamada,2022-23,27,"AM(CLR),FW",Eintracht Frankfurt,8,8,700,3,0,2,6.88,UEFA Champions League
+0,Marco Verratti,2022-23,30,M(C),PSG,7,7,625,0,1,0,6.88,UEFA Champions League
+1,Mattia Perin,2022-23,30,GK,Juventus,2,2,180,0,0,0,6.88,UEFA Champions League
+2,Brandon Mechele,2022-23,30,D(C),Club Bruges,8,8,720,0,0,0,6.87,UEFA Champions League
+3,Simon Kjær,2022-23,34,D(C),AC Milan,6,6,509,0,0,0,6.87,UEFA Champions League
+4,Felipe,2022-23,34,D(C),Atletico,1,1,90,0,0,0,6.87,UEFA Champions League
+5,Théo Hernández,2022-23,25,"D(L),M(L)",AC Milan,11,11,948,0,2,1,6.87,UEFA Champions League
+6,Nicolò Barella,2022-23,26,AM(C),Inter,12,12,997,3,0,0,6.86,UEFA Champions League
+7,Tanguy Ndombélé,2022-23,26,M(C),Napoli,9,3,369,1,1,0,6.86,UEFA Champions League
+8,António Silva,2022-23,19,D(C),Benfica,10,10,896,2,0,0,6.86,UEFA Champions League
+9,Jordan Veretout,2022-23,30,M(C),Marseille,6,6,490,0,1,0,6.86,UEFA Champions League
+0,Denis Zakaria,2022-23,26,"D(C),DMC",Chelsea,2,1,74,1,0,0,6.86,UEFA Champions League
+1,Zeca,2022-23,35,M(C),Copenhagen,2,2,162,0,0,0,6.85,UEFA Champions League
+2,Hirving Lozano,2022-23,28,"AM(LR),FW",Napoli,9,4,464,1,1,0,6.84,UEFA Champions League
+3,Kevin Trapp,2022-23,33,GK,Eintracht Frankfurt,8,8,720,0,0,0,6.84,UEFA Champions League
+4,Kalidou Koulibaly,2022-23,32,D(C),Chelsea,7,7,570,0,0,0,6.84,UEFA Champions League
+5,Pepê Aquino,2022-23,26,"D(R),M(CLR)",Porto,8,8,689,0,0,0,6.84,UEFA Champions League
+6,Luís Neto,2022-23,35,D(C),Sporting,1,0,38,0,0,0,6.84,UEFA Champions League
+7,Andreas Skov Olsen,2022-23,23,M(CR),Club Bruges,5,4,298,1,1,0,6.84,UEFA Champions League
+8,Kai Havertz,2022-23,24,"M(CR),FW",Chelsea,10,7,619,2,0,2,6.84,UEFA Champions League
+9,Thiago Silva,2022-23,38,D(C),Chelsea,8,7,641,0,0,0,6.83,UEFA Champions League
+0,Omer Atzili,2022-23,30,FW,Maccabi Haifa,6,3,310,2,1,1,6.83,UEFA Champions League
+1,Roberto Firmino,2022-23,31,"M(CLR),FW",Liverpool,8,4,416,2,1,1,6.83,UEFA Champions League
+2,Rodrigo Bentancur,2022-23,26,M(C),Tottenham,6,6,506,1,0,0,6.83,UEFA Champions League
+3,Robert Andrich,2022-23,28,M(C),Leverkusen,5,5,409,1,0,1,6.83,UEFA Champions League
+4,Stanislav Lobotka,2022-23,28,DMC,Napoli,10,10,876,0,0,0,6.82,UEFA Champions League
+5,Zaidu Sanusi,2022-23,26,"D(L),M(L)",Porto,8,7,588,1,0,0,6.82,UEFA Champions League
+6,Davide Calabria,2022-23,26,"D(LR),M(R)",AC Milan,6,6,499,0,0,0,6.82,UEFA Champions League
+7,Josko Gvardiol,2022-23,21,D(CL),RBL,6,6,540,2,0,0,6.82,UEFA Champions League
+8,Tanguy Nianzou,2022-23,21,D(C),Sevilla,2,2,180,1,0,1,6.82,UEFA Champions League
+9,Mário Rui,2022-23,32,"D(L),M(L)",Napoli,6,5,388,0,1,0,6.81,UEFA Champions League
+0,Geoffrey Kondogbia,2022-23,30,"D(C),DMC",Atletico,3,2,225,0,0,0,6.81,UEFA Champions League
+1,Nuno Mendes,2022-23,21,"D(L),M(L)",PSG,6,5,441,1,0,0,6.81,UEFA Champions League
+2,Alexis Saelemaekers,2022-23,24,M(R),AC Milan,8,4,371,2,0,2,6.81,UEFA Champions League
+3,Oleksandr Zubkov,2022-23,27,AM(LR),Shakhtar,5,5,370,2,0,0,6.81,UEFA Champions League
+4,Benjamin Pavard,2022-23,27,"D(CLR),M(R)",Bayern,9,7,593,2,0,1,6.81,UEFA Champions League
+5,Leonardo Balerdi,2022-23,24,D(C),Marseille,6,5,490,1,0,0,6.81,UEFA Champions League
+6,Marcão,2022-23,27,D(C),Sevilla,3,3,226,0,0,0,6.81,UEFA Champions League
+7,Sandro Tonali,2022-23,23,DMC,AC Milan,12,12,1053,0,2,1,6.81,UEFA Champions League
+8,Nacho,2022-23,33,D(CLR),Real Madrid,8,4,437,0,0,0,6.81,UEFA Champions League
+9,Son Heung-Min,2022-23,31,"M(CLR),FW",Tottenham,8,8,624,2,0,1,6.80,UEFA Champions League
+0,Francesco Acerbi,2022-23,35,D(C),Inter,12,10,918,0,0,0,6.80,UEFA Champions League
+1,Sven Ulreich,2022-23,35,GK,Bayern,4,4,271,0,0,0,6.80,UEFA Champions League
+2,Owen Wijndal,2022-23,23,D(L),Ajax,2,1,76,0,1,0,6.80,UEFA Champions League
+3,Pedri,2022-23,20,AM(CL),Barcelona,5,5,403,0,0,0,6.80,UEFA Champions League
+4,Raphinha,2022-23,26,"AM(LR),FW",Barcelona,5,4,299,0,2,0,6.79,UEFA Champions League
+5,Dani Carvajal,2022-23,31,D(R),Real Madrid,11,10,873,0,1,0,6.79,UEFA Champions League
+6,Clément Lenglet,2022-23,28,D(C),Tottenham,7,6,511,1,0,0,6.79,UEFA Champions League
+7,Fernando,2022-23,36,"D(C),DMC",Sevilla,1,1,90,0,0,0,6.79,UEFA Champions League
+8,Edson Álvarez,2022-23,25,"D(C),DMC",Ajax,6,6,533,1,0,0,6.79,UEFA Champions League
+9,Denzel Dumfries,2022-23,27,"D(R),M(R)",Inter,12,10,887,1,0,0,6.79,UEFA Champions League
+0,Bjorn Meijer,2022-23,20,"D(L),M(L)",Club Bruges,8,6,572,1,1,0,6.79,UEFA Champions League
+1,Youssef En-Nesyri,2022-23,26,FW,Sevilla,4,3,248,2,0,0,6.78,UEFA Champions League
+2,Mateus Uribe,2022-23,32,DMC,Porto,7,7,613,1,0,0,6.78,UEFA Champions League
+3,Harry Kane,2022-23,30,"AM(C),FW",Tottenham,8,8,720,1,2,0,6.78,UEFA Champions League
+4,Ismaël Bennacer,2022-23,25,M(C),AC Milan,10,9,592,1,0,0,6.78,UEFA Champions League
+5,Mathías Olivera,2022-23,25,"D(L),M(L)",Napoli,8,5,512,0,2,0,6.78,UEFA Champions League
+6,Éder Militão,2022-23,25,D(CR),Real Madrid,10,10,750,1,0,0,6.78,UEFA Champions League
+7,Dominik Szoboszlai,2022-23,22,AM(CLR),RBL,8,8,657,1,2,0,6.77,UEFA Champions League
+8,Mats Hummels,2022-23,34,D(C),Borussia Dortmund,4,4,316,0,0,0,6.77,UEFA Champions League
+9,Ben Chilwell,2022-23,26,"D(L),M(L)",Chelsea,7,7,560,0,0,1,6.77,UEFA Champions League
+0,Juan Cuadrado,2022-23,35,"D(R),M(CLR),FW",Juventus,6,6,437,0,1,0,6.77,UEFA Champions League
+1,Bruno Petkovic,2022-23,28,FW,Dinamo Zagreb,6,6,495,1,2,0,6.76,UEFA Champions League
+2,Harvey Elliott,2022-23,20,AM(CR),Liverpool,8,4,394,2,0,1,6.76,UEFA Champions League
+3,Karim Adeyemi,2022-23,21,"AM(LR),FW",Borussia Dortmund,6,5,379,2,0,0,6.75,UEFA Champions League
+4,Callum Hudson-Odoi,2022-23,22,M(CLR),Leverkusen,6,6,468,1,0,0,6.75,UEFA Champions League
+5,Daniel Sundgren,2022-23,32,"D(R),M(R)",Maccabi Haifa,4,4,325,0,0,0,6.75,UEFA Champions League
+6,Milan Skriniar,2022-23,28,D(C),Inter,8,6,537,0,0,0,6.75,UEFA Champions League
+7,Iván Marcano,2022-23,36,D(CL),Porto,3,3,270,0,0,0,6.75,UEFA Champions League
+8,Serge Gnabry,2022-23,28,"AM(CLR),FW",Bayern,8,3,340,2,3,0,6.75,UEFA Champions League
+9,Valentin Rongier,2022-23,28,"D(R),M(C)",Marseille,6,5,471,0,0,0,6.74,UEFA Champions League
+0,Calvin Bassey,2022-23,23,D(CL),Ajax,6,6,540,0,2,0,6.74,UEFA Champions League
+1,Josip Sutalo,2022-23,23,D(C),Dinamo Zagreb,6,6,540,0,0,0,6.74,UEFA Champions League
+2,Sergio Ramos,2022-23,37,D(CR),PSG,8,8,720,0,0,0,6.74,UEFA Champions League
+3,Cody Gakpo,2022-23,24,"AM(CL),FW",Liverpool,2,2,154,0,0,0,6.74,UEFA Champions League
+4,Sergi Roberto,2022-23,31,"D(R),M(CR)",Barcelona,3,3,208,0,2,0,6.73,UEFA Champions League
+5,Strahinja Pavlovic,2022-23,22,D(C),Salzburg,6,6,540,0,0,0,6.73,UEFA Champions League
+6,Aymeric Laporte,2022-23,29,D(CL),Man City,4,3,292,0,0,0,6.73,UEFA Champions League
+7,Sergio Gómez,2022-23,23,D(L),Man City,5,4,306,0,0,0,6.73,UEFA Champions League
+8,Mateo Kovacic,2022-23,29,M(CL),Chelsea,8,8,627,1,0,0,6.73,UEFA Champions League
+9,Heorhii Sudakov,2022-23,21,M(C),Shakhtar,6,6,486,0,2,0,6.73,UEFA Champions League
+0,Ferran Jutglà,2022-23,24,FW,Club Bruges,8,6,514,2,2,2,6.72,UEFA Champions League
+1,Jules Koundé,2022-23,24,D(CR),Barcelona,3,3,247,0,1,0,6.72,UEFA Champions League
+2,João Félix,2022-23,23,"AM(CL),FW",Chelsea,4,3,245,0,0,0,6.72,UEFA Champions League
+3,Stefan Ortega,2022-23,30,GK,Man City,2,2,180,0,0,0,6.72,UEFA Champions League
+4,Nuno Santos,2022-23,28,M(CLR),Sporting,6,5,299,1,0,0,6.72,UEFA Champions League
+5,Eric Bailly,2022-23,29,D(CR),Marseille,5,5,305,0,0,0,6.71,UEFA Champions League
+6,Jan Oblak,2022-23,30,GK,Atletico,5,5,450,0,0,0,6.71,UEFA Champions League
+7,Kyle Walker,2022-23,33,"D(CR),M(R)",Man City,5,3,280,0,0,0,6.71,UEFA Champions League
+8,Matteo Darmian,2022-23,33,"D(CLR),M(LR)",Inter,11,9,823,0,0,0,6.71,UEFA Champions League
+9,Trevoh Chalobah,2022-23,24,"D(CR),DMC",Chelsea,6,4,437,0,0,0,6.70,UEFA Champions League
+0,Matteo Politano,2022-23,30,"AM(CLR),FW",Napoli,9,6,407,1,1,0,6.70,UEFA Champions League
+1,Nuno Tavares,2022-23,23,"D(L),M(L)",Marseille,6,6,540,0,0,0,6.70,UEFA Champions League
+2,Virgil van Dijk,2022-23,32,D(C),Liverpool,8,8,720,0,0,0,6.70,UEFA Champions League
+3,Steven Bergwijn,2022-23,25,"AM(CLR),FW",Ajax,6,6,524,2,0,0,6.70,UEFA Champions League
+4,Odilon Kossounou,2022-23,22,D(CR),Leverkusen,5,5,429,0,0,0,6.70,UEFA Champions League
+5,Bohdan Mykhailichenko,2022-23,26,D(L),Shakhtar,4,4,360,0,2,0,6.70,UEFA Champions League
+6,Oumar Solet,2022-23,23,D(C),Salzburg,4,4,268,0,0,0,6.69,UEFA Champions League
+7,Noa Lang,2022-23,24,"AM(LR),FW",Club Bruges,4,4,293,0,0,1,6.69,UEFA Champions League
+8,Alexander Meyer,2022-23,32,GK,Borussia Dortmund,5,4,405,0,0,0,6.69,UEFA Champions League
+9,Romelu Lukaku,2022-23,30,"AM(R),FW",Inter,8,0,177,3,1,0,6.69,UEFA Champions League
+0,Dominik Livakovic,2022-23,28,GK,Dinamo Zagreb,6,6,540,0,0,0,6.69,UEFA Champions League
+1,Felix Passlack,2022-23,25,"D(LR),M(CR)",Borussia Dortmund,1,1,90,0,0,0,6.69,UEFA Champions League
+2,Niklas Süle,2022-23,28,D(CR),Borussia Dortmund,8,7,675,0,0,0,6.69,UEFA Champions League
+3,Leandro Paredes,2022-23,29,DMC,Juventus,4,4,311,0,1,0,6.69,UEFA Champions League
+4,Philipp Köhn,2022-23,25,GK,Salzburg,6,6,540,0,0,0,6.69,UEFA Champions League
+5,Diogo Jota,2022-23,26,"AM(CLR),FW",Liverpool,6,3,263,0,4,0,6.68,UEFA Champions League
+6,Dayot Upamecano,2022-23,24,D(C),Bayern,10,9,717,0,0,0,6.68,UEFA Champions League
+7,Noah Okafor,2022-23,23,FW,Salzburg,6,6,471,3,0,0,6.68,UEFA Champions League
+8,Antonio Adán,2022-23,36,GK,Sporting,5,5,383,0,0,2,6.68,UEFA Champions League
+9,Petar Musa,2022-23,25,FW,Benfica,5,0,125,2,0,0,6.68,UEFA Champions League
+0,Mason Mount,2022-23,24,M(CLR),Chelsea,9,5,438,0,1,0,6.68,UEFA Champions League
+1,Richarlison,2022-23,26,"AM(CLR),FW",Tottenham,6,4,366,2,0,1,6.68,UEFA Champions League
+2,Rodrigo De Paul,2022-23,29,"AM(CLR),FW",Atletico,5,1,256,1,0,0,6.67,UEFA Champions League
+3,William Clem,2022-23,19,M(CLR),Copenhagen,2,2,171,0,0,0,6.67,UEFA Champions League
+4,Andreas Christensen,2022-23,27,"D(C),DMC",Barcelona,3,3,218,0,0,0,6.67,UEFA Champions League
+5,Moussa Diaby,2022-23,24,"M(CLR),FW",Leverkusen,6,6,509,2,0,0,6.67,UEFA Champions League
+6,Antonio Rüdiger,2022-23,30,D(CLR),Real Madrid,10,6,676,1,0,1,6.66,UEFA Champions League
+7,Marcelo Brozovic,2022-23,30,M(CR),Inter,9,5,546,0,0,0,6.66,UEFA Champions League
+8,Saúl Ñíguez,2022-23,28,"D(CL),M(CLR)",Atletico,5,4,285,0,0,0,6.66,UEFA Champions League
+9,Gianluigi Donnarumma,2022-23,24,GK,PSG,8,8,720,0,0,0,6.66,UEFA Champions League
+0,Enzo Fernández,2022-23,22,M(C),Chelsea,4,4,334,0,0,0,6.66,UEFA Champions League
+1,Nico Schlotterbeck,2022-23,23,D(C),Borussia Dortmund,8,6,559,0,0,0,6.66,UEFA Champions League
+2,Fabinho,2022-23,29,"D(CR),DMC",Liverpool,8,7,631,0,0,0,6.65,UEFA Champions League
+3,Viktor Claesson,2022-23,31,"M(CLR),FW",Copenhagen,6,6,485,0,1,1,6.65,UEFA Champions League
+4,Maurits Kjærgaard,2022-23,20,M(C),Salzburg,6,6,496,0,0,0,6.65,UEFA Champions League
+5,Emre Can,2022-23,29,"D(CLR),DMC",Borussia Dortmund,7,6,564,0,0,0,6.65,UEFA Champions League
+6,Frenkie de Jong,2022-23,26,"D(C),DMC",Barcelona,4,2,236,0,0,0,6.65,UEFA Champions League
+7,Reinildo,2022-23,29,"D(CL),M(L)",Atletico,6,6,512,0,0,0,6.64,UEFA Champions League
+8,Pierre Kalulu,2022-23,23,D(CR),AC Milan,10,8,750,0,0,0,6.64,UEFA Champions League
+9,Amadou Haidara,2022-23,25,M(CLR),RBL,7,4,341,0,0,0,6.64,UEFA Champions League
+0,Maximilian Wöber,2022-23,25,D(CL),Salzburg,3,2,166,0,1,0,6.64,UEFA Champions League
+1,Fredrik Aursnes,2022-23,27,"D(R),M(CL)",Benfica,10,7,618,1,0,0,6.64,UEFA Champions League
+2,Chiquinho,2022-23,28,"M(C),FW",Benfica,9,4,403,0,1,0,6.64,UEFA Champions League
+3,Amar Dedic,2022-23,21,D(R),Salzburg,6,6,540,0,0,1,6.64,UEFA Champions League
+4,Vitinha,2022-23,23,M(C),PSG,8,7,590,0,0,0,6.64,UEFA Champions League
+5,Hans Vanaken,2022-23,31,AM(CL),Club Bruges,8,8,704,0,0,0,6.64,UEFA Champions League
+6,Edmond Tapsoba,2022-23,24,D(C),Leverkusen,5,4,351,0,0,0,6.63,UEFA Champions League
+7,Evanilson,2022-23,23,FW,Porto,8,6,519,1,1,0,6.63,UEFA Champions League
+8,Marcel Sabitzer,2022-23,29,"M(CLR),FW",Bayern,6,3,279,0,0,0,6.63,UEFA Champions League
+9,Neta Lavi,2022-23,27,M(C),Maccabi Haifa,6,5,468,0,0,0,6.63,UEFA Champions League
+0,Jonathan Tah,2022-23,27,D(C),Leverkusen,6,5,479,0,0,0,6.63,UEFA Champions League
+1,Kamal Sowah,2022-23,23,"M(CLR),FW",Club Bruges,7,7,595,2,0,0,6.62,UEFA Champions League
+2,Raheem Sterling,2022-23,28,"M(CLR),FW",Chelsea,9,8,637,3,1,0,6.62,UEFA Champions League
+3,Emerson Royal,2022-23,24,"D(R),M(R)",Tottenham,8,6,545,0,0,0,6.62,UEFA Champions League
+4,Mattéo Guendouzi,2022-23,24,M(C),Marseille,6,5,419,2,0,0,6.61,UEFA Champions League
+5,Raphael Onyedika,2022-23,22,DMC,Club Bruges,7,6,569,0,0,0,6.61,UEFA Champions League
+6,Mykola Matvienko,2022-23,27,D(CL),Shakhtar,6,6,540,0,0,0,6.61,UEFA Champions League
+7,Denis Odoi,2022-23,35,"D(CLR),DMC",Club Bruges,7,6,524,0,0,0,6.61,UEFA Champions League
+8,Thomas Müller,2022-23,33,"M(CLR),FW",Bayern,8,4,363,1,0,0,6.61,UEFA Champions League
+9,Axel Witsel,2022-23,34,"D(C),M(C)",Atletico,6,5,461,0,1,1,6.61,UEFA Champions League
+0,Taras Stepanenko,2022-23,34,DMC,Shakhtar,6,6,534,0,0,0,6.60,UEFA Champions League
+1,Gonzalo Montiel,2022-23,26,"D(CR),M(R)",Sevilla,4,2,226,1,0,0,6.60,UEFA Champions League
+2,Marco Asensio,2022-23,27,"AM(CLR),FW",Real Madrid,12,2,314,3,1,0,6.60,UEFA Champions League
+3,David Raum,2022-23,25,"D(L),M(LR)",RBL,8,6,533,0,0,1,6.60,UEFA Champions League
+4,Eduardo Camavinga,2022-23,20,"D(L),DMC",Real Madrid,11,8,721,0,1,0,6.60,UEFA Champions League
+5,Matteo Gabbia,2022-23,23,D(C),AC Milan,4,2,209,1,0,0,6.60,UEFA Champions League
+6,Ryan Gravenberch,2022-23,21,DMC,Bayern,6,2,250,0,0,0,6.59,UEFA Champions League
+7,Brahim Díaz,2022-23,24,AM(CLR),AC Milan,10,8,608,1,1,0,6.59,UEFA Champions League
+8,Paulinho,2022-23,30,"AM(CL),FW",Sporting,5,2,235,1,2,0,6.59,UEFA Champions League
+9,Arkadiusz Milik,2022-23,29,"AM(C),FW",Juventus,5,3,339,2,0,0,6.59,UEFA Champions League
+0,Trincão,2022-23,23,AM(CR),Sporting,6,5,389,2,0,0,6.59,UEFA Champions League
+1,Denis Vavro,2022-23,27,D(C),Copenhagen,4,4,360,0,0,1,6.59,UEFA Champions League
+2,Matt O'Riley,2022-23,22,M(CR),Celtic,6,6,485,0,0,0,6.59,UEFA Champions League
+3,Dedryck Boyata,2022-23,32,D(C),Club Bruges,3,1,134,0,0,0,6.58,UEFA Champions League
+4,Giovanni Reyna,2022-23,20,AM(CLR),Borussia Dortmund,6,3,383,0,2,0,6.58,UEFA Champions League
+5,Tjaronn Chery,2022-23,35,"AM(CLR),FW",Maccabi Haifa,6,6,540,2,1,0,6.58,UEFA Champions League
+6,Salih Özcan,2022-23,25,M(C),Borussia Dortmund,7,7,546,0,1,0,6.58,UEFA Champions League
+7,Weston McKennie,2022-23,25,"D(C),M(CLR)",Juventus,5,4,361,2,0,0,6.58,UEFA Champions League
+8,Achraf Hakimi,2022-23,24,"D(LR),M(R)",PSG,8,7,581,0,2,0,6.58,UEFA Champions League
+9,Jonathan Clauss,2022-23,30,"D(R),M(LR)",Marseille,6,6,416,0,1,0,6.57,UEFA Champions League
+0,Ansgar Knauff,2022-23,21,M(LR),Eintracht Frankfurt,6,3,291,0,1,0,6.57,UEFA Champions League
+1,Mitchel Bakker,2022-23,23,"D(L),M(L)",Leverkusen,5,4,338,0,0,0,6.57,UEFA Champions League
+2,Gavi,2022-23,19,AM(CL),Barcelona,5,4,332,0,0,0,6.57,UEFA Champions League
+3,Devyne Rensch,2022-23,20,D(LR),Ajax,4,3,288,0,0,0,6.57,UEFA Champions League
+4,Casper Nielsen,2022-23,29,DMC,Club Bruges,8,7,645,0,1,0,6.56,UEFA Champions League
+5,José Giménez,2022-23,28,D(CR),Atletico,5,5,403,0,0,0,6.56,UEFA Champions League
+6,Pierre Cornud,2022-23,26,D(CLR),Maccabi Haifa,5,5,376,0,1,0,6.56,UEFA Champions League
+7,Josip Misic,2022-23,29,DMC,Dinamo Zagreb,6,6,521,0,0,0,6.56,UEFA Champions League
+8,Dusan Tadic,2022-23,34,"AM(CLR),FW",Ajax,5,5,433,0,1,0,6.55,UEFA Champions League
+9,Alisson Becker,2022-23,30,GK,Liverpool,8,8,720,0,0,0,6.55,UEFA Champions League
+0,Eden Hazard,2022-23,32,"M(CLR),FW",Real Madrid,3,1,132,1,0,0,6.55,UEFA Champions League
+1,Ryan Sessegnon,2022-23,23,"D(L),M(LR)",Tottenham,3,2,155,0,0,0,6.55,UEFA Champions League
+2,Robin Gosens,2022-23,29,"D(L),M(CL)",Inter,11,3,417,1,0,0,6.55,UEFA Champions League
+3,Allan McGregor,2022-23,41,GK,Rangers,5,5,450,0,0,1,6.55,UEFA Champions League
+4,Jhon Mosquera,2022-23,33,AM(L),Viktoria Plzen,5,5,434,0,1,0,6.54,UEFA Champions League
+5,David Alaba,2022-23,31,"D(CL),M(CL)",Real Madrid,11,9,714,0,0,0,6.54,UEFA Champions League
+6,Andy Robertson,2022-23,29,"D(L),M(L)",Liverpool,5,4,380,0,2,0,6.54,UEFA Champions League
+7,Piero Hincapié,2022-23,21,"D(CL),M(L)",Leverkusen,5,5,450,0,0,0,6.54,UEFA Champions League
+8,Rade Krunic,2022-23,29,M(CL),AC Milan,11,9,823,1,0,0,6.54,UEFA Champions League
+9,Luka Sucic,2022-23,20,AM(C),Salzburg,5,5,401,0,0,0,6.54,UEFA Champions League
+0,Andriy Lunin,2022-23,24,GK,Real Madrid,2,2,180,0,0,0,6.54,UEFA Champions League
+1,Ivan Rakitic,2022-23,35,M(CL),Sevilla,6,6,422,0,1,0,6.54,UEFA Champions League
+2,Ruben Loftus-Cheek,2022-23,27,M(CLR),Chelsea,7,2,281,0,1,0,6.53,UEFA Champions League
+3,Bremer,2022-23,26,D(C),Juventus,3,3,270,0,0,0,6.53,UEFA Champions League
+4,Adam Hlozek,2022-23,21,"AM(CL),FW",Leverkusen,6,3,275,0,1,0,6.53,UEFA Champions League
+5,Djibril Sow,2022-23,26,M(C),Eintracht Frankfurt,8,8,720,0,0,1,6.53,UEFA Champions League
+6,Valdemar Lund,2022-23,20,D(CLR),Copenhagen,4,3,305,0,0,0,6.53,UEFA Champions League
+7,Marquinhos,2022-23,29,"D(CR),DMC",PSG,8,8,655,0,0,0,6.53,UEFA Champions League
+8,Tomás Chory,2022-23,28,FW,Viktoria Plzen,6,5,365,2,0,1,6.52,UEFA Champions League
+9,Gerard Piqué,2022-23,36,D(C),Barcelona,4,2,257,0,0,0,6.52,UEFA Champions League
+0,Abakar Sylla,2022-23,20,D(C),Club Bruges,6,6,495,1,0,1,6.52,UEFA Champions League
+1,Japhet Tanganga,2022-23,24,D(CR),Tottenham,1,0,17,0,0,0,6.52,UEFA Champions League
+2,Sebastián Coates,2022-23,32,D(C),Sporting,5,5,395,0,0,0,6.52,UEFA Champions League
+3,Dolev Haziza,2022-23,28,M(CLR),Maccabi Haifa,3,2,211,0,1,0,6.51,UEFA Champions League
+4,Cristian Romero,2022-23,25,D(C),Tottenham,7,7,600,0,0,0,6.51,UEFA Champions League
+5,Ferland Mendy,2022-23,28,"D(L),M(L)",Real Madrid,5,4,347,0,0,0,6.51,UEFA Champions League
+6,Yannick Carrasco,2022-23,30,"D(L),M(CLR),FW",Atletico,6,3,306,1,1,0,6.51,UEFA Champions League
+7,Xaver Schlager,2022-23,25,M(C),RBL,7,7,586,0,0,0,6.51,UEFA Champions League
+8,Gonçalo Inácio,2022-23,22,D(C),Sporting,6,6,540,0,0,0,6.51,UEFA Champions League
+9,Marc Cucurella,2022-23,25,"D(CL),M(L)",Chelsea,8,4,412,0,0,1,6.51,UEFA Champions League
+0,Jesper Lindstrøm,2022-23,23,"AM(CLR),FW",Eintracht Frankfurt,7,7,514,1,0,0,6.50,UEFA Champions League
+1,Pepe,2022-23,40,D(C),Porto,4,4,360,0,0,0,6.50,UEFA Champions League
+2,Frantzdy Pierrot,2022-23,28,FW,Maccabi Haifa,6,6,486,0,2,0,6.50,UEFA Champions League
+3,Kike Salas,2022-23,21,D(C),Sevilla,2,2,180,0,0,0,6.50,UEFA Champions League
+4,Valeriy Bondar,2022-23,24,D(C),Shakhtar,6,6,540,0,0,0,6.50,UEFA Champions League
+5,Thorgan Hazard,2022-23,30,"M(CLR),FW",Borussia Dortmund,5,3,201,1,0,0,6.49,UEFA Champions League
+6,Evan Ndicka,2022-23,24,D(CL),Eintracht Frankfurt,8,8,720,0,1,0,6.49,UEFA Champions League
+7,Kévin Théophile-Catherine,2022-23,33,D(CLR),Dinamo Zagreb,1,1,76,0,0,0,6.49,UEFA Champions League
+8,Fikayo Tomori,2022-23,25,D(CR),AC Milan,10,10,828,0,0,0,6.49,UEFA Champions League
+9,Eric Dier,2022-23,29,"D(CR),DMC",Tottenham,7,7,618,0,0,0,6.49,UEFA Champions League
+0,Lukás Hrádecky,2022-23,33,GK,Leverkusen,6,6,540,0,0,1,6.49,UEFA Champions League
+1,Junior Adamu,2022-23,22,FW,Salzburg,6,2,204,1,1,0,6.49,UEFA Champions League
+2,Joaquín Correa,2022-23,29,"AM(CL),FW",Inter,9,3,301,1,2,0,6.48,UEFA Champions League
+3,Josip Stanisic,2022-23,23,D(R),Bayern,8,3,346,0,0,0,6.48,UEFA Champions League
+4,Franck Kessié,2022-23,26,M(C),Barcelona,6,3,273,1,0,0,6.48,UEFA Champions League
+5,Alex Telles,2022-23,30,"D(CL),M(L)",Sevilla,6,4,391,0,1,0,6.48,UEFA Champions League
+6,Alex Oxlade Chamberlain,2022-23,30,M(CLR),Liverpool,1,0,17,0,0,0,6.48,UEFA Champions League
+7,Adam Vlkanova,2022-23,29,AM(C),Viktoria Plzen,6,6,463,1,1,0,6.48,UEFA Champions League
+8,Robert Ljubicic,2022-23,24,M(L),Dinamo Zagreb,6,6,540,1,0,0,6.48,UEFA Champions League
+9,Sead Haksabanovic,2022-23,24,AM(CLR),Celtic,6,3,228,0,0,0,6.48,UEFA Champions League
+0,Alex Sandro,2022-23,32,"D(CL),M(L)",Juventus,4,2,240,0,0,0,6.48,UEFA Champions League
+1,Callum McGregor,2022-23,30,M(CR),Celtic,3,3,217,0,0,0,6.47,UEFA Champions League
+2,Marcos Acuña,2022-23,31,"D(CL),M(CL)",Sevilla,4,3,220,0,1,0,6.47,UEFA Champions League
+3,Héctor Bellerín,2022-23,28,"D(R),M(R)",Barcelona,2,2,180,0,0,0,6.47,UEFA Champions League
+4,João Félix,2022-23,23,"AM(CL),FW",Atletico,5,3,218,0,0,0,6.47,UEFA Champions League
+5,Pedro Porro,2022-23,23,"D(R),M(R)",Tottenham,1,0,37,0,0,0,6.47,UEFA Champions League
+6,Victor Kristiansen,2022-23,20,D(L),Copenhagen,6,5,482,0,0,0,6.47,UEFA Champions League
+7,Marcel Halstenberg,2022-23,31,"D(CL),M(L)",RBL,4,2,167,0,1,0,6.47,UEFA Champions League
+8,Arthur Gomes,2022-23,25,M(CLR),Sporting,3,1,110,2,0,0,6.47,UEFA Champions League
+9,Willi Orbán,2022-23,30,D(C),RBL,8,8,720,0,0,0,6.46,UEFA Champions League
+0,Nicolás Capaldo,2022-23,24,M(C),Salzburg,3,3,270,0,0,0,6.46,UEFA Champions League
+1,Juan Bernat,2022-23,30,"D(L),M(CL)",PSG,5,3,274,0,0,0,6.46,UEFA Champions League
+2,Papu Gómez,2022-23,35,"M(CLR),FW",Sevilla,5,3,247,0,1,0,6.46,UEFA Champions League
+3,Filip Kostic,2022-23,30,"M(LR),FW",Juventus,6,5,431,0,1,0,6.46,UEFA Champions League
+4,Danilo Pereira,2022-23,31,"D(C),DMC",PSG,7,5,449,0,0,0,6.46,UEFA Champions League
+5,Aurélien Tchouaméni,2022-23,23,DMC,Real Madrid,10,5,431,0,0,0,6.46,UEFA Champions League
+6,Mislav Orsic,2022-23,30,"AM(L),FW",Dinamo Zagreb,6,6,494,2,0,0,6.45,UEFA Champions League
+7,Youssoufa Moukoko,2022-23,18,FW,Borussia Dortmund,6,2,241,0,1,0,6.45,UEFA Champions League
+8,Jeremie Frimpong,2022-23,22,"D(R),M(R)",Leverkusen,5,4,375,0,2,0,6.45,UEFA Champions League
+9,Odysseas Vlachodimos,2022-23,29,GK,Benfica,10,10,900,0,0,0,6.45,UEFA Champions League
+0,Lukas Lerager,2022-23,30,M(CR),Copenhagen,6,5,450,0,0,0,6.45,UEFA Champions League
+1,Makoto Hasebe,2022-23,39,"D(CR),M(CR)",Eintracht Frankfurt,4,3,255,0,0,0,6.45,UEFA Champions League
+2,Conor Gallagher,2022-23,23,AM(C),Chelsea,8,2,299,0,0,0,6.44,UEFA Champions League
+3,Dusan Vlahovic,2022-23,23,FW,Juventus,5,5,413,1,1,0,6.44,UEFA Champions League
+4,Abdoulaye Seck,2022-23,31,D(C),Maccabi Haifa,6,4,396,2,0,0,6.44,UEFA Champions League
+5,Arijan Ademi,2022-23,32,M(C),Dinamo Zagreb,6,6,475,0,0,0,6.44,UEFA Champions League
+6,Greg Taylor,2022-23,25,"D(L),M(L)",Celtic,6,6,540,0,0,0,6.44,UEFA Champions League
+7,Antonio Nusa,2022-23,18,AM(L),Club Bruges,4,0,55,1,0,0,6.44,UEFA Champions League
+8,Eduard Sobol,2022-23,28,"D(L),M(L)",Club Bruges,4,1,108,0,0,0,6.44,UEFA Champions League
+9,Oliver Skipp,2022-23,22,DMC,Tottenham,4,2,209,0,0,0,6.44,UEFA Champions League
+0,Thomas Lemar,2022-23,27,AM(CLR),Atletico,2,1,105,0,0,0,6.44,UEFA Champions League
+1,Rasmus Falk,2022-23,31,AM(CLR),Copenhagen,3,2,189,0,0,0,6.43,UEFA Champions League
+2,Randal Kolo Muani,2022-23,24,"AM(R),FW",Eintracht Frankfurt,7,7,521,2,0,1,6.43,UEFA Champions League
+3,João Cancelo,2022-23,29,"D(LR),M(R)",Bayern,4,2,123,0,1,0,6.43,UEFA Champions League
+4,Mohamed Daramy,2022-23,21,AM(L),Copenhagen,6,6,448,0,0,0,6.42,UEFA Champions League
+5,Jeremiah St. Juste,2022-23,26,"D(CR),DMC",Sporting,4,3,192,0,0,0,6.42,UEFA Champions League
+6,Danilo,2022-23,32,"D(CLR),DMC",Juventus,5,5,428,0,0,0,6.42,UEFA Champions League
+7,Faride Alidou,2022-23,22,AM(L),Eintracht Frankfurt,5,0,69,1,0,0,6.42,UEFA Champions League
+8,Luca Pellegrini,2022-23,24,"D(L),M(L)",Eintracht Frankfurt,4,1,200,0,0,0,6.42,UEFA Champions League
+9,Carlos Soler,2022-23,26,M(CLR),PSG,6,2,155,1,0,0,6.42,UEFA Champions League
+0,Bernardo,2022-23,28,"D(CLR),M(L)",Salzburg,4,2,273,0,0,0,6.42,UEFA Champions League
+1,Nahuel Molina,2022-23,25,"D(R),M(R)",Atletico,6,6,468,0,0,0,6.42,UEFA Champions League
+2,Luka Ivanusec,2022-23,24,AM(CR),Dinamo Zagreb,6,6,527,0,0,0,6.41,UEFA Champions League
+3,Eric García,2022-23,22,D(C),Barcelona,4,2,223,0,1,0,6.41,UEFA Champions League
+4,Manuel Locatelli,2022-23,25,M(C),Juventus,5,2,266,0,0,0,6.41,UEFA Champions League
+5,Ridvan Yilmaz,2022-23,22,"D(L),M(L)",Rangers,1,1,90,0,0,0,6.40,UEFA Champions League
+6,Giorgos Giakoumakis,2022-23,28,FW,Celtic,6,2,244,1,0,1,6.40,UEFA Champions League
+7,Hákon Haraldsson,2022-23,20,M(CLR),Copenhagen,6,3,297,1,0,0,6.40,UEFA Champions League
+8,Kerem Demirbay,2022-23,30,M(C),Leverkusen,5,2,266,0,0,0,6.39,UEFA Champions League
+9,Matt Doherty,2022-23,31,"D(LR),M(LR)",Tottenham,2,1,75,0,0,0,6.39,UEFA Champions League
+0,Renato Sanches,2022-23,26,M(CR),PSG,3,1,140,0,0,0,6.39,UEFA Champions League
+1,Alessandro Zanoli,2022-23,22,"D(R),M(R)",Napoli,2,0,10,0,0,0,6.39,UEFA Champions League
+2,Ben Davies,2022-23,30,"D(CL),M(L)",Tottenham,7,4,389,0,0,0,6.39,UEFA Champions League
+3,Oleh Ocheretko,2022-23,20,M(CLR),Shakhtar,1,0,12,0,0,0,6.39,UEFA Champions League
+4,Lukás Kalvach,2022-23,28,DMC,Viktoria Plzen,6,6,494,0,0,0,6.39,UEFA Champions League
+5,Din David,2022-23,27,FW,Maccabi Haifa,6,3,238,1,0,0,6.39,UEFA Champions League
+6,Gilberto,2022-23,30,"D(R),M(R)",Benfica,5,2,199,0,0,0,6.39,UEFA Champions League
+7,Lucas Vázquez,2022-23,32,"D(R),M(R)",Real Madrid,5,2,198,0,1,0,6.38,UEFA Champions League
+8,Timo Werner,2022-23,27,"AM(CLR),FW",RBL,8,7,504,2,1,0,6.38,UEFA Champions League
+9,Jesús Vallejo,2022-23,26,D(CR),Real Madrid,1,0,17,0,0,0,6.38,UEFA Champions League
+0,Cole Palmer,2022-23,21,AM(C),Man City,4,1,137,0,0,0,6.38,UEFA Champions League
+1,Fábio Carvalho,2022-23,21,AM(CL),Liverpool,4,1,113,0,0,0,6.38,UEFA Champions League
+2,Kenneth Taylor,2022-23,21,DMC,Ajax,6,5,420,0,1,0,6.38,UEFA Champions League
+3,Kevin Diks,2022-23,26,D(R),Copenhagen,6,4,336,0,0,0,6.38,UEFA Champions League
+4,Lassina Traoré,2022-23,22,FW,Shakhtar,6,3,244,1,0,0,6.38,UEFA Champions League
+5,Matheus Reis,2022-23,28,"D(CL),M(L)",Sporting,6,5,508,0,0,0,6.37,UEFA Champions League
+6,Marc Casadó,2022-23,19,M(CLR),Barcelona,1,0,23,0,0,0,6.37,UEFA Champions League
+7,Stefan Savic,2022-23,32,D(C),Atletico,3,3,270,0,0,0,6.37,UEFA Champions League
+8,Patrik Schick,2022-23,27,"AM(R),FW",Leverkusen,5,5,448,0,0,0,6.36,UEFA Champions League
+9,Pau López,2022-23,28,GK,Marseille,6,6,540,0,0,0,6.36,UEFA Champions League
+0,Dário Essugo,2022-23,18,M(CLR),Sporting,1,0,27,0,0,0,6.36,UEFA Champions League
+1,Rochinha,2022-23,28,"AM(CLR),FW",Sporting,1,0,17,0,0,0,6.36,UEFA Champions League
+2,Édouard Mendy,2022-23,31,GK,Chelsea,1,1,90,0,0,0,6.36,UEFA Champions League
+3,Josip Juranovic,2022-23,28,"D(LR),M(R)",Celtic,6,6,540,0,0,0,6.36,UEFA Champions League
+4,Fabián Ruiz,2022-23,27,M(CL),PSG,7,3,237,0,0,0,6.35,UEFA Champions League
+5,Sebastian Rode,2022-23,32,"D(R),M(C)",Eintracht Frankfurt,6,3,299,0,1,0,6.35,UEFA Champions League
+6,Mario Götze,2022-23,31,"M(CLR),FW",Eintracht Frankfurt,7,6,524,0,2,0,6.35,UEFA Champions League
+7,Lucas Taylor,2022-23,28,D(R),Shakhtar,5,3,309,0,0,0,6.35,UEFA Champions League
+8,David Carmo,2022-23,24,D(C),Porto,5,5,450,0,0,0,6.35,UEFA Champions League
+9,Gonçalo Guedes,2022-23,26,"AM(CLR),FW",Benfica,2,0,41,0,0,0,6.35,UEFA Champions League
+0,Kristjan Asllani,2022-23,21,M(C),Inter,5,1,125,0,0,0,6.35,UEFA Champions League
+1,Ante Rebic,2022-23,29,"AM(CLR),FW",AC Milan,7,2,246,0,0,0,6.35,UEFA Champions League
+2,Jindrich Stanek,2022-23,27,GK,Viktoria Plzen,5,5,450,0,0,0,6.34,UEFA Champions League
+3,Adnan Januzaj,2022-23,28,AM(CLR),Sevilla,3,0,49,0,0,0,6.34,UEFA Champions League
+4,Hakim Ziyech,2022-23,30,M(CLR),Chelsea,4,1,146,0,0,0,6.34,UEFA Champions League
+5,Tajon Buchanan,2022-23,24,"D(R),M(CLR)",Club Bruges,6,6,522,0,1,0,6.34,UEFA Champions League
+6,Abdul Fatawu,2022-23,19,FW,Sporting,2,0,87,0,0,0,6.34,UEFA Champions League
+7,Jan Sykora,2022-23,29,M(CR),Viktoria Plzen,2,2,150,1,0,0,6.34,UEFA Champions League
+8,Stefan de Vrij,2022-23,31,D(C),Inter,7,3,298,0,0,0,6.34,UEFA Champions League
+9,Wendell,2022-23,30,"D(CL),M(L)",Porto,6,1,139,0,0,0,6.34,UEFA Champions League
+0,Emil Forsberg,2022-23,31,"AM(CLR),FW",RBL,8,4,402,1,0,0,6.34,UEFA Champions League
+1,Josh Wilson-Esbrand,2022-23,20,M(L),Man City,2,0,44,0,0,0,6.34,UEFA Champions League
+2,Andreas Ulmer,2022-23,37,D(L),Salzburg,6,4,374,0,0,0,6.33,UEFA Champions League
+3,Nemanja Gudelj,2022-23,31,"D(C),M(C)",Sevilla,6,5,495,0,0,0,6.33,UEFA Champions League
+4,Dijon Kameri,2022-23,19,M(CLR),Salzburg,4,1,119,0,0,0,6.33,UEFA Champions League
+5,Mohamed Abu Fani,2022-23,25,M(C),Maccabi Haifa,6,4,400,0,0,0,6.33,UEFA Champions League
+6,Jorge Sánchez,2022-23,25,D(R),Ajax,5,3,269,0,0,0,6.33,UEFA Champions League
+7,Hidemasa Morita,2022-23,28,DMC,Sporting,5,5,334,0,1,0,6.33,UEFA Champions League
+8,Hrvoje Smolcic,2022-23,23,D(C),Eintracht Frankfurt,3,1,120,0,0,0,6.32,UEFA Champions League
+9,Marián Tvrdon,2022-23,29,GK,Viktoria Plzen,1,1,90,0,0,0,6.32,UEFA Champions League
+0,Nicolò Fagioli,2022-23,22,M(C),Juventus,2,1,108,0,0,0,6.32,UEFA Champions League
+1,Francisco Conceição,2022-23,20,AM(R),Ajax,3,0,13,1,0,0,6.32,UEFA Champions League
+2,Oliver Abildgaard,2022-23,27,DMC,Celtic,2,0,61,0,0,0,6.32,UEFA Champions League
+3,Paulinho,2022-23,23,"AM(CLR),FW",Leverkusen,2,0,47,0,0,0,6.32,UEFA Champions League
+4,Cameron Carter-Vickers,2022-23,25,D(C),Celtic,4,4,360,0,0,0,6.31,UEFA Champions League
+5,Koke,2022-23,31,M(CLR),Atletico,4,4,330,0,0,0,6.31,UEFA Champions League
+6,André Franco,2022-23,25,AM(CR),Porto,1,0,20,0,0,0,6.31,UEFA Champions League
+7,Marc-André ter Stegen,2022-23,31,GK,Barcelona,5,5,450,0,0,0,6.31,UEFA Champions League
+8,Dani Ceballos,2022-23,27,M(CL),Real Madrid,7,0,80,0,0,0,6.31,UEFA Champions League
+9,James Tavernier,2022-23,31,D(R),Rangers,6,6,488,1,0,0,6.30,UEFA Champions League
+0,Rasmus Lauritsen,2022-23,27,D(C),Dinamo Zagreb,1,0,14,0,0,0,6.30,UEFA Champions League
+1,Matheus Cunha,2022-23,24,"AM(CL),FW",Atletico,5,0,117,0,0,0,6.30,UEFA Champions League
+2,Dario Spikic,2022-23,24,FW,Dinamo Zagreb,6,1,164,0,0,0,6.29,UEFA Champions League
+3,César Azpilicueta,2022-23,34,"D(CLR),M(R)",Chelsea,5,3,261,0,0,0,6.29,UEFA Champions League
+4,João Neves,2022-23,18,DMC,Benfica,3,0,27,0,1,0,6.29,UEFA Champions League
+5,Matías Soulé,2022-23,20,FW,Juventus,3,0,41,0,0,0,6.29,UEFA Champions League
+6,Dani Olmo,2022-23,25,"AM(CLR),FW",RBL,3,0,62,0,0,0,6.29,UEFA Champions League
+7,Federico Gatti,2022-23,25,D(C),Juventus,2,2,180,0,0,0,6.29,UEFA Champions League
+8,Mykhailo Mudryk,2022-23,22,AM(L),Chelsea,2,1,93,0,0,0,6.29,UEFA Champions League
+9,Charles Aránguiz,2022-23,34,M(C),Leverkusen,4,3,216,0,0,0,6.29,UEFA Champions League
+0,Fashion Sakala Jnr,2022-23,26,"AM(LR),FW",Rangers,4,2,235,0,0,0,6.29,UEFA Champions League
+1,Dylan Batubinsika,2022-23,27,D(C),Maccabi Haifa,5,5,450,0,0,0,6.29,UEFA Champions League
+2,James Milner,2022-23,37,"D(LR),M(CLR)",Liverpool,8,3,240,0,0,0,6.28,UEFA Champions League
+3,Paul Mukairu,2022-23,23,"AM(LR),FW",Copenhagen,3,0,42,0,0,0,6.28,UEFA Champions League
+4,Ísak Bergmann Jóhannesson,2022-23,20,M(C),Copenhagen,5,3,291,0,0,0,6.28,UEFA Champions League
+5,Cengiz Ünder,2022-23,26,M(CLR),Marseille,6,1,169,0,0,0,6.28,UEFA Champions League
+6,Dejan Kulusevski,2022-23,23,"AM(CR),FW",Tottenham,4,2,200,0,0,0,6.28,UEFA Champions League
+7,Erik Lamela,2022-23,31,"AM(CLR),FW",Sevilla,5,2,276,0,0,0,6.28,UEFA Champions League
+8,Abdou Diallo,2022-23,27,D(CL),RBL,5,2,223,0,0,0,6.28,UEFA Champions League
+9,Joe Gomez,2022-23,26,D(CLR),Liverpool,5,4,300,0,1,0,6.28,UEFA Champions League
+0,Rafa Mir,2022-23,26,FW,Sevilla,3,1,155,1,0,0,6.28,UEFA Champions League
+1,Stefan Ristovski,2022-23,31,"D(CR),M(R)",Dinamo Zagreb,6,6,375,0,0,0,6.27,UEFA Champions League
+2,Junior Messias,2022-23,32,"M(CR),FW",AC Milan,9,2,312,1,0,0,6.27,UEFA Champions League
+3,Alessio Zerbin,2022-23,24,FW,Napoli,3,0,53,0,0,0,6.27,UEFA Champions League
+4,Sadegh Moharrami,2022-23,27,D(R),Dinamo Zagreb,6,5,410,0,0,0,6.27,UEFA Champions League
+5,José Marsà,2022-23,21,D(CLR),Sporting,2,0,100,0,0,0,6.27,UEFA Champions League
+6,N'Golo Kanté,2022-23,32,M(C),Chelsea,2,2,165,0,0,0,6.27,UEFA Champions League
+7,Marius Wolf,2022-23,28,"D(R),M(CLR)",Borussia Dortmund,4,2,175,0,0,0,6.27,UEFA Champions League
+8,Yukhym Konoplya,2022-23,24,D(R),Shakhtar,5,5,419,0,0,0,6.27,UEFA Champions League
+9,Mario Hermoso,2022-23,28,D(CL),Atletico,3,2,158,1,0,0,6.26,UEFA Champions League
+0,Leonardo Bonucci,2022-23,36,D(C),Juventus,6,5,443,1,0,0,6.26,UEFA Champions League
+1,Ali Muhammad,2022-23,27,M(C),Maccabi Haifa,5,5,361,0,0,0,6.26,UEFA Champions League
+2,Artem Bondarenko,2022-23,23,M(C),Shakhtar,6,6,487,0,0,0,6.26,UEFA Champions League
+3,Yves Bissouma,2022-23,27,M(C),Tottenham,3,0,89,0,0,0,6.26,UEFA Champions League
+4,Tommaso Pobega,2022-23,24,M(C),AC Milan,8,0,154,1,0,0,6.25,UEFA Champions League
+5,Nadiem Amiri,2022-23,26,M(CLR),Leverkusen,5,1,120,0,1,0,6.25,UEFA Champions League
+6,Curtis Jones,2022-23,22,AM(CL),Liverpool,2,1,100,0,0,0,6.25,UEFA Champions League
+7,Lucas Gourna-Douath,2022-23,20,DMC,Salzburg,6,3,315,0,0,0,6.25,UEFA Champions League
+8,Václav Jemelka,2022-23,28,D(C),Viktoria Plzen,6,4,363,0,1,0,6.24,UEFA Champions League
+9,Morato,2022-23,22,D(C),Benfica,2,1,106,0,0,0,6.24,UEFA Champions League
+0,Jorne Spileers,2022-23,18,D(C),Club Bruges,1,0,1,0,0,0,6.24,UEFA Champions League
+1,Sotirios Alexandropoulos,2022-23,21,M(CLR),Sporting,3,0,119,0,0,0,6.24,UEFA Champions League
+2,Christian Pulisic,2022-23,24,"M(CLR),FW",Chelsea,5,1,111,0,1,0,6.24,UEFA Champions League
+3,Samuel Gigot,2022-23,29,D(C),Marseille,5,2,250,0,0,0,6.24,UEFA Champions League
+4,Tuta,2022-23,24,D(C),Eintracht Frankfurt,7,7,599,0,0,0,6.24,UEFA Champions League
+5,Sergio Busquets,2022-23,35,DMC,Barcelona,4,4,291,0,0,0,6.24,UEFA Champions League
+6,Benjamin Sesko,2022-23,20,FW,Salzburg,6,3,328,0,0,0,6.23,UEFA Champions League
+7,Calvin Ramsay,2022-23,20,D(R),Liverpool,1,0,3,0,0,0,6.23,UEFA Champions League
+8,Dimitri Payet,2022-23,36,"M(CLR),FW",Marseille,2,1,78,0,0,0,6.23,UEFA Champions League
+9,Mateus Fernandes,2022-23,19,M(CLR),Sporting,1,0,29,0,0,0,6.23,UEFA Champions League
+0,Mathys Tel,2022-23,18,FW,Bayern,5,0,141,0,0,0,6.23,UEFA Champions League
+1,Presnel Kimpembe,2022-23,28,D(C),PSG,3,1,146,0,0,0,6.23,UEFA Champions League
+2,Modou N'Diaye,2022-23,26,M(CLR),Viktoria Plzen,4,2,181,0,0,0,6.23,UEFA Champions League
+3,Yassine Bounou,2022-23,32,GK,Sevilla,4,4,360,0,0,0,6.23,UEFA Champions League
+4,Marcos Llorente,2022-23,28,"D(R),M(CR),FW",Atletico,3,3,213,0,0,0,6.23,UEFA Champions League
+5,Ansu Fati,2022-23,20,"AM(L),FW",Barcelona,6,2,239,0,0,0,6.23,UEFA Champions League
+6,Ryan Kent,2022-23,26,AM(CLR),Rangers,6,6,510,0,0,0,6.22,UEFA Champions League
+7,Diogo Gonçalves,2022-23,26,"D(R),M(LR)",Benfica,4,0,35,0,0,0,6.22,UEFA Champions League
+8,Thomas Delaney,2022-23,32,DMC,Sevilla,4,3,231,0,0,0,6.22,UEFA Champions League
+9,Malik Tillman,2022-23,21,AM(CR),Rangers,5,4,247,0,0,0,6.22,UEFA Champions League
+0,Moise Kean,2022-23,23,"AM(LR),FW",Juventus,5,1,108,1,0,0,6.22,UEFA Champions League
+1,Tommaso Barbieri,2022-23,21,D(CLR),Juventus,1,0,2,0,0,0,6.22,UEFA Champions League
+2,Roberto Gagliardini,2022-23,29,DMC,Inter,6,1,112,0,0,0,6.22,UEFA Champions League
+3,Stefan Bajcetic,2022-23,18,M(C),Liverpool,4,1,108,0,0,0,6.21,UEFA Champions League
+4,Joan Jordán,2022-23,29,M(C),Sevilla,6,2,259,0,0,0,6.21,UEFA Champions League
+5,Eljif Elmas,2022-23,23,M(CLR),Napoli,10,2,279,0,0,0,6.21,UEFA Champions League
+6,Lucas Moura,2022-23,31,"AM(CLR),FW",Tottenham,3,2,175,0,0,0,6.21,UEFA Champions League
+7,Mats Rits,2022-23,30,M(CR),Club Bruges,1,0,16,0,0,0,6.21,UEFA Champions League
+8,Suso,2022-23,29,"AM(CLR),FW",Sevilla,6,3,239,0,0,0,6.21,UEFA Champions League
+9,Reo Hatate,2022-23,25,DMC,Celtic,6,6,454,0,0,0,6.21,UEFA Champions League
+0,Connor Goldson,2022-23,30,D(C),Rangers,4,4,315,0,0,0,6.21,UEFA Champions League
+1,Nicolai Boilesen,2022-23,31,D(L),Copenhagen,2,1,99,0,0,0,6.21,UEFA Champions League
+2,João Mário,2022-23,23,D(R),Porto,5,4,273,0,0,0,6.20,UEFA Champions League
+3,Kristijan Jakic,2022-23,26,"D(CR),DMC",Eintracht Frankfurt,8,7,619,0,0,0,6.20,UEFA Champions League
+4,Daniel Namaso,2022-23,23,"AM(C),FW",Porto,3,0,51,0,0,0,6.20,UEFA Champions League
+5,Sébastien Haller,2022-23,29,FW,Borussia Dortmund,2,2,145,0,0,0,6.20,UEFA Champions League
+6,Anthony Modeste,2022-23,35,FW,Borussia Dortmund,7,4,338,0,0,0,6.20,UEFA Champions League
+7,Ales Cermák,2022-23,28,AM(C),Viktoria Plzen,3,0,30,0,0,0,6.20,UEFA Champions League
+8,Pablo Sarabia,2022-23,31,"D(L),M(CLR),FW",PSG,3,1,90,0,0,0,6.19,UEFA Champions League
+9,Wojciech Szczesny,2022-23,33,GK,Juventus,4,4,360,0,0,0,6.19,UEFA Champions League
+0,Gianluca Gaetano,2022-23,23,M(CLR),Napoli,3,0,28,0,0,0,6.19,UEFA Champions League
+1,Libor Holík,2022-23,25,D(CLR),Viktoria Plzen,6,2,288,0,1,0,6.19,UEFA Champions League
+2,Pablo Barrios,2022-23,20,M(C),Atletico,1,0,5,0,0,0,6.19,UEFA Champions League
+3,Pablo Torre,2022-23,20,M(CLR),Barcelona,3,1,94,1,0,0,6.19,UEFA Champions League
+4,Timothy Chandler,2022-23,33,"D(R),M(LR)",Eintracht Frankfurt,1,0,11,0,0,0,6.19,UEFA Champions League
+5,Daley Blind,2022-23,33,"D(CL),DMC,M(L)",Ajax,5,5,410,0,0,0,6.19,UEFA Champions League
+6,Kasper Dolberg,2022-23,25,FW,Sevilla,4,1,108,0,0,0,6.19,UEFA Champions League
+7,Jesús Navas,2022-23,37,"D(R),M(R)",Sevilla,3,3,226,0,0,0,6.18,UEFA Champions League
+8,Bryan Gil,2022-23,22,AM(CLR),Tottenham,4,0,36,0,0,0,6.18,UEFA Champions League
+9,Alexandro Bernabéi,2022-23,22,D(L),Celtic,1,0,10,0,0,0,6.18,UEFA Champions League
+0,Josh Cohen,2022-23,31,GK,Maccabi Haifa,6,6,540,0,0,0,6.18,UEFA Champions League
+1,Álvaro Morata,2022-23,30,"AM(L),FW",Atletico,5,4,298,0,0,0,6.17,UEFA Champions League
+2,Éder Balanta,2022-23,30,"D(C),DMC",Club Bruges,4,0,44,0,0,0,6.17,UEFA Champions League
+3,El Chadaille Bitshiabu,2022-23,18,D(C),PSG,1,0,45,0,0,0,6.17,UEFA Champions League
+4,Suf Podgoreanu,2022-23,21,FW,Maccabi Haifa,1,0,11,0,0,0,6.17,UEFA Champions League
+5,Pape Gueye,2022-23,24,DMC,Marseille,3,0,34,0,0,0,6.17,UEFA Champions League
+6,Kalvin Phillips,2022-23,27,"D(C),DMC",Man City,3,0,39,0,0,0,6.17,UEFA Champions League
+7,Mattia De Sciglio,2022-23,30,"D(CLR),M(LR)",Juventus,3,1,94,0,0,0,6.17,UEFA Champions League
+8,Warren Zaïre-Emery,2022-23,17,"DMC,M(R)",PSG,3,1,82,0,0,0,6.17,UEFA Champions League
+9,Elias Jelert,2022-23,20,D(CLR),Copenhagen,4,2,191,0,0,0,6.17,UEFA Champions League
+0,Moritz Jenz,2022-23,24,D(C),Celtic,6,6,540,0,0,0,6.17,UEFA Champions League
+1,Toni Martínez,2022-23,26,FW,Porto,7,0,107,0,0,0,6.16,UEFA Champions League
+2,Pote,2022-23,25,M(CLR),Sporting,5,5,365,0,1,0,6.16,UEFA Champions League
+3,Kevin Kampl,2022-23,32,M(CLR),RBL,5,3,273,0,0,0,6.16,UEFA Champions League
+4,Mathew Ryan,2022-23,31,GK,Copenhagen,2,2,180,0,0,0,6.15,UEFA Champions League
+5,Paul Wanner,2022-23,17,M(CLR),Bayern,2,0,34,0,0,0,6.15,UEFA Champions League
+6,Junior Dina Ebimbe,2022-23,22,M(CR),Eintracht Frankfurt,6,3,240,0,0,0,6.15,UEFA Champions League
+7,Daizen Maeda,2022-23,25,"AM(LR),FW",Celtic,6,3,333,0,0,0,6.15,UEFA Champions League
+8,Erik Jirka,2022-23,25,AM(R),Viktoria Plzen,6,2,263,0,0,0,6.15,UEFA Champions League
+9,Petar Bockaj,2022-23,27,M(CLR),Dinamo Zagreb,3,0,36,0,0,0,6.15,UEFA Champions League
+0,Carl Starfelt,2022-23,28,D(C),Celtic,1,1,90,0,0,0,6.15,UEFA Champions League
+1,Nordi Mukiele,2022-23,25,"D(CR),M(R)",PSG,4,1,110,0,0,0,6.15,UEFA Champions League
+2,Gerson,2022-23,26,M(CLR),Marseille,3,2,122,0,0,0,6.15,UEFA Champions League
+3,Lucas Veríssimo,2022-23,28,D(CR),Benfica,2,0,4,0,0,0,6.15,UEFA Champions League
+4,Bruno Costa,2022-23,26,"D(R),M(C)",Porto,3,1,72,0,0,0,6.14,UEFA Champions League
+5,Kyogo Furuhashi,2022-23,28,FW,Celtic,6,5,361,0,1,0,6.14,UEFA Champions League
+6,Davit Khocholava,2022-23,30,D(C),Copenhagen,5,5,431,0,0,0,6.14,UEFA Champions League
+7,Václav Pilar,2022-23,34,AM(L),Viktoria Plzen,5,1,119,0,0,0,6.14,UEFA Champions League
+8,Exequiel Palacios,2022-23,24,M(C),Leverkusen,2,1,91,0,0,0,6.14,UEFA Champions League
+9,Donyell Malen,2022-23,24,"AM(LR),FW",Borussia Dortmund,6,2,245,0,0,0,6.14,UEFA Champions League
+0,Divock Origi,2022-23,28,"AM(LR),FW",AC Milan,8,0,145,0,0,0,6.14,UEFA Champions League
+1,Sead Kolasinac,2022-23,30,"D(CL),DMC,M(L)",Marseille,4,1,150,0,0,0,6.14,UEFA Champions League
+2,Fodé Ballo-Touré,2022-23,26,"D(L),M(L)",AC Milan,4,1,132,0,0,0,6.13,UEFA Champions League
+3,Scott Arfield,2022-23,34,M(CLR),Rangers,4,3,268,1,0,0,6.13,UEFA Champions League
+4,José Ángel Carmona,2022-23,21,"D(CR),M(R)",Sevilla,5,5,450,0,0,0,6.13,UEFA Champions League
+5,Christopher Lenz,2022-23,28,"D(L),M(L)",Eintracht Frankfurt,5,4,229,0,0,0,6.13,UEFA Champions League
+6,Alejandro Balde,2022-23,19,D(LR),Barcelona,4,1,167,0,0,0,6.13,UEFA Champions League
+7,Soumaïla Coulibaly,2022-23,19,D(CLR),Borussia Dortmund,1,0,18,0,0,0,6.13,UEFA Champions League
+8,Sardar Azmoun,2022-23,28,"AM(C),FW",Leverkusen,2,0,5,0,0,0,6.13,UEFA Champions League
+9,Flávio Nazinho,2022-23,20,D(CLR),Sporting,3,0,119,0,0,0,6.12,UEFA Champions League
+0,Ivo Grbic,2022-23,27,GK,Atletico,1,1,90,0,0,0,6.12,UEFA Champions League
+1,Lynnt Audoor,2022-23,19,M(CLR),Club Bruges,1,0,10,0,0,0,6.12,UEFA Champions League
+2,Mariano Díaz,2022-23,30,FW,Real Madrid,1,0,5,0,0,0,6.12,UEFA Champions League
+3,Marko Bulat,2022-23,21,M(CLR),Dinamo Zagreb,3,0,27,0,0,0,6.12,UEFA Champions League
+4,Liel Abada,2022-23,21,AM(R),Celtic,5,4,220,0,0,0,6.11,UEFA Champions League
+5,Juan Jesus,2022-23,32,D(CL),Napoli,3,2,204,0,0,0,6.11,UEFA Champions League
+6,Amine Adli,2022-23,23,"AM(CLR),FW",Leverkusen,4,1,118,0,0,0,6.11,UEFA Champions League
+7,Julian Draxler,2022-23,29,"AM(CLR),FW",Benfica,3,0,28,0,0,0,6.11,UEFA Champions League
+8,Charles De Ketelaere,2022-23,22,"M(CLR),FW",AC Milan,6,3,233,0,0,0,6.10,UEFA Champions League
+9,Raoul Bellanova,2022-23,23,M(R),Inter,3,1,118,0,0,0,6.10,UEFA Champions League
+0,Álvaro Sanz,2022-23,22,M(CLR),Barcelona,1,0,13,0,0,0,6.10,UEFA Champions League
+1,Jurriën Timber,2022-23,22,D(CR),Ajax,6,6,530,0,0,0,6.10,UEFA Champions League
+2,Issa Kaboré,2022-23,22,"D(R),M(R)",Marseille,4,0,108,0,0,0,6.10,UEFA Champions League
+3,Danilo D'Ambrosio,2022-23,34,"D(CLR),M(LR)",Inter,6,1,155,0,0,0,6.10,UEFA Champions League
+4,Neven Djurasek,2022-23,25,M(CLR),Shakhtar,5,0,86,0,0,0,6.10,UEFA Champions League
+5,Davinson Sánchez,2022-23,27,D(C),Tottenham,2,0,19,0,0,0,6.10,UEFA Champions League
+6,Milan Havel,2022-23,29,D(R),Viktoria Plzen,6,5,425,0,0,0,6.09,UEFA Champions League
+7,Nikita Rukavytsya,2022-23,36,FW,Maccabi Haifa,6,0,43,0,0,0,6.09,UEFA Champions League
+8,Christian Sørensen,2022-23,31,D(CLR),Copenhagen,5,1,99,0,0,0,6.09,UEFA Champions League
+9,Memphis Depay,2022-23,29,"AM(CL),FW",Barcelona,1,0,16,0,0,0,6.09,UEFA Champions League
+0,Rafael Borré,2022-23,27,"AM(C),FW",Eintracht Frankfurt,8,1,221,0,0,0,6.09,UEFA Champions League
+1,Youri Baas,2022-23,20,D(CLR),Ajax,3,0,39,0,0,0,6.09,UEFA Champions League
+2,Ángel Correa,2022-23,28,"AM(CLR),FW",Atletico,6,3,284,0,1,0,6.08,UEFA Champions League
+3,Andreas Schjelderup,2022-23,19,FW,Benfica,1,0,1,0,0,0,6.08,UEFA Champions League
+4,Federico Chiesa,2022-23,25,"M(CLR),FW",Juventus,1,0,16,0,0,0,6.08,UEFA Champions League
+5,Sean Goldberg,2022-23,28,D(C),Maccabi Haifa,6,6,540,0,0,0,6.08,UEFA Champions League
+6,Brian Brobbey,2022-23,21,FW,Ajax,5,1,111,0,0,0,6.08,UEFA Champions League
+7,Tom Rothe,2022-23,18,M(L),Borussia Dortmund,3,1,60,0,0,0,6.08,UEFA Champions League
+8,Hugo Ekitike,2022-23,21,FW,PSG,4,0,58,0,0,0,6.08,UEFA Champions League
+9,Timothy Fosu-Mensah,2022-23,25,D(CR),Leverkusen,3,0,7,0,0,0,6.07,UEFA Champions League
+0,Arthur,2022-23,27,DMC,Liverpool,1,0,13,0,0,0,6.07,UEFA Champions League
+1,Mahir Emreli,2022-23,26,"AM(LR),FW",Dinamo Zagreb,1,0,21,0,0,0,6.07,UEFA Champions League
+2,Ofri Arad,2022-23,24,D(CLR),Maccabi Haifa,2,0,20,0,0,0,6.07,UEFA Champions League
+3,Stephen Welsh,2022-23,23,D(C),Celtic,1,1,90,0,0,0,6.07,UEFA Champions League
+4,Remko Pasveer,2022-23,39,GK,Ajax,6,6,540,0,0,0,6.07,UEFA Champions League
+5,Davy Klaassen,2022-23,30,M(CL),Ajax,5,2,209,1,0,0,6.07,UEFA Champions League
+6,James Forrest,2022-23,32,M(LR),Celtic,3,0,89,0,0,0,6.07,UEFA Champions League
+7,Philipp Max,2022-23,29,"D(L),M(L)",Eintracht Frankfurt,2,1,113,0,0,0,6.07,UEFA Champions League
+8,Marko Stamenic,2022-23,21,M(CLR),Copenhagen,3,3,270,0,0,0,6.06,UEFA Champions League
+9,Mohamed Tijani,2022-23,26,D(CLR),Viktoria Plzen,3,2,168,0,0,0,6.06,UEFA Champions League
+0,James McCarthy,2022-23,32,M(C),Celtic,1,0,8,0,0,0,6.06,UEFA Champions League
+1,Jovane Cabral,2022-23,25,"AM(CLR),FW",Sporting,1,0,12,0,0,0,6.06,UEFA Champions League
+2,Lukas Klostermann,2022-23,27,"D(CLR),M(R)",RBL,2,1,56,0,0,0,6.06,UEFA Champions League
+3,Roman Yaremchuk,2022-23,27,FW,Club Bruges,4,1,110,0,0,0,6.06,UEFA Champions League
+4,Andreas Cornelius,2022-23,30,FW,Copenhagen,2,1,108,0,0,0,6.05,UEFA Champions League
+5,Rodrigo Conceição,2022-23,23,D(R),Porto,2,0,3,0,0,0,6.05,UEFA Champions League
+6,Ronald Araújo,2022-23,24,D(CR),Barcelona,1,1,90,0,0,0,6.05,UEFA Champions League
+7,Ryan Jack,2022-23,31,DMC,Rangers,4,2,192,0,1,0,6.05,UEFA Champions League
+8,Steven Davis,2022-23,38,M(CLR),Rangers,5,3,251,0,0,0,6.05,UEFA Champions League
+9,Raz Meir,2022-23,26,D(CLR),Maccabi Haifa,2,1,82,0,0,0,6.05,UEFA Champions League
+0,Roony Bardghji,2022-23,17,M(CLR),Copenhagen,2,1,97,0,0,0,6.04,UEFA Champions League
+1,Bernardo Folha,2022-23,21,M(CLR),Porto,2,0,6,0,0,0,6.04,UEFA Champions League
+2,Luis Suárez,2022-23,25,"AM(L),FW",Marseille,4,1,113,0,0,0,6.03,UEFA Champions League
+3,Alfredo Morelos,2022-23,27,FW,Rangers,5,3,258,0,0,0,6.03,UEFA Champions League
+4,Andrii Totovytskyi,2022-23,30,M(CLR),Shakhtar,1,0,16,0,0,0,6.03,UEFA Champions League
+5,Gonçalo Borges,2022-23,22,FW,Porto,4,0,36,0,0,0,6.03,UEFA Champions League
+6,Martin Baturina,2022-23,20,M(CLR),Dinamo Zagreb,5,0,54,0,0,0,6.02,UEFA Champions League
+7,Konrad Laimer,2022-23,26,"D(R),M(CR)",RBL,3,3,262,0,0,0,6.01,UEFA Champions League
+8,Arnaut Danjuma,2022-23,26,"AM(L),FW",Tottenham,1,0,9,0,0,0,6.01,UEFA Champions League
+9,Rabbi Matondo,2022-23,22,"AM(LR),FW",Rangers,5,0,93,0,0,0,6.01,UEFA Champions League
+0,Armando Broja,2022-23,21,FW,Chelsea,5,0,112,0,0,0,6.01,UEFA Champions League
+1,Aurélio Buta,2022-23,26,"D(R),M(R)",Eintracht Frankfurt,2,2,159,0,0,0,6.01,UEFA Champions League
+2,Franco Israel,2022-23,23,GK,Sporting,2,1,154,0,0,0,6.01,UEFA Champions League
+3,Ivan Petryak,2022-23,29,M(L),Shakhtar,6,1,178,0,0,0,6.01,UEFA Champions League
+4,Sun Menachem,2022-23,30,M(L),Maccabi Haifa,4,0,56,0,0,0,6.01,UEFA Champions League
+5,Antonios Papadopoulos,2022-23,23,D(CLR),Borussia Dortmund,2,0,8,0,0,0,6.00,UEFA Champions League
+6,Sergii Kryvtsov,2022-23,32,D(C),Shakhtar,2,0,5,0,0,0,6.00,UEFA Champions League
+7,Josip Drmic,2022-23,31,"AM(LR),FW",Dinamo Zagreb,6,0,89,0,0,0,6.00,UEFA Champions League
+8,David Turnbull,2022-23,24,AM(C),Celtic,5,0,97,0,0,0,5.99,UEFA Champions League
+9,Florian Grillitsch,2022-23,28,"D(C),M(CL)",Ajax,5,0,54,0,0,0,5.99,UEFA Champions League
+0,Adam Kronus,2022-23,21,M(CLR),Viktoria Plzen,1,0,2,0,0,0,5.99,UEFA Champions League
+1,Enzo Barrenechea,2022-23,22,M(C),Juventus,1,0,2,0,0,0,5.99,UEFA Champions League
+2,Roko Simic,2022-23,19,FW,Salzburg,2,0,16,0,0,0,5.99,UEFA Champions League
+3,Sergiño Dest,2022-23,22,"D(LR),M(R)",AC Milan,4,1,188,0,0,0,5.99,UEFA Champions League
+4,Yussuf Poulsen,2022-23,29,"AM(R),FW",RBL,5,0,67,0,0,0,5.99,UEFA Champions League
+5,Cisse Sandra,2022-23,19,M(CLR),Club Bruges,1,0,7,0,0,0,5.98,UEFA Champions League
+6,Dmytro Kryskiv,2022-23,22,M(CLR),Shakhtar,1,0,9,0,0,0,5.98,UEFA Champions League
+7,Fabio Miretti,2022-23,20,AM(C),Juventus,5,3,214,0,0,0,5.97,UEFA Champions League
+8,Borna Barisic,2022-23,30,D(L),Rangers,6,5,464,0,0,0,5.97,UEFA Champions League
+9,Sékou Koïta,2022-23,23,FW,Salzburg,2,0,18,0,0,0,5.97,UEFA Champions League
+0,Clinton Mata,2022-23,30,"D(CR),M(R)",Club Bruges,3,2,159,0,0,0,5.97,UEFA Champions League
+1,Jon McLaughlin,2022-23,35,GK,Rangers,1,1,90,0,0,0,5.97,UEFA Champions League
+2,Lucas Ocampos,2022-23,29,"M(CLR),FW",Ajax,2,0,14,0,0,0,5.97,UEFA Champions League
+3,Danylo Sikan,2022-23,22,FW,Shakhtar,4,0,100,0,1,0,5.97,UEFA Champions League
+4,Leon King,2022-23,19,D(C),Rangers,6,3,374,0,0,0,5.97,UEFA Champions League
+5,Lucas Alario,2022-23,30,FW,Eintracht Frankfurt,2,0,18,0,0,0,5.97,UEFA Champions League
+6,Alex Lowry,2022-23,20,M(CLR),Rangers,1,0,7,0,0,0,5.96,UEFA Champions League
+7,Rodrigo Pinho,2022-23,32,FW,Benfica,2,0,14,0,0,0,5.96,UEFA Champions League
+8,Fortune Bassey,2022-23,24,FW,Viktoria Plzen,5,1,132,0,0,0,5.96,UEFA Champions League
+9,Cyle Larin,2022-23,28,"AM(LR),FW",Club Bruges,1,0,11,0,0,0,5.95,UEFA Champions League
+0,Jamie Bynoe-Gittens,2022-23,19,AM(L),Borussia Dortmund,2,0,37,0,0,0,5.95,UEFA Champions League
+1,Aaron Mooy,2022-23,32,M(CLR),Celtic,5,1,152,0,0,0,5.95,UEFA Champions League
+2,Ben Davies,2022-23,28,D(C),Rangers,3,3,261,0,0,0,5.94,UEFA Champions League
+3,Benjamin Henrichs,2022-23,26,"D(LR),DMC,M(LR)",RBL,7,1,199,0,0,0,5.94,UEFA Champions League
+4,Hugo Novoa,2022-23,20,FW,RBL,1,0,2,0,0,0,5.94,UEFA Champions League
+5,Scott Wright,2022-23,26,AM(CLR),Rangers,4,2,137,0,0,0,5.91,UEFA Champions League
+6,Orri Óskarsson,2022-23,19,FW,Copenhagen,2,0,20,0,0,0,5.90,UEFA Champions League
+7,Lukás Hejda,2022-23,33,D(C),Viktoria Plzen,6,6,513,0,0,0,5.90,UEFA Champions League
+8,Pavel Bucha,2022-23,25,M(CLR),Viktoria Plzen,5,4,364,0,0,0,5.90,UEFA Champions League
+9,Gabriel Veron,2022-23,21,AM(LR),Porto,3,0,44,0,0,0,5.89,UEFA Champions League
+0,Ludek Pernica,2022-23,33,D(C),Viktoria Plzen,6,5,495,0,0,0,5.89,UEFA Champions League
+1,Joe Hart,2022-23,36,GK,Celtic,6,6,540,0,0,0,5.88,UEFA Champions League
+2,Peter Ankersen,2022-23,32,"D(R),M(R)",Copenhagen,1,0,24,0,0,0,5.87,UEFA Champions League
+3,Antonio Marin,2022-23,22,FW,Dinamo Zagreb,1,0,6,0,0,0,5.86,UEFA Champions League
+4,John Lundstram,2022-23,29,"D(C),DMC",Rangers,5,5,450,0,0,0,5.85,UEFA Champions League
+5,Antonio-Mirko Colak,2022-23,29,FW,Rangers,6,3,283,0,0,0,5.85,UEFA Champions League
+6,Glen Kamara,2022-23,27,M(C),Rangers,4,1,126,0,0,0,5.85,UEFA Champions League
+7,Mavis Tchibota,2022-23,27,M(CLR),Maccabi Haifa,4,1,91,0,0,0,5.84,UEFA Champions League
+8,Julian Ryerson,2022-23,25,"D(LR),M(CLR)",Borussia Dortmund,1,0,17,0,0,0,5.81,UEFA Champions League
+9,Mamoudou Karamoko,2022-23,23,FW,Copenhagen,1,1,46,0,0,0,5.76,UEFA Champions League
+0,Valentín Carboni,2022-23,18,M(CLR),Inter,1,0,14,0,0,0,5.76,UEFA Champions League
+1,James Sands,2022-23,23,"D(C),DMC",Rangers,4,4,325,0,0,0,5.74,UEFA Champions League
+2,Jan Kopic,2022-23,33,AM(LR),Viktoria Plzen,2,2,83,0,0,0,5.74,UEFA Champions League
+3,Jack Hendry,2022-23,28,D(C),Club Bruges,1,1,90,0,0,0,5.68,UEFA Champions League
+4,Ricardo Esgaio,2022-23,30,"D(R),M(R)",Sporting,3,2,110,0,0,0,5.58,UEFA Champions League
+5,Karim Rekik,2022-23,28,D(CL),Sevilla,1,1,90,0,0,0,5.47,UEFA Champions League
+6,Péter Gulácsi,2022-23,33,GK,RBL,3,3,193,0,0,0,5.30,UEFA Champions League
