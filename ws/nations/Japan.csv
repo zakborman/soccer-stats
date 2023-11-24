@@ -1,0 +1,44 @@
+,Player,Team,Age,Position,Apps,Mins,Rating,Competition
+0,Kaoru Mitoma,Brighton,25,M(L),12,569,6.82,ENG Premier League
+1,Takehiro Tomiyasu,Arsenal,24,D(CLR),13,451,6.40,ENG Premier League
+0,Takefusa Kubo,Real Sociedad,21,"AM(CLR),FW",14,1002,6.75,ESP La Liga
+0,Daichi Kamada,Eintracht Frankfurt,26,"AM(CLR),FW",13,964,7.15,GER Bundesliga
+1,Wataru Endo,VfB Stuttgart,29,DMC,14,1215,6.99,GER Bundesliga
+2,Ritsu Doan,Freiburg,24,"AM(CLR),FW",15,1079,6.94,GER Bundesliga
+3,Ko Itakura,Borussia M.Gladbach,25,"D(C),DMC",6,415,6.72,GER Bundesliga
+4,Makoto Hasebe,Eintracht Frankfurt,38,"D(CR),M(CR)",4,206,6.68,GER Bundesliga
+5,Maya Yoshida,Schalke 04,34,D(CR),15,1339,6.63,GER Bundesliga
+6,Hiroki Ito,VfB Stuttgart,23,D(C),13,1077,6.60,GER Bundesliga
+7,Genki Haraguchi,Union Berlin,31,M(CLR),8,362,6.45,GER Bundesliga
+8,Takuma Asano,Bochum,28,"AM(CLR),FW",6,403,6.14,GER Bundesliga
+0,Junya Ito,Reims,29,"AM(LR),FW",14,1091,6.79,FRA Ligue 1
+1,Takumi Minamino,Monaco,27,"AM(CLR),FW",10,379,6.44,FRA Ligue 1
+2,Ado Onaiwu,Toulouse,27,FW,14,377,6.12,FRA Ligue 1
+0,Yukinari Sugawara,AZ Alkmaar,22,"D(R),M(R)",13,826,6.76,NED Eredivisie
+1,Naoki Maeda,FC Utrecht,28,FW,3,125,6.17,NED Eredivisie
+0,Shoya Nakajima,Antalyaspor,28,AM(CLR),5,224,6.35,TUR Super Lig
+0,Kosuke Nakamura,Portimonense,27,GK,11,990,6.96,POR Primeira Liga
+1,Hidemasa Morita,Sporting CP,27,DMC,12,812,6.84,POR Primeira Liga
+2,Kanya Fujimoto,Gil Vicente,23,AM(CR),15,1213,6.47,POR Primeira Liga
+3,Kyosuke Tagawa,Santa Clara,23,FW,14,694,6.17,POR Primeira Liga
+0,Reo Hatate,Celtic,25,DMC,19,1403,7.12,SCO Premiership
+1,Kyogo Furuhashi,Celtic,27,FW,19,1231,7.10,SCO Premiership
+2,Daizen Maeda,Celtic,25,"AM(LR),FW",19,980,6.88,SCO Premiership
+0,Junya Ito,Genk,29,"AM(LR),FW",1,90,8.02,BEL Pro League
+1,Koji Miyoshi,Royal Antwerp,25,M(CLR),10,644,6.95,BEL Pro League
+2,Daiki Hashioka,St.Truiden,23,"D(R),M(R)",18,1529,6.85,BEL Pro League
+3,Tsuyoshi Watanabe,Kortrijk,25,D(C),19,1710,6.85,BEL Pro League
+4,Ryota Morioka,Sporting Charleroi,31,"M(C),FW",17,950,6.81,BEL Pro League
+5,Daniel Schmidt,St.Truiden,30,GK,16,1440,6.71,BEL Pro League
+6,Ayase Ueda,Cercle Bruges,24,FW,19,1406,6.66,BEL Pro League
+7,Tatsuhiro Sakamoto,Oostende,26,M(LR),15,1273,6.65,BEL Pro League
+8,Daichi Hayashi,St.Truiden,25,FW,16,1128,6.61,BEL Pro League
+9,Shinji Okazaki,St.Truiden,36,"AM(CLR),FW",15,1265,6.52,BEL Pro League
+0,Yuta Nakayama,Huddersfield,25,"D(CL),DMC",14,1083,6.77,ENG Championship
+0,Shinta Appelkamp,Fortuna Duesseldorf,22,AM(CL),17,1103,6.89,GER 2. Bundesliga
+1,Masaya Okugawa,Arminia Bielefeld,26,"AM(CLR),FW",17,1342,6.86,GER 2. Bundesliga
+2,Sei Muroya,Hannover 96,28,"D(R),M(R)",16,1370,6.84,GER 2. Bundesliga
+3,Ao Tanaka,Fortuna Duesseldorf,24,DMC,13,1073,6.74,GER 2. Bundesliga
+4,Tatsuya Ito,Magdeburg,25,AM(L),16,636,6.38,GER 2. Bundesliga
+5,Keita Endo,Eintracht Braunschweig,25,AM(C),10,541,6.08,GER 2. Bundesliga
+6,Takashi Uchino,Fortuna Duesseldorf,21,D(CLR),1,4,5.96,GER 2. Bundesliga

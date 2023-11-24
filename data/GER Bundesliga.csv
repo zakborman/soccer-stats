@@ -1,0 +1,516 @@
+,Player,Season,Age,Position,Team,Apps,Starts,Mins,Goals,Assists,MotM,Rating,Competition
+0,Tjark Ernst,2022-23,21,GK,Hertha Berlin,1,1,90,0,0,0,7.70,GER Bundesliga
+1,Jude Bellingham,2022-23,21,M(CLR),Borussia Dortmund,31,30,2693,8,4,6,7.58,GER Bundesliga
+2,Joshua Kimmich,2022-23,29,"D(CR),DMC,M(R)",Bayern,33,32,2815,5,6,4,7.47,GER Bundesliga
+3,Niclas Füllkrug,2022-23,31,FW,Werder Bremen,28,28,2479,16,5,5,7.38,GER Bundesliga
+4,Christopher Nkunku,2022-23,26,"M(CLR),FW",RBL,25,20,1899,16,4,8,7.35,GER Bundesliga
+5,Jamal Musiala,2022-23,21,M(CL),Bayern,33,26,2212,12,10,4,7.34,GER Bundesliga
+6,Dominik Szoboszlai,2022-23,23,AM(CLR),RBL,31,28,2453,6,8,4,7.32,GER Bundesliga
+7,Randal Kolo Muani,2022-23,25,"AM(R),FW",Eintracht Frankfurt,32,31,2648,15,11,10,7.29,GER Bundesliga
+8,Julian Brandt,2022-23,28,"M(CLR),FW",Borussia Dortmund,32,29,2412,9,8,3,7.28,GER Bundesliga
+9,Raphaël Guerreiro,2022-23,30,"D(L),M(CL)",Borussia Dortmund,27,26,2296,4,12,3,7.27,GER Bundesliga
+0,Vincenzo Grifo,2022-23,31,AM(CL),Freiburg,33,30,2427,15,5,5,7.26,GER Bundesliga
+1,Jonas Hofmann,2022-23,32,"D(R),M(CLR)",Borussia M.Gladbach,31,30,2693,12,9,7,7.25,GER Bundesliga
+2,Sébastien Haller,2022-23,30,FW,Borussia Dortmund,19,15,1232,9,3,1,7.21,GER Bundesliga
+3,Donyell Malen,2022-23,25,"AM(LR),FW",Borussia Dortmund,26,22,1724,9,5,3,7.20,GER Bundesliga
+4,Julien Duranville,2022-23,18,FW,Borussia Dortmund,1,0,28,0,0,0,7.20,GER Bundesliga
+5,Kingsley Coman,2022-23,28,"M(LR),FW",Bayern,24,16,1421,8,5,4,7.20,GER Bundesliga
+6,João Cancelo,2022-23,30,"D(LR),M(R)",Bayern,15,11,1015,1,4,0,7.20,GER Bundesliga
+7,Eric Choupo-Moting,2022-23,35,"M(CLR),FW",Bayern,19,14,1117,10,2,3,7.19,GER Bundesliga
+8,Benjamin Pavard,2022-23,28,"D(CLR),M(R)",Bayern,30,27,2432,4,1,2,7.17,GER Bundesliga
+9,Alphonso Davies,2022-23,23,"D(L),M(LR)",Bayern,26,24,2049,1,4,2,7.14,GER Bundesliga
+0,Florian Wirtz,2022-23,21,"AM(CL),FW",Leverkusen,17,11,1092,1,6,3,7.14,GER Bundesliga
+1,Yann Sommer,2022-23,35,GK,Borussia M.Gladbach,10,10,900,0,0,2,7.13,GER Bundesliga
+2,Thomas Müller,2022-23,34,"M(CLR),FW",Bayern,27,21,1672,7,8,1,7.12,GER Bundesliga
+3,Jeff Chabot,2022-23,26,D(C),FC Koln,21,21,1806,0,2,2,7.12,GER Bundesliga
+4,Jeremie Frimpong,2022-23,23,"D(R),M(R)",Leverkusen,34,32,2723,8,7,4,7.12,GER Bundesliga
+5,Michael Gregoritsch,2022-23,30,"AM(CR),FW",Freiburg,30,27,2173,10,4,5,7.11,GER Bundesliga
+6,Serge Gnabry,2022-23,29,"AM(CLR),FW",Bayern,34,22,1943,14,5,4,7.10,GER Bundesliga
+7,Marcus Thuram,2022-23,27,"AM(L),FW",Borussia M.Gladbach,30,28,2519,13,6,4,7.09,GER Bundesliga
+8,Leroy Sané,2022-23,28,"M(CLR),FW",Bayern,32,20,2012,8,7,1,7.09,GER Bundesliga
+9,Nico Schlotterbeck,2022-23,24,D(C),Borussia Dortmund,28,27,2255,4,5,0,7.09,GER Bundesliga
+0,Frederik Winther,2022-23,23,D(CLR),Augsburg,1,1,90,0,1,0,7.08,GER Bundesliga
+1,Florian Kainz,2022-23,31,AM(CLR),FC Koln,32,31,2372,6,10,3,7.06,GER Bundesliga
+2,Moussa Diaby,2022-23,25,"M(CLR),FW",Leverkusen,33,33,2716,9,8,3,7.06,GER Bundesliga
+3,Willi Orbán,2022-23,31,D(C),RBL,33,33,2951,4,0,0,7.04,GER Bundesliga
+4,Ellyes Skhiri,2022-23,29,DMC,FC Koln,32,32,2857,7,1,2,7.04,GER Bundesliga
+5,Maximilian Arnold,2022-23,30,M(CR),Wolfsburg,32,32,2775,5,3,2,7.02,GER Bundesliga
+6,Frederik Rønnow,2022-23,32,GK,Union Berlin,29,29,2610,0,0,3,7.01,GER Bundesliga
+7,Borna Sosa,2022-23,26,"D(L),M(L)",Stuttgart,25,22,1961,2,7,2,7.01,GER Bundesliga
+8,Philipp Hofmann,2022-23,31,FW,Bochum,34,31,2643,8,2,3,7.00,GER Bundesliga
+9,Konstantinos Mavropanos,2022-23,26,D(CR),Stuttgart,28,26,2288,2,1,2,7.00,GER Bundesliga
+0,Paulo Otávio,2022-23,29,"D(L),M(L)",Wolfsburg,25,25,2051,0,5,1,7.00,GER Bundesliga
+1,Marvin Ducksch,2022-23,30,"AM(C),FW",Werder Bremen,34,34,2867,12,6,2,7.00,GER Bundesliga
+2,Patrick Wimmer,2022-23,23,"AM(LR),FW",Wolfsburg,26,23,1665,4,8,0,6.99,GER Bundesliga
+3,Jonas Hector,2022-23,34,"D(L),M(CL)",FC Koln,32,32,2826,0,2,1,6.99,GER Bundesliga
+4,Danilho Doekhi,2022-23,26,D(C),Union Berlin,25,25,2218,5,1,4,6.99,GER Bundesliga
+5,Mats Hummels,2022-23,35,D(C),Borussia Dortmund,30,24,2022,1,0,0,6.98,GER Bundesliga
+6,Wataru Endo,2022-23,31,DMC,Stuttgart,33,33,2925,5,4,1,6.97,GER Bundesliga
+7,Ørjan Nyland,2022-23,33,GK,RBL,2,2,180,0,1,0,6.97,GER Bundesliga
+8,Ludovic Ajorque,2022-23,30,FW,Mainz,17,15,1220,6,1,2,6.97,GER Bundesliga
+9,Ramy Bensebaïni,2022-23,29,"D(CL),DMC,M(L)",Borussia M.Gladbach,28,28,2487,6,1,1,6.96,GER Bundesliga
+0,Matthias Ginter,2022-23,30,"D(CR),DMC",Freiburg,34,34,3060,4,1,1,6.95,GER Bundesliga
+1,Ralf Fährmann,2022-23,35,GK,Schalke,12,12,1026,0,0,0,6.94,GER Bundesliga
+2,Diant Ramaj,2022-23,22,GK,Eintracht Frankfurt,1,1,90,0,0,0,6.94,GER Bundesliga
+3,Mitchell Weiser,2022-23,30,"D(R),M(R)",Werder Bremen,30,29,2520,2,9,2,6.93,GER Bundesliga
+4,Matthijs de Ligt,2022-23,25,D(C),Bayern,31,27,2405,3,1,0,6.93,GER Bundesliga
+5,Dani Olmo,2022-23,26,"AM(CLR),FW",RBL,23,15,1285,2,5,2,6.92,GER Bundesliga
+6,Christoph Baumgartner,2022-23,25,"AM(CLR),FW",Hoffenheim,33,33,2582,7,3,1,6.91,GER Bundesliga
+7,Sheraldo Becker,2022-23,29,"AM(CLR),FW",Union Berlin,34,33,2582,11,7,3,6.91,GER Bundesliga
+8,Michael Zetterer,2022-23,29,GK,Werder Bremen,2,1,151,0,0,0,6.91,GER Bundesliga
+9,Rodrigo Zalazar,2022-23,25,M(CR),Schalke,22,15,1326,1,6,3,6.90,GER Bundesliga
+0,Ritsu Doan,2022-23,26,"AM(CLR),FW",Freiburg,33,30,2445,5,4,0,6.90,GER Bundesliga
+1,Finn Dahmen,2022-23,26,GK,Mainz,8,8,720,0,0,2,6.90,GER Bundesliga
+2,Timo Hübers,2022-23,28,D(C),FC Koln,29,28,2558,3,0,1,6.89,GER Bundesliga
+3,Leon Goretzka,2022-23,29,M(CR),Bayern,27,22,1738,3,2,1,6.89,GER Bundesliga
+4,Julian Ryerson,2022-23,26,"D(LR),M(CLR)",Union Berlin,13,12,1042,0,0,0,6.88,GER Bundesliga
+5,Emre Can,2022-23,30,"D(CLR),DMC",Borussia Dortmund,27,20,1896,2,1,1,6.88,GER Bundesliga
+6,Lucas Tousart,2022-23,27,DMC,Hertha Berlin,33,33,2948,5,2,3,6.87,GER Bundesliga
+7,Andreas Hanche-Olsen,2022-23,27,D(CR),Mainz,17,17,1497,1,2,0,6.87,GER Bundesliga
+8,Robin Knoche,2022-23,32,D(C),Union Berlin,32,32,2874,2,3,1,6.87,GER Bundesliga
+9,Sasa Kalajdzic,2022-23,27,FW,Stuttgart,3,3,235,0,3,0,6.87,GER Bundesliga
+0,Robert Andrich,2022-23,29,M(C),Leverkusen,29,28,2409,2,2,0,6.87,GER Bundesliga
+1,Marc Oliver Kempf,2022-23,29,D(C),Hertha Berlin,31,31,2713,1,0,1,6.87,GER Bundesliga
+2,Noussair Mazraoui,2022-23,26,D(LR),Bayern,19,11,1072,1,4,0,6.86,GER Bundesliga
+3,Konrad Laimer,2022-23,27,"D(R),M(CR)",RBL,21,17,1474,3,0,1,6.86,GER Bundesliga
+4,Felix Nmecha,2022-23,23,AM(C),Wolfsburg,30,19,1841,3,5,1,6.86,GER Bundesliga
+5,Karim Adeyemi,2022-23,22,"AM(LR),FW",Borussia Dortmund,24,20,1399,6,5,1,6.86,GER Bundesliga
+6,Sadio Mané,2022-23,32,"AM(CLR),FW",Bayern,25,18,1432,7,5,0,6.86,GER Bundesliga
+7,Anton Stach,2022-23,25,M(C),Mainz,30,22,2078,1,4,1,6.85,GER Bundesliga
+8,Dodi Lukebakio,2022-23,26,"AM(CLR),FW",Hertha Berlin,32,27,2407,11,3,3,6.85,GER Bundesliga
+9,Lucas Höler,2022-23,30,"AM(CLR),FW",Freiburg,26,16,1508,5,2,2,6.84,GER Bundesliga
+0,Kevin Stöger,2022-23,31,M(CL),Bochum,32,29,2610,5,3,2,6.84,GER Bundesliga
+1,Kevin Behrens,2022-23,33,FW,Union Berlin,33,17,1536,8,1,4,6.83,GER Bundesliga
+2,Jan Olschowsky,2022-23,22,GK,Borussia M.Gladbach,4,4,360,0,0,0,6.83,GER Bundesliga
+3,Georginio Rutter,2022-23,22,FW,Hoffenheim,15,11,1010,2,2,1,6.83,GER Bundesliga
+4,Ihlas Bebou,2022-23,30,"M(CLR),FW",Hoffenheim,19,17,1423,7,0,3,6.83,GER Bundesliga
+5,Manuel Neuer,2022-23,38,GK,Bayern,12,12,1080,0,0,0,6.82,GER Bundesliga
+6,Karim Onisiwo,2022-23,32,"AM(CLR),FW",Mainz,31,28,2549,10,2,2,6.82,GER Bundesliga
+7,Soichiro Kozuki,2022-23,23,AM(R),Schalke,5,5,383,1,0,0,6.82,GER Bundesliga
+8,Timo Werner,2022-23,28,"AM(CLR),FW",RBL,27,23,1948,9,3,4,6.82,GER Bundesliga
+9,Exequiel Palacios,2022-23,25,M(C),Leverkusen,25,19,1656,4,2,3,6.82,GER Bundesliga
+0,Marius Wolf,2022-23,29,"D(R),M(CLR)",Borussia Dortmund,25,17,1570,1,1,3,6.81,GER Bundesliga
+1,Aurélio Buta,2022-23,27,"D(R),M(R)",Eintracht Frankfurt,18,15,1325,3,2,0,6.81,GER Bundesliga
+2,Manu Koné,2022-23,23,DMC,Borussia M.Gladbach,30,30,2620,1,1,0,6.81,GER Bundesliga
+3,Philipp Lienhart,2022-23,28,D(C),Freiburg,29,27,2498,1,0,1,6.81,GER Bundesliga
+4,Lukas Kübler,2022-23,32,"D(CR),M(R)",Freiburg,22,19,1648,2,1,0,6.81,GER Bundesliga
+5,Lars Stindl,2022-23,36,"M(CLR),FW",Borussia M.Gladbach,29,20,1745,8,7,0,6.81,GER Bundesliga
+6,Daichi Kamada,2022-23,28,"AM(CLR),FW",Eintracht Frankfurt,32,25,2271,9,6,2,6.80,GER Bundesliga
+7,Rafal Gikiewicz,2022-23,36,GK,Augsburg,23,23,2070,0,0,3,6.80,GER Bundesliga
+8,Tomás Koubek,2022-23,32,GK,Augsburg,11,11,990,0,0,1,6.80,GER Bundesliga
+9,Mark Flekken,2022-23,31,GK,Freiburg,34,34,3060,0,0,2,6.80,GER Bundesliga
+0,Niklas Süle,2022-23,29,D(CR),Borussia Dortmund,29,23,2116,2,3,0,6.80,GER Bundesliga
+1,Julian Ryerson,2022-23,26,"D(LR),M(CLR)",Borussia Dortmund,17,17,1417,1,0,0,6.80,GER Bundesliga
+2,Nicolas Höfler,2022-23,34,"D(C),DMC",Freiburg,32,32,2822,0,1,1,6.79,GER Bundesliga
+3,Gregor Kobel,2022-23,26,GK,Borussia Dortmund,27,27,2430,0,0,1,6.79,GER Bundesliga
+4,Florian Niederlechner,2022-23,33,"AM(CR),FW",Augsburg,14,10,912,4,1,0,6.79,GER Bundesliga
+5,Josip Juranovic,2022-23,29,"D(LR),M(R)",Union Berlin,12,10,932,2,1,1,6.79,GER Bundesliga
+6,Lee Jae-Sung,2022-23,32,"AM(CLR),FW",Mainz,34,24,1904,7,4,3,6.78,GER Bundesliga
+7,Koen Casteels,2022-23,32,GK,Wolfsburg,34,34,3060,0,0,2,6.78,GER Bundesliga
+8,Christopher Trimmel,2022-23,37,"D(CR),M(R)",Union Berlin,25,20,1811,0,6,0,6.77,GER Bundesliga
+9,Serhou Guirassy,2022-23,28,"AM(L),FW",Stuttgart,22,20,1653,11,0,1,6.76,GER Bundesliga
+0,Benjamin Henrichs,2022-23,27,"D(LR),DMC,M(LR)",RBL,30,23,2188,2,2,0,6.76,GER Bundesliga
+1,Ermedin Demirovic,2022-23,26,"AM(CL),FW",Augsburg,30,30,2383,8,4,2,6.76,GER Bundesliga
+2,Stefan Bell,2022-23,33,D(CR),Mainz,30,26,2395,0,0,1,6.76,GER Bundesliga
+3,Abdou Diallo,2022-23,28,D(CL),RBL,8,5,476,1,0,0,6.76,GER Bundesliga
+4,Ko Itakura,2022-23,27,"D(C),DMC",Borussia M.Gladbach,24,22,1982,0,2,0,6.76,GER Bundesliga
+5,Leandro Barreiro,2022-23,24,DMC,Mainz,31,25,2144,4,3,2,6.75,GER Bundesliga
+6,Gabriel Vidovic,2022-23,20,AM(L),Bayern,1,0,18,0,1,0,6.74,GER Bundesliga
+7,Hrvoje Smolcic,2022-23,24,D(C),Eintracht Frankfurt,9,4,467,0,0,1,6.73,GER Bundesliga
+8,Ridle Baku,2022-23,26,"D(R),M(CR)",Wolfsburg,33,29,2582,5,3,1,6.73,GER Bundesliga
+9,Moritz Jenz,2022-23,25,D(C),Schalke,11,11,946,0,0,0,6.73,GER Bundesliga
+0,Angeliño,2022-23,27,"D(L),M(L)",Hoffenheim,33,30,2622,0,9,1,6.73,GER Bundesliga
+1,Marcin Kaminski,2022-23,32,D(C),Schalke,8,7,631,2,0,0,6.73,GER Bundesliga
+2,Marius Bülter,2022-23,31,"D(R),M(CLR),FW",Schalke,33,30,2605,11,1,2,6.72,GER Bundesliga
+3,Tuta,2022-23,25,D(C),Eintracht Frankfurt,31,30,2717,2,1,1,6.72,GER Bundesliga
+4,Ivan Ordets,2022-23,32,D(C),Bochum,30,28,2450,0,0,0,6.72,GER Bundesliga
+5,Junior Dina Ebimbe,2022-23,23,M(CR),Eintracht Frankfurt,19,10,1061,3,1,1,6.71,GER Bundesliga
+6,Dayot Upamecano,2022-23,25,D(C),Bayern,29,27,2348,0,1,0,6.71,GER Bundesliga
+7,Luca Pellegrini,2022-23,25,"D(L),M(L)",Eintracht Frankfurt,9,7,559,0,0,0,6.71,GER Bundesliga
+8,John Anthony Brooks,2022-23,31,D(C),Hoffenheim,15,15,1350,0,0,0,6.71,GER Bundesliga
+9,Jakub Kaminski,2022-23,22,M(LR),Wolfsburg,31,25,2074,4,2,1,6.70,GER Bundesliga
+0,Marco Richter,2022-23,26,"M(CLR),FW",Hertha Berlin,29,21,1844,6,5,2,6.70,GER Bundesliga
+1,Kevin Akpoguma,2022-23,29,"D(CR),M(R)",Hoffenheim,28,21,1952,0,0,0,6.70,GER Bundesliga
+2,Oliver Baumann,2022-23,34,GK,Hoffenheim,34,34,3060,0,0,2,6.70,GER Bundesliga
+3,Jonas Omlin,2022-23,30,GK,Borussia M.Gladbach,15,15,1291,0,0,1,6.70,GER Bundesliga
+4,Anthony Losilla,2022-23,38,"D(C),DMC",Bochum,31,31,2725,2,2,1,6.70,GER Bundesliga
+5,Xaver Schlager,2022-23,26,M(C),RBL,22,16,1505,1,1,1,6.69,GER Bundesliga
+6,Kerem Demirbay,2022-23,31,M(C),Leverkusen,25,17,1548,4,3,2,6.69,GER Bundesliga
+7,Hiroki Ito,2022-23,25,D(CL),Stuttgart,30,29,2563,1,1,0,6.69,GER Bundesliga
+8,Anthony Caci,2022-23,27,"D(CLR),M(LR)",Mainz,31,23,2036,2,1,0,6.69,GER Bundesliga
+9,Amine Adli,2022-23,24,"AM(CLR),FW",Leverkusen,26,16,1443,5,3,1,6.69,GER Bundesliga
+0,Mërgim Berisha,2022-23,26,"AM(C),FW",Augsburg,23,20,1688,9,4,4,6.69,GER Bundesliga
+1,Marco Reus,2022-23,35,"M(CLR),FW",Borussia Dortmund,25,14,1352,6,4,1,6.69,GER Bundesliga
+2,Nico Elvedi,2022-23,27,D(CLR),Borussia M.Gladbach,32,32,2828,3,0,1,6.69,GER Bundesliga
+3,Eric Martel,2022-23,22,DMC,FC Koln,29,23,2024,1,1,0,6.68,GER Bundesliga
+4,Davie Selke,2022-23,29,FW,FC Koln,17,12,877,5,0,2,6.68,GER Bundesliga
+5,Ozan Kabak,2022-23,24,D(C),Hoffenheim,30,28,2395,2,2,1,6.68,GER Bundesliga
+6,Maximilian Eggestein,2022-23,27,M(CR),Freiburg,31,27,2459,1,2,0,6.68,GER Bundesliga
+7,Philipp Max,2022-23,30,"D(L),M(L)",Eintracht Frankfurt,10,8,698,0,1,0,6.68,GER Bundesliga
+8,Jonas Wind,2022-23,25,"AM(C),FW",Wolfsburg,24,15,1294,6,0,2,6.68,GER Bundesliga
+9,Jamie Bynoe-Gittens,2022-23,20,AM(L),Borussia Dortmund,15,4,527,3,1,0,6.67,GER Bundesliga
+0,Evan Ndicka,2022-23,25,D(CL),Eintracht Frankfurt,30,30,2693,1,0,1,6.67,GER Bundesliga
+1,Josko Gvardiol,2022-23,22,D(CL),RBL,30,24,2171,1,0,1,6.67,GER Bundesliga
+2,Marco Friedl,2022-23,26,"D(CL),M(L)",Werder Bremen,30,30,2597,0,0,0,6.67,GER Bundesliga
+3,André Hahn,2022-23,34,"AM(CLR),FW",Augsburg,7,4,389,2,0,0,6.67,GER Bundesliga
+4,Jesper Lindstrøm,2022-23,24,"AM(CLR),FW",Eintracht Frankfurt,27,22,1696,7,2,2,6.66,GER Bundesliga
+5,Patrik Schick,2022-23,28,"AM(R),FW",Leverkusen,14,10,941,3,1,0,6.66,GER Bundesliga
+6,Aarón Martín,2022-23,27,"D(L),M(L)",Mainz,28,20,1848,5,3,1,6.66,GER Bundesliga
+7,Piero Hincapié,2022-23,22,"D(CL),M(L)",Leverkusen,30,27,2466,1,1,0,6.66,GER Bundesliga
+8,Tom Krauß,2022-23,23,DMC,Schalke,32,31,2531,2,0,0,6.66,GER Bundesliga
+9,Micky van de Ven,2022-23,23,D(CL),Wolfsburg,33,33,2970,1,1,1,6.66,GER Bundesliga
+0,Suat Serdar,2022-23,27,M(CLR),Hertha Berlin,32,24,2034,4,2,1,6.66,GER Bundesliga
+1,Maxence Lacroix,2022-23,24,D(C),Wolfsburg,24,18,1628,1,0,1,6.66,GER Bundesliga
+2,Christopher Lenz,2022-23,29,"D(L),M(L)",Eintracht Frankfurt,24,13,1286,0,2,0,6.66,GER Bundesliga
+3,Rani Khedira,2022-23,30,"D(C),DMC",Union Berlin,33,33,2887,2,0,1,6.66,GER Bundesliga
+4,Mario Götze,2022-23,32,"M(CLR),FW",Eintracht Frankfurt,32,32,2749,3,1,0,6.65,GER Bundesliga
+5,Robin Zentner,2022-23,29,GK,Mainz,26,26,2340,0,0,0,6.65,GER Bundesliga
+6,Marcel Sabitzer,2022-23,30,"M(CLR),FW",Bayern,15,7,627,1,1,0,6.65,GER Bundesliga
+7,Chris Führich,2022-23,26,"M(CLR),FW",Stuttgart,33,21,1892,5,2,1,6.65,GER Bundesliga
+8,Christian Günter,2022-23,31,"D(L),M(L)",Freiburg,33,31,2749,1,4,1,6.65,GER Bundesliga
+9,Andrej Kramaric,2022-23,33,"AM(CLR),FW",Hoffenheim,32,26,2394,12,3,2,6.65,GER Bundesliga
+0,Mohamed Simakan,2022-23,24,D(CR),RBL,24,18,1461,1,1,1,6.65,GER Bundesliga
+1,Maximilian Mittelstädt,2022-23,27,"D(L),M(CL)",Hertha Berlin,17,7,845,0,0,0,6.65,GER Bundesliga
+2,Roland Sallai,2022-23,27,"M(CLR),FW",Freiburg,19,10,1003,1,3,1,6.64,GER Bundesliga
+3,Malick Thiaw,2022-23,23,D(C),Schalke,3,3,270,0,0,0,6.64,GER Bundesliga
+4,Clinton Mola,2022-23,23,D(L),Stuttgart,1,0,14,0,0,0,6.64,GER Bundesliga
+5,Edmond Tapsoba,2022-23,25,D(C),Leverkusen,33,32,2872,1,0,1,6.64,GER Bundesliga
+6,Leonardo Bittencourt,2022-23,30,"M(CLR),FW",Werder Bremen,25,22,1644,3,2,0,6.64,GER Bundesliga
+7,Lucas Hernández,2022-23,28,D(CL),Bayern,7,6,479,0,0,0,6.63,GER Bundesliga
+8,Janik Haberer,2022-23,30,"M(CLR),FW",Union Berlin,32,30,2213,5,1,1,6.63,GER Bundesliga
+9,David Raum,2022-23,26,"D(L),M(LR)",RBL,28,19,1688,0,2,0,6.63,GER Bundesliga
+0,Maya Yoshida,2022-23,36,D(CR),Schalke,29,28,2554,0,0,0,6.63,GER Bundesliga
+1,Mattias Svanberg,2022-23,25,M(CLR),Wolfsburg,32,21,1836,4,6,1,6.63,GER Bundesliga
+2,André Silva,2022-23,28,FW,RBL,31,20,1741,4,3,0,6.63,GER Bundesliga
+3,Manuel Riemann,2022-23,35,GK,Bochum,34,34,3060,0,0,3,6.63,GER Bundesliga
+4,Janis Blaswich,2022-23,33,GK,RBL,26,26,2340,0,0,1,6.63,GER Bundesliga
+5,Niklas Schmidt,2022-23,26,AM(C),Werder Bremen,24,11,1084,3,0,1,6.62,GER Bundesliga
+6,Dominik Kohr,2022-23,30,DMC,Mainz,30,27,2296,3,0,0,6.62,GER Bundesliga
+7,Jeffrey Gouweleeuw,2022-23,33,D(C),Augsburg,32,32,2797,0,1,0,6.62,GER Bundesliga
+8,Yannick Gerhardt,2022-23,30,"D(L),M(CL)",Wolfsburg,29,22,1869,6,4,2,6.62,GER Bundesliga
+9,Silas Katompa Mvumpa,2022-23,25,"M(CLR),FW",Stuttgart,30,23,2004,5,2,2,6.62,GER Bundesliga
+0,Jirí Pavlenka,2022-23,32,GK,Werder Bremen,33,33,2909,0,0,2,6.62,GER Bundesliga
+1,Dennis Geiger,2022-23,26,M(C),Hoffenheim,27,27,1973,1,3,1,6.61,GER Bundesliga
+2,Djibril Sow,2022-23,27,M(C),Eintracht Frankfurt,32,30,2648,4,0,0,6.61,GER Bundesliga
+3,Aïssa Laïdouni,2022-23,27,DMC,Union Berlin,14,11,879,2,0,1,6.61,GER Bundesliga
+4,Gil Dias,2022-23,27,"D(L),M(LR)",Stuttgart,7,6,403,1,0,0,6.60,GER Bundesliga
+5,Edimilson Fernandes,2022-23,28,"D(C),M(CR)",Mainz,32,28,2445,0,3,0,6.60,GER Bundesliga
+6,Atakan Karazor,2022-23,27,"D(C),DMC",Stuttgart,29,22,1961,0,1,1,6.60,GER Bundesliga
+7,Youssoufa Moukoko,2022-23,19,FW,Borussia Dortmund,26,11,1135,7,3,1,6.60,GER Bundesliga
+8,Christopher Antwi-Adjei,2022-23,30,AM(CLR),Bochum,29,22,1990,3,6,1,6.60,GER Bundesliga
+9,Sebastiaan Bornauw,2022-23,25,D(C),Wolfsburg,26,23,1930,1,0,0,6.60,GER Bundesliga
+0,Stevan Jovetic,2022-23,34,"AM(CL),FW",Hertha Berlin,17,8,887,4,2,0,6.60,GER Bundesliga
+1,Philipp Förster,2022-23,29,"M(CLR),FW",Bochum,25,15,1313,3,7,1,6.60,GER Bundesliga
+2,Alassane Pléa,2022-23,31,"AM(CLR),FW",Borussia M.Gladbach,29,20,1780,2,9,2,6.59,GER Bundesliga
+3,Steffen Tigges,2022-23,26,FW,FC Koln,30,17,1598,6,1,2,6.59,GER Bundesliga
+4,Sven Ulreich,2022-23,36,GK,Bayern,4,4,271,0,0,0,6.59,GER Bundesliga
+5,Niklas Stark,2022-23,29,"D(C),DMC",Werder Bremen,27,23,2082,0,0,0,6.59,GER Bundesliga
+6,Alexander Meyer,2022-23,33,GK,Borussia Dortmund,7,7,630,0,0,0,6.58,GER Bundesliga
+7,Jonathan Tah,2022-23,28,D(C),Leverkusen,33,28,2487,1,0,1,6.58,GER Bundesliga
+8,Diogo Leite,2022-23,25,D(C),Union Berlin,28,26,2254,0,1,0,6.58,GER Bundesliga
+9,Grischa Prömel,2022-23,29,M(C),Hoffenheim,18,17,1458,1,1,0,6.58,GER Bundesliga
+0,Giovanni Reyna,2022-23,21,AM(CLR),Borussia Dortmund,22,4,612,7,2,0,6.58,GER Bundesliga
+1,Chidera Ejuke,2022-23,26,"AM(CLR),FW",Hertha Berlin,20,9,885,0,3,0,6.58,GER Bundesliga
+2,Amos Pieper,2022-23,26,D(C),Werder Bremen,29,22,1959,2,1,0,6.58,GER Bundesliga
+3,Timo Baumgartl,2022-23,28,D(C),Union Berlin,8,6,564,0,1,0,6.57,GER Bundesliga
+4,Julian Weigl,2022-23,28,"D(C),DMC",Borussia M.Gladbach,23,21,1897,1,0,0,6.57,GER Bundesliga
+5,Rubén Vargas,2022-23,26,"AM(CLR),FW",Augsburg,23,13,1137,3,4,0,6.57,GER Bundesliga
+6,Dion Beljo,2022-23,22,FW,Augsburg,18,16,1140,3,2,1,6.57,GER Bundesliga
+7,Keven Schlotterbeck,2022-23,27,D(C),Bochum,13,8,732,2,0,0,6.57,GER Bundesliga
+8,Robert Skov,2022-23,28,"D(L),M(LR)",Hoffenheim,23,16,1356,3,2,1,6.57,GER Bundesliga
+9,Almamy Touré,2022-23,28,"D(CR),M(R)",Eintracht Frankfurt,7,5,400,0,1,0,6.57,GER Bundesliga
+0,Waldemar Anton,2022-23,28,"D(CR),DMC",Stuttgart,34,34,2940,1,2,0,6.57,GER Bundesliga
+1,Anthony Jung,2022-23,32,"D(CL),M(L)",Werder Bremen,34,32,2637,2,5,0,6.56,GER Bundesliga
+2,Jordan Siebatcheu,2022-23,28,FW,Union Berlin,31,16,1359,4,3,2,6.56,GER Bundesliga
+3,Jonjoe Kenny,2022-23,27,"D(LR),M(R)",Hertha Berlin,29,25,2243,0,1,0,6.55,GER Bundesliga
+4,Dejan Ljubicic,2022-23,26,M(CR),FC Koln,27,20,1724,5,1,1,6.55,GER Bundesliga
+5,Dan-Axel Zagadou,2022-23,25,D(CL),Stuttgart,17,14,1273,0,0,0,6.55,GER Bundesliga
+6,Danilo Soares,2022-23,32,"D(L),M(L)",Bochum,23,23,1777,0,0,0,6.55,GER Bundesliga
+7,Mahmoud Dahoud,2022-23,28,M(C),Borussia Dortmund,9,4,337,0,0,0,6.54,GER Bundesliga
+8,Erhan Masovic,2022-23,25,"D(C),DMC",Bochum,29,23,2174,4,0,1,6.54,GER Bundesliga
+9,Levin Öztunali,2022-23,28,M(CLR),Union Berlin,2,0,8,0,1,0,6.54,GER Bundesliga
+0,Felix Passlack,2022-23,26,"D(LR),M(CR)",Borussia Dortmund,3,0,61,0,0,0,6.54,GER Bundesliga
+1,Péter Gulácsi,2022-23,34,GK,RBL,6,6,540,0,0,0,6.54,GER Bundesliga
+2,Mu'nas Dabbur,2022-23,32,"AM(C),FW",Hoffenheim,21,8,934,6,2,0,6.53,GER Bundesliga
+3,Felix Uduokhai,2022-23,26,D(C),Augsburg,19,16,1449,0,1,1,6.53,GER Bundesliga
+4,Lukás Hrádecky,2022-23,34,GK,Leverkusen,33,33,2970,0,0,0,6.53,GER Bundesliga
+5,Emil Forsberg,2022-23,32,"AM(CLR),FW",RBL,30,16,1487,6,4,0,6.53,GER Bundesliga
+6,Cédric Brunner,2022-23,30,D(CR),Schalke,28,28,2325,0,0,0,6.53,GER Bundesliga
+7,Konstantinos Stafylidis,2022-23,30,"D(LR),DMC,M(L)",Bochum,19,11,1043,0,2,0,6.52,GER Bundesliga
+8,Sebastian Rode,2022-23,33,"D(R),M(C)",Eintracht Frankfurt,27,19,1426,4,1,0,6.52,GER Bundesliga
+9,Tanguy Coulibaly,2022-23,23,"M(CLR),FW",Stuttgart,14,0,318,4,0,0,6.52,GER Bundesliga
+0,Tobias Sippel,2022-23,36,GK,Borussia M.Gladbach,6,5,509,0,0,0,6.52,GER Bundesliga
+1,Silvan Widmer,2022-23,31,"D(CR),M(R)",Mainz,26,19,1690,2,2,0,6.52,GER Bundesliga
+2,Thomas Meunier,2022-23,32,"D(R),M(R)",Borussia Dortmund,10,7,584,0,0,0,6.51,GER Bundesliga
+3,Omar Marmoush,2022-23,25,"AM(L),FW",Wolfsburg,33,15,1480,5,1,1,6.51,GER Bundesliga
+4,Ansgar Knauff,2022-23,22,M(LR),Eintracht Frankfurt,24,14,1289,1,1,0,6.51,GER Bundesliga
+5,Christian Groß,2022-23,35,"D(C),DMC",Werder Bremen,26,23,1902,1,1,0,6.51,GER Bundesliga
+6,Milos Veljkovic,2022-23,28,"D(C),DMC",Werder Bremen,29,25,2265,1,1,0,6.51,GER Bundesliga
+7,Kristijan Jakic,2022-23,27,"D(CR),DMC",Eintracht Frankfurt,24,17,1460,1,0,0,6.51,GER Bundesliga
+8,Paul Jaeckel,2022-23,26,"D(C),DMC",Union Berlin,16,13,1197,1,0,1,6.50,GER Bundesliga
+9,Lukas Klostermann,2022-23,28,"D(CLR),M(R)",RBL,15,10,904,0,0,0,6.50,GER Bundesliga
+0,Marcel Halstenberg,2022-23,32,"D(CL),M(L)",RBL,31,17,1557,1,1,0,6.50,GER Bundesliga
+1,Niko Gießelmann,2022-23,32,"D(CL),M(L)",Union Berlin,26,14,1298,0,2,0,6.50,GER Bundesliga
+2,Adam Hlozek,2022-23,22,"AM(CL),FW",Leverkusen,29,16,1290,5,3,2,6.50,GER Bundesliga
+3,Odilon Kossounou,2022-23,23,D(CR),Leverkusen,24,17,1520,0,1,0,6.50,GER Bundesliga
+4,Lennart Grill,2022-23,25,GK,Union Berlin,5,5,450,0,0,1,6.50,GER Bundesliga
+5,Kenneth Schmidt,2022-23,22,D(CLR),Freiburg,5,3,252,0,0,0,6.49,GER Bundesliga
+6,Tiago Tomás,2022-23,22,"AM(CLR),FW",Stuttgart,27,16,1295,3,3,1,6.49,GER Bundesliga
+7,Arijon Ibrahimovic,2022-23,18,FW,Bayern,1,0,13,0,0,0,6.49,GER Bundesliga
+8,Simon Terodde,2022-23,36,FW,Schalke,32,21,1825,5,0,2,6.49,GER Bundesliga
+9,Salih Özcan,2022-23,26,M(C),Borussia Dortmund,26,17,1574,0,1,0,6.49,GER Bundesliga
+0,Christoph Kramer,2022-23,33,M(C),Borussia M.Gladbach,29,27,2230,0,0,0,6.49,GER Bundesliga
+1,Linton Maina,2022-23,25,"M(CLR),FW",FC Koln,33,27,2258,3,7,1,6.49,GER Bundesliga
+2,Josuha Guilavogui,2022-23,33,"D(C),M(C)",Wolfsburg,23,11,1173,1,0,0,6.48,GER Bundesliga
+3,Jérôme Roussillon,2022-23,31,"D(L),M(L)",Union Berlin,16,11,960,0,2,0,6.48,GER Bundesliga
+4,Jens Stage,2022-23,27,M(C),Werder Bremen,32,21,1858,3,3,1,6.48,GER Bundesliga
+5,Lukas Nmecha,2022-23,25,"AM(CR),FW",Wolfsburg,16,10,901,4,0,0,6.48,GER Bundesliga
+6,Bartol Franjic,2022-23,24,"D(L),DMC",Wolfsburg,5,3,230,0,1,0,6.48,GER Bundesliga
+7,Jonathan Burkardt,2022-23,24,"AM(CR),FW",Mainz,11,7,537,1,2,1,6.48,GER Bundesliga
+8,Arne Engels,2022-23,20,DMC,Augsburg,18,18,1446,0,3,1,6.48,GER Bundesliga
+9,Jan Thielmann,2022-23,22,"AM(CLR),FW",FC Koln,23,6,858,2,2,1,6.48,GER Bundesliga
+0,Joe Scally,2022-23,21,"D(LR),M(R)",Borussia M.Gladbach,28,25,2215,0,0,0,6.47,GER Bundesliga
+1,Naouirou Ahamada,2022-23,22,M(C),Stuttgart,17,17,1409,2,2,0,6.47,GER Bundesliga
+2,Maxim Leitsch,2022-23,26,D(C),Mainz,9,7,662,0,0,0,6.47,GER Bundesliga
+3,Tim Skarke,2022-23,28,AM(CLR),Schalke,9,6,444,1,1,0,6.47,GER Bundesliga
+4,Dominique Heintz,2022-23,31,D(CL),Bochum,11,8,798,0,0,0,6.47,GER Bundesliga
+5,Amadou Haidara,2022-23,26,M(CLR),RBL,31,15,1430,2,1,0,6.47,GER Bundesliga
+6,Pavel Kaderábek,2022-23,32,"D(R),M(LR)",Hoffenheim,26,17,1663,1,1,0,6.47,GER Bundesliga
+7,Benno Schmitz,2022-23,29,D(CLR),FC Koln,31,30,2431,1,0,0,6.46,GER Bundesliga
+8,Arne Maier,2022-23,25,M(CR),Augsburg,30,24,1972,5,1,1,6.46,GER Bundesliga
+9,Kelvin Yeboah,2022-23,24,FW,Augsburg,13,3,347,1,1,0,6.45,GER Bundesliga
+0,Marvin Plattenhardt,2022-23,32,"D(L),M(L)",Hertha Berlin,31,29,2408,0,2,1,6.45,GER Bundesliga
+1,Genki Haraguchi,2022-23,33,M(CLR),Stuttgart,11,9,753,0,2,0,6.45,GER Bundesliga
+2,Ibrahim Maza,2022-23,18,FW,Hertha Berlin,2,0,70,1,0,0,6.45,GER Bundesliga
+3,Josha Vagnoman,2022-23,23,"D(LR),M(R)",Stuttgart,23,16,1477,2,2,0,6.44,GER Bundesliga
+4,Florian Neuhaus,2022-23,27,M(C),Borussia M.Gladbach,23,16,1409,1,0,0,6.44,GER Bundesliga
+5,Anthony Modeste,2022-23,36,FW,Borussia Dortmund,19,7,807,2,1,0,6.44,GER Bundesliga
+6,Sardar Azmoun,2022-23,29,"AM(C),FW",Leverkusen,23,8,917,4,1,0,6.44,GER Bundesliga
+7,Kevin Trapp,2022-23,34,GK,Eintracht Frankfurt,33,33,2970,0,0,0,6.44,GER Bundesliga
+8,Kiliann Sildillia,2022-23,22,"D(CR),M(R)",Freiburg,27,23,1977,0,2,0,6.43,GER Bundesliga
+9,Kevin Vogt,2022-23,32,"D(CR),M(C)",Hoffenheim,22,22,1781,0,0,0,6.43,GER Bundesliga
+0,Callum Hudson-Odoi,2022-23,23,M(CLR),Leverkusen,14,7,609,0,1,0,6.43,GER Bundesliga
+1,Michael Frey,2022-23,30,FW,Schalke,15,10,875,0,3,0,6.43,GER Bundesliga
+2,Henning Matriciani,2022-23,24,D(CLR),Schalke,22,22,1868,0,0,0,6.42,GER Bundesliga
+3,Florian Niederlechner,2022-23,33,"AM(CR),FW",Hertha Berlin,16,11,787,1,0,0,6.42,GER Bundesliga
+4,Wilfried Kanga,2022-23,26,FW,Hertha Berlin,23,15,1421,2,0,0,6.42,GER Bundesliga
+5,Enzo Millot,2022-23,22,AM(C),Stuttgart,23,9,885,0,1,1,6.42,GER Bundesliga
+6,Takuma Asano,2022-23,29,"AM(CLR),FW",Bochum,25,21,1730,3,2,0,6.42,GER Bundesliga
+7,Iago,2022-23,27,"D(L),M(L)",Augsburg,22,19,1605,0,2,0,6.42,GER Bundesliga
+8,Pascal Klemens,2022-23,19,D(CLR),Hertha Berlin,1,1,90,0,0,0,6.42,GER Bundesliga
+9,Nadiem Amiri,2022-23,27,M(CLR),Leverkusen,25,9,970,4,1,0,6.42,GER Bundesliga
+0,Jere Uronen,2022-23,30,"D(L),M(L)",Schalke,11,9,681,0,0,0,6.42,GER Bundesliga
+1,Carlos Gruezo,2022-23,29,DMC,Augsburg,13,12,965,0,0,0,6.42,GER Bundesliga
+2,Marcus Ingvartsen,2022-23,28,"AM(CR),FW",Mainz,28,16,1318,10,0,0,6.42,GER Bundesliga
+3,Charles Aránguiz,2022-23,35,M(C),Leverkusen,10,4,493,1,0,0,6.41,GER Bundesliga
+4,Genki Haraguchi,2022-23,33,M(CLR),Union Berlin,11,6,499,0,0,0,6.41,GER Bundesliga
+5,Yussuf Poulsen,2022-23,30,"AM(R),FW",RBL,19,3,400,2,1,0,6.41,GER Bundesliga
+6,Mads Pedersen,2022-23,28,"D(L),M(CL)",Augsburg,28,20,1840,0,0,0,6.41,GER Bundesliga
+7,Dominick Drexler,2022-23,34,AM(CLR),Schalke,27,16,1370,4,3,1,6.41,GER Bundesliga
+8,Alexander Hack,2022-23,30,D(C),Mainz,19,14,1134,0,0,0,6.41,GER Bundesliga
+9,Paul Seguin,2022-23,29,"D(R),DMC",Union Berlin,20,4,677,1,3,0,6.41,GER Bundesliga
+0,Tobias Mohr,2022-23,29,"D(L),M(CL)",Schalke,18,8,835,0,3,0,6.41,GER Bundesliga
+1,Éder Balanta,2022-23,31,"D(C),DMC",Schalke,6,3,239,0,0,0,6.41,GER Bundesliga
+2,Kevin Kampl,2022-23,33,M(CLR),RBL,30,16,1371,2,2,0,6.41,GER Bundesliga
+3,Nikola Soldo,2022-23,23,D(C),FC Koln,7,6,592,0,0,0,6.41,GER Bundesliga
+4,Elvis Rexhbeçaj,2022-23,26,M(C),Augsburg,31,30,2536,0,0,0,6.39,GER Bundesliga
+5,Filip Uremovic,2022-23,27,D(CR),Hertha Berlin,22,21,1733,0,0,1,6.39,GER Bundesliga
+6,Oliver Christensen,2022-23,25,GK,Hertha Berlin,33,33,2970,0,0,1,6.39,GER Bundesliga
+7,Danny da Costa,2022-23,31,"D(R),M(R)",Mainz,23,14,1238,0,2,0,6.39,GER Bundesliga
+8,Marvin Friedrich,2022-23,28,D(C),Borussia M.Gladbach,23,13,1244,1,0,0,6.39,GER Bundesliga
+9,Makoto Hasebe,2022-23,40,"D(CR),M(CR)",Eintracht Frankfurt,18,15,1309,0,0,0,6.39,GER Bundesliga
+0,Kristian Pedersen,2022-23,30,"D(CL),M(L)",FC Koln,6,3,274,0,0,0,6.38,GER Bundesliga
+1,Hugo Novoa,2022-23,21,FW,RBL,7,2,182,1,0,0,6.38,GER Bundesliga
+2,Mitchel Bakker,2022-23,24,"D(L),M(L)",Leverkusen,28,19,1657,3,2,0,6.38,GER Bundesliga
+3,András Schäfer,2022-23,25,M(C),Union Berlin,16,10,864,0,0,0,6.38,GER Bundesliga
+4,Stanley Nsoki,2022-23,25,D(CL),Hoffenheim,19,14,1288,1,0,0,6.38,GER Bundesliga
+5,Kevin Paredes,2022-23,21,M(L),Wolfsburg,22,1,515,1,3,0,6.38,GER Bundesliga
+6,Alex Král,2022-23,26,DMC,Schalke,29,26,2357,0,0,0,6.38,GER Bundesliga
+7,Angelo Stiller,2022-23,23,DMC,Hoffenheim,21,7,700,1,1,0,6.37,GER Bundesliga
+8,Robert Gumny,2022-23,26,D(CLR),Augsburg,29,23,2021,1,2,0,6.37,GER Bundesliga
+9,Nikolas Nartey,2022-23,24,"DMC,M(L)",Stuttgart,9,5,472,0,0,0,6.37,GER Bundesliga
+0,Yann Sommer,2022-23,35,GK,Bayern,19,19,1710,0,0,0,6.37,GER Bundesliga
+1,Romano Schmid,2022-23,24,"AM(CL),FW",Werder Bremen,27,15,1521,1,3,0,6.37,GER Bundesliga
+2,Manuel Gulde,2022-23,33,D(C),Freiburg,15,8,641,1,0,0,6.37,GER Bundesliga
+3,Florian Flick,2022-23,24,DMC,Schalke,8,5,511,0,0,0,6.37,GER Bundesliga
+4,Niklas Dorsch,2022-23,26,DMC,Augsburg,11,5,478,0,0,0,6.36,GER Bundesliga
+5,Pascal Stenzel,2022-23,28,"D(CR),M(R)",Stuttgart,12,3,327,0,1,0,6.36,GER Bundesliga
+6,Mathys Tel,2022-23,19,FW,Bayern,22,1,399,5,0,0,6.36,GER Bundesliga
+7,Luca Netz,2022-23,21,"D(L),M(L)",Borussia M.Gladbach,20,7,700,1,3,0,6.35,GER Bundesliga
+8,Alexander Schwolow,2022-23,32,GK,Schalke,23,22,2034,0,0,0,6.35,GER Bundesliga
+9,Sebastian Polter,2022-23,33,"AM(R),FW",Schalke,19,5,619,2,3,0,6.35,GER Bundesliga
+0,Tolga Cigerci,2022-23,32,M(CLR),Hertha Berlin,11,10,681,0,1,0,6.35,GER Bundesliga
+1,Josip Stanisic,2022-23,24,D(R),Bayern,14,4,573,0,0,0,6.35,GER Bundesliga
+2,Cristian Gamboa,2022-23,34,"D(R),M(R)",Bochum,19,17,1485,0,0,0,6.34,GER Bundesliga
+3,Kilian Fischer,2022-23,23,D(R),Wolfsburg,10,5,501,0,0,0,6.34,GER Bundesliga
+4,Sepp van den Berg,2022-23,22,"D(CR),M(R)",Schalke,9,8,696,1,0,0,6.34,GER Bundesliga
+5,Daley Sinkgraven,2022-23,29,"D(L),M(CL)",Leverkusen,12,4,342,0,2,0,6.34,GER Bundesliga
+6,Sebastian Rudy,2022-23,34,"D(R),M(CR)",Hoffenheim,22,6,790,0,1,0,6.34,GER Bundesliga
+7,Kevin Schade,2022-23,22,AM(LR),Freiburg,8,1,175,1,0,0,6.33,GER Bundesliga
+8,Josip Brekalo,2022-23,26,"AM(CLR),FW",Wolfsburg,6,3,271,0,1,0,6.33,GER Bundesliga
+9,Gerrit Holtmann,2022-23,29,"D(L),M(LR)",Bochum,23,8,934,1,1,0,6.33,GER Bundesliga
+0,Kenan Karaman,2022-23,30,"AM(CLR),FW",Schalke,21,10,971,1,2,0,6.33,GER Bundesliga
+1,Marvin Schwäbe,2022-23,29,GK,FC Koln,34,34,3060,0,0,1,6.33,GER Bundesliga
+2,Maximilian Bauer,2022-23,24,D(C),Augsburg,27,20,1845,0,1,0,6.33,GER Bundesliga
+3,Jessic Ngankam,2022-23,24,FW,Hertha Berlin,18,8,825,4,0,0,6.33,GER Bundesliga
+4,Fredrik Jensen,2022-23,26,"AM(CL),FW",Augsburg,20,8,922,2,1,0,6.33,GER Bundesliga
+5,Reece Oxford,2022-23,25,"D(C),DMC",Augsburg,3,1,93,0,0,0,6.32,GER Bundesliga
+6,Jean-Paul Boëtius,2022-23,30,"AM(CL),FW",Hertha Berlin,21,10,1046,0,0,0,6.32,GER Bundesliga
+7,Ivan Sunjic,2022-23,27,DMC,Hertha Berlin,18,12,993,0,0,1,6.32,GER Bundesliga
+8,Raphael Framberger,2022-23,29,"D(R),M(R)",Augsburg,3,2,177,0,0,0,6.32,GER Bundesliga
+9,Noah Weißhaupt,2022-23,22,M(CLR),Freiburg,18,3,419,0,1,0,6.32,GER Bundesliga
+0,Keven Schlotterbeck,2022-23,27,D(C),Freiburg,2,0,12,0,0,0,6.32,GER Bundesliga
+1,Ilia Gruev,2022-23,24,DMC,Werder Bremen,31,18,1588,0,0,0,6.31,GER Bundesliga
+2,Davie Selke,2022-23,29,FW,Hertha Berlin,13,3,276,1,1,0,6.31,GER Bundesliga
+3,Mehmet Aydin,2022-23,22,M(R),Schalke,16,3,560,0,0,0,6.31,GER Bundesliga
+4,Lee Buchanan,2022-23,23,"D(L),M(L)",Werder Bremen,21,2,456,1,0,0,6.31,GER Bundesliga
+5,Florian Dietz,2022-23,26,FW,FC Koln,11,4,394,1,0,0,6.30,GER Bundesliga
+6,Márton Dárdai,2022-23,22,"D(C),DMC",Hertha Berlin,17,11,948,1,0,0,6.30,GER Bundesliga
+7,Thomas Ouwejan,2022-23,27,"D(L),M(L)",Schalke,17,10,902,0,1,0,6.30,GER Bundesliga
+8,Denis Huseinbasic,2022-23,23,AM(C),FC Koln,24,7,782,4,1,0,6.30,GER Bundesliga
+9,Fabian Bredlow,2022-23,29,GK,Stuttgart,15,15,1350,0,0,0,6.30,GER Bundesliga
+0,David Colina,2022-23,24,D(CLR),Augsburg,7,0,161,1,0,0,6.30,GER Bundesliga
+1,Merlin Röhl,2022-23,22,M(C),Freiburg,3,0,54,0,1,0,6.30,GER Bundesliga
+2,Max Kruse,2022-23,36,"M(CLR),FW",Wolfsburg,5,2,270,0,0,0,6.30,GER Bundesliga
+3,Ryan Gravenberch,2022-23,22,DMC,Bayern,24,3,561,0,0,0,6.29,GER Bundesliga
+4,Kingsley Schindler,2022-23,31,"D(R),M(R),FW",FC Koln,29,8,1072,0,1,0,6.29,GER Bundesliga
+5,Finn Becker,2022-23,24,M(C),Hoffenheim,13,6,512,0,0,0,6.29,GER Bundesliga
+6,Rafael Borré,2022-23,28,"AM(C),FW",Eintracht Frankfurt,32,10,1062,2,2,0,6.29,GER Bundesliga
+7,Maximilian Philipp,2022-23,30,"AM(CLR),FW",Werder Bremen,15,3,438,1,0,0,6.29,GER Bundesliga
+8,Daniel-Kofi Kyereh,2022-23,28,"AM(CLR),FW",Freiburg,12,7,564,2,0,0,6.29,GER Bundesliga
+9,Stefan Lainer,2022-23,32,"D(R),M(R)",Borussia M.Gladbach,17,9,820,0,0,0,6.29,GER Bundesliga
+0,Dimitrios Limnios,2022-23,26,AM(LR),FC Koln,2,0,38,0,0,0,6.29,GER Bundesliga
+1,Tom Rothe,2022-23,19,M(L),Borussia Dortmund,2,0,24,0,0,0,6.29,GER Bundesliga
+2,Yannik Keitel,2022-23,24,DMC,Freiburg,22,8,678,0,2,0,6.28,GER Bundesliga
+3,Paulinho,2022-23,24,"AM(CLR),FW",Leverkusen,4,1,80,1,0,0,6.28,GER Bundesliga
+4,Thorgan Hazard,2022-23,31,"M(CLR),FW",Borussia Dortmund,14,2,455,0,0,0,6.28,GER Bundesliga
+5,Sven Michel,2022-23,34,"AM(L),FW",Union Berlin,21,2,480,3,1,0,6.28,GER Bundesliga
+6,Paul Wanner,2022-23,18,M(CLR),Bayern,2,0,23,0,0,0,6.28,GER Bundesliga
+7,Aymen Barkok,2022-23,26,AM(CR),Mainz,23,3,571,0,1,0,6.27,GER Bundesliga
+8,Morten Thorsby,2022-23,28,M(CLR),Union Berlin,24,8,827,1,1,0,6.27,GER Bundesliga
+9,Jordi Osei-Tutu,2022-23,25,"D(R),M(LR)",Bochum,20,8,750,0,0,0,6.27,GER Bundesliga
+0,Darko Churlinov,2022-23,24,M(LR),Stuttgart,1,0,26,0,0,0,6.27,GER Bundesliga
+1,Veit Stange,2022-23,20,M(CLR),Hertha Berlin,1,0,7,0,0,0,6.27,GER Bundesliga
+2,Paxten Aaronson,2022-23,21,AM(C),Eintracht Frankfurt,7,0,167,0,0,0,6.27,GER Bundesliga
+3,Renato Veiga,2022-23,21,M(CLR),Augsburg,13,7,639,0,0,0,6.27,GER Bundesliga
+4,Nelson Weiper,2022-23,19,FW,Mainz,9,0,94,2,0,0,6.26,GER Bundesliga
+5,Sargis Adamyan,2022-23,31,"AM(CLR),FW",FC Koln,24,4,634,1,2,0,6.26,GER Bundesliga
+6,Ermin Bicakcic,2022-23,34,D(C),Hoffenheim,9,0,258,0,0,0,6.26,GER Bundesliga
+7,Pierre Kunde,2022-23,29,DMC,Bochum,12,3,371,1,0,0,6.25,GER Bundesliga
+8,Oliver Burke,2022-23,27,"AM(LR),FW",Werder Bremen,15,1,255,2,0,0,6.25,GER Bundesliga
+9,Hannes Wolf,2022-23,25,M(CLR),Borussia M.Gladbach,18,4,441,1,1,0,6.25,GER Bundesliga
+0,Agustín Rogel,2022-23,26,D(C),Hertha Berlin,20,14,1423,0,1,0,6.25,GER Bundesliga
+1,Lilian Egloff,2022-23,22,M(CLR),Stuttgart,10,2,235,0,0,0,6.24,GER Bundesliga
+2,Angelo Fulgini,2022-23,28,"AM(CLR),FW",Mainz,16,5,520,0,1,0,6.24,GER Bundesliga
+3,Daniel Caligiuri,2022-23,36,"D(R),M(CLR),FW",Augsburg,13,2,285,1,0,0,6.24,GER Bundesliga
+4,Vasilios Lampropoulos,2022-23,34,D(C),Bochum,15,7,622,0,0,0,6.23,GER Bundesliga
+5,Daley Blind,2022-23,34,"D(CL),DMC,M(L)",Bayern,4,1,131,0,0,0,6.23,GER Bundesliga
+6,Luca Kilian,2022-23,25,D(C),FC Koln,16,13,1123,1,0,0,6.23,GER Bundesliga
+7,Patrick Osterhage,2022-23,24,DMC,Bochum,23,11,1024,0,0,0,6.23,GER Bundesliga
+8,Simon Zoller,2022-23,33,"AM(LR),FW",Bochum,27,19,1463,3,2,1,6.23,GER Bundesliga
+9,Nathan Ngoumou,2022-23,24,AM(R),Borussia M.Gladbach,20,7,692,1,0,0,6.23,GER Bundesliga
+0,Ondrej Duda,2022-23,29,"AM(C),FW",FC Koln,13,9,694,0,0,0,6.22,GER Bundesliga
+1,Kasper Dolberg,2022-23,26,FW,Hoffenheim,13,4,398,1,0,0,6.22,GER Bundesliga
+2,Keke Topp,2022-23,20,FW,Schalke,1,0,19,0,0,0,6.22,GER Bundesliga
+3,Jacek Góralski,2022-23,31,DMC,Bochum,4,2,146,0,0,0,6.22,GER Bundesliga
+4,Florian Müller,2022-23,26,GK,Stuttgart,19,19,1710,0,0,0,6.21,GER Bundesliga
+5,Moritz Broschinski,2022-23,23,FW,Bochum,11,0,204,2,0,0,6.21,GER Bundesliga
+6,Luca Waldschmidt,2022-23,28,"AM(CLR),FW",Wolfsburg,18,4,515,4,0,0,6.21,GER Bundesliga
+7,Saidy Janko,2022-23,28,"D(R),M(R)",Bochum,20,12,1132,0,0,0,6.21,GER Bundesliga
+8,Jamie Leweling,2022-23,23,"AM(R),FW",Union Berlin,16,0,248,1,1,0,6.21,GER Bundesliga
+9,Jacob Bruun Larsen,2022-23,25,"AM(CL),FW",Hoffenheim,12,3,323,1,0,0,6.20,GER Bundesliga
+0,Woo-Yeong Jeong,2022-23,24,"AM(CR),FW",Freiburg,26,4,641,1,1,0,6.20,GER Bundesliga
+1,Hugo Siquet,2022-23,22,"D(R),M(R)",Freiburg,2,0,15,0,0,0,6.20,GER Bundesliga
+2,Tom Bischof,2022-23,19,M(CLR),Hoffenheim,11,3,311,0,0,0,6.19,GER Bundesliga
+3,Lucas Alario,2022-23,31,FW,Eintracht Frankfurt,20,2,317,1,0,0,6.19,GER Bundesliga
+4,Umut Tohumcu,2022-23,20,M(CLR),Hoffenheim,8,2,268,0,0,0,6.19,GER Bundesliga
+5,Maximilian Philipp,2022-23,30,"AM(CLR),FW",Wolfsburg,3,1,115,0,0,0,6.19,GER Bundesliga
+6,Niklas Tauer,2022-23,23,M(CLR),Mainz,3,0,92,0,0,0,6.19,GER Bundesliga
+7,Peter Pekarík,2022-23,37,"D(LR),M(R)",Hertha Berlin,5,2,204,0,0,0,6.17,GER Bundesliga
+8,Irvin Cardona,2022-23,27,"AM(L),FW",Augsburg,10,0,310,1,0,0,6.17,GER Bundesliga
+9,Luca Pfeiffer,2022-23,28,FW,Stuttgart,19,6,692,0,0,0,6.17,GER Bundesliga
+0,Julian Baumgartlinger,2022-23,36,DMC,Augsburg,16,3,547,0,0,0,6.17,GER Bundesliga
+1,Antonios Papadopoulos,2022-23,24,D(CLR),Borussia Dortmund,1,0,12,0,0,0,6.17,GER Bundesliga
+2,Kingsley Ehizibue,2022-23,29,"D(R),M(R)",FC Koln,1,1,62,0,0,0,6.17,GER Bundesliga
+3,Derry Scherhant,2022-23,21,FW,Hertha Berlin,10,2,280,1,0,0,6.16,GER Bundesliga
+4,Danny Latza,2022-23,34,M(C),Schalke,20,8,845,0,1,0,6.16,GER Bundesliga
+5,Eduardo Quaresma,2022-23,22,D(C),Hoffenheim,4,1,86,0,0,0,6.16,GER Bundesliga
+6,Diadie Samassékou,2022-23,28,DMC,Hoffenheim,2,1,34,0,0,0,6.14,GER Bundesliga
+7,Thomas Delaney,2022-23,33,DMC,Hoffenheim,6,4,299,0,0,0,6.14,GER Bundesliga
+8,Timothy Fosu-Mensah,2022-23,26,D(CR),Leverkusen,11,1,186,0,0,0,6.14,GER Bundesliga
+9,Silvere Ganvoula,2022-23,28,FW,Bochum,16,0,233,0,0,0,6.13,GER Bundesliga
+0,Tim Lemperle,2022-23,22,FW,FC Koln,12,0,120,0,0,0,6.13,GER Bundesliga
+1,Jordan Larsson,2022-23,27,"AM(CR),FW",Schalke,11,5,464,0,0,0,6.13,GER Bundesliga
+2,Yvandro Borges Sanches,2022-23,20,M(L),Borussia M.Gladbach,3,0,25,0,0,0,6.13,GER Bundesliga
+3,Nicolas Cozza,2022-23,25,D(CL),Wolfsburg,5,0,98,0,0,0,6.12,GER Bundesliga
+4,Milos Pantovic,2022-23,28,AM(CLR),Union Berlin,13,0,195,1,0,0,6.12,GER Bundesliga
+5,Faride Alidou,2022-23,23,AM(L),Eintracht Frankfurt,15,0,173,0,1,0,6.12,GER Bundesliga
+6,Juan José Perea,2022-23,24,FW,Stuttgart,16,3,412,1,0,0,6.12,GER Bundesliga
+7,Florent Mollet,2022-23,32,AM(CLR),Schalke,9,4,408,1,0,0,6.11,GER Bundesliga
+8,Timothée Kolodziejczak,2022-23,32,"D(CL),M(L)",Schalke,1,0,25,0,0,0,6.11,GER Bundesliga
+9,Tony Jantschke,2022-23,34,"D(CR),DMC",Borussia M.Gladbach,8,1,98,0,0,0,6.11,GER Bundesliga
+0,Leo Greiml,2022-23,23,D(C),Schalke,7,3,356,0,0,0,6.11,GER Bundesliga
+1,Mathias Olesen,2022-23,23,AM(C),FC Koln,14,6,476,0,0,0,6.10,GER Bundesliga
+2,Aster Vranckx,2022-23,21,M(C),Wolfsburg,1,0,7,0,0,0,6.10,GER Bundesliga
+3,Nils Petersen,2022-23,35,FW,Freiburg,27,0,257,1,0,0,6.10,GER Bundesliga
+4,Ricardo Pepi,2022-23,21,FW,Augsburg,4,1,95,0,0,0,6.09,GER Bundesliga
+5,Kevin-Prince Boateng,2022-23,37,"M(CLR),FW",Hertha Berlin,16,5,463,0,0,0,6.09,GER Bundesliga
+6,Oscar Fraulo,2022-23,20,M(CLR),Borussia M.Gladbach,2,0,7,0,0,0,6.08,GER Bundesliga
+7,Fabio Chiarodia,2022-23,19,D(CLR),Werder Bremen,3,1,66,0,0,0,6.08,GER Bundesliga
+8,Noah Sarenren Bazee,2022-23,28,AM(R),Augsburg,2,0,18,0,0,0,6.08,GER Bundesliga
+9,Laurin Ulrich,2022-23,19,M(CLR),Stuttgart,1,0,5,0,0,0,6.07,GER Bundesliga
+0,Delano Burgzorg,2022-23,25,AM(L),Mainz,13,0,237,0,1,0,6.06,GER Bundesliga
+1,Tim Skarke,2022-23,28,AM(CLR),Union Berlin,3,0,51,0,0,0,6.06,GER Bundesliga
+2,Andrey Lunev,2022-23,32,GK,Leverkusen,1,1,90,0,0,0,6.06,GER Bundesliga
+3,Mark Uth,2022-23,33,"AM(CR),FW",FC Koln,4,1,45,0,0,0,6.06,GER Bundesliga
+4,Marlon Mustapha,2022-23,23,FW,Mainz,6,0,67,0,0,0,6.05,GER Bundesliga
+5,Fisnik Asllani,2022-23,22,FW,Hoffenheim,8,0,162,0,0,0,6.05,GER Bundesliga
+6,Patrick Herrmann,2022-23,33,"M(LR),FW",Borussia M.Gladbach,21,0,151,1,0,0,6.04,GER Bundesliga
+7,Nicolai Rapp,2022-23,27,"D(C),DMC",Werder Bremen,7,0,67,0,0,0,6.04,GER Bundesliga
+8,Myziane Maolida,2022-23,25,"AM(LR),FW",Hertha Berlin,3,1,94,0,0,0,6.04,GER Bundesliga
+9,Nathanaël Mbuku,2022-23,22,"AM(CLR),FW",Augsburg,2,0,32,0,0,0,6.04,GER Bundesliga
+0,Sidi Sané,2022-23,21,FW,Schalke,2,1,25,0,0,0,6.04,GER Bundesliga
+1,Muhammed Damar,2022-23,20,M(CLR),Hoffenheim,6,1,157,0,0,0,6.04,GER Bundesliga
+2,Vladimír Darida,2022-23,34,"M(CLR),FW",Hertha Berlin,3,0,29,0,0,0,6.03,GER Bundesliga
+3,Eren Dinkçi,2022-23,22,AM(R),Werder Bremen,17,0,215,0,0,0,6.02,GER Bundesliga
+4,Timothy Chandler,2022-23,34,"D(R),M(LR)",Eintracht Frankfurt,6,0,84,0,0,0,6.02,GER Bundesliga
+5,Dzenan Pejcinovic,2022-23,19,FW,Wolfsburg,1,0,10,0,0,0,6.02,GER Bundesliga
+6,Semir Telalovic,2022-23,24,FW,Borussia M.Gladbach,3,0,7,0,0,0,6.02,GER Bundesliga
+7,Jérôme Roussillon,2022-23,31,"D(L),M(L)",Wolfsburg,4,0,19,0,0,0,6.01,GER Bundesliga
+8,Marco Pasalic,2022-23,23,M(CLR),Borussia Dortmund,1,0,10,0,0,0,6.01,GER Bundesliga
+9,Kerim Çalhanoglu,2022-23,22,"D(L),M(L)",Schalke,3,0,60,0,0,0,6.01,GER Bundesliga
+0,Karim Bellarabi,2022-23,34,"M(CLR),FW",Leverkusen,8,1,80,0,0,0,6.01,GER Bundesliga
+1,Justin Diehl,2022-23,19,FW,FC Koln,2,0,15,0,0,0,6.01,GER Bundesliga
+2,Aaron Zehnter,2022-23,19,D(CLR),Augsburg,1,0,1,0,0,0,6.00,GER Bundesliga
+3,Ayman Azhil,2022-23,23,DMC,Leverkusen,1,0,1,0,0,0,6.00,GER Bundesliga
+4,Dikeni Salifou,2022-23,21,M(CLR),Werder Bremen,1,0,1,0,0,0,6.00,GER Bundesliga
+5,Joshua Quarshie,2022-23,20,D(CLR),Hoffenheim,1,0,1,0,0,0,6.00,GER Bundesliga
+6,Julian Eitschberger,2022-23,20,D(CLR),Hertha Berlin,1,0,1,0,0,0,6.00,GER Bundesliga
+7,Noah Mbamba,2022-23,19,M(CLR),Leverkusen,1,0,1,0,0,0,6.00,GER Bundesliga
+8,Rocco Reitz,2022-23,22,AM(C),Borussia M.Gladbach,1,0,2,0,0,0,6.00,GER Bundesliga
+9,Sanoussy Ba,2022-23,20,D(CLR),RBL,1,0,1,0,0,0,6.00,GER Bundesliga
+0,Lukas Petkov,2022-23,23,M(CLR),Augsburg,7,0,140,0,0,0,5.99,GER Bundesliga
+1,Bouna Sarr,2022-23,32,"D(R),M(CLR)",Bayern,1,0,2,0,0,0,5.99,GER Bundesliga
+2,Brajan Gruda,2022-23,20,M(CLR),Mainz,2,0,2,0,0,0,5.99,GER Bundesliga
+3,Dario Gebuhr,2022-23,21,D(CLR),Eintracht Frankfurt,1,0,20,0,0,0,5.98,GER Bundesliga
+4,Kimberly Ezekwem,2022-23,23,D(CLR),Freiburg,1,0,7,0,0,0,5.98,GER Bundesliga
+5,Marcel Wenig,2022-23,20,M(CLR),Eintracht Frankfurt,1,0,3,0,0,0,5.98,GER Bundesliga
+6,Jonathan Schmid,2022-23,34,"D(R),M(CLR)",Freiburg,3,0,38,0,0,0,5.97,GER Bundesliga
+7,Robert Wagner,2022-23,21,M(C),Freiburg,4,0,36,0,0,0,5.97,GER Bundesliga
+8,Joel Pohjanpalo,2022-23,29,FW,Leverkusen,1,0,3,0,0,0,5.96,GER Bundesliga
+9,Tony Rölke,2022-23,21,FW,Hertha Berlin,1,0,19,0,0,0,5.95,GER Bundesliga
+0,Thomas Kastanaras,2022-23,21,FW,Stuttgart,4,1,71,0,0,0,5.95,GER Bundesliga
+1,Filip Kostic,2022-23,31,"M(LR),FW",Eintracht Frankfurt,1,1,74,0,0,0,5.93,GER Bundesliga
+2,Alou Kuol,2022-23,23,FW,Stuttgart,1,0,5,0,0,0,5.92,GER Bundesliga
+3,Andreas Ivan,2022-23,29,M(CLR),Schalke,1,0,45,0,0,0,5.91,GER Bundesliga
+4,Justin Njinmah,2022-23,23,FW,Borussia Dortmund,1,0,21,0,0,0,5.91,GER Bundesliga
+5,Felix Agu,2022-23,24,"D(LR),M(LR)",Werder Bremen,3,0,48,0,0,0,5.91,GER Bundesliga
+6,Tim Oermann,2022-23,20,D(CLR),Bochum,4,2,193,0,0,0,5.89,GER Bundesliga
+7,Jean-Manuel Mbom,2022-23,24,"D(R),DMC,M(R)",Werder Bremen,2,0,5,0,0,0,5.89,GER Bundesliga
+8,Alexander Sørloth,2022-23,28,"AM(R),FW",RBL,1,0,5,0,0,0,5.87,GER Bundesliga
+9,Eniss Shabani,2022-23,21,M(CLR),Mainz,1,0,9,0,0,0,5.86,GER Bundesliga
+0,Jannes Horn,2022-23,27,"D(CL),M(L)",Bochum,2,1,59,0,0,0,5.84,GER Bundesliga
+1,Tymoteusz Puchacz,2022-23,25,"D(L),M(L)",Union Berlin,1,1,59,0,0,0,5.80,GER Bundesliga
+2,Soumaïla Coulibaly,2022-23,20,D(CLR),Borussia Dortmund,1,0,45,0,0,0,5.12,GER Bundesliga
+3,Lukás Ambros,2022-23,20,M(CLR),Wolfsburg,1,0,16,0,0,0,5.08,GER Bundesliga
+4,Stefan Posch,2022-23,27,D(CR),Hoffenheim,1,1,19,0,0,0,4.88,GER Bundesliga

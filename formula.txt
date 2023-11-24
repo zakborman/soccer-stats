@@ -1,0 +1,9 @@
+Teams =JOIN(", ", UNIQUE({FILTER(Leagues!F:F,Leagues!B:B=A2,Leagues!C:C=B2,Leagues!D:D=C2,Leagues!E:E=D2);IFERROR(FILTER(Europe!F:F,Europe!B:B=A2,Europe!C:C=B2,Europe!D:D=C2,Europe!E:E=D2),FILTER(Leagues!F:F,Leagues!B:B=A2,Leagues!C:C=B2,Leagues!D:D=C2,Leagues!E:E=D2));IFERROR(FILTER(International!F:F,International!B:B=A2,International!C:C=B2,International!D:D=C2,International!E:E=D2),FILTER(Leagues!F:F,Leagues!B:B=A2,Leagues!C:C=B2,Leagues!D:D=C2,Leagues!E:E=D2))}))
+
+Apps =SUMIFS(Leagues!G:G,Leagues!$B:$B,$A2,Leagues!$C:$C,$B2,Leagues!$D:$D,$C2,Leagues!$E:$E,$D2)+SUMIFS(Europe!G:G,Europe!$B:$B,$A2,Europe!$C:$C,$B2,Europe!$D:$D,$C2,Europe!$E:$E,$D2)+SUMIFS(International!G:G,International!$B:$B,$A2,International!$C:$C,$B2,International!$D:$D,$C2,International!$E:$E,$D2)
+
+=ARRAY_CONSTRAIN(FILTER(Overall!$A:$A,B$1=Overall!$B:$B),30,1)
+
+Rating =(SUMIFS(Leagues!O:O,Leagues!$B:$B,$A2,Leagues!$C:$C,$B2,Leagues!$D:$D,$C2,Leagues!$E:$E,$D2)+SUMIFS(Europe!O:O,Europe!$B:$B,$A2,Europe!$C:$C,$B2,Europe!$D:$D,$C2,Europe!$E:$E,$D2)+SUMIFS(International!O:O,International!$B:$B,$A2,International!$C:$C,$B2,International!$D:$D,$C2,International!$E:$E,$D2))/F2
+
+Comps =JOIN(", ", UNIQUE({FILTER(Leagues!N:N,Leagues!B:B=A2,Leagues!C:C=B2,Leagues!D:D=C2,Leagues!E:E=D2);IFERROR(FILTER(Europe!N:N,Europe!B:B=A2,Europe!C:C=B2,Europe!D:D=C2,Europe!E:E=D2),FILTER(Leagues!N:N,Leagues!B:B=A2,Leagues!C:C=B2,Leagues!D:D=C2,Leagues!E:E=D2));IFERROR(FILTER(International!N:N,International!B:B=A2,International!C:C=B2,International!D:D=C2,International!E:E=D2),FILTER(Leagues!N:N,Leagues!B:B=A2,Leagues!C:C=B2,Leagues!D:D=C2,Leagues!E:E=D2))}))

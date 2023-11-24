@@ -1,0 +1,258 @@
+,Player,Nation,Pos,FIFA,BDOR,UEFA,WC,NC,NSC,IC,CC,CSC,L,C,SC,LC,YC,O,Total
+0,Ryan Giggs,Wales,LM,0,0,0,0,0,0,2,2,1,13,4,9,4,0,0,35
+1,Gary Neville,England,RB,0,0,0,0,0,0,2,2,0,12,4,7,3,0,0,30
+2,Paul Scholes,England,CM,0,0,0,0,0,0,2,2,0,11,4,5,2,0,0,26
+3,Nicky Butt,England,CM,0,0,0,0,0,0,1,1,0,8,3,4,0,0,0,17
+4,Alan Hansen,Scotland,CB,0,0,0,0,0,0,0,3,0,8,2,5,4,0,0,22
+5,Kenny Dalglish,Scotland,CF,0,0,0,0,0,0,0,3,1,8,2,7,4,0,0,25
+6,Phil Neal,England,RB,0,0,0,0,0,0,0,5,1,8,0,5,4,0,0,23
+7,Wes Brown,England,CB,0,0,0,0,0,0,0,2,0,7,2,2,3,0,0,16
+8,Roy Keane,Ireland,DM,0,0,0,0,0,0,1,1,0,7,4,4,0,0,0,17
+9,Denis Irwin,Ireland,LB,0,0,0,0,0,0,1,2,1,7,3,4,1,0,0,19
+10,Phil Thompson,England,CB,0,0,0,0,0,0,0,5,1,7,1,6,2,0,0,22
+11,Rio Ferdinand,England,CB,0,0,0,0,0,0,1,1,0,6,0,4,3,0,0,15
+12,Ole Gunnar Solskjaer,Norway,CF,0,0,0,0,0,0,1,1,0,6,2,4,0,0,0,14
+13,David Beckham,England,RM,0,0,1,0,0,0,1,1,0,8,2,5,0,0,0,18
+14,Phil Neville,England,RB,0,0,0,0,0,0,1,1,0,6,3,3,0,0,0,14
+15,Ronnie Whelan,Ireland,LM,0,0,0,0,0,0,0,1,0,6,3,5,3,0,0,18
+16,Bruce Grobbelaar,Zimbabwe,GK,0,0,0,0,0,0,0,1,0,6,3,5,3,0,0,18
+17,Ray Kennedy,England,LM,0,0,0,0,0,0,0,5,1,6,1,4,0,0,0,17
+18,Kevin De Bruyne,Belgium,AM,0,0,0,0,0,0,0,1,1,5,3,3,5,0,0,18
+19,John Stones,England,CB,0,0,0,0,0,0,0,1,1,5,2,2,4,0,0,15
+20,İlkay Gündoğan,Germany,CM,0,0,0,0,0,0,0,1,0,6,3,4,4,0,0,18
+21,Nathan Aké,Netherlands,CB,0,0,0,0,0,0,0,1,1,5,1,0,2,2,0,12
+22,Riyad Mahrez,Algeria,RW,0,0,0,0,0,0,0,1,0,5,2,2,3,0,0,13
+23,Kyle Walker,England,RB,0,0,0,0,0,0,0,1,1,5,2,2,4,0,0,15
+24,Ederson,Brazil,GK,0,0,0,0,1,0,0,1,1,7,3,3,5,0,0,21
+25,Paco Gento,Spain,LW,0,0,0,0,0,0,1,6,0,12,2,0,0,0,0,21
+26,Lionel Messi,Argentina,RW,3,8,3,1,1,1,3,4,3,12,7,9,0,1,2,58
+27,Pirri,Spain,DM,0,0,0,0,0,0,0,1,0,10,4,0,0,0,0,15
+28,Gerard Piqué,Spain,CB,0,0,0,1,1,0,3,4,3,10,7,7,1,1,0,38
+29,Sergio Busquets,Spain,DM,0,0,0,1,1,0,3,3,3,9,7,7,0,0,0,34
+30,Andrés Iniesta,Spain,CM,0,0,1,1,2,0,3,4,3,9,6,7,0,2,0,38
+31,José Antonio Camacho,Spain,LB,0,0,0,0,0,0,0,2,0,9,5,2,1,0,0,19
+32,Santillana,Spain,CF,0,0,0,0,0,0,0,2,0,9,4,0,1,0,0,16
+33,Amancio,Spain,RW,0,0,0,0,1,0,0,1,0,9,3,0,0,0,0,14
+34,Xavi,Spain,CM,0,0,0,1,2,0,2,4,2,8,3,6,0,1,0,29
+35,Manolo Sanchís,Spain,CB,0,0,0,0,0,0,1,4,0,8,2,6,0,1,0,22
+36,Miguel Ángel,Spain,GK,0,0,0,0,0,0,0,2,0,8,5,0,1,0,0,16
+37,Alfredo di Stéfano,Spain,SS,0,2,0,0,1,0,1,5,0,10,1,0,0,0,0,20
+38,Sergi Roberto,Spain,RB,0,0,0,0,0,0,1,2,1,7,6,5,0,0,0,22
+39,Chendo,Spain,RB,0,0,0,0,0,0,0,3,0,7,2,6,1,0,0,19
+40,Mariano García Remón,Spain,GK,0,0,0,0,0,0,0,2,0,7,4,0,1,0,0,14
+41,Ramón Grosso,Spain,CF,0,0,0,0,0,0,0,1,0,7,3,0,0,0,0,11
+42,Ignacio Zoco,Spain,DM,0,0,0,0,1,0,0,1,0,7,2,0,0,0,0,11
+43,Pachín,Spain,RB,0,0,0,0,0,0,1,2,0,7,1,0,0,0,0,11
+44,Jordi Alba,Spain,LB,0,0,0,0,2,0,1,1,1,6,5,4,0,0,0,20
+45,Marcelo,Brazil,LB,0,0,0,0,1,0,5,6,3,6,2,5,0,0,0,28
+46,Dani Alves,Brazil,RB,0,0,0,0,4,0,3,5,4,9,7,7,1,1,1,42
+47,Víctor Valdés,Spain,GK,0,0,0,1,1,0,2,3,2,6,2,6,0,0,0,23
+48,Carles Puyol,Spain,CB,0,0,0,1,1,0,2,3,2,6,2,6,0,0,0,23
+49,Gianluigi Buffon,Italy,GK,0,0,1,1,0,0,0,1,0,11,6,8,0,1,0,29
+50,Giorgio Chiellini,Italy,CB,0,0,0,0,1,0,0,0,0,9,5,5,0,1,0,21
+51,Leonardo Bonucci,Italy,CB,0,0,0,0,1,0,0,0,0,9,4,5,0,0,0,19
+52,Andrea Barzagli,Italy,CB,0,0,0,1,0,0,0,0,0,9,4,4,0,1,0,19
+53,Giuseppe Furino,Italy,CM,0,0,0,0,0,0,0,2,0,8,2,0,0,0,0,12
+54,Giovanni Ferrari,Italy,AM,0,0,0,2,0,0,0,0,0,8,2,0,0,0,0,12
+55,Virginio Rosetta,Italy,RB,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,9
+56,Stephan Lichtsteiner,Switzerland,RB,0,0,0,0,0,0,0,0,0,7,5,4,0,0,0,16
+57,Claudio Marchisio,Italy,CM,0,0,0,0,0,0,0,0,0,7,4,3,0,0,0,14
+58,Alessandro Costacurta,Italy,CB,0,0,0,0,0,0,2,5,3,7,1,5,0,0,0,23
+59,Paolo Maldini,Italy,LB,0,0,0,0,0,0,3,5,4,7,1,5,0,0,0,25
+60,Ciro Ferrara,Italy,CB,0,0,0,0,0,0,1,2,1,7,2,5,0,0,0,18
+61,Gaetano Scirea,Italy,SW,0,0,0,1,0,0,1,3,1,7,2,0,0,0,0,15
+62,Roberto Bettega,Italy,CF,0,0,0,0,0,0,0,1,0,7,2,0,0,0,0,10
+63,Daniele Rugani,Italy,CB,0,0,0,0,0,0,0,0,0,6,3,2,0,0,0,11
+64,Martín Cáceres,Uruguay,CB,0,0,0,0,1,0,0,1,0,7,3,2,0,0,0,14
+65,Kwadwo Asamoah,Ghana,LM,0,0,0,0,0,0,0,0,0,6,4,3,0,0,0,13
+66,Andrea Pirlo,Italy,DM,0,0,0,1,0,0,1,2,2,6,2,3,0,1,0,18
+67,Alessandro Del Piero,Italy,SS,0,0,0,1,0,0,1,1,1,6,1,4,0,2,0,17
+68,Dejan Stankovic,Serbia,CM,0,0,0,0,0,0,1,2,1,6,6,6,0,0,0,22
+69,Walter Samuel,Argentina,CB,0,0,0,0,0,0,1,2,0,8,3,5,0,2,0,21
+70,Roberto Donadoni,Italy,RM,0,0,0,0,0,0,2,3,3,6,0,4,0,0,0,18
+71,Franco Baresi,Italy,SW,0,0,0,1,0,0,2,3,3,6,0,4,0,0,0,19
+72,Antonio Cabrini,Italy,LB,0,0,0,1,0,0,1,3,1,6,2,0,0,0,0,14
+73,Claudio Gentile,Italy,RB,0,0,0,1,0,0,0,2,0,6,2,0,0,0,0,11
+74,Thomas Müller,Germany,SS,0,0,0,1,0,0,2,2,2,12,6,8,0,0,0,33
+75,Manuel Neuer,Germany,GK,0,0,0,1,0,0,2,2,2,11,6,7,0,3,0,34
+76,Robert Lewandowski,Poland,CF,2,0,1,0,0,0,1,1,1,11,4,7,0,0,0,28
+77,David Alaba,Austria,CB,0,0,0,0,0,0,3,3,3,11,7,6,0,0,0,33
+78,Javi Martínez,Spain,DM,0,0,0,1,1,0,2,2,2,9,5,4,0,2,0,28
+79,Jérôme Boateng,Germany,CB,0,0,0,1,0,0,2,2,2,9,6,5,0,2,0,29
+80,Franck Ribéry,France,LW,0,0,1,0,0,0,1,1,1,9,6,4,1,0,0,24
+81,Kingsley Coman,France,LW,0,0,0,0,1,0,1,1,1,12,4,8,1,0,0,29
+82,Sven Ulreich,Germany,GK,0,0,0,0,0,0,0,1,1,8,3,6,0,1,0,20
+83,Joshua Kimmich,Germany,DM,0,0,0,0,1,0,1,1,1,8,3,6,0,1,0,22
+84,Arjen Robben,Netherlands,RW,0,0,0,0,0,0,1,1,1,12,6,9,2,0,0,32
+85,Philipp Lahm,Germany,RB,0,0,0,1,0,0,1,1,1,8,6,3,1,3,0,25
+86,Bastian Schweinsteiger,Germany,CM,0,0,0,1,0,0,1,1,1,8,8,2,3,2,0,27
+87,Oliver Kahn,Germany,GK,0,0,0,0,1,0,1,2,0,8,6,0,6,0,0,24
+88,Mehmet Scholl,Germany,AM,0,0,0,0,1,0,1,2,0,8,5,0,3,0,0,20
+89,Thiago,Spain,CM,0,0,0,0,0,0,2,2,2,11,7,7,1,3,0,35
+90,Rafinha,Brazil,RB,0,0,0,0,0,0,1,2,2,9,5,5,0,0,0,24
+91,Bernd Dreher,Germany,GK,0,0,0,0,0,0,1,2,0,7,5,0,7,0,0,22
+92,Alexander Zickler,Germany,CF,0,0,0,0,0,0,1,2,0,7,3,0,6,0,0,19
+93,Lothar Matthäus,Germany,DM,1,1,0,1,1,0,0,2,0,8,3,2,3,0,0,22
+94,Klaus Augenthaler,Germany,SW,0,0,0,1,0,0,0,0,0,7,3,2,0,0,0,13
+95,Mats Hummels,Germany,CB,0,0,0,1,0,0,0,0,0,6,3,6,0,1,0,17
+96,Tom Starke,Germany,GK,0,0,0,0,0,0,1,1,1,6,3,3,0,1,0,16
+97,Holger Badstuber,Germany,CB,0,0,0,0,0,0,1,1,1,6,4,3,0,0,0,16
+98,Claudio Pizarro,Peru,CF,0,0,0,0,0,0,3,1,1,6,6,1,1,0,0,19
+99,Marco Verratti,Italy,CM,0,0,0,0,1,0,0,0,0,9,6,9,6,0,0,31
+100,Marquinhos,Brazil,CB,0,0,0,0,1,0,0,1,0,8,6,7,6,0,1,30
+101,Presnel Kimpembe,France,CB,0,0,0,1,1,0,0,0,0,7,5,7,4,0,0,25
+102,Thiago Silva,Brazil,CB,0,0,0,0,2,0,1,1,1,8,6,8,6,0,0,33
+103,Grégory Coupet,France,GK,0,0,0,0,2,0,0,0,0,7,1,7,1,0,0,18
+104,Juninho Pernambucano,Brazil,AM,0,0,0,0,1,0,0,2,0,9,1,5,0,0,0,18
+105,Sidney Govou,France,RW,0,0,0,0,1,0,0,0,0,7,1,6,1,0,0,16
+106,Jean-Michel Larqué,France,AM,0,0,0,0,0,0,0,0,0,7,3,0,0,0,0,10
+107,Hervé Revelli,France,CF,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,11
+108,Kylian Mbappé,France,LW,0,0,0,1,1,0,0,0,0,6,3,3,2,1,0,17
+109,Edinson Cavani,Uruguay,CF,0,0,0,0,1,0,0,0,0,6,5,6,5,0,0,23
+110,Adrien Rabiot,France,CM,0,0,0,0,1,0,0,0,0,7,5,5,5,0,0,23
+111,Patrick Müller,Switzerland,CB,0,0,0,0,0,0,0,0,0,6,0,5,1,0,0,12
+112,Cláudio Caçapa,Brazil,CB,0,0,0,0,0,0,0,0,0,6,0,4,1,0,0,11
+113,Georges Bereta,France,LW,0,0,0,0,0,0,0,0,0,6,4,0,0,0,0,10
+114,Neymar,Brazil,LW,0,0,0,0,1,0,1,2,2,7,7,5,2,1,1,29
+115,Ángel Di María,Argentina,RW,0,0,0,1,1,1,0,1,1,7,6,7,6,1,2,34
+116,Javier Pastore,Argentina,AM,0,0,0,0,0,0,0,0,0,5,4,5,5,0,0,19
+117,Blaise Matuidi,France,CM,0,0,0,1,0,0,0,0,0,8,4,5,4,0,0,22
+118,Thiago Motta,Italy,DM,0,0,0,0,0,0,1,2,0,8,6,6,5,0,0,28
+119,Lucas Moura,Brazil,RW,0,0,0,0,1,0,0,1,0,5,4,5,5,1,0,22
+120,Hatem Ben Arfa,France,AM,0,0,0,0,0,0,0,0,0,5,3,6,3,1,0,18
+121,Anthony Réveillère,France,RB,0,0,0,0,0,0,0,0,0,5,3,5,0,0,0,13
+122,Rémy Vercoutre,France,GK,0,0,0,0,0,0,0,0,0,5,2,4,1,0,0,12
+123,Mahamadou Diarra,Mali,DM,0,0,0,0,0,0,0,0,0,7,1,6,0,0,0,14
+124,Jan Heintze,Denmark,LB,0,0,0,0,0,0,0,1,0,9,3,4,0,0,0,17
+125,Johan Cruyff,Netherlands,AM,0,3,0,0,0,0,1,3,1,10,7,0,0,0,0,25
+126,Gerald Vanenburg,Netherlands,RW,0,0,0,0,1,0,0,1,0,8,5,2,0,0,0,17
+127,Sjaak Swart,Netherlands,RW,0,0,0,0,0,0,1,3,1,8,5,0,0,0,0,18
+128,Daley Blind,Netherlands,CB,0,0,0,0,0,0,0,0,0,8,3,3,1,0,0,15
+129,André Ooijer,Netherlands,CB,0,0,0,0,0,0,0,0,0,7,2,3,0,0,0,12
+130,Eric Addo,Ghana,CB,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,8
+131,Sören Lerby,Denmark,CM,0,0,0,0,0,0,0,1,0,9,7,0,0,0,0,17
+132,Wim Suurbier,Netherlands,RB,0,0,0,0,0,0,1,3,2,7,4,0,0,0,0,17
+133,Barry Hulshoff,Netherlands,CB,0,0,0,0,0,0,1,3,2,7,4,0,0,0,0,17
+134,Wilfred Bouma,Netherlands,LB,0,0,0,0,0,0,0,0,0,6,3,5,0,0,0,14
+135,Sonny Silooy,Netherlands,RB,0,0,0,0,0,0,1,3,1,6,4,2,0,0,0,17
+136,Eric Gerets,Belgium,RB,0,0,0,0,0,0,0,1,0,6,3,0,0,0,0,10
+137,Wim Kieft,Netherlands,CF,0,0,0,0,1,0,0,1,0,6,4,1,0,0,0,13
+138,Berry van Aerle,Netherlands,RB,0,0,0,0,1,0,0,1,0,6,3,1,0,0,0,12
+139,Hans van Breukelen,Netherlands,GK,0,0,0,0,1,0,0,1,0,6,3,2,0,0,0,13
+140,Frank Arnesen,Denmark,AM,0,0,0,0,0,0,0,1,0,6,2,0,0,0,0,9
+141,Willy van de Kerkhof,Netherlands,RM,0,0,0,0,0,0,0,2,0,6,3,0,0,0,0,11
+142,Dick Schoenaker,Netherlands,RM,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,8
+143,Ruud Krol,Netherlands,LB,0,0,0,0,0,0,1,3,2,6,4,0,0,0,0,16
+144,Piet Keizer,Netherlands,LW,0,0,0,0,0,0,1,3,2,6,5,0,0,0,0,17
+145,Davy Klaassen,Netherlands,CM,0,0,0,0,0,0,0,0,0,5,1,1,0,0,0,7
+146,Kenneth Vermeer,Netherlands,GK,0,0,0,0,0,0,0,0,0,5,3,2,0,2,0,12
+147,Ismail Aissati,Morocco,AM,0,0,0,0,0,0,0,0,0,5,1,0,0,2,0,8
+148,Jari Litmanen,Finland,AM,0,0,0,0,0,0,1,2,2,5,4,4,1,0,0,19
+149,Eusébio,Portugal,CF,0,1,0,0,0,0,0,1,0,11,5,0,0,0,0,18
+150,Vítor Baía,Portugal,GK,0,0,0,0,0,0,1,3,1,11,7,12,0,0,0,35
+151,Manuel Bento,Portugal,GK,0,0,0,0,0,0,0,0,0,10,6,2,0,0,0,18
+152,Nené,Portugal,CF,0,0,0,0,0,0,0,0,0,10,7,2,0,0,0,19
+153,António Simões,Portugal,LW,0,0,0,0,0,0,0,1,0,10,5,0,0,0,0,16
+154,Mário Coluna,Portugal,CM,0,0,0,0,0,0,0,2,0,10,6,0,0,0,0,18
+155,João Pinto,Portugal,RB,0,0,0,0,0,0,1,1,1,9,4,10,0,0,0,26
+156,Sheú,Portugal,CM,0,0,0,0,0,0,0,0,0,9,6,2,0,0,0,17
+157,José Torres,Portugal,CF,0,0,0,0,0,0,0,0,0,9,4,0,0,0,0,13
+158,Domiciano Cavém,Portugal,LW,0,0,0,0,0,0,0,2,0,9,5,0,0,0,0,16
+159,Jorge Costa,Portugal,CB,0,0,0,0,0,0,1,2,0,8,5,7,0,1,0,24
+160,Semedo,Portugal,CM,0,0,0,0,0,0,0,0,1,8,4,9,0,0,0,22
+161,Toni,Portugal,CM,0,0,0,0,0,0,0,0,0,8,4,1,0,0,0,13
+162,José Augusto,Portugal,RW,0,0,0,0,0,0,0,2,0,8,3,0,0,0,0,13
+163,Fernando Cruz,Portugal,LB,0,0,0,0,0,0,0,2,0,8,4,0,0,0,0,14
+164,Costa Pereira,Portugal,GK,0,0,0,0,0,0,0,2,0,8,5,0,0,0,0,15
+165,Manuel Vasques,Portugal,AM,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,10
+166,José Travassos,Portugal,AM,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,10
+167,Albano,Portugal,LW,0,0,0,0,0,0,0,0,0,8,4,0,0,0,0,12
+168,Helton,Brazil,GK,0,0,0,0,1,0,0,0,0,8,4,6,0,0,0,19
+169,Paulinho Santos,Portugal,DM,0,0,0,0,0,0,0,1,0,7,5,8,0,0,0,21
+170,António Folha,Portugal,LW,0,0,0,0,0,0,0,0,0,7,5,7,0,1,0,20
+171,Rui Jorge,Portugal,LB,0,0,0,0,0,0,0,0,0,7,3,10,0,0,0,20
+172,Aloísio,Brazil,CB,0,0,0,0,0,0,0,1,0,7,6,10,0,1,0,25
+173,Pelé,Brazil,CF,0,0,0,3,0,0,2,2,0,6,0,0,0,0,0,13
+174,Dagoberto,Brazil,CF,0,0,0,0,0,0,0,1,0,5,0,0,0,1,0,7
+175,Zinho,Brazil,AM,0,0,0,1,0,0,0,2,0,5,4,0,0,0,0,12
+176,Andrade,Brazil,DM,0,0,0,0,0,0,1,1,0,5,0,0,0,0,0,7
+177,Ademir da Guia,Brazil,AM,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5
+178,Gilmar,Brazil,GK,0,0,0,2,0,0,2,2,0,5,0,0,0,0,0,11
+179,Coutinho,Brazil,CF,0,0,0,1,0,0,2,2,0,5,0,0,0,0,0,10
+180,Zito,Brazil,DM,0,0,0,2,0,0,2,2,0,5,0,0,0,0,0,11
+181,Mayke,Brazil,RB,0,0,0,0,0,0,0,2,1,4,1,1,0,0,0,9
+182,Diego,Brazil,AM,0,0,0,0,2,0,1,2,1,6,2,4,2,0,0,20
+183,Everton Ribeiro,Brazil,AM,0,0,0,0,0,0,0,2,1,4,1,2,0,0,0,10
+184,Edú Dracena,Brazil,CB,0,0,0,0,0,0,0,1,1,4,2,0,0,0,0,8
+185,Willian,Brazil,CF,0,0,0,0,0,0,0,3,0,4,1,0,0,0,0,8
+186,Jean,Brazil,DM,0,0,0,0,1,0,0,1,0,4,0,0,0,0,0,6
+187,Danilo,Brazil,AM,0,0,0,0,0,0,2,2,1,4,0,0,0,0,0,9
+188,Borges,Brazil,CF,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4
+189,Antônio Carlos Zago,Brazil,CB,0,0,0,0,1,0,0,1,0,5,0,1,0,0,0,8
+190,Amaral,Brazil,DM,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,5
+191,Mauro Galvão,Brazil,CB,0,0,0,0,1,0,0,1,1,4,2,0,0,0,0,9
+192,Junior,Brazil,LB,0,0,0,0,0,0,1,1,0,4,1,0,0,0,0,7
+193,Tita,Brazil,AM,0,0,0,0,1,0,1,3,0,4,0,0,0,0,0,9
+194,Leandro,Brazil,RB,0,0,0,0,0,0,1,1,0,4,0,0,0,0,0,6
+195,Zico,Brazil,AM,0,0,0,0,0,0,1,1,0,4,0,0,0,0,0,6
+196,Leonardo Astrada,Argentina,DM,0,0,0,0,1,0,0,1,0,10,0,0,0,0,0,12
+197,Ángel Labruna,Argentina,CF,0,0,0,0,2,0,0,0,0,9,0,0,0,0,0,11
+198,Hernán Díaz,Argentina,RB,0,0,0,0,0,0,0,1,0,9,0,0,0,0,0,10
+199,Félix Loustau,Argentina,LW,0,0,0,0,3,0,0,0,0,8,0,0,0,0,0,11
+200,Ariel Ortega,Argentina,AM,0,0,0,0,0,0,0,1,0,7,0,1,0,0,0,9
+201,Sebastián Battaglia,Argentina,DM,0,0,0,0,0,0,2,5,3,7,0,0,0,0,0,17
+202,Víctor Zapata,Argentina,LM,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,6
+203,Hugo Ibarra,Argentina,RB,0,0,0,0,0,0,1,5,3,6,0,2,0,0,0,17
+204,Martín Palermo,Argentina,CF,0,0,0,0,0,0,1,4,3,6,0,0,0,0,0,14
+205,Guillermo Barros Schelotto,Argentina,CF,0,0,0,0,0,0,2,6,2,6,0,0,0,0,0,16
+206,Roberto Abbondanzieri,Argentina,GK,0,0,0,0,0,0,2,6,1,6,0,0,0,0,0,15
+207,Claudio Husaín,Argentina,DM,0,0,0,0,0,0,0,1,1,6,0,0,0,0,0,8
+208,Marcelo Escudero,Argentina,RM,0,0,0,0,0,0,0,1,0,6,0,0,0,0,0,7
+209,Oscar Alberto Ortiz,Argentina,LW,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,9
+210,Carlos Tevez,Argentina,SS,0,0,0,0,0,0,2,3,0,11,2,5,2,1,1,27
+211,Fernando Gago,Argentina,DM,0,0,0,0,0,0,0,1,2,7,2,1,0,1,2,16
+212,Fernando Tobio,Argentina,CB,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,6
+213,Fabián Cubero,Argentina,RB,0,0,0,0,0,0,0,0,0,5,0,2,0,1,0,8
+214,Juan Román Riquelme,Argentina,AM,0,0,0,0,0,0,1,3,1,5,1,0,0,1,1,13
+215,Diego Cagna,Argentina,RM,0,0,0,0,1,0,1,3,2,5,0,0,0,0,0,12
+216,Nelson Cuevas,Paraguay,RW,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5
+217,Eduardo Coudet,Argentina,RM,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5
+218,Marcelo Gallardo,Argentina,AM,0,0,0,0,0,0,0,1,0,7,0,1,2,0,0,11
+219,José Basualdo,Argentina,RM,0,0,0,0,1,0,2,2,0,5,0,0,0,0,0,10
+222,Nacho Fernández,Spain,CB,0,0,0,0,1,0,6,5,4,3,2,4,0,2,0,27
+223,Casemiro,Brazil,DM,0,0,0,0,1,0,3,6,3,3,1,3,1,2,0,23
+224,Karim Benzema,France,CF,0,1,1,0,1,0,6,5,4,8,4,6,0,1,0,37
+225,Gareth Bale,Wales,RW,0,0,0,0,0,0,5,5,3,3,1,1,1,0,0,19
+226,Luka Modric,Croatia,CM,1,1,1,0,0,0,5,5,4,3,2,4,0,0,0,26
+227,Daniel Carvajal,Spain,RB,0,0,0,0,1,0,6,5,4,3,2,3,0,2,0,26
+228,Toni Kroos,Germany,CM,0,0,0,1,0,0,6,5,5,6,4,4,0,0,0,31
+229,Isco,Spain,AM,0,0,0,0,0,0,5,5,3,3,1,3,0,1,0,21
+230,Cristiano Ronaldo,Portugal,CF,3,5,4,0,2,0,5,5,3,7,4,7,2,0,0,47
+233,Clarence Seedorf,Netherlands,CM,0,0,0,0,0,0,2,5,2,5,2,4,0,0,0,20
+234,José María Zárraga,Spain,CM,0,0,0,0,0,0,1,5,0,6,1,0,0,0,0,13
+235,Enrique Mateos,Spain,CF,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,10
+237,Héctor Rial,Spain,SS,0,0,0,0,0,0,1,5,0,4,0,0,0,0,0,10
+238,Marquitos,Spain,RB,0,0,0,0,0,0,1,5,0,5,1,0,0,0,0,12
+239,Rafael Lesmes,Spain,CB,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0,9
+240,Lucas Vázquez,Spain,RB,0,0,0,0,0,0,4,4,3,3,1,3,0,0,0,18
+241,Mateo Kovacic,Croatia,CM,0,0,0,0,0,0,4,4,4,1,0,1,0,0,0,14
+242,Raphaël Varane,France,CB,0,0,0,1,1,0,5,4,3,3,1,3,1,0,0,22
+243,Sergio Ramos,Spain,CB,0,0,0,1,2,0,5,4,3,7,2,5,0,1,0,30
+245,Ricardo Bochini,Argentina,AM,0,0,0,1,0,0,2,5,0,4,0,0,0,0,0,12
+246,Ricardo Pavoni,Uruguay,LB,0,0,0,0,0,0,1,5,0,3,0,0,0,0,0,9
+251,Miguel Ángel Santoro,Argentina,GK,0,0,0,0,0,0,1,4,0,4,0,0,0,0,0,9
+252,Felipe Melo,Brazil,CB,0,0,0,0,1,0,0,3,0,2,2,0,0,0,0,8
+253,Willian Arão,Brazil,DM,0,0,0,0,0,0,1,3,2,2,1,2,0,0,0,11
+254,Marcos Rocha,Brazil,RB,0,0,0,0,0,0,0,3,2,2,2,1,0,0,0,10
+256,Jonatan Maidana,Argentina,CB,0,0,0,0,0,0,0,4,3,3,2,2,0,0,0,14
+257,Fabiano Eller,Brazil,CB,0,0,0,0,0,0,1,3,0,2,0,0,0,0,0,6
+258,Clemente Rodríguez,Argentina,LB,0,0,0,0,0,0,1,3,0,3,1,0,0,0,1,9
+260,Alfredo Moreno,Argentina,CF,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,5
+261,Omar Pérez,Argentina,AM,0,0,0,0,0,0,1,4,0,1,0,0,0,0,0,6
+262,Marcelo Delgado,Argentina,CF,0,0,0,0,0,0,1,4,2,3,0,0,0,0,0,10
+263,Nicolás Burdisso,Argentina,CB,0,0,0,0,0,0,2,3,0,6,2,1,0,1,2,17
+264,Vítor,Brazil,RB,0,0,0,0,0,0,2,3,2,1,2,1,0,0,0,11
+265,Ronaldo Luiz,Brazil,LB,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,6
+266,Palhinha,Brazil,CM,0,0,0,0,0,0,2,3,2,0,1,0,0,0,0,8
+267,Elivélton,Brazil,AM,0,0,0,0,0,0,1,3,0,1,1,0,0,0,0,6
+268,Hugo de León,Uruguay,CB,0,0,0,0,0,0,3,3,1,2,0,0,0,0,0,9
