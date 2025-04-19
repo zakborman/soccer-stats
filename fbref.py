@@ -2,32 +2,39 @@ import time
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.edge.service import Service
+from selenium.webdriver.edge.options import Options
 
 def fbref():
+    options = Options()
+    service = Service(executable_path="msedgedriver.exe")
+
     out_df = pd.DataFrame(columns = ["Player", "Age", "Nation", "Club", "Position", "Min", "npG", "npxG", "Shots", "Assists", "xAG", "npxG + xAG", "SCA", "Pass Attempts", 
                                        "Pass %", "Prog Passes", "Prog Carries", "Take-Ons", "Touches (Att Pen)", "Prog Passes Rec",
                                        "Tackles", "Inter", "Blocks", "Clears", "Aerials", "OVR"])
     gk_df = pd.DataFrame(columns = ["Player", "Age", "Nation", "Club", "Min", "PSxG-GA", "GA", "Save %", "PSxG/SoT", "Save % (Pen)", "Clean Sheet %", "Touches", "Launch %",
                                      "Goal Kicks", "Length", "Crosses Stopped %", "Def. Actions", "Distance", "OVR"])
-    #leagues = [9, 12, 11, 20, 13]
-    leagues = [13]
+    leagues = [9, 12, 11, 20, 13]
     time.sleep(3)
     for id in leagues:
-        driver = webdriver.Edge('./msedgedriver')
+        driver = webdriver.Edge(service=service, options=options)
         driver.get("https://fbref.com/en/comps/" + str(id) + "/stats/")
-        subdriver = webdriver.Edge('./msedgedriver')
+        subdriver = webdriver.Edge(service=service, options=options)
         elements = driver.find_element(By.CSS_SELECTOR, "table#stats_standard").find_element(By.CSS_SELECTOR, "tbody").find_elements(By.CSS_SELECTOR,"tr")
         for element in elements:
             try:
                 player = element.find_elements(By.CSS_SELECTOR, "td")[0].find_element(By.CSS_SELECTOR, "a").text
-            except:
+            except
                 continue
             print(player)
             try:
                 nation = element.find_elements(By.CSS_SELECTOR, "td")[1].find_element(By.CSS_SELECTOR, "a > span").text.split(" ")[1]
             except:
                 nation = "-"
-            age = int(element.find_elements(By.CSS_SELECTOR, "td")[4].text.split("-")[0])
+            try:
+                age = int(element.find_elements(By.CSS_SELECTOR, "td")[4].text.split("-")[0])
+            except:
+                age = "-"
             club = element.find_elements(By.CSS_SELECTOR, "td")[3].find_element(By.CSS_SELECTOR, "a").text
             link = element.find_elements(By.CSS_SELECTOR, "td")[0].find_element(By.CSS_SELECTOR, "a").get_attribute("href")
             subdriver.get(link)
@@ -37,7 +44,7 @@ def fbref():
             except:
                 continue
             level = subdriver.find_element(By.CSS_SELECTOR, "div.footer.no_hide_long").find_element(By.CSS_SELECTOR, "div").text
-            print(level)
+            # print(level)
             if(level.find("Big 5 Leagues") == -1): continue
             minutes = int(level.split("Based on ")[1].split(" minutes")[0])
             if(position == "Goalkeeper"):
