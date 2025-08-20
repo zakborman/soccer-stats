@@ -98,7 +98,7 @@ def fbref():
                     "Crosses Stopped %": cross,
                     "Def. Actions": action,
                     "Distance": dist,
-                    "OVR": ovr,
+                    "OVR": ovr
                 }
 
                 gk_df.loc[len(gk_df)] = gk_dict
